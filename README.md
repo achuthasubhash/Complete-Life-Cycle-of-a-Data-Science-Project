@@ -38,6 +38,7 @@ e.free online resource
    24)https://datasets.bifrost.ai/?ref=producthunt
    25)https://ourworldindata.org/
    26)https://data.worldbank.org/
+   27)google open images:https://storage.googleapis.com/openimages/web/download.html
 
 2.Feature engineering
    a.handle missing value
