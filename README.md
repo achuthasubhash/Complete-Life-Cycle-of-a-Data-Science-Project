@@ -2,7 +2,7 @@
 
 credit: all resources
 
-as data science is fastly developing field i found these few new techinques-https://github.com/achuthasubhash/Tips
+as data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
 
 
 1.Data collection
