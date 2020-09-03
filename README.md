@@ -163,6 +163,11 @@ e.free online resource
   5.keep in mind of curse of dimensionality
   
   6.highly correleated then remove 1 feature
+  
+  7.Feature importance
+  
+  8.dimension reduction
+  
 
 
 5.Model
