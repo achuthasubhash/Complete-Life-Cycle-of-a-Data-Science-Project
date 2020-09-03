@@ -1,5 +1,8 @@
 # Complete-Life-Cycle-of-a-Data-Science-Project
 
+credit: all resources
+
+
 1.Data collection
 
 a.web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
