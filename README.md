@@ -76,9 +76,11 @@ e.free online resource
 
 2.Feature engineering
 
+     Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
+
    a.handle missing value
    
-     1.if missing data too small then  delete row
+     1.if missing data too small then  delete 
      
      2.replace mean,median,mode
      
@@ -90,19 +92,20 @@ e.free online resource
      
      6.Random Sample Imputation
      
-     7.Missing Data Not At Random
+     7.Adding a variable to capture NAN
      
-     8.Missing At Random
-     
-     9.Adding a variable to capture NAN
+     8.Arbitrary Value Imputation
+    
      
    b.handle imbalance
    
-     1.Under Sampling
+     1.Under Sampling - mostly not prefer because lost of data
      
      2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time)
      
      3.class_weight give more importance to that small class
+     
+     4.use kfold to keep the ratio of classess constant
   
    c.remove noise
    
@@ -128,7 +131,7 @@ e.free online resource
      
      3.Robust Scaler
      
-     4.Q-Q plot check whether feature is guassian or normal distributed
+     4.Q-Q plot is used to check whether feature is guassian or normal distributed
      
         a.Guassian Transformation
         
@@ -147,6 +150,12 @@ e.free online resource
    g.remove low variance data 
    
    h.same variable in feature then remove
+   
+   i.outilers   removing outilers depond on problem 
+    
+      eg: incase of fraud detection outilers are very important
+      
+      methods to find outiler: zscore,boxplot
 
 3.eda
 
@@ -156,17 +165,18 @@ e.free online resource
   
   2.heatmap
   
-  3.extra tree classifier (Feature Importance)
+  3.Feature Importance
+    a.ExtraTreesClassifier
   
-  4.staatics to select important feature
+  4.statics to select important feature
   
   5.keep in mind of curse of dimensionality
   
-  6.highly correleated then remove 1 feature
+  6.highly correleated then remove 1 feature (multicollinearity)
   
-  7.Feature importance
+  7.dimension reduction
   
-  8.dimension reduction
+  
   
 
 
@@ -175,6 +185,18 @@ e.free online resource
 select right model
 
 hyperparameter 
+  
+  a.GridSearchCV (check every given parameter so take long time)
+  
+  b.RandomizedSearchCV (search randomly narrow down our time)
+  
+  c.Bayesian Optimization -Automate Hyperparameter Tuning (Hyperopt)
+  
+  d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
+
+  e.Optuna- Automate Hyperparameter Tuning
+  
+  f.Genetic Algorithms 
 
 
 6.Test
