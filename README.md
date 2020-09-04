@@ -286,6 +286,8 @@ Machine learning
        rcnn,fastrcnn,fatercnn,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,detr facebook
+       
+       3 kind of object segmentation  available semantic segmentation,instance segmentation,panoptic segmentation
      
      4.pose estimation
    
