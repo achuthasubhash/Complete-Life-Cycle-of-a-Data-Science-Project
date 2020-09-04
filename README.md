@@ -114,7 +114,7 @@ e.free online resource
      
      2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time)
      
-     3.class_weight give more importance to that small class
+     3.class_weight give more importance(weight) to that small class
      
      4.use kfold to keep the ratio of classess constant
   
@@ -122,7 +122,9 @@ e.free online resource
    
    d.format data
    
-   e.handle categorical data
+   Numerical variables: Discrete numerical variable,Continuous numerical variable
+   
+   e.handle categorical data   Ordinal,Nominal categorical variables  
    
      1.One Hot Encoding
      
@@ -174,7 +176,7 @@ e.free online resource
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: zscore,boxplot
+      methods to find outiler: zscore,boxplot,IQR
 
 3.Exploratory Data Analysis(eda)
   
@@ -208,18 +210,26 @@ e.free online resource
     8.lasso and ridge regression to penalise unimportant features
   
 
-5.Model
+5.Model selection
 
 Machine learning
    
-   A.Supervised learning
+   A.Supervised learning (have label data)
    
-     1.regression
+     1.regression (output feature in continous data form)
+     
+       linear regression,polynomial regression,support vector machine,Decision Tree Regression,Random Forest Regression,least square method
+       
+       Random Forest Regression,xgboost,ridge,lasso,catboost,gradientboosting,adaboost,elsatic net,light gbm,Ordinal Regression
    
-     2.classification
+     2.classification (output feature in categorical data form)
+     
+        Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,Decision Tree Classification
+       
+        xgboost,adaboost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis,passive aggressive classifier algorithm
    
   
-   B.Unsupervised learning
+   B.Unsupervised learning(no label data)
    
      1.Dimensionality reduction
    
@@ -238,6 +248,8 @@ Machine learning
      3.Boosting models
    
    D.Reinforcement learning
+   
+      agent apply action to environment get corresponding reward so that it learn environment
       
       1.Q-Learning
       
@@ -251,21 +263,27 @@ Machine learning
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
-   1.multilayer perceptron
+   1.Multilayer perceptron(MLP)
    
-     1.regression
+     1.Regression
    
-     2.classification
+     2.Classification
    
-   2.convolutional neural network ( use for image data)
+   2.Convolutional neural network ( use for image data)
    
-     1.classification
+     1.classification of image
      
-     2.localization
+       create own model,lenet,alexnet,resenet,inception  etc...
      
-     3.object detection
+     2.localization of object in image
      
-     4.object segmentation
+     3.object detection 
+     
+       rcnn,fastrcnn,fatercnn,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,maskrcnn,ssd,detectron,detectron2,mobilenet
+       
+       retinanet,detr facebook
+     
+     4.object segmentation 
      
      5.pose estimation
    
@@ -348,17 +366,27 @@ hyperparameter
     e.Optuna- Automate Hyperparameter Tuning
   
     f.Genetic Algorithms 
+    
+ cross validation techniques
+    
+     1.loocv
+     
+     2.kfoldcv
+     
+     3.stratfied cross validation
   
 
-6.Test
+6.Testing model
 
-metrics
+generally used metrics
  
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R² etc and are used according to the task and data used for the task.
     
     2.classification task-Accuracy, Precision, and Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC
     
     3.Reinforcement learning - total rewards
+    
+    4.Incase of machine translation use bleu score
 
 if not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
@@ -452,7 +480,7 @@ BEAT RESOURCE
     19.transformers-https://github.com/huggingface/transformers
     
 
-Follow leaders in the field to updata yourself in the field
+Follow leaders in the field to update yourself in the field
 
     1.Linkedin
 
