@@ -201,6 +201,55 @@ e.free online resource
 
 select right model
 
+Machine learning
+   
+   A.Supervised learning
+   
+   1.regression
+   
+   2.classification
+   
+  
+   B.Unsupervised learning
+   
+   1.Dimensionality reduction
+   
+   2.Clustering
+   
+   3.Association Rule Learning
+   
+   4.Recommendation system
+   
+   C.Ensemble methods
+   
+   1.Stacking
+   
+   2.Bagging
+   
+   3.Boosting
+   
+   D.Reinforcement learning
+   
+   
+   E.Deep-learning
+   
+   1.multilayer perceptron
+   
+   2.convolutional neural network
+   
+   3.recurrent neural network
+  
+   4.generative adversarial network
+   
+   5.autoencoder
+   
+   6.Boltzmann_Machines
+   
+   7.Self Organizing Maps (SOM)
+   
+   8.Natural language processing
+   
+
 hyperparameter 
   
   a.GridSearchCV (check every given parameter so take long time)
@@ -230,6 +279,18 @@ azure,flask,aws,gcp
 app- flask,streamlit
 
 8.mointoring model
+
+
+
+BEST ONLINE COURSES
+
+1.coursera
+
+2.UDEMY
+
+3.EDX
+
+4.DATACAMP
 
 
 BEST YOUTUBE CHANNEL TO FOLLOW
@@ -262,6 +323,8 @@ BEAT RESOURCE
 
 4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
 
+5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/
+
 Follow leaders in the field to updata yourself in the field
 
 1.Linkedin
@@ -274,7 +337,7 @@ participate online competition and apply interships
 
 online competitions:
 
-1.Kaggale-https://www.kaggle.com/
+1.Kaggle-https://www.kaggle.com/
 
 2.hackerearth-https://www.hackerearth.com/challenges/
 
