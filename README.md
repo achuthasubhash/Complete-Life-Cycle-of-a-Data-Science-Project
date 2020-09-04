@@ -81,13 +81,15 @@ e.free online resource
    
    28)https://data.gov.in/
 
+
+  
 2.Feature engineering
 
      Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
 
    a.handle missing value
    
-     1.if missing data too small then  delete 
+     1.if missing data too small then delete it 
      
      2.replace mean,median,mode
      
@@ -114,7 +116,7 @@ e.free online resource
      
      4.use kfold to keep the ratio of classess constant
   
-   c.remove noise
+   c.remove noise data
    
    d.format data
    
@@ -129,6 +131,12 @@ e.free online resource
      4.Mean Encoding
      
      5.Probability Ratio Encoding
+     
+     6.label encoding
+     
+     7.probability ratio encoding
+     
+     8.woe
      
    f.normalisation of data
    
@@ -156,16 +164,19 @@ e.free online resource
         
    g.remove low variance data 
    
-   h.same variable in feature then remove
+   h.same variable in feature then remove feature
    
-   i.outilers   removing outilers depond on problem 
+   i.outilers   removing outilers depond on problem we are solving
     
       eg: incase of fraud detection outilers are very important
       
       methods to find outiler: zscore,boxplot
 
-3.eda
-
+3,Exploratory Data Analysis(eda)
+  
+  Explore the dataset by using  python or microsoft excel or tableau or powerbi etc...
+  
+  
 4.Feature selection
 
   1.pearson correleation
@@ -183,9 +194,8 @@ e.free online resource
   
   7.dimension reduction
   
+  8.lasso and ridge regression to penalise unimportant features
   
-  
-
 
 5.Model
 
@@ -210,12 +220,13 @@ hyperparameter
 
 test 
 
-if not good performance go back to Data collection or  Feature engineering
+if not good performance go back to Data collection or  Feature engineering to increase performance of model
 
 
 7.deployment
 
 azure,flask,aws,gcp
 
+app- flask,streamlit
 
 8.mointoring model
