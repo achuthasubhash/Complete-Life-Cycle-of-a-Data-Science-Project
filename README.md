@@ -86,6 +86,8 @@ e.free online resource
 2.Feature engineering
 
      Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
+     
+     remove duplicate data
 
    a.handle missing value
    
@@ -136,7 +138,9 @@ e.free online resource
      
      7.probability ratio encoding
      
-     8.woe
+     8.woe(Weight_of_evidence)
+     
+     9.one hot encoding with multi category (keep most frequently repeated only)
      
    f.normalisation of data
    
@@ -160,9 +164,9 @@ e.free online resource
         
         f.BoxCOx Transformation
         
-        g.log(1+x)
+        g.log(1+x) Transformation
         
-   g.remove low variance data 
+   g.remove low variance data by using VarianceThreshold
    
    h.same variable in feature then remove feature
    
@@ -172,7 +176,7 @@ e.free online resource
       
       methods to find outiler: zscore,boxplot
 
-3,Exploratory Data Analysis(eda)
+3.Exploratory Data Analysis(eda)
   
   Explore the dataset by using  python or microsoft excel or tableau or powerbi etc...
   
@@ -184,11 +188,18 @@ e.free online resource
   2.heatmap
   
   3.Feature Importance
+  
     a.ExtraTreesClassifier
+    
+    b.SelectKBest
+    
+    c.stepforward and stepbackward method
+    
+    d.Random_forest_importance
   
   4.statics to select important feature
   
-  5.keep in mind of curse of dimensionality
+  5.keep in mind  curse of dimensionality
   
   6.highly correleated then remove 1 feature (multicollinearity)
   
@@ -199,55 +210,118 @@ e.free online resource
 
 5.Model
 
-select right model
-
 Machine learning
    
    A.Supervised learning
    
-   1.regression
+     1.regression
    
-   2.classification
+     2.classification
    
   
    B.Unsupervised learning
    
-   1.Dimensionality reduction
+     1.Dimensionality reduction
    
-   2.Clustering
+     2.Clustering
    
-   3.Association Rule Learning
+     3.Association Rule Learning
    
-   4.Recommendation system
+     4.Recommendation system
    
    C.Ensemble methods
    
-   1.Stacking
+     1.Stacking
    
-   2.Bagging
+     2.Bagging
    
-   3.Boosting
+     3.Boosting
    
    D.Reinforcement learning
+      
+      1.Q-Learning
+      
+      2.Deep Q-Learning
+      
+      3.Deep Convolutional Q-Learning
+      
+      4.Twin Delayed DDPG
+      
+      5.A3C 
    
-   
-   E.Deep-learning
+   E.Deep-learning  (use when have huge data and data is highly complex and state of art meaning for unstructured data)
    
    1.multilayer perceptron
    
-   2.convolutional neural network
+     1.regression
    
-   3.recurrent neural network
+     2.classification
+   
+   2.convolutional neural network ( use for image data)
+   
+     1.classification
+     
+     2.localization
+     
+     3.object detection
+     
+     4.object segmentation
+     
+     5.pose estimation
+   
+   3.recurrent neural network (use when series of data)
+   
+     1.RNN
+     
+     2.GRU
+     
+     3.LSTM (have memory cell,forget gate  etc..)
+     
+     all above have bidirectional also based on problem statement use bidirectional 
   
-   4.generative adversarial network
+   4.Generative adversarial network
    
-   5.autoencoder
+   5.Autoencoder
    
    6.Boltzmann_Machines
    
-   7.Self Organizing Maps (SOM)
+   7.Self Organizing Maps (SOM) unsupervised learning using deeplearning
    
    8.Natural language processing
+   
+      clean data(remove stopwords depond on problem ,lowering data,tokenizatio,postagging,steemimg or lemmatization depond on problem,skipgram)
+      
+     1.bag of words
+     
+     2.Tfidf
+     
+     3.using rnn,lstm,gru
+     
+     4.attention
+     
+     5.self attention
+     
+     6.wordembedding
+        
+        a.using pretrained model 
+          
+          i)word2vec( cbow,skipgram)
+          
+          ii)glove
+          
+          iiI)fasttext
+        
+        b.own embedding  (use when have huge data)
+        
+          i)word2vec library
+          
+          ii)keras embedding 
+        
+      7.encoder and  decoder(sequence to sequence)
+      
+      8.Transformer  big breakthrough in NLP
+      
+      9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT2
    
 
 hyperparameter 
