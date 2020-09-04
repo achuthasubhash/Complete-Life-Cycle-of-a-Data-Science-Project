@@ -1,6 +1,6 @@
 # Complete-Life-Cycle-of-a-Data-Science-Project
 
-credit: all resources
+credit: all corresponding resources
 
 as data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
 
