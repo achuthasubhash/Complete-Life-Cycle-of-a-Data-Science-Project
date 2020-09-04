@@ -9,13 +9,13 @@ as data science is fastly developing field i found these few new techinques whic
 
 a.web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
 
-   1.beautifulsoup
+    1.beautifulsoup
    
-   2.scrapy
+    2.scrapy
    
-   3.selenium
+    3.selenium
    
-   4.request to access data 
+    4.request to access data 
   
 b.3rd party API'S 
 
@@ -25,61 +25,61 @@ d.databases
 
 e.free online resource
 
-   1)kaggle
+    1)kaggle
    
-   2)movielens
+    2)movielens
    
-   3)data.gov:https://data.gov.in/
+    3)data.gov:https://data.gov.in/
    
-   4)uci
+    4)uci
    
-   5)quandi
+    5)quandi
+    
+    6)world3bank  https://data.world/
    
-   6)world3bank  https://data.world/
+    7)UCIMachineLearning
    
-   7)UCIMachineLearning
+    8)online hacktons
    
-   8)online hacktons
+    9)image data from Google_Search
    
-   9)image data from Google_Search
+    10)image data from Bing_Search
    
-   10)image data from Bing_Search
+    11)https://www.columnfivemedia.com/100-best-free-data-sources-infographic
    
-   11)https://www.columnfivemedia.com/100-best-free-data-sources-infographic
+    12)Reddit:https://lnkd.in/dv5UCD4
    
-   12)Reddit:https://lnkd.in/dv5UCD4
+    13)https://datasets.bifrost.ai/?ref=producthunt
    
-   13)https://datasets.bifrost.ai/?ref=producthunt
+    14)data.world:https://lnkd.in/gEK897K
    
-   14)data.world:https://lnkd.in/gEK897K
+    15)https://data.world/datasets/open-data
    
-   15)https://data.world/datasets/open-data
+    16)FiveThirtyEight :-  https://lnkd.in/gyh-HDj
    
-   16)FiveThirtyEight :-  https://lnkd.in/gyh-HDj
+    17)BuzzFeed :- https://lnkd.in/gzPWyHj
    
-   17)BuzzFeed :- https://lnkd.in/gzPWyHj
+    18)Google public datasets :- https://lnkd.in/g5dH8qE
    
-   18)Google public datasets :- https://lnkd.in/g5dH8qE
+    19)Quandl :- https://www.quandl.com
    
-   19)Quandl :- https://www.quandl.com
+    20)socorateopendata :- https://lnkd.in/gea7JMz
    
-   20)socorateopendata :- https://lnkd.in/gea7JMz
+    21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
-   21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
+    22)labelimage
    
-   22)labelimage
+    23)tensorflow_datasets as tfds
    
-   23)tensorflow_datasets as tfds
+    24)https://datasets.bifrost.ai/?ref=producthunt
    
-   24)https://datasets.bifrost.ai/?ref=producthunt
+    25)https://ourworldindata.org/
    
-   25)https://ourworldindata.org/
+    26)https://data.worldbank.org/
    
-   26)https://data.worldbank.org/
+    27)google open images:https://storage.googleapis.com/openimages/web/download.html
    
-   27)google open images:https://storage.googleapis.com/openimages/web/download.html
-   
-   28)https://data.gov.in/
+    28)https://data.gov.in/
 
 
   
@@ -178,7 +178,7 @@ e.free online resource
 
 3.Exploratory Data Analysis(eda)
   
-  Explore the dataset by using  python or microsoft excel or tableau or powerbi etc...
+    Explore the dataset by using  python or microsoft excel or tableau or powerbi etc...
   
   
 4.Feature selection
@@ -231,11 +231,11 @@ Machine learning
    
    C.Ensemble methods
    
-     1.Stacking
+     1.Stacking models
    
-     2.Bagging
+     2.Bagging models
    
-     3.Boosting
+     3.Boosting models
    
    D.Reinforcement learning
       
@@ -249,7 +249,7 @@ Machine learning
       
       5.A3C 
    
-   E.Deep-learning  (use when have huge data and data is highly complex and state of art meaning for unstructured data)
+   E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
    1.multilayer perceptron
    
@@ -289,7 +289,7 @@ Machine learning
    
    8.Natural language processing
    
-      clean data(remove stopwords depond on problem ,lowering data,tokenizatio,postagging,steemimg or lemmatization depond on problem,skipgram)
+     clean data(remove stopwords depond on problem ,lowering data,tokenizatio,postagging,steemimg or lemmatization depond on problem,skipgram)
       
      1.bag of words
      
@@ -317,11 +317,14 @@ Machine learning
           
           ii)keras embedding 
         
-      7.encoder and  decoder(sequence to sequence)
+     7.encoder and  decoder(sequence to sequence)
       
-      8.Transformer  big breakthrough in NLP
+     8.Transformer  big breakthrough in NLP
       
-      9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT2
+     9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT2
+   
+   F.forecating
+   
    
 
 hyperparameter 
@@ -337,20 +340,30 @@ hyperparameter
   e.Optuna- Automate Hyperparameter Tuning
   
   f.Genetic Algorithms 
-
+  
 
 6.Test
 
 metrics
  
- 1.accuracy
+    1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R² etc and are used according to the task and data used for the task.
+    
+    2.classification task-Accuracy, Precision, and Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC
+    
+    3.Reinforcement learning - total rewards
 
 if not good performance go back to Data collection or  Feature engineering to increase performance of model
 
 
 7.deployment
 
-azure,flask,aws,gcp
+    1.azure
+    
+    2.heroku
+    
+    3.Amazon Web Services
+    
+    4.google cloud platform
 
 app- flask,streamlit
 
@@ -371,7 +384,7 @@ BEST ONLINE COURSES
 
 BEST YOUTUBE CHANNEL TO FOLLOW
 
-1. Krish Naik-https://www.youtube.com/user/krishnaik06
+1.Krish Naik-https://www.youtube.com/user/krishnaik06
 
 2.Abhishek thakur-https://www.youtube.com/user/abhisheksvnit
 
@@ -379,7 +392,6 @@ BEST YOUTUBE CHANNEL TO FOLLOW
 
 4.ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
 
-best tip to choose youtube channel is who frequently upload related videos 
 
 BEST BLOGS TO FOLLOW 
 
@@ -403,10 +415,17 @@ BEAT RESOURCE
 
 Follow leaders in the field to updata yourself in the field
 
-1.Linkedin
+    1.Linkedin
 
-2.Twitter
-
+    2.Twitter
+    
+ Free CPU/GPU/TPU
+ 
+    1.Google cloab
+    
+    2.Kaggle kernel
+    
+    
 So what next ?
 
 participate online competition and apply interships
