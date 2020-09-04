@@ -240,7 +240,9 @@ BEST YOUTUBE CHANNEL TO FOLLOW
 
 3.AIEngineering-https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw
 
-best tip to choose youtube channel is who frequently upload videos and keep
+4.ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
+
+best tip to choose youtube channel is who frequently upload related videos 
 
 BEST BLOGS TO FOLLOW 
 
