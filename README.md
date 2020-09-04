@@ -267,7 +267,9 @@ hyperparameter
 
 6.Test
 
-test 
+metrics
+ 
+ 1.accuracy
 
 if not good performance go back to Data collection or  Feature engineering to increase performance of model
 
