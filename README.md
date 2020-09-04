@@ -218,15 +218,19 @@ Machine learning
    
      1.regression (output feature in continous data form)
      
-       linear regression,polynomial regression,support vector machine,Decision Tree Regression,Random Forest Regression,least square method
+       linear regression,polynomial regression,support vector machine,Decision Tree Regression,Random Forest Regression,
        
-       Random Forest Regression,xgboost,ridge,lasso,catboost,gradientboosting,adaboost,elsatic net,light gbm,Ordinal Regression
+       least square method,Random Forest Regression,xgboost,ridge,lasso,catboost,gradientboosting,adaboost,
+       
+       elsatic net,light gbm,Ordinal Regression
    
      2.classification (output feature in categorical data form)
      
-        Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,Decision Tree Classification
-       
-        xgboost,adaboost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis,passive aggressive classifier algorithm
+        Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,
+        
+        Random Forest Classification,xgboost,adaboost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis,
+        
+        passive aggressive classifier algorithm
    
   
    B.Unsupervised learning(no label data)
@@ -273,19 +277,17 @@ Machine learning
    
      1.classification of image
      
-       create own model,lenet,alexnet,resenet,inception  etc...
+       create own model,lenet,alexnet,resenet,inception,vgg
      
      2.localization of object in image
      
-     3.object detection 
+     3.object detection and object segmentation 
      
-       rcnn,fastrcnn,fatercnn,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,maskrcnn,ssd,detectron,detectron2,mobilenet
+       rcnn,fastrcnn,fatercnn,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       retinanet,detr facebook
+       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,detr facebook
      
-     4.object segmentation 
-     
-     5.pose estimation
+     4.pose estimation
    
    3.recurrent neural network (use when series of data)
    
