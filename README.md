@@ -78,6 +78,8 @@ e.free online resource
    26)https://data.worldbank.org/
    
    27)google open images:https://storage.googleapis.com/openimages/web/download.html
+   
+   28)https://data.gov.in/
 
 2.Feature engineering
 
