@@ -150,7 +150,7 @@ e.free online resource
      
        3.Robust Scaler
       
-       4.Q-Q plot is used to check whether feature is guassian or normal distributed
+       4.Q-Q plot is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to improve performance
      
            a.Guassian Transformation
         
