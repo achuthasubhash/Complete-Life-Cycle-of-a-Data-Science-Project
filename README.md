@@ -67,7 +67,7 @@ e.free online resource
    
     21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
-    22)labelimage
+    22)labelimage:- https://github.com/wkentaro/labelme  ,  https://github.com/tzutalin/labelImg
    
     23)tensorflow_datasets as tfds
    
@@ -144,27 +144,27 @@ e.free online resource
      
    f.normalisation of data
    
-     1.Standardization
+       1.Standardization
      
-     2.Min Max Scaling
+       2.Min Max Scaling
      
-     3.Robust Scaler
+       3.Robust Scaler
+      
+       4.Q-Q plot is used to check whether feature is guassian or normal distributed
      
-     4.Q-Q plot is used to check whether feature is guassian or normal distributed
-     
-        a.Guassian Transformation
+           a.Guassian Transformation
         
-        b.Logarithmic Transformation
+           b.Logarithmic Transformation
         
-        c.Reciprocal Trnasformation
+           c.Reciprocal Trnasformation
         
-        d.Square Root Transformation
+           d.Square Root Transformation
         
-        e.Exponential Transdormation
+           e.Exponential Transdormation
         
-        f.BoxCOx Transformation
+           f.BoxCOx Transformation
         
-        g.log(1+x) Transformation
+           g.log(1+x) Transformation
         
    g.remove low variance data by using VarianceThreshold
    
@@ -183,29 +183,29 @@ e.free online resource
   
 4.Feature selection
 
-  1.pearson correleation
+    1.pearson correleation
+   
+    2.heatmap
   
-  2.heatmap
+    3.Feature Importance
   
-  3.Feature Importance
-  
-    a.ExtraTreesClassifier
+       a.ExtraTreesClassifier
     
-    b.SelectKBest
+       b.SelectKBest
     
-    c.stepforward and stepbackward method
+       c.stepforward and stepbackward method
     
-    d.Random_forest_importance
+       d.Random_forest_importance
   
-  4.statics to select important feature
+    4.statics to select important feature
   
-  5.keep in mind  curse of dimensionality
+    5.keep in mind  curse of dimensionality
   
-  6.highly correleated then remove 1 feature (multicollinearity)
+    6.highly correleated then remove 1 feature (multicollinearity)
   
-  7.dimension reduction
+    7.dimension reduction
   
-  8.lasso and ridge regression to penalise unimportant features
+    8.lasso and ridge regression to penalise unimportant features
   
 
 5.Model
@@ -329,17 +329,17 @@ Machine learning
 
 hyperparameter 
   
-  a.GridSearchCV (check every given parameter so take long time)
+    a.GridSearchCV (check every given parameter so take long time)
   
-  b.RandomizedSearchCV (search randomly narrow down our time)
+    b.RandomizedSearchCV (search randomly narrow down our time)
   
-  c.Bayesian Optimization -Automate Hyperparameter Tuning (Hyperopt)
+    c.Bayesian Optimization -Automate Hyperparameter Tuning (Hyperopt)
   
-  d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
+    d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
-  e.Optuna- Automate Hyperparameter Tuning
+    e.Optuna- Automate Hyperparameter Tuning
   
-  f.Genetic Algorithms 
+    f.Genetic Algorithms 
   
 
 6.Test
@@ -352,7 +352,7 @@ metrics
     
     3.Reinforcement learning - total rewards
 
-if not good performance go back to Data collection or  Feature engineering to increase performance of model
+if not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
 
 7.deployment
@@ -365,7 +365,7 @@ if not good performance go back to Data collection or  Feature engineering to in
     
     4.google cloud platform
 
-app- flask,streamlit
+    app- flask,streamlit
 
 8.mointoring model
 
@@ -373,45 +373,74 @@ app- flask,streamlit
 
 BEST ONLINE COURSES
 
-1.coursera
+    1.coursera
 
-2.UDEMY
+    2.UDEMY
 
-3.EDX
+    3.EDX
 
-4.DATACAMP
+    4.DATACAMP
 
 
 BEST YOUTUBE CHANNEL TO FOLLOW
 
-1.Krish Naik-https://www.youtube.com/user/krishnaik06
+    1.Krish Naik-https://www.youtube.com/user/krishnaik06
 
-2.Abhishek thakur-https://www.youtube.com/user/abhisheksvnit
+    2.Abhishek thakur-https://www.youtube.com/user/abhisheksvnit
 
-3.AIEngineering-https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw
+    3.AIEngineering-https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw
 
-4.ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
+    4.ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
 
 
 BEST BLOGS TO FOLLOW 
 
-1.towards data science-https://towardsdatascience.com/
+    1.towards data science-https://towardsdatascience.com/
 
-2.analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar
+    2.analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar
 
-3.medium-https://medium.com/
+    3.medium-https://medium.com/
 
 BEAT RESOURCE
 
-1.paperswithcode-https://paperswithcode.com/methods
+    1.paperswithcode-https://paperswithcode.com/methods
 
-2.madewithm-https://madewithml.com/topics/
+    2.madewithm-https://madewithml.com/topics/
 
-3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
+    3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
 
-4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
+    4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
 
-5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/
+    5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/
+
+    6.Fastaibook-https://github.com/fastai/fastbook
+    
+    7.TopDeepLearning-https://github.com/aymericdamien/TopDeepLearning
+    
+    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
+    
+    9.EasyOCR-https://github.com/JaidedAI/EasyOCR
+    
+    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list
+    
+    11.free-data-science-books-https://github.com/chaconnewu/free-data-science-books
+    
+    12.arcgis-https://github.com/Esri/arcgis-python-api
+    
+    13.data-science-ipython-notebooks-https://github.com/donnemartin/data-science-ipython-notebooks
+    
+    14.julia-https://github.com/JuliaLang/julia
+    
+    15.google-research-https://github.com/google-research/google-research
+    
+    16.reinforcement-learning-https://github.com/dennybritz/reinforcement-learning
+    
+    17.keras-applications-https://github.com/keras-team/keras-applications  ,  https://github.com/keras-team/keras
+    
+    18.opencv-https://github.com/opencv/opencv
+    
+    19.transformers-https://github.com/huggingface/transformers
+    
 
 Follow leaders in the field to updata yourself in the field
 
