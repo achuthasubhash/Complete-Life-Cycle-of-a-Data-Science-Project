@@ -324,8 +324,16 @@ Machine learning
      9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT2
    
    F.forecating
+      
+      1.Arima
+      
+      2.Auto regression
+      
+      3.moving average
+      
+      4.lstm
    
-   
+      best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
 
 hyperparameter 
   
