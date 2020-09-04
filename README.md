@@ -230,3 +230,57 @@ azure,flask,aws,gcp
 app- flask,streamlit
 
 8.mointoring model
+
+
+BEST YOUTUBE CHANNEL TO FOLLOW
+
+1. Krish Naik-https://www.youtube.com/user/krishnaik06
+
+2.Abhishek thakur-https://www.youtube.com/user/abhisheksvnit
+
+3.AIEngineering-https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw
+
+best tip to choose youtube channel is who frequently upload videos and keep
+
+BEST BLOGS TO FOLLOW 
+
+1.towards data science-https://towardsdatascience.com/
+
+2.analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar
+
+3.medium-https://medium.com/
+
+BEAT RESOURCE
+
+1.paperswithcode-https://paperswithcode.com/methods
+
+2.madewithm-https://madewithml.com/topics/
+
+3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
+
+4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
+
+Follow leaders in the field to updata yourself in the field
+
+1.Linkedin
+
+2.Twitter
+
+So what next ?
+
+participate online competition and apply interships
+
+online competitions:
+
+1.Kaggale-https://www.kaggle.com/
+
+2.hackerearth-https://www.hackerearth.com/challenges/
+
+3.machinehack-https://www.machinehack.com/
+
+4.analyticsvidhya-https://datahack.analyticsvidhya.com/contest/all/
+
+5.zindi-https://zindi.africa/competitions
+
+
+
