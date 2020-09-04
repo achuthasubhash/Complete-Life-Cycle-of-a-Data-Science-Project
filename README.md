@@ -408,6 +408,8 @@ BEST BLOGS TO FOLLOW
     2.analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar
 
     3.medium-https://medium.com/
+    
+    4.machinelearningmastery-https://machinelearningmastery.com/blog/
 
 BEAT RESOURCE
 
