@@ -503,6 +503,8 @@ BEST RESOURCES
     
     19.transformers-https://github.com/huggingface/transformers
     
+    20.code implementations for research papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
+    
 
 Follow leaders in the field to update yourself in the field
 
