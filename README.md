@@ -333,7 +333,17 @@ Machine learning
    
    5.Autoencoder
    
-   6.Boltzmann_Machines,deep belief network
+      1.sparse Autoencoder
+      
+      2.denoising Autoencoder
+      
+      3.Contractive Autoencoder
+      
+      4.stacked Autoencoder
+      
+      5.deep Autoencoder
+   
+   6.BoltzmannMachines,deep belief network,deep BoltzmannMachines
    
    7.Self Organizing Maps (SOM) unsupervised learning using deeplearning
    
