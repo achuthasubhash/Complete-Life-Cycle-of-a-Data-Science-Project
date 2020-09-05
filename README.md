@@ -214,6 +214,14 @@ e.free online resource
     7.dimension reduction
   
     8.lasso and ridge regression to penalise unimportant features
+    
+    9.filter method
+    
+    10.threshold based method 
+    
+    11.hypothesis testing
+    
+    12.model based selection
   
 
 5.Model selection
@@ -228,7 +236,7 @@ Machine learning
        
        least square method,Random Forest Regression,xgboost,ridge,lasso,catboost,gradientboosting,adaboost,
        
-       elsatic net,light gbm,Ordinal Regression
+       elsatic net,light gbm,Ordinal Regression,ordinary least squares
    
      2.classification (output feature in categorical data form)
      
@@ -241,13 +249,25 @@ Machine learning
   
    B.Unsupervised learning(no label data)
    
-     1.Dimensionality reduction
+     1.Dimensionality reduction - PCA,SVD,LDA
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
-     3.Association Rule Learning
+     3.Association Rule Learning - support,lift,confidence
    
-     4.Recommendation system
+     4.Recommendation system -
+     
+         a.collaborative Recommendation system,
+         
+         bcontent based Recommendation system 
+         
+         c.utility based Recommendation system 
+         
+         d.knowledge based Recommendation system 
+         
+         e.demographic based Recommendation system 
+         
+         f.hybrid based Recommendation system 
    
    C.Ensemble methods
    
@@ -317,7 +337,9 @@ Machine learning
    
    8.Natural language processing
    
-     clean data(remove stopwords depond on problem ,lowering data,tokenizatio,postagging,steemimg or lemmatization depond on problem,skipgram)
+     clean data(remove stopwords depond on problem ,lowering data,tokenizatio,postagging,stemmimg or lemmatization depond on problem,skipgram,tokenization)
+     
+     NLU,NLG,NER,text summarization,machine translation
       
      1.bag of words
      
@@ -352,6 +374,8 @@ Machine learning
      9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT3
    
    F.Time Series
+   
+      here data split is different (train,test,validate)
       
       here handling missing data different 
       
@@ -365,17 +389,23 @@ Machine learning
       
       4.take previous year value and impute
       
-      use 
+      uses 
       
       1.Arima
       
-      2.Auto regression
+      2.Autoregressive model
       
       3.moving average
       
-      4.lstm
+      4.lstm(neural network)
       
       5.autoregressive
+      
+      6.navie forecasts
+      
+      7.smoothing (moving average,exponential smoothing)
+      
+      8.facebook prophet
    
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
       
