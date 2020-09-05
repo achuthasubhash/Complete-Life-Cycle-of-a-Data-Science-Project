@@ -347,7 +347,17 @@ Machine learning
    
    F.Time Series
       
-      here handling data value different 
+      here handling missing data different 
+      
+      generally used  to impute data in Time Series
+      
+      1.ffill
+      
+      2.bfill
+      
+      3.do mean of previous or future x samples and impute
+      
+      4.take previous year value and impute
       
       use 
       
@@ -358,6 +368,8 @@ Machine learning
       3.moving average
       
       4.lstm
+      
+      5.autoregressive
    
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
 
@@ -371,7 +383,7 @@ hyperparameter
   
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
-    e.Optuna- Automate Hyperparameter Tuning
+    e.Optuna
   
     f.Genetic Algorithms 
     
@@ -396,7 +408,7 @@ generally used metrics
     
     4.Incase of machine translation use bleu score
     
-    5.unsupervised thenuse sichottan score
+    5.unsupervised then use silhouette score
 
 if not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
