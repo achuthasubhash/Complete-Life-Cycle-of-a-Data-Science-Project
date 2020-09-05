@@ -395,6 +395,8 @@ generally used metrics
     3.Reinforcement learning - total rewards
     
     4.Incase of machine translation use bleu score
+    
+    5.unsupervised thenuse sichottan score
 
 if not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
