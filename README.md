@@ -148,6 +148,8 @@ e.free online resource
      
      9.one hot encoding with multi category (keep most frequently repeated only)
      
+     10.feature hashing 
+     
    f.normalisation of data
    
        1.Standardization
