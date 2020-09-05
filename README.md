@@ -331,7 +331,7 @@ Machine learning
    
    5.Autoencoder
    
-   6.Boltzmann_Machines
+   6.Boltzmann_Machines,deep belief network
    
    7.Self Organizing Maps (SOM) unsupervised learning using deeplearning
    
