@@ -406,6 +406,8 @@ if not giving good performance go back to Data collection or  Feature engineerin
     4.google cloud platform
 
     app- flask,streamlit
+    
+    use of tensorflow lite to reduce size of model
 
 8.mointoring model
 
