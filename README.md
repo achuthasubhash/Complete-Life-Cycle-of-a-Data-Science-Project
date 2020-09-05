@@ -372,6 +372,12 @@ Machine learning
       5.autoregressive
    
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+      
+   G.self supervised learning
+   
+   H.active learning
+   
+   I.transfer learning
 
 hyperparameter 
   
