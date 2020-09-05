@@ -343,7 +343,7 @@ Machine learning
       
      8.Transformer  big breakthrough in NLP
       
-     9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT2
+     9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT3
    
    F.Time Series
       
@@ -463,7 +463,7 @@ BEST BLOGS TO FOLLOW
     
     4.machinelearningmastery-https://machinelearningmastery.com/blog/
 
-BEST RESOURCE
+BEST RESOURCES
 
     1.paperswithcode-https://paperswithcode.com/methods
 
