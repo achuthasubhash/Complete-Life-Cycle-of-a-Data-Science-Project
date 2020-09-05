@@ -415,7 +415,7 @@ Machine learning
    
    I.transfer learning
 
-hyperparameter 
+hyperparameter tuning
   
     a.GridSearchCV (check every given parameter so take long time)
   
