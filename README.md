@@ -237,7 +237,7 @@ Machine learning
    
      1.Dimensionality reduction
    
-     2.Clustering
+     2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
      3.Association Rule Learning
    
