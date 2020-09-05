@@ -445,7 +445,7 @@ BEST BLOGS TO FOLLOW
     
     4.machinelearningmastery-https://machinelearningmastery.com/blog/
 
-BEAT RESOURCE
+BEST RESOURCE
 
     1.paperswithcode-https://paperswithcode.com/methods
 
