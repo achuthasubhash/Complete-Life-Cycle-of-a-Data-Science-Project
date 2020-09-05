@@ -173,6 +173,8 @@ e.free online resource
            f.BoxCOx Transformation
         
            g.log(1+x) Transformation
+           
+           h.johnson
         
    g.remove low variance data by using VarianceThreshold
    
