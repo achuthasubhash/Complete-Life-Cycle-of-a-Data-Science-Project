@@ -106,6 +106,10 @@ e.free online resource
      7.Adding a variable to capture NAN
      
      8.Arbitrary Value Imputation
+     
+     9.hot deck Imputation
+     
+     10.regression Imputation
     
      
    b.handle imbalance
