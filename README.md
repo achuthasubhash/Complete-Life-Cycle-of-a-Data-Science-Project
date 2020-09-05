@@ -80,9 +80,9 @@ e.free online resource
     27)google open images:https://storage.googleapis.com/openimages/web/download.html
    
     28)https://data.gov.in/
+    
+    29)imagenet dataset-http://www.image-net.org/
 
-
-  
 2.Feature engineering
 
      Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
