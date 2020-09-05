@@ -414,6 +414,8 @@ Machine learning
    H.active learning
    
    I.transfer learning
+   
+   J.deep dream,style transfer
 
 hyperparameter tuning
   
