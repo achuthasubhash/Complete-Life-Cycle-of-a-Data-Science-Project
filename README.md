@@ -345,7 +345,11 @@ Machine learning
       
      9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT2
    
-   F.forecating
+   F.Time Series
+      
+      here handling data value different 
+      
+      use 
       
       1.Arima
       
