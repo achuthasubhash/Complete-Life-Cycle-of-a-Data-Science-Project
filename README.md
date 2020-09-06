@@ -23,7 +23,7 @@ c.big data engineering to collect data
 
 d.databases
 
-e.free online resource
+e.free online resource -   ultimate resource  https://datasetsearch.research.google.com/
 
     1)kaggle
    
@@ -82,6 +82,8 @@ e.free online resource
     28)https://data.gov.in/
     
     29)imagenet dataset-http://www.image-net.org/
+    
+    30)https://parulpandey.com/2020/08/09/getting-datasets-for-data-analysis-tasks%e2%80%8a-%e2%80%8aadvanced-google-search/
 
 2.Feature engineering
 
