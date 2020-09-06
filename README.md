@@ -238,7 +238,7 @@ Machine learning
        
        least square method,Random Forest Regression,xgboost,ridge,lasso,catboost,gradientboosting,adaboost,
        
-       elsatic net,light gbm,Ordinal Regression,ordinary least squares
+       elsatic net,light gbm,ordinary least squares
    
      2.classification (output feature in categorical data form)
      
