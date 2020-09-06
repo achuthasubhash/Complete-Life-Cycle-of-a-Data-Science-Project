@@ -251,7 +251,7 @@ Machine learning
   
    B.Unsupervised learning(no label data)
    
-     1.Dimensionality reduction - PCA,SVD,LDA
+     1.Dimensionality reduction - PCA,SVD,LDA,tsne
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
