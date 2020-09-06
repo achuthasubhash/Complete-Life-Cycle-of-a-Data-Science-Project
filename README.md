@@ -93,7 +93,7 @@ e.free online resource
    
      1.if missing data too small then delete it 
      
-     2.replace mean,median,mode
+     2.replace mean(influenced by outiler),median(not influenced by outiler),mode
      
      3.apply classifier algorithm to predict missing value
      
@@ -156,7 +156,7 @@ e.free online resource
      
        2.Min Max Scaling
      
-       3.Robust Scaler
+       3.Robust Scaler not influenced by outliers because using of median,IQR
       
        4.Q-Q plot is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to improve performance
      
