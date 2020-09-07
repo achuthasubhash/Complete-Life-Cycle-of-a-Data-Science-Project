@@ -85,7 +85,9 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
     
     30)https://parulpandey.com/2020/08/09/getting-datasets-for-data-analysis-tasks%e2%80%8a-%e2%80%8aadvanced-google-search/
     
-    31)https://storage.googleapis.com/openimages/web/index.html
+    31)https://storage.googleapis.com/openimages/web/index.html  , 
+    
+       https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=segmentation&r=false&c=%2Fm%2F09qck
 
 2.Feature engineering
 
