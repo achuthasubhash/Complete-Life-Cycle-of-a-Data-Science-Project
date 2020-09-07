@@ -84,6 +84,8 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
     29)imagenet dataset-http://www.image-net.org/
     
     30)https://parulpandey.com/2020/08/09/getting-datasets-for-data-analysis-tasks%e2%80%8a-%e2%80%8aadvanced-google-search/
+    
+    31)https://storage.googleapis.com/openimages/web/index.html
 
 2.Feature engineering
 
