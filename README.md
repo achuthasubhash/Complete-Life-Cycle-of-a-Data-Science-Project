@@ -495,6 +495,8 @@ if not giving good performance go back to Data collection or  Feature engineerin
 
 BIG DATA:hadoop,apache spark
 
+upcoming programming language for data science is julia 
+
 BEST ONLINE COURSES
 
     1.coursera
