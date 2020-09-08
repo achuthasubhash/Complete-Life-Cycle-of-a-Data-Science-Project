@@ -598,5 +598,9 @@ online competitions:
 
 5.zindi-https://zindi.africa/competitions
 
+6.crowdai-https://www.crowdai.org/
+
+7.driven data-https://www.drivendata.org/
+
 
 
