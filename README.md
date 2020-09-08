@@ -4,6 +4,7 @@ credit: all corresponding resources
 
 as data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
 
+Business understanding 
 
 1.Data collection
 
