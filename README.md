@@ -492,7 +492,7 @@ if not giving good performance go back to Data collection or  Feature engineerin
 
 8.mointoring model
 
-
+BIG DATA:hadoop,apache spark
 
 BEST ONLINE COURSES
 
