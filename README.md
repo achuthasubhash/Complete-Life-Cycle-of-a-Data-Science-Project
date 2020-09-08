@@ -232,6 +232,10 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
     11.hypothesis testing
     
     12.model based selection
+    
+    13.Mutual Information Feature Selection
+    
+    14.Correlation Feature Selection
   
 
 5.Model selection
