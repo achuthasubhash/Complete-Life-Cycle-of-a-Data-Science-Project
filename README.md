@@ -17,6 +17,8 @@ a.web scraping  best article to refer-https://towardsdatascience.com/choose-the-
     3.selenium
    
     4.request to access data 
+    
+    5.AUTOSCRAPER
   
 b.3rd party API'S 
 
