@@ -413,7 +413,9 @@ Machine learning
       
       4.take previous year value and impute
       
-      uses 
+      here model selection deponds on different property of data like stationary,trend 
+      
+      models 
       
       1.Arima
       
