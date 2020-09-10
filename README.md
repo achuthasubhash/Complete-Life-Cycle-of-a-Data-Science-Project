@@ -583,7 +583,9 @@ BEST RESOURCES
     
     20.code implementations for research papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
     
-
+    21.regarding satellite images-https://www.esri.com/en-us/arcgis/about-arcgis/overview
+    
+    
 Follow leaders in the field to update yourself in the field
 
     1.Linkedin
@@ -599,7 +601,7 @@ Follow leaders in the field to update yourself in the field
     
 So what next ?
 
-participate online competition and apply interships
+participate online competition and apply to intership
 
 online competitions:
 
