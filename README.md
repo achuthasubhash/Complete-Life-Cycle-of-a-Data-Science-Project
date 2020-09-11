@@ -543,47 +543,47 @@ BEST BLOGS TO FOLLOW
 
 BEST RESOURCES
 
-    1.paperswithcode-https://paperswithcode.com/methods
+   1.paperswithcode-https://paperswithcode.com/methods
 
-    2.madewithm-https://madewithml.com/topics/
+   2.madewithm-https://madewithml.com/topics/
 
-    3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
+   3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
 
-    4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
+   4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
 
-    5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/
+   5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/
 
-    6.Fastaibook-https://github.com/fastai/fastbook
+   6.Fastaibook-https://github.com/fastai/fastbook
     
-    7.TopDeepLearning-https://github.com/aymericdamien/TopDeepLearning
+   7.TopDeepLearning-https://github.com/aymericdamien/TopDeepLearning
+   
+   8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR
     
-    9.EasyOCR-https://github.com/JaidedAI/EasyOCR
+   10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list
     
-    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list
+   11.free-data-science-books-https://github.com/chaconnewu/free-data-science-books
     
-    11.free-data-science-books-https://github.com/chaconnewu/free-data-science-books
+   12.arcgis-https://github.com/Esri/arcgis-python-api
     
-    12.arcgis-https://github.com/Esri/arcgis-python-api
+   13.data-science-ipython-notebooks-https://github.com/donnemartin/data-science-ipython-notebooks
     
-    13.data-science-ipython-notebooks-https://github.com/donnemartin/data-science-ipython-notebooks
+   14.julia-https://github.com/JuliaLang/julia
     
-    14.julia-https://github.com/JuliaLang/julia
+   15.google-research-https://github.com/google-research/google-research
     
-    15.google-research-https://github.com/google-research/google-research
+   16.reinforcement-learning-https://github.com/dennybritz/reinforcement-learning
     
-    16.reinforcement-learning-https://github.com/dennybritz/reinforcement-learning
+   17.keras-applications-https://github.com/keras-team/keras-applications  ,  https://github.com/keras-team/keras
     
-    17.keras-applications-https://github.com/keras-team/keras-applications  ,  https://github.com/keras-team/keras
+   18.opencv-https://github.com/opencv/opencv
     
-    18.opencv-https://github.com/opencv/opencv
+   19.transformers-https://github.com/huggingface/transformers
     
-    19.transformers-https://github.com/huggingface/transformers
+   20.code implementations for research papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
     
-    20.code implementations for research papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
-    
-    21.regarding satellite images-https://www.esri.com/en-us/arcgis/about-arcgis/overview
+   21.regarding satellite images-https://www.esri.com/en-us/arcgis/about-arcgis/overview
     
     
 Follow leaders in the field to update yourself in the field
