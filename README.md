@@ -584,6 +584,8 @@ BEST RESOURCES
    20.code implementations for research papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
     
    21.regarding satellite images-https://www.esri.com/en-us/arcgis/about-arcgis/overview
+   
+   22.interview-question-data-science-https://github.com/iNeuronai/interview-question-data-science-
     
     
 Follow leaders in the field to update yourself in the field
