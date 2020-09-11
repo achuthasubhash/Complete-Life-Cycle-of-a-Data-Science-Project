@@ -499,7 +499,7 @@ if not giving good performance go back to Data collection or  Feature engineerin
     
     4.google cloud platform
 
-    app- flask,streamlit
+    app- flask,streamlit,Django
     
     use of tensorflow lite to reduce size of model
 
