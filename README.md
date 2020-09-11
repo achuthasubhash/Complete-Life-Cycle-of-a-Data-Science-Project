@@ -476,7 +476,9 @@ tensorboard to visualization of model performance
 
 generally used metrics
  
-    1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R² etc and are used according to the task and data used for the task.
+    1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy
+    
+    etc and are used according to the task and data used for the task.
     
     2.classification task-Accuracy, Precision, and Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve
     
