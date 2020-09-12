@@ -10,6 +10,8 @@ Business understanding
 
 a.web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
 
+https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=KJ|link|weekend-blogs|blogs|44087|0.875
+
     1.beautifulsoup
    
     2.scrapy
