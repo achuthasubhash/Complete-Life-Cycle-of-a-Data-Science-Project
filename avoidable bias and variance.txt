@@ -1,0 +1,34 @@
+reducing avoidable bias
+
+Increase the model size
+
+Modify input features based on insights from error analysis
+
+Reduce or eliminate regularization (L2 regularization, L1 regularization, dropout):  reduce avoidable bias, but increase variance.
+
+Modify model architecture: so that it is more suitable for your problem
+
+
+reducing variance
+
+
+Add more training data
+
+Add regularization (L2 regularization, L1 regularization, dropout): This technique reduces variance but increases bias.
+
+Add early stopping
+
+Feature selection to decrease number/type of input features
+
+Decrease the model size
+
+Modify model architecture: so that it is more suitable for your problem
+
+
+regularization
+
+l1 and l2 regularization
+
+dropout
+
+batch normalization
