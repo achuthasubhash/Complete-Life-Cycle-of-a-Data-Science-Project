@@ -793,6 +793,7 @@ some useful content :
 
 49.Dabl has a built-in function that will automatically detect data types and quality issues and apply appropriate pre-processing to a dataset to prepare it for machine learning
 
+50.Text2Code for Jupyter notebook  - https://github.com/deepklarity/jupyter-text2code , https://towardsdatascience.com/data-analysis-made-easy-text2code-for-jupyter-notebook-5380e89bb493
 
 
                                                                    HAPPY LEARNING
