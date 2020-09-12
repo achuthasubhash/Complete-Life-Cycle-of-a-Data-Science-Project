@@ -140,7 +140,7 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
    
    Numerical variables: Discrete numerical variable,Continuous numerical variable
    
-   e.handle categorical data   Ordinal,Nominal categorical variables  
+   e.handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
    
      1.One Hot Encoding
      
@@ -161,6 +161,10 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
      9.one hot encoding with multi category (keep most frequently repeated only)
      
      10.feature hashing 
+     
+     11.sparse csr matrix
+     
+     12.entity embeddings
      
    f.normalisation of data
    
@@ -482,11 +486,11 @@ tensorboard to visualization of model performance
 
 generally used metrics
   
-     Always check bias variance tradeoff
- 
+     Always check bias variance tradeoff to know how model is performing
+     
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss
    
-    2.classification task-Accuracy, Precision, and Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve
+    2.classification task-Accuracy, confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve
     
     3.Reinforcement learning - total rewards
     
