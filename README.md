@@ -420,7 +420,9 @@ Machine learning
       
       4.take previous year value and impute
       
-      here model selection deponds on different property of data like stationary,trend 
+      here model selection deponds on different property of data like stationary,trend,seasonality
+      
+      adfuller test  for  Stationarity
       
       models 
       
@@ -439,6 +441,8 @@ Machine learning
       7.smoothing (moving average,exponential smoothing)
       
       8.facebook prophet
+      
+      9.holts winter,holts linear trend
    
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
       
