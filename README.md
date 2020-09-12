@@ -93,6 +93,8 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
        https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=segmentation&r=false&c=%2Fm%2F09qck
      
     32)coco dataset https://cocodataset.org/#explore
+    
+    33)huggingface datasets-https://github.com/huggingface/datasets
        
 
 2.Feature engineering
@@ -579,7 +581,7 @@ BEST RESOURCES
 
    1.paperswithcode-https://paperswithcode.com/methods
 
-   2.madewithm-https://madewithml.com/topics/
+   2.madewithml-https://madewithml.com/topics/
 
    3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
 
@@ -619,8 +621,39 @@ BEST RESOURCES
     
    21.regarding satellite images-https://www.esri.com/en-us/arcgis/about-arcgis/overview
    
-   22.interview-question-data-science-https://github.com/iNeuronai/interview-question-data-science-
-    
+   22.Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection
+   
+   23.NLP-progress - https://github.com/sebastianruder/NLP-progress
+   
+   24.interview-question-data-science-https://github.com/iNeuronai/interview-question-data-science-
+   
+   25.recommenders-https://github.com/microsoft/recommenders
+   
+   26.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list
+   
+   27.Tool for visualizing attention in the Transformer model-https://github.com/jessevig/bertviz
+   
+   28.TransCoder-https://github.com/facebookresearch/TransCoder
+   
+   29.Tessellate-Imaging-https://github.com/Tessellate-Imaging/monk_v1
+   
+   30.Machine-Learning-with-Python-https://github.com/tirthajyoti/Machine-Learning-with-Python
+   
+   31.huggingface-https://github.com/huggingface
+   
+   32.multi-task-NLP-https://github.com/hellohaptik/multi-task-NLP
+   
+   33.gpt-2 - https://github.com/openai/gpt-2
+   
+   34.Powerful and efficient Computer Vision Annotation Tool (CVAT)-https://github.com/openvinotoolkit/cvat, https://github.com/abreheret/PixelAnnotationTool
+   
+   35.Data augmentation for NLP-https://github.com/makcedward/nlpaug
+   
+   36.awesome Data Science-https://github.com/academic/awesome-datascience
+   
+   37.mlops-https://github.com/visenger/awesome-mlops
+   
+   38.gym-https://github.com/openai/gym
     
 Follow leaders in the field to update yourself in the field
 
