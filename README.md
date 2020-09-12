@@ -95,6 +95,8 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
     32)coco dataset https://cocodataset.org/#explore
     
     33)huggingface datasets-https://github.com/huggingface/datasets
+    
+    34)Big Bad NLP Database-https://datasets.quantumstat.com/
        
 
 2.Feature engineering
@@ -654,6 +656,8 @@ BEST RESOURCES
    37.mlops-https://github.com/visenger/awesome-mlops
    
    38.gym-https://github.com/openai/gym
+   
+   39.Super Duper NLP Repo-https://notebooks.quantumstat.com/
     
 Follow leaders in the field to update yourself in the field
 
