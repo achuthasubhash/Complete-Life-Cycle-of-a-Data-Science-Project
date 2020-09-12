@@ -658,6 +658,8 @@ BEST RESOURCES
    38.gym-https://github.com/openai/gym
    
    39.Super Duper NLP Repo-https://notebooks.quantumstat.com/
+   
+   40.papers summarizing the advances in the field-https://github.com/eugeneyan/ml-surveys
     
 Follow leaders in the field to update yourself in the field
 
