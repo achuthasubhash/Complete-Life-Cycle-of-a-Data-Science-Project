@@ -481,6 +481,8 @@ tensorboard to visualization of model performance
 6.Testing model
 
 generally used metrics
+  
+     Always check bias variance tradeoff
  
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss
    
