@@ -641,6 +641,8 @@ BEST RESOURCES
    
    29.Tessellate-Imaging-https://github.com/Tessellate-Imaging/monk_v1
    
+      Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/application_model_zoo
+   
    30.Machine-Learning-with-Python-https://github.com/tirthajyoti/Machine-Learning-with-Python
    
    31.huggingface-https://github.com/huggingface
