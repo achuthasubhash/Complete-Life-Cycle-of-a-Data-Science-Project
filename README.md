@@ -247,7 +247,15 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
     13.Mutual Information Feature Selection
     
     14.Correlation Feature Selection
-  
+    
+    15.remove features with very low variance
+    
+    16.Univariate  feature selection
+    
+    17.recursive feature  elimination
+    
+    18.importance of feature
+ 
 
 5.Model selection
 
@@ -464,13 +472,15 @@ hyperparameter tuning
   
     b.RandomizedSearchCV (search randomly narrow down our time)
   
-    c.Bayesian Optimization -Automate Hyperparameter Tuning (Hyperopt)
-  
+    c.Bayesian Optimization with gaussian process
+    
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
     e.Optuna
   
     f.Genetic Algorithms 
+    
+    g.hyperopt
     
  cross validation techniques
     
