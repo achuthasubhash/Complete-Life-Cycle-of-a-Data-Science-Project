@@ -326,6 +326,8 @@ Machine learning
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
+   Frameworks:Pytorch,Tensorflow,Keras,caffe
+   
    1.Multilayer perceptron(MLP)
    
      1.Regression
@@ -336,19 +338,21 @@ Machine learning
    
      1.classification of image
      
-       create own model,lenet,alexnet,resenet,inception,vgg
+       create own model,lenet,alexnet,resenet,inception,vgg,efficientnet,Nasnet
      
      2.localization of object in image
      
      3.object detection and object segmentation 
      
-       rcnn,fastrcnn,fatercnn,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
+       rcnn,fastrcnn,fatercnn,U-net,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,detr facebook
        
        3 kind of object segmentation  available semantic segmentation,instance segmentation,panoptic segmentation
      
      4.pose estimation
+     
+     5.Deepdream,Neural style transfer
    
    3.recurrent neural network (use when series of data)
    
@@ -373,14 +377,18 @@ Machine learning
       4.stacked Autoencoder
       
       5.deep Autoencoder
+      
+      6.variational autoencoder
    
    6.BoltzmannMachines,deep belief network,deep BoltzmannMachines
    
-   7.Self Organizing Maps (SOM) unsupervised learning using deeplearning
+   7.Self Organizing Maps (SOM) unsupervised learning 
    
    8.Natural language processing
    
-     clean data(remove stopwords depond on problem ,lowering data,tokenizatio,postagging,stemmimg or lemmatization depond on problem,skipgram,tokenization)
+     clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
+     
+     nltk,spacy,genisum,textblob,  libraries
      
      NLU,NLG,NER,text summarization,machine translation
       
@@ -412,7 +420,7 @@ Machine learning
         
      7.encoder and  decoder(sequence to sequence)
       
-     8.Transformer  big breakthrough in NLP
+     8.Transformer (big breakthrough in NLP)
       
      9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT3
    
@@ -442,19 +450,19 @@ Machine learning
       
       2.Autoregressive model
       
-      3.moving average
+      3.Moving average
       
-      4.lstm(neural network)
+      4.Lstm(neural network)
       
-      5.autoregressive
+      5.Autoregressive
       
-      6.navie forecasts
+      6.Navie forecasts
       
-      7.smoothing (moving average,exponential smoothing)
+      7.Smoothing (moving average,exponential smoothing)
       
-      8.facebook prophet
+      8.Facebook prophet
       
-      9.holts winter,holts linear trend
+      9.Holts winter,Holts linear trend
    
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
       
@@ -513,17 +521,21 @@ if not giving good performance go back to Data collection or  Feature engineerin
 
 7.deployment
 
-    1.azure
+    1.Azure
     
-    2.heroku
+    2.Heroku
     
     3.Amazon Web Services
     
-    4.google cloud platform
+    4.Google cloud platform
+    
+    5.Docker
 
     app- flask,streamlit,Django
     
     use of tensorflow lite to reduce size of model
+    
+    use Quantization to reduce size of model
 
 8.mointoring model
 
@@ -533,7 +545,7 @@ upcoming programming language for data science is julia
 
 BEST ONLINE COURSES
 
-    1.coursera
+    1.COURSERA
 
     2.UDEMY
 
@@ -550,18 +562,18 @@ BEST YOUTUBE CHANNEL TO FOLLOW
 
     3.AIEngineering-https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw
 
-    4.ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
+    4.Ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
 
 
 BEST BLOGS TO FOLLOW 
 
-    1.towards data science-https://towardsdatascience.com/
+    1.Towards data science-https://towardsdatascience.com/
 
-    2.analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar
+    2.Analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar
 
-    3.medium-https://medium.com/
+    3.Medium-https://medium.com/
     
-    4.machinelearningmastery-https://machinelearningmastery.com/blog/
+    4.Machinelearningmastery-https://machinelearningmastery.com/blog/
 
 BEST RESOURCES
 
@@ -713,13 +725,8 @@ some useful content :
 33.cURL (This is a useful tool for obtaining data from any server via a variety of protocols including HTTP.)
 
 34.csvkit
-csvkit is a set of command line tools for working with CSV files. 
-The tasks that it can execute can be divided into three areas: input, processing and output. 
-Let’s look at a quick real-world example of how you can use this.
 
-35.IPython
-IPython gives access to enhanced interactive python from the shell. 
-In essence, it means you can do most of the things that you can do in a Jupyter Notebook from the command line.
+35.IPython  IPython gives access to enhanced interactive python from the shell. 
 
 36.pip install faker  (Create our own Dataset)
 
@@ -748,5 +755,9 @@ In essence, it means you can do most of the things that you can do in a Jupyter 
 48.faster Hyper Parameter Tuning    NatureInspiredSearchCV
 
 49.Dabl has a built-in function that will automatically detect data types and quality issues and apply appropriate pre-processing to a dataset to prepare it for machine learning
+
+
+
+                                                                   HAPPY LEARNING
 
 
