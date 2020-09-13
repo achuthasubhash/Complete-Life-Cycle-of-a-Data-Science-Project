@@ -641,7 +641,7 @@ BEST RESOURCES
    
    29.Tessellate-Imaging-https://github.com/Tessellate-Imaging/monk_v1
    
-      Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/application_model_zoo
+   Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/application_model_zoo
    
    30.Machine-Learning-with-Python-https://github.com/tirthajyoti/Machine-Learning-with-Python
    
@@ -802,6 +802,6 @@ some useful content :
 50.Text2Code for Jupyter notebook  - https://github.com/deepklarity/jupyter-text2code , https://towardsdatascience.com/data-analysis-made-easy-text2code-for-jupyter-notebook-5380e89bb493
 
 
-                                                                   HAPPY LEARNING
+                                                           HAPPY LEARNING
 
 
