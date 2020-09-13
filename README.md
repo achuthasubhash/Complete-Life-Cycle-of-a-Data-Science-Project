@@ -394,7 +394,7 @@ Machine learning
    
      clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     nltk,spacy,genisum,textblob,  libraries
+     nltk,spacy,genisum,textblob,inltk  libraries
      
      NLU,NLG,NER,text summarization,machine translation
       
@@ -605,7 +605,7 @@ BEST RESOURCES
     
    11.free-data-science-books-https://github.com/chaconnewu/free-data-science-books
     
-   12.arcgis-https://github.com/Esri/arcgis-python-api
+   12.arcgis-https://github.com/Esri/arcgis-python-api  ,  https://github.com/Esri/arcgis-python-api
     
    13.data-science-ipython-notebooks-https://github.com/donnemartin/data-science-ipython-notebooks
     
@@ -633,7 +633,7 @@ BEST RESOURCES
    
    25.recommenders-https://github.com/microsoft/recommenders
    
-   26.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list
+   26.Awesome-NLP-Resources -https://github.com/Robofied/Awesome-NLP-Resources
    
    27.Tool for visualizing attention in the Transformer model-https://github.com/jessevig/bertviz
    
@@ -664,6 +664,20 @@ BEST RESOURCES
    39.Super Duper NLP Repo-https://notebooks.quantumstat.com/
    
    40.papers summarizing the advances in the field-https://github.com/eugeneyan/ml-surveys
+   
+   41.deep-translator-https://github.com/nidhaloff/deep-translator
+   
+   42.detext-https://github.com/linkedin/detext
+   
+   43.nlpaug-https://github.com/makcedward/nlpaug
+   
+   44.ipython-sql-https://github.com/catherinedevlin/ipython-sql
+   
+   45.libra-https://github.com/Palashio/libra
+   
+   46.opencv-https://github.com/opencv/opencv
+   
+   47.learnopencv-https://github.com/spmallick/learnopencv
     
 Follow leaders in the field to update yourself in the field
 
