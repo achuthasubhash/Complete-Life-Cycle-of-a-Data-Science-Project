@@ -470,8 +470,11 @@ Machine learning
       
       9.Holts winter,Holts linear trend
    
-      best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+      best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
+      https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+      
+        
    G.self supervised learning
    
    H.active learning
