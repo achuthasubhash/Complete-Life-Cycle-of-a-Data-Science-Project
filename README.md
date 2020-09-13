@@ -20,7 +20,7 @@ https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-
    
     4.request to access data 
     
-    5.AUTOSCRAPER
+    5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper
   
 b.3rd party API'S 
 
