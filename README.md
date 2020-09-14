@@ -220,7 +220,7 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
   
     Explore the dataset by using  python or microsoft excel or tableau or powerbi, etc...
     
-    Data visualization
+    Data visualization (Matplotlib,Seaborn,Bokeh,etc...)
     
     Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot
   
