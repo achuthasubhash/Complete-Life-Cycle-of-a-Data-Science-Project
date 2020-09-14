@@ -618,7 +618,7 @@ BEST RESOURCES
     
    13.data-science-ipython-notebooks-https://github.com/donnemartin/data-science-ipython-notebooks
     
-   14.julia-https://github.com/JuliaLang/julia
+   14.julia-https://github.com/JuliaLang/julia  , https://docs.julialang.org/en/v1/
     
    15.google-research-https://github.com/google-research/google-research
     
