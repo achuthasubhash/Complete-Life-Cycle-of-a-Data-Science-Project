@@ -523,7 +523,7 @@ generally used metrics
     
     4.Incase of machine translation use bleu score
     
-    5.unsupervised then use silhouette score
+    5.clustering then use silhouette score
 
 if not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
