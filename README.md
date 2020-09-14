@@ -561,6 +561,8 @@ if not giving good performance go back to Data collection or  Feature engineerin
 
 8.mointoring model
 
+CI CD pipeline used-  circleci , jenkins
+
 BIG DATA:hadoop,apache spark
 
 upcoming programming language for data science is julia 
