@@ -475,6 +475,8 @@ Machine learning
       8.Facebook prophet
       
       9.Holts winter,Holts linear trend
+      
+      10.AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/
    
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
@@ -689,7 +691,11 @@ BEST RESOURCES
    47.learnopencv-https://github.com/spmallick/learnopencv
    
    48.math is fun-https://www.mathsisfun.com/
+   
+   49.DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ - https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
     
+   50.Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html
+   
 Follow leaders in the field to update yourself in the field
 
     1.Linkedin
