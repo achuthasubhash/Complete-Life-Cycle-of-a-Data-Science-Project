@@ -266,8 +266,9 @@ e.free online resource -   ultimate resource  https://datasetsearch.research.goo
     
     17.recursive feature  elimination
     
-    18.importance of feature
- 
+    18.importance of feature (random forest importance)
+    
+    19.feature importance with decision trees
 
 5.Model selection
 
@@ -506,6 +507,8 @@ hyperparameter tuning
     f.Genetic Algorithms 
     
     g.hyperopt
+    
+    h.keras tuner
     
  cross validation techniques
     
