@@ -695,7 +695,7 @@ BEST RESOURCES
    
    46.opencv-https://github.com/opencv/opencv
    
-   47.learnopencv-https://github.com/spmallick/learnopencv
+   47.learnopencv-https://github.com/spmallick/learnopencv  ,  https://www.learnopencv.com/
    
    48.math is fun-https://www.mathsisfun.com/
    
