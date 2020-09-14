@@ -34,6 +34,8 @@ c.big data engineering to collect data
 
 d.databases
 
+mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable
+
 e.free online resource -   ultimate resource  https://datasetsearch.research.google.com/
 
     1)kaggle
