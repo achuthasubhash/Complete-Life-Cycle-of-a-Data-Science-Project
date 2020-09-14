@@ -687,6 +687,8 @@ BEST RESOURCES
    46.opencv-https://github.com/opencv/opencv
    
    47.learnopencv-https://github.com/spmallick/learnopencv
+   
+   48.math is fun-https://www.mathsisfun.com/
     
 Follow leaders in the field to update yourself in the field
 
