@@ -858,6 +858,10 @@ some useful content :
 
 51.Openrefine Tool-For Data Preprocessing Without Code  https://analyticsindiamag.com/openrefine-tutorial-a-tool-for-data-preprocessing-without-code/
 
+52.Microsoft Releases Latest Version Of DeepSpeed  deep learning optimisation library known as DeepSpeed- https://github.com/microsoft/DeepSpeed
+
+https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its-python-library-for-deep-learning-optimisation/
+
 
 I will be so happy that this repository helps you. Thank you for reading.
 
