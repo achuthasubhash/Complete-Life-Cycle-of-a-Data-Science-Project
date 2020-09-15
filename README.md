@@ -697,7 +697,7 @@ BEST RESOURCES
    
    47.learnopencv-https://github.com/spmallick/learnopencv  ,  https://www.learnopencv.com/
    
-   48.math is fun-https://www.mathsisfun.com/
+   48.math is fun-https://www.mathsisfun.com/  , https://pabloinsente.github.io/intro-linear-algebra, https://hadrienj.github.io/posts/Deep-Learning-Book-Series-Introduction/
    
    49.DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ - https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
     
