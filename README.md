@@ -405,7 +405,7 @@ Machine learning
    
      clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     nltk,spacy,genisum,textblob,inltk,stanza  libraries
+     nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp  libraries
      
      NLU,NLG,NER,text summarization,machine translation
       
