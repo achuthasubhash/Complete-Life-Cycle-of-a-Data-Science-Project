@@ -1,0 +1,27 @@
+see how dep feature w.r.t dep linear or nonlinear if mixed alot then use knn
+
+see data visualiation
+
+usecase:supervisied
+        (regression or classification)
+for classification use cm,accuracy score,tpr,precision,f1 score to cal
+forr reg check acc by Rsqu & adjusted Rsqu
+
+classification:1.log reg (less time to create)
+               2.DT (have multiple if else loop)
+               3.RF
+               4.xgboosting
+               5.knn(use when all points mixed completively)
+               6.svm
+visualisation of data(seaborn(pairplot),matplot) to select ML model 
+on graph check each alg can do or not  linear seprarable or not 
+
+
+for linear seperable then use  log reg(stralight line),  separable (NO OVER LAP then use)
+for non linear(have data overlapping can do separable)DT,RF,knn,NN
+if mixture alot alot alot   then use knn  first
+DT,RF,xgboost,knn req much time TO TRAIN 
+when have very very overlap then use KNN(find similarity by using nuclear distance) 
+DT,RF,xgboost(use DT),knn(use eli distance)
+
+linear,log assume follow  gaussian  distrbution  if not transform dep feature to gaussian  distrbution get good score
