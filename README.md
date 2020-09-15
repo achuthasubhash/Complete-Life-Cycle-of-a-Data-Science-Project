@@ -587,7 +587,8 @@ BEST YOUTUBE CHANNEL TO FOLLOW
     3.AIEngineering-https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw
 
     4.Ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
-
+    
+    5.3Blue1Brown-https://www.youtube.com/c/3blue1brown/featured
 
 BEST BLOGS TO FOLLOW 
 
