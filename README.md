@@ -514,13 +514,17 @@ hyperparameter tuning
     
     h.keras tuner
     
- cross validation techniques
+ cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
      1.loocv
      
      2.kfoldcv
      
      3.stratfied cross validation
+     
+     4.Time Series cross-validation
+     
+     5.Holdout cross-validation
   
 tensorboard to visualization of model performance
 
