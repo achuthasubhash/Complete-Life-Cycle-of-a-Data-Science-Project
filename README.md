@@ -706,6 +706,8 @@ BEST RESOURCES
     
    50.Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html
    
+   51.for more cheatsheets-https://github.com/FavioVazquez/ds-cheatsheets
+   
 Follow leaders in the field to update yourself in the field
 
     1.Linkedin
