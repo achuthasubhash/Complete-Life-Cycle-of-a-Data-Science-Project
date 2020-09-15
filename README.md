@@ -2,7 +2,7 @@
 
 credit: all corresponding resources
 
-motivation:
+motivation:motivation to create this repository  to help upcoming aspirants and help to other others
 
 as data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
 
@@ -845,7 +845,7 @@ some useful content :
 51.Openrefine Tool-For Data Preprocessing Without Code  https://analyticsindiamag.com/openrefine-tutorial-a-tool-for-data-preprocessing-without-code/
 
 
-I will be so happy that this repository helps you. Thank you for reading
+I will be so happy that this repository helps you. Thank you for reading.
 
 
                                                        HAPPY LEARNING
