@@ -219,6 +219,12 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
       eg: incase of fraud detection outilers are very important
       
       methods to find outiler: zscore,boxplot,IQR
+      
+   j.sampling techniques
+     
+     a.biased sampling
+     
+     b.unbiased sampling
 
 3.Exploratory Data Analysis(eda)
   
@@ -226,7 +232,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Data visualization (Matplotlib,Seaborn,Bokeh,etc...)
     
-    Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot
+    Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plotm,time series plot,density plot,dot plot,strip plot
   
 4.Feature selection
 
@@ -254,7 +260,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
   
     8.lasso and ridge regression to penalise unimportant features
     
-    9.filter method
+    9.filter method,wrapper method
     
     10.threshold based method 
     
@@ -490,7 +496,7 @@ Machine learning
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
         
-   G.self supervised learning
+   G.semi supervised learning
    
    H.active learning
    
@@ -527,6 +533,8 @@ hyperparameter tuning
      4.Time Series cross-validation
      
      5.Holdout cross-validation
+     
+     6.repeated cross-validation
   
 tensorboard to visualization of model performance
 
