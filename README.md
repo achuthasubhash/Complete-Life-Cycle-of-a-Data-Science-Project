@@ -2,6 +2,8 @@
 
 credit: all corresponding resources
 
+motivation:
+
 as data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
 
 Business understanding 
@@ -719,7 +721,7 @@ Follow leaders in the field to update yourself in the field
     
 So what next ?
 
-participate online competition and apply to intership
+participate online competition and do project and apply to intership , job,real world problems, etc...
 
 online competitions:
 
