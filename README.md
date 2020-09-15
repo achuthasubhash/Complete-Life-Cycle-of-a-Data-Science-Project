@@ -38,7 +38,7 @@ d.databases
 
 mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable
 
-e.free online resource -   ultimate resource  https://datasetsearch.research.google.com/
+e.online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
     1)kaggle
    
@@ -361,11 +361,11 @@ Machine learning
      
      3.object detection and object segmentation 
      
-       rcnn,fastrcnn,fatercnn,U-net,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
+       rcnn,fastrcnn,fatercnn,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,detr facebook
+       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,detr facebook,U-net
        
-       3 kind of object segmentation  available semantic segmentation,instance segmentation,panoptic segmentation
+       3 kind of object segmentation semantic segmentation,instance segmentation,panoptic segmentation
      
      4.pose estimation
      
@@ -565,7 +565,7 @@ if not giving good performance go back to Data collection or  Feature engineerin
 
 CI CD pipeline used-  circleci , jenkins
 
-BIG DATA:hadoop,apache spark
+BIG DATA: hadoop,apache spark
 
 upcoming programming language for data science is julia 
 
