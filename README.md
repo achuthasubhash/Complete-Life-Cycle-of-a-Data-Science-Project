@@ -712,6 +712,8 @@ BEST RESOURCES
    
    51.for more cheatsheets-https://github.com/FavioVazquez/ds-cheatsheets
    
+   52.text2emotion-https://pypi.org/project/text2emotion/
+   
 Follow leaders in the field to update yourself in the field
 
     1.Linkedin
