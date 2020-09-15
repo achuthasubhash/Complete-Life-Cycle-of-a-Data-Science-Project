@@ -845,6 +845,9 @@ some useful content :
 51.Openrefine Tool-For Data Preprocessing Without Code  https://analyticsindiamag.com/openrefine-tutorial-a-tool-for-data-preprocessing-without-code/
 
 
-                                                           HAPPY LEARNING
+I will be so happy that this repository helps you. Thank you for reading
+
+
+                                                       HAPPY LEARNING
 
 
