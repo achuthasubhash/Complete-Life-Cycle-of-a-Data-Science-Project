@@ -182,6 +182,8 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
      
      12.entity embeddings
      
+     13.binary encoding
+     
    f.normalisation of data
    
        1.Standardization
