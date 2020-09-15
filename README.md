@@ -714,6 +714,8 @@ BEST RESOURCES
    
    52.text2emotion-https://pypi.org/project/text2emotion/
    
+   53.ExploriPy-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
+   
 Follow leaders in the field to update yourself in the field
 
     1.Linkedin
