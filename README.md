@@ -490,6 +490,8 @@ Machine learning
       9.Holts winter,Holts linear trend
       
       10.AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/
+      
+      11.Temporal Convolutional Neural
    
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
