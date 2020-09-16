@@ -572,6 +572,8 @@ if not giving good performance go back to Data collection or  Feature engineerin
     4.Google cloud platform
     
     5.Docker
+    
+    6.tkinter
 
     app- flask,streamlit,Django
     
