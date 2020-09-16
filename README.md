@@ -728,6 +728,8 @@ BEST RESOURCES
    
    53.ExploriPy-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
    
+   54.TCN-https://github.com/ashishpatel26/tcn-keras-Examples
+   
 Follow leaders in the field to update yourself in the field
 
     1.Linkedin
