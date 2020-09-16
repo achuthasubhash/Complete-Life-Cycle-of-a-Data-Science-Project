@@ -882,6 +882,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 54.tkinter to deploy machine learning model-https://analyticsindiamag.com/complete-tutorial-on-tkinter-to-deploy-machine-learning-model/
 
+55.autoplotter is a python package for GUI based exploratory data analysis-https://github.com/ersaurabhverma/autoplotter
+
 
 I will be so happy that this repository helps you. Thank you for reading.
 
