@@ -377,7 +377,7 @@ Machine learning
        
        3 kind of object segmentation semantic segmentation,instance segmentation,panoptic segmentation
      
-     4.pose estimation
+     4.pose estimation 
      
      5.Deepdream,Neural style transfer
    
