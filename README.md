@@ -874,6 +874,8 @@ some useful content :
 
 https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its-python-library-for-deep-learning-optimisation/
 
+53.4-pandas-tricks-https://towardsdatascience.com/4-pandas-tricks-that-most-people-dont-know-86a70a007993
+
 
 I will be so happy that this repository helps you. Thank you for reading.
 
