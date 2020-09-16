@@ -238,7 +238,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
 
     1.pearson correleation
    
-    2.heatmap
+    2.chisquare
   
     3.Feature Importance
   
@@ -281,6 +281,8 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
     18.importance of feature (random forest importance)
     
     19.feature importance with decision trees
+    
+    20.lasso 
 
 5.Model selection
 
