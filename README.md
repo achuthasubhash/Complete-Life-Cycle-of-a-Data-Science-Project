@@ -2,7 +2,7 @@
 
 ###***credit: all corresponding resources***
 
-###***motivation:motivation to create this repository  to help upcoming aspirants and help to  others in the data science field***
+***motivation:motivation to create this repository  to help upcoming aspirants and help to  others in the data science field***
 
 as data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
 
@@ -889,7 +889,7 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 56.3 NLP Interpretability Tools For Debugging Language Models-https://www.topbots.com/nlp-interpretability-tools/
 
 
-I will be so happy that this repository helps you. Thank you for reading.
+***I will be so happy that this repository helps you. Thank you for reading.***
 
 
                                                        HAPPY LEARNING
