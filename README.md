@@ -212,7 +212,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
            
            h.johnson
         
-   g.remove low variance data by using VarianceThreshold
+   g.remove low variance feature by using VarianceThreshold
    
    h.same variable in feature then remove feature
    
@@ -260,7 +260,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
   
     7.dimension reduction
   
-    8.lasso and ridge regression to penalise unimportant features
+    8.lasso regression to penalise unimportant features
     
     9.filter method,wrapper method
     
@@ -451,7 +451,7 @@ Machine learning
       
      8.Transformer (big breakthrough in NLP)
       
-     9.BERT,ROBERTA,DISTILBERT,GPT,GPT2,GPT3
+     9.BERT,ROBERTA,XLNet, XLM-RoBERTa, T5,DISTILBERT,GPT,GPT2,GPT3
    
    F.Time Series
    
@@ -516,7 +516,7 @@ hyperparameter tuning
   
     b.RandomizedSearchCV (search randomly narrow down our time)
   
-    c.Bayesian Optimization with gaussian process
+    c.Bayesian Optimization
     
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
@@ -550,15 +550,17 @@ generally used metrics
   
      Always check bias variance tradeoff to know how model is performing
      
-    1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss
+    1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
-    2.classification task-Accuracy, confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve
+    2.classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,log loss,Average precision,Mean average precision
     
     3.Reinforcement learning - total rewards
     
     4.Incase of machine translation use bleu score
     
     5.clustering then use silhouette score
+    
+    6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss,
 
 if not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
@@ -614,9 +616,9 @@ BEST YOUTUBE CHANNEL TO FOLLOW
 
     4.Ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
     
-    5.ken jee-https://www.youtube.com/c/KenJee1/featured
+    5.Ken jee-https://www.youtube.com/c/KenJee1/featured
     
-    6.codebasics-https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ           
+    6.Codebasics-https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ           
     
     7.3Blue1Brown-https://www.youtube.com/c/3blue1brown/featured
 
