@@ -614,7 +614,11 @@ BEST YOUTUBE CHANNEL TO FOLLOW
 
     4.Ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
     
-    5.3Blue1Brown-https://www.youtube.com/c/3blue1brown/featured
+    5.ken jee-https://www.youtube.com/c/KenJee1/featured
+    
+    6.codebasics-https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ           
+    
+    7.3Blue1Brown-https://www.youtube.com/c/3blue1brown/featured
 
 BEST BLOGS TO FOLLOW 
 
