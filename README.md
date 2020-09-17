@@ -753,6 +753,8 @@ BEST RESOURCES
    
    58.numerical-linear-algebra -https://github.com/fastai/numerical-linear-algebra
    
+   59.Super Duper NLP Repo- https://notebooks.quantumstat.com/
+   
 Follow leaders in the field to update yourself in the field
 
     1.Linkedin
