@@ -802,7 +802,7 @@ some useful content :
 
 14.automl lazy predict
 
-15.bamboolib (python package for easy data exploration & transformation)
+15.bamboolib or pandas-ui (python package for easy data exploration & transformation)
 
 16.CUPY (array process parallel in gpu)
 
