@@ -475,7 +475,7 @@ Machine learning
       
       models 
       
-      1.Arima
+      1.Arima , auto arima ,seasonal arima
       
       2.Autoregressive model
       
@@ -655,7 +655,7 @@ BEST RESOURCES
     
    11.free-data-science-books-https://github.com/chaconnewu/free-data-science-books
     
-   12.arcgis-https://github.com/Esri/arcgis-python-api  ,  https://github.com/Esri/arcgis-python-api
+   12.arcgis-https://github.com/Esri/arcgis-python-api 
     
    13.data-science-ipython-notebooks-https://github.com/donnemartin/data-science-ipython-notebooks
     
@@ -703,6 +703,8 @@ BEST RESOURCES
    
    34.Powerful and efficient Computer Vision Annotation Tool (CVAT)-https://github.com/openvinotoolkit/cvat, https://github.com/abreheret/PixelAnnotationTool
    
+   https://github.com/UniversalDataTool/universal-data-tool
+   
    35.Data augmentation for NLP-https://github.com/makcedward/nlpaug
    
    36.awesome Data Science-https://github.com/academic/awesome-datascience
@@ -742,6 +744,14 @@ BEST RESOURCES
    53.ExploriPy-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
    
    54.TCN-https://github.com/philipperemy/keras-tcn
+   
+   55.deeplearning-models-https://github.com/rasbt/deeplearning-models
+   
+   56.earthengine-py-notebooks-https://github.com/giswqs/earthengine-py-notebooks
+   
+   57.NLP-progress -https://github.com/sebastianruder/NLP-progress
+   
+   58.numerical-linear-algebra -https://github.com/fastai/numerical-linear-algebra
    
 Follow leaders in the field to update yourself in the field
 
@@ -793,105 +803,104 @@ some useful content :
 
 7. autoViz
 
-8. sweetviz (EDA purpose)
+8. sweetviz (EDA purpose)  - https://pypi.org/project/sweetviz/
 
-9. pandasprofiling(display whole EDA)
+9. pandasprofiling(display whole EDA) - https://pypi.org/project/pandas-profiling/
 
-10. autokeras
+10. autokeras 
 
-11. pycaret
+11. pycaret- https://pycaret.org/
 
-12.Auto_Timeseries by auto_ts
+12.Auto_Timeseries by auto_ts 
 
 13.AutoNLP_Sentiment_Analysis by autoviml
 
-14.automl lazy predict
+14.automl lazypredict https://github.com/shankarpandala/lazypredict 
 
-15.bamboolib or pandas-ui (python package for easy data exploration & transformation)
+15.bamboolib or pandas-ui (python package for easy data exploration & transformation)  https://bamboolib.8080labs.com/ , https://pypi.org/project/pandas-ui/
 
-16.CUPY (array process parallel in gpu)
+16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
 
-17.Dabl has a built-in function that will automatically detect data types and quality issues and apply appropriate pre-processing to a dataset to prepare it for machine learning.
+17.Dabl has a built-in function that will automatically detect data types and quality issues and apply appropriate pre-processing to a dataset to prepare it for machine learning.  https://pypi.org/project/dabl/
 
-18.dask (parallel comptataion)
+18.dask (parallel comptataion)   https://docs.dask.org/en/latest/
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
-20.Dora library is another data analysis library designed to simplify exploratory data analysis.
+   data-preparation-tools - https://improvado.io/blog/data-preparation-tools
 
-21.FastAPI is a modern, fast (high-performance), web framework for building APIs.
+20.Dora library is another data analysis library designed to simplify exploratory data analysis. https://pypi.org/project/Dora/
 
-22.faster Hyper Parameter Tuning(sklearn-nature-inspired-algorithms)
+21.FastAPI is a modern, fast (high-performance), web framework for building APIs. https://fastapi.tiangolo.com/
 
-23.FlashText (A library faster than Regular Expressions for NLP tasks)
+22.faster Hyper Parameter Tuning(sklearn-nature-inspired-algorithms) https://pypi.org/project/sklearn-nature-inspired-algorithms/
 
-24.Guietta (tool that makes simple GUIs simple)
+23.FlashText (A library faster than Regular Expressions for NLP tasks)  https://pypi.org/project/flashtext/
 
-25.hummingbird (make code fastly exexcute)
+24.Guietta (tool that makes simple GUIs simple)  https://pypi.org/project/guietta/
 
-26.memory-profiler (tell memory consumption line by line)
+25.hummingbird (make code fastly exexcute) https://pypi.org/project/Hummingbird/
 
-27.numexpr (incerease speed of execution of numpy)
+26.memory-profiler (tell memory consumption line by line)  https://pypi.org/project/memory-profiler/
 
-28.pandarallel  (simple and efficient tool to parallelize your pandas computation on all your CPUs)
+27.numexpr (incerease speed of execution of numpy)  https://github.com/pydata/numexpr
 
-29.PDFTableExtract(by PyPDF2)
+28.pandarallel  (simple and efficient tool to parallelize your pandas computation on all your CPUs) https://pypi.org/project/pandarallel/
 
-30.PyImpuyte(Python package that simplifies the task of imputing missing values in big datasets)
+29.PDFTableExtract(by PyPDF2)  https://github.com/ashima/pdf-table-extract
 
-31.libra(Automates the end-to-end machine learning process in just one line of code)
+30.PyImpuyte(Python package that simplifies the task of imputing missing values in big datasets)  https://pypi.org/project/PyImpuyte/
+
+31.libra(Automates the end-to-end machine learning process in just one line of code)  https://pypi.org/project/libra/
 
 32.debug code by puyton -m pdp -c continue 
 
 33.cURL (This is a useful tool for obtaining data from any server via a variety of protocols including HTTP.)
+   https://stackabuse.com/using-curl-in-python-with-pycurl/
 
-34.csvkit
-
+34.csvkit  https://pypi.org/project/csvkit/
+ 
 35.IPython  IPython gives access to enhanced interactive python from the shell. 
 
-36.pip install faker  (Create our own Dataset)
+36.pip install faker  (Create our own Dataset)  https://pypi.org/project/Faker/
 
 37.Python debugger    %pdb
 
 38.𝚟𝚘𝚒𝚕𝚊-From notebooks to standalone web applications and dashboards https://voila.readthedocs.io/en/stable/  https://github.com/voila-dashboards/voila
 
-39.𝚝𝚜𝚕𝚎𝚊𝚛𝚗  for timeseries data
+39.𝚝𝚜𝚕𝚎𝚊𝚛𝚗  for timeseries data   https://github.com/tslearn-team/tslearn
 
 40.texthero text-based dataset in Pandas Dataframe quickly and effortlessly  https://github.com/jbesomi/texthero
 
-41.𝚔𝚊𝚕𝚎𝚒𝚍𝚘(web-based visualization libraries like your Jupyter Notebook with zero dependencies)
+41.𝚔𝚊𝚕𝚎𝚒𝚍𝚘(web-based visualization libraries like your Jupyter Notebook with zero dependencies)   https://pypi.org/project/kaleido/
 
-42.Vaex- Reading And Processing Huge Datasets in seconds
+42.Vaex- Reading And Processing Huge Datasets in seconds  https://github.com/vaexio/vaex
 
-43.Uber’s Ludwig is an Open Source Framework for Low-Code Machine Learning
+43.Uber’s Ludwig is an Open Source Framework for Low-Code Machine Learning  https://eng.uber.com/introducing-ludwig/
 
-44.Google's TAPAS, a BERT-Based Model for Querying Tables Using Natural Language
+44.Google's TAPAS, a BERT-Based Model for Querying Tables Using Natural Language  https://github.com/google-research/tapas
 
-45.RAPIDS  open GPU Data Science
+45.RAPIDS  open GPU Data Science  https://rapids.ai/
 
-46.pyforest Lazy-import of all popular Python Data Science libraries. Stop writing the same imports over and over again.
+46.pyforest Lazy-import of all popular Python Data Science libraries. Stop writing the same imports over and over again. https://pypi.org/project/pyforest/0.1.1/
 
-47.Modin Get faster Pandas with Modin
+47.Modin Get faster Pandas with Modin  https://github.com/modin-project/modin
 
-48.faster Hyper Parameter Tuning    NatureInspiredSearchCV
+48.Text2Code for Jupyter notebook  - https://github.com/deepklarity/jupyter-text2code , https://towardsdatascience.com/data-analysis-made-easy-text2code-for-jupyter-notebook-5380e89bb493
 
-49.Dabl has a built-in function that will automatically detect data types and quality issues and apply appropriate pre-processing to a dataset to prepare it for machine learning
+49.Openrefine Tool-For Data Preprocessing Without Code  https://analyticsindiamag.com/openrefine-tutorial-a-tool-for-data-preprocessing-without-code/
 
-50.Text2Code for Jupyter notebook  - https://github.com/deepklarity/jupyter-text2code , https://towardsdatascience.com/data-analysis-made-easy-text2code-for-jupyter-notebook-5380e89bb493
-
-51.Openrefine Tool-For Data Preprocessing Without Code  https://analyticsindiamag.com/openrefine-tutorial-a-tool-for-data-preprocessing-without-code/
-
-52.Microsoft Releases Latest Version Of DeepSpeed  deep learning optimisation library known as DeepSpeed- https://github.com/microsoft/DeepSpeed
+50.Microsoft Releases Latest Version Of DeepSpeed  deep learning optimisation library known as DeepSpeed- https://github.com/microsoft/DeepSpeed
 
 https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its-python-library-for-deep-learning-optimisation/
 
-53.4-pandas-tricks-https://towardsdatascience.com/4-pandas-tricks-that-most-people-dont-know-86a70a007993
+51.4-pandas-tricks-https://towardsdatascience.com/4-pandas-tricks-that-most-people-dont-know-86a70a007993
 
-54.tkinter to deploy machine learning model-https://analyticsindiamag.com/complete-tutorial-on-tkinter-to-deploy-machine-learning-model/
+52.tkinter to deploy machine learning model-https://analyticsindiamag.com/complete-tutorial-on-tkinter-to-deploy-machine-learning-model/
 
-55.autoplotter is a python package for GUI based exploratory data analysis-https://github.com/ersaurabhverma/autoplotter
+53.autoplotter is a python package for GUI based exploratory data analysis-https://github.com/ersaurabhverma/autoplotter
 
-56.3 NLP Interpretability Tools For Debugging Language Models-https://www.topbots.com/nlp-interpretability-tools/
+54.3 NLP Interpretability Tools For Debugging Language Models-https://www.topbots.com/nlp-interpretability-tools/
 
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
