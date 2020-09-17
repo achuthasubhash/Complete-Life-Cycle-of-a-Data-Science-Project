@@ -192,7 +192,9 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
      
        3.Robust Scaler not influenced by outliers because using of median,IQR
       
-       4.Q-Q plot is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to improve performance
+       4.Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to 
+         
+          improve performance
      
            a.Guassian Transformation
         
