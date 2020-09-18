@@ -10,7 +10,7 @@ Business understanding
 
 1.Data collection
 
-Data 2 kinds
+Data of 2 kinds
 
     a.structure data (tabular data,etc...)
     
@@ -252,7 +252,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
     
        d.Random_forest_importance
   
-    4.statics to select important feature
+    4.statics to select important feature (chi square  test,T test,anova test,hypothesis test)
   
     5.keep in mind  curse of dimensionality
   
