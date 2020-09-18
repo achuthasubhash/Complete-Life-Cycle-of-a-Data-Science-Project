@@ -809,6 +809,8 @@ some useful content :
 
 7. autoViz
 
+8. hyperopt
+
 8. sweetviz (EDA purpose)  - https://pypi.org/project/sweetviz/
 
 9. pandasprofiling(display whole EDA) - https://pypi.org/project/pandas-profiling/
