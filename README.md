@@ -284,7 +284,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
     
     19.feature importance with decision trees
     
-    20.lasso 
+    20.lasso regression 
 
 5.Model selection
 
@@ -309,7 +309,7 @@ Machine learning
         passive aggressive classifier algorithm
    
   
-   B.Unsupervised learning(no label data)
+   B.Unsupervised learning(no label(target) data)
    
      1.Dimensionality reduction - PCA,SVD,LDA,tsne
    
@@ -548,6 +548,8 @@ tensorboard to visualization of model performance
 generally used metrics
   
      Always check bias variance tradeoff to know how model is performing
+     
+     model can be overfitting(low bias,high variance),underfitting(high bias,high variance),good fit(low bias,low variance)
      
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
