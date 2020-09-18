@@ -759,6 +759,8 @@ BEST RESOURCES
    
    59.Super Duper NLP Repo- https://notebooks.quantumstat.com/
    
+   60.reinforcement learning by using  PyTorch-https://github.com/SforAiDl/genrl
+   
 Follow leaders in the field to update yourself in the field
 
     1.Linkedin
