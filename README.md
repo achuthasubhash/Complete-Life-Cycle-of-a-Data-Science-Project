@@ -695,6 +695,8 @@ BEST RESOURCES
    
    Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection/tree/master/application_model_zoo
    
+   Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials- https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
+   
    30.Machine-Learning-with-Python-https://github.com/tirthajyoti/Machine-Learning-with-Python
    
    31.huggingface-https://github.com/huggingface
