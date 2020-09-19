@@ -595,7 +595,7 @@ CI CD pipeline used-  circleci , jenkins
 
 BIG DATA: hadoop,apache spark
 
-***research paper***-https://arxiv.org/
+***research paper***-https://arxiv.org/ ,  https://www.kaggle.com/Cornell-University/arxiv
 
 ***upcoming programming language for data science is julia*** 
 
