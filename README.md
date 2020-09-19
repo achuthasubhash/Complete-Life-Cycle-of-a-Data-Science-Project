@@ -469,7 +469,7 @@ Machine learning
       
       4.take previous year value and impute
       
-      here model selection deponds on different property of data like stationary,trend,seasonality
+      here model selection deponds on different property of data like stationary,trend,seasonality,cyclic
       
       adfuller test  for  Stationarity
       
