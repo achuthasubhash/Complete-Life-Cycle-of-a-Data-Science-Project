@@ -500,6 +500,8 @@ Machine learning
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+      
+      https://github.com/Apress/hands-on-time-series-analylsis-python
           
    G.semi supervised learning
    
