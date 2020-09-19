@@ -584,7 +584,7 @@ if not giving good performance go back to Data collection or  Feature engineerin
     
     6.tkinter
 
-    app- flask,streamlit,Django
+    app- Flask,Streamlit,Django,Web2py
     
     use of tensorflow lite to reduce size of model
     
