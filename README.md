@@ -1,14 +1,14 @@
 # Complete-Life-Cycle-of-a-Data-Science-Project
 
-***credit: all corresponding resources***
+***CREDITS:All corresponding resources***
 
-***motivation:motivation to create this repository  to help upcoming aspirants and help to  others in the data science field***
+***MOTIVATION:Motivation to create this repository  to help upcoming aspirants and help to  others in the data science field***
 
 as data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
 
-Business understanding 
+***Business understanding*** 
 
-1.Data collection
+***1.Data collection***
 
 Data of 2 kinds
 
@@ -110,8 +110,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
     
     34)Big Bad NLP Database-https://datasets.quantumstat.com/
        
-
-2.Feature engineering
+***2.Feature engineering***
 
      Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
      
@@ -228,7 +227,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
      
      b.unbiased sampling
 
-3.Exploratory Data Analysis(eda)
+***3.Exploratory Data Analysis(eda)***
   
     Explore the dataset by using  python or microsoft excel or tableau or powerbi, etc...
     
@@ -236,7 +235,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plotm,time series plot,density plot,dot plot,strip plot
   
-4.Feature selection
+***4.Feature selection***
 
     1.pearson correleation
    
@@ -286,7 +285,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
     
     20.lasso regression 
 
-5.Model selection
+***5.Model selection***
 
 Machine learning
    
@@ -513,7 +512,7 @@ Machine learning
    
    J.deep dream,style transfer
 
-hyperparameter tuning
+***hyperparameter tuning***
   
     a.GridSearchCV (check every given parameter so take long time)
   
@@ -547,7 +546,7 @@ hyperparameter tuning
   
 tensorboard to visualization of model performance
 
-6.Testing model
+***6.Testing model***
 
 generally used metrics
   
@@ -570,7 +569,7 @@ generally used metrics
 if not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
 
-7.deployment
+***7.deployment***
 
     1.Azure
     
@@ -590,17 +589,17 @@ if not giving good performance go back to Data collection or  Feature engineerin
     
     use Quantization to reduce size of model
 
-8.mointoring model
+***8.mointoring model***
 
 CI CD pipeline used-  circleci , jenkins
 
 BIG DATA: hadoop,apache spark
 
-research paper-https://arxiv.org/
+***research paper***-https://arxiv.org/
 
-upcoming programming language for data science is julia 
+***upcoming programming language for data science is julia*** 
 
-BEST ONLINE COURSES
+***BEST ONLINE COURSES***
 
     1.COURSERA
 
@@ -611,7 +610,7 @@ BEST ONLINE COURSES
     4.DATACAMP
 
 
-BEST YOUTUBE CHANNEL TO FOLLOW
+***BEST YOUTUBE CHANNEL TO FOLLOW***
 
     1.Krish Naik-https://www.youtube.com/user/krishnaik06
 
@@ -627,7 +626,7 @@ BEST YOUTUBE CHANNEL TO FOLLOW
     
     7.3Blue1Brown-https://www.youtube.com/c/3blue1brown/featured
 
-BEST BLOGS TO FOLLOW 
+***BEST BLOGS TO FOLLOW***
 
     1.Towards data science-https://towardsdatascience.com/
 
@@ -637,7 +636,7 @@ BEST BLOGS TO FOLLOW
     
     4.Machinelearningmastery-https://machinelearningmastery.com/blog/
 
-BEST RESOURCES
+***BEST RESOURCES***
 
    1.paperswithcode-https://paperswithcode.com/methods
 
@@ -765,24 +764,24 @@ BEST RESOURCES
    
    60.reinforcement learning by using  PyTorch-https://github.com/SforAiDl/genrl
    
-Follow leaders in the field to update yourself in the field
+***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
 
     2.Twitter
     
- Free CPU/GPU/TPU
+***Free CPU/GPU/TPU***
  
     1.Google cloab
     
     2.Kaggle kernel
     
     
-So what next ?
+***So what next ?***
 
 participate online competition and do project and apply to intership , job,real world problems, etc...
 
-online competitions:
+***online competitions:***
 
 1.Kaggle-https://www.kaggle.com/
 
@@ -799,7 +798,7 @@ online competitions:
 7.driven data-https://www.drivendata.org/
 
 
-some useful content :
+***some useful content :***
 
 1. H20.ai
 
@@ -920,6 +919,6 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
-                                                       HAPPY LEARNING
+                                                       ***HAPPY LEARNING***
 
 
