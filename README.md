@@ -1,6 +1,6 @@
 # Complete-Life-Cycle-of-a-Data-Science-Project
 
-###***credit: all corresponding resources***
+***credit: all corresponding resources***
 
 ***motivation:motivation to create this repository  to help upcoming aspirants and help to  others in the data science field***
 
@@ -496,6 +496,8 @@ Machine learning
       10.AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/
       
       11.Temporal Convolutional Neural
+      
+      12.Atspy For Automating The Time-Series Forecasting-https://analyticsindiamag.com/hands-on-guide-to-atspy-for-automating-the-time-series-forecasting/
    
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
