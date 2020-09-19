@@ -36,6 +36,8 @@ c.big data engineering to collect data
 
 d.databases
 
+databases are 2 kind sequel  and no sequel database
+
 sql,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable
 
 e.online resources -   ultimate resource  https://datasetsearch.research.google.com/
@@ -234,6 +236,8 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
     Data visualization (Matplotlib,Seaborn,Bokeh,etc...)
     
     Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plotm,time series plot,density plot,dot plot,strip plot
+    
+    data distributions-normal distribution,
   
 ***4.Feature selection***
 
@@ -358,9 +362,9 @@ Machine learning
    
    1.Multilayer perceptron(MLP)
    
-     1.Regression
+     1.Regression task
    
-     2.Classification
+     2.Classification task
    
    2.Convolutional neural network ( use for image data)
    
@@ -390,7 +394,7 @@ Machine learning
      
      3.LSTM (have memory cell,forget gate  etc..)
      
-     all above have bidirectional also based on problem statement use bidirectional 
+     all above 3 models have bidirectional also based on problem statement use bidirectional 
   
    4.Generative adversarial network
    
@@ -440,7 +444,7 @@ Machine learning
           
           iiI)fasttext
         
-        b.own embedding  (use when have huge data)
+        b.creating own embedding  (use when have huge data)
         
           i)word2vec library
           
@@ -450,9 +454,9 @@ Machine learning
       
      8.Transformer (big breakthrough in NLP)
       
-     9.BERT,ROBERTA,XLNet, XLM-RoBERTa, T5,DISTILBERT,GPT,GPT2,GPT3
+     9.BERT,ROBERTA,XLNet, XLM-RoBERTa, T5,DISTILBERT,GPT,GPT2,GPT3.
    
-   F.Time Series
+   F.Time Series 
    
       here data split is different (train,test,validate)
       
@@ -476,9 +480,9 @@ Machine learning
       
       1.Arima , auto arima ,seasonal arima
       
-      2.Autoregressive model
+      2.Autoregressive 
       
-      3.Moving average
+      3.Moving average 
       
       4.Lstm(neural network)
       
@@ -504,9 +508,9 @@ Machine learning
       
       https://github.com/Apress/hands-on-time-series-analylsis-python
           
-   G.semi supervised learning
+   G.semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
    
-   H.active learning
+   H.active learning,Multi-Task Learning,Online Learning
    
    I.transfer learning
    
