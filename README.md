@@ -489,7 +489,7 @@ Machine learning
       
       7.Smoothing (moving average,exponential smoothing)
       
-      8.Facebook prophet
+      8.Facebook prophet (note:expceted date column as ds and target column as y)
       
       9.Holts winter,Holts linear trend
       
