@@ -261,7 +261,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
   
     5.keep in mind  curse of dimensionality
   
-    6.highly correleated then remove 1 feature (multicollinearity)
+    6.highly correleated then can remove 1 feature (multicollinearity)
   
     7.dimension reduction
   
@@ -289,7 +289,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
     
     19.feature importance with decision trees
     
-    20.lasso regression 
+    20.forward elimination , backward elimination 
 
 ***5.Model selection***
 
@@ -574,6 +574,7 @@ generally used metrics
 
 if not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
+docker and kubernetes
 
 ***7.deployment***
 
@@ -584,10 +585,6 @@ if not giving good performance go back to Data collection or  Feature engineerin
     3.Amazon Web Services
     
     4.Google cloud platform
-    
-    5.Docker
-    
-    6.tkinter
 
     app- Flask,Streamlit,Django,Web2py
     
