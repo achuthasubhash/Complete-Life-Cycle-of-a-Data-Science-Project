@@ -29,6 +29,8 @@ https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-
     4.Request to access data 
     
     5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper
+    
+    6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝)-https://github.com/twintproject/twint
   
 b.3rd party API'S 
 
@@ -422,7 +424,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     Nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp  libraries
+     Nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp,polyglot  libraries
      
      NLU,NLG,NER,text summarization,machine translation
       
