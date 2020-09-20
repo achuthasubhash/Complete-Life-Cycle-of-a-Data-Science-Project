@@ -4,7 +4,7 @@
 
 ***MOTIVATION:Motivation to create this repository  to help upcoming aspirants and help to  others in the data science field***
 
-as data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
+As data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
 
 ***Business understanding*** 
 
@@ -12,35 +12,35 @@ as data science is fastly developing field i found these few new techinques whic
 
 Data of 2 kinds
 
-    a.structure data (tabular data,etc...)
+    a.Structure data (tabular data,etc...)
     
-    b.unstructured data (images,text,audio,etc...)
+    b.Unstructured data (images,text,audio,etc...)
 
-a.web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
+a.Web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
 
 https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=KJ|link|weekend-blogs|blogs|44087|0.875
 
-    1.beautifulsoup
+    1.Beautifulsoup
    
-    2.scrapy
+    2.Scrapy
    
-    3.selenium
+    3.Selenium
    
-    4.request to access data 
+    4.Request to access data 
     
     5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper
   
 b.3rd party API'S 
 
-c.big data engineering to collect data
+c.Big data engineering to collect data
 
-d.databases
+d.Databases
 
-databases are 2 kind sequel  and no sequel database
+  Databases are 2 kind sequel  and no sequel database
 
-sql,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable
+  sql,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable
 
-e.online resources -   ultimate resource  https://datasetsearch.research.google.com/
+e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
     1)kaggle
    
@@ -114,11 +114,11 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
        
 ***2.Feature engineering***
 
-     Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
+   Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
      
    Remove duplicate data in dataset
 
-   a.handle missing value
+   a.Handle missing value
    
      1.if missing data too small then delete it 
      
@@ -140,7 +140,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
      
      10.regression Imputation
      
-   b.handle imbalance
+   b.Handle imbalance
    
      1.Under Sampling - mostly not prefer because lost of data
      
@@ -150,13 +150,11 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
      
      4.use kfold to keep the ratio of classess constant
   
-   c.remove noise data
+   c.Remove noise data
    
-   d.format data
+   d.Format data
    
-   Numerical variables: Discrete numerical variable,Continuous numerical variable
-   
-   e.handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
+   e.Handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
    
      1.One Hot Encoding
      
@@ -184,7 +182,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
      
      13.binary encoding
      
-   f.scaling of data
+   f.Scaling of data
    
        1.Normalisation
    
@@ -196,7 +194,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
       
        5.Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to 
          
-          improve performance
+          Improve performance
      
            a.Guassian Transformation
         
@@ -214,17 +212,17 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
            
            h.johnson
         
-   g.remove low variance feature by using VarianceThreshold
+   g.Remove low variance feature by using VarianceThreshold
    
-   h.same variable in feature then remove feature
+   h.Same variable in feature then remove feature
    
-   i.outilers   removing outilers depond on problem we are solving
+   i.Outilers   removing outilers depond on problem we are solving
     
       eg: incase of fraud detection outilers are very important
       
       methods to find outiler: zscore,boxplot,IQR
       
-   j.sampling techniques
+   j.Sampling techniques
      
      a.biased sampling
      
@@ -292,11 +290,11 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
 
 ***5.Model selection***
 
-Machine learning
+  Machine learning
    
    A.Supervised learning (have label data)
    
-     1.regression (output feature in continous data form)
+     1.Regression (output feature in continous data form)
      
        linear regression,polynomial regression,support vector machine,Decision Tree Regression,Random Forest Regression,
        
@@ -306,7 +304,7 @@ Machine learning
        
        use cases:
    
-     2.classification (output feature in categorical data form)
+     2.Classification (output feature in categorical data form)
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,
         
@@ -372,13 +370,13 @@ Machine learning
    
    2.Convolutional neural network ( use for image data)
    
-     1.classification of image
+     1.Classification of image
      
        create own model,lenet,alexnet,resenet,inception,vgg,efficientnet,Nasnet
      
-     2.localization of object in image
+     2.Localization of object in image
      
-     3.object detection and object segmentation 
+     3.Object detection and object segmentation 
      
        rcnn,fastrcnn,fatercnn,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
@@ -386,11 +384,11 @@ Machine learning
        
        3 kind of object segmentation semantic segmentation,instance segmentation,panoptic segmentation
      
-     4.pose estimation 
+     4.Pose estimation 
      
      5.Deepdream,Neural style transfer
    
-   3.recurrent neural network (use when series of data)
+   3.Recurrent neural network (use when series of data)
    
      1.RNN
      
@@ -422,9 +420,9 @@ Machine learning
    
    8.Natural language processing
    
-     clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
+     Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp  libraries
+     Nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp  libraries
      
      NLU,NLG,NER,text summarization,machine translation
       
@@ -454,7 +452,7 @@ Machine learning
           
           ii)keras embedding 
         
-     7.encoder and  decoder(sequence to sequence)
+     7.Encoder and Decoder(sequence to sequence)
       
      8.Transformer (big breakthrough in NLP)
       
@@ -512,13 +510,13 @@ Machine learning
       
       https://github.com/Apress/hands-on-time-series-analylsis-python
           
-   G.semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
+   G.Semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
    
-   H.active learning,Multi-Task Learning,Online Learning
+   H.Active learning,Multi-Task Learning,Online Learning
    
-   I.transfer learning
+   I.Transfer learning
    
-   J.deep dream,style transfer
+   J.Deep dream,Style transfer
 
 ***Hyperparameter tuning***
   
@@ -534,49 +532,49 @@ Machine learning
   
     f.Genetic Algorithms 
     
-    g.hyperopt
+    g.Hyperopt
     
-    h.keras tuner
+    h.Keras tuner
     
- cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
+ Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
-     1.loocv
+     1.Loocv
      
-     2.kfoldcv
+     2.Kfoldcv
      
-     3.stratfied cross validation
+     3.Stratfied cross validation
      
      4.Time Series cross-validation
      
      5.Holdout cross-validation
      
-     6.repeated cross-validation
+     6.Repeated cross-validation
   
-tensorboard to visualization of model performance
+Tensorboard to visualization of model performance
 
 ***6.Testing model***
 
-generally used metrics
+Generally used metrics
   
      Always check bias variance tradeoff to know how model is performing
      
-     model can be overfitting(low bias,high variance),underfitting(high bias,high variance),good fit(low bias,low variance)
+     Model can be overfitting(low bias,high variance),underfitting(high bias,high variance),good fit(low bias,low variance)
      
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
-    2.classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,log loss,Average precision,Mean average precision
+    2.Classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,log loss,Average precision,Mean average precision
     
     3.Reinforcement learning - total rewards
     
     4.Incase of machine translation use bleu score
     
-    5.clustering then use silhouette score
+    5.Clustering then use silhouette score
     
     6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss,
 
-if not giving good performance go back to Data collection or  Feature engineering to increase performance of model
+If not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
-docker and kubernetes
+Docker and Kubernetes
 
 ***7.deployment***
 
@@ -588,17 +586,17 @@ docker and kubernetes
     
     4.Google cloud platform
 
-    app- Flask,Streamlit,Django,Web2py
+    Python Frameworks for App Development- Flask,Streamlit,Django,Web2py,Pyramid,CherryPy https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
-    use of tensorflow lite to reduce size of model
+***Tensorflow lite:Use of tensorflow lite to reduce size of model***
     
-    use Quantization to reduce size of model
+***Quantization:Use Quantization to reduce size of model***
 
-***8.mointoring model***
+***8.Mointoring model***
 
-CI CD pipeline used-  circleci , jenkins
+***CI CD pipeline used-  circleci , jenkins***
 
-BIG DATA: hadoop,apache spark
+***BIG DATA: hadoop,apache spark***
 
 ***research paper***-https://arxiv.org/ ,  https://www.kaggle.com/Cornell-University/arxiv
 
@@ -803,7 +801,7 @@ participate online competition and do project and apply to intership , job,real 
 7.driven data-https://www.drivendata.org/
 
 
-***some useful content :***
+***Some useful content :***
 
 1. H20.ai
 
@@ -919,7 +917,6 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 53.autoplotter is a python package for GUI based exploratory data analysis-https://github.com/ersaurabhverma/autoplotter
 
 54.3 NLP Interpretability Tools For Debugging Language Models-https://www.topbots.com/nlp-interpretability-tools/
-
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
