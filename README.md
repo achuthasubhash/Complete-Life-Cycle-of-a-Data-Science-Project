@@ -185,15 +185,17 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
      
      13.binary encoding
      
-   f.normalisation of data
+   f.scaling of data
    
-       1.Standardization
+       1.Normalisation
+   
+       2.Standardization
      
-       2.Min Max Scaling
+       3.Min Max Scaling
      
-       3.Robust Scaler not influenced by outliers because using of median,IQR
+       4.Robust Scaler not influenced by outliers because using of median,IQR
       
-       4.Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to 
+       5.Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to 
          
           improve performance
      
