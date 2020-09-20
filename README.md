@@ -304,6 +304,8 @@ Machine learning
        least square method,Random Forest Regression,xgboost,ridge,lasso,catboost,gradientboosting,adaboost,
        
        elsatic net,light gbm,ordinary least squares
+       
+       use cases:
    
      2.classification (output feature in categorical data form)
      
