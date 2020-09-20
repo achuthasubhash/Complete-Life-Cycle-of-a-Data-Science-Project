@@ -116,7 +116,7 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
 
      Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
      
-     remove duplicate data
+   Remove duplicate data in dataset
 
    a.handle missing value
    
@@ -139,7 +139,6 @@ e.online resources -   ultimate resource  https://datasetsearch.research.google.
      9.hot deck Imputation
      
      10.regression Imputation
-    
      
    b.handle imbalance
    
@@ -301,7 +300,7 @@ Machine learning
      
        linear regression,polynomial regression,support vector machine,Decision Tree Regression,Random Forest Regression,
        
-       least square method,Random Forest Regression,xgboost,ridge,lasso,catboost,gradientboosting,adaboost,
+       least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization),catboost,gradientboosting,adaboost,
        
        elsatic net,light gbm,ordinary least squares
        
@@ -314,8 +313,9 @@ Machine learning
         Random Forest Classification,xgboost,adaboost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis,
         
         passive aggressive classifier algorithm
+        
+        use cases:
    
-  
    B.Unsupervised learning(no label(target) data)
    
      1.Dimensionality reduction - PCA,SVD,LDA,tsne
@@ -520,7 +520,7 @@ Machine learning
    
    J.deep dream,style transfer
 
-***hyperparameter tuning***
+***Hyperparameter tuning***
   
     a.GridSearchCV (check every given parameter so take long time)
   
