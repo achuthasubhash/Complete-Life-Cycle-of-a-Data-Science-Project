@@ -503,7 +503,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
       11.Temporal Convolutional Neural
       
       12.Atspy For Automating The Time-Series Forecasting-https://analyticsindiamag.com/hands-on-guide-to-atspy-for-automating-the-time-series-forecasting/
-   
+      
+      13.Darts-https://analyticsindiamag.com/hands-on-guide-to-darts-a-python-tool-for-time-series-forecasting/
+      
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
