@@ -113,6 +113,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     33)huggingface datasets-https://github.com/huggingface/datasets
     
     34)Big Bad NLP Database-https://datasets.quantumstat.com/
+    
+    35)https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
        
 ***2.Feature engineering***
 
