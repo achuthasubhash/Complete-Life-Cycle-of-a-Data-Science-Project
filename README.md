@@ -116,7 +116,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     35)https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
     
-    36)bigquery public datasets-https://cloud.google.com/bigquery/public-data
+    36)bigquery public datasets
        
 ***2.Feature engineering***
 
