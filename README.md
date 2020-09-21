@@ -837,7 +837,7 @@ participate online competition and do project and apply to intership , job,real 
 
 9. pandasprofiling(display whole EDA) - https://pypi.org/project/pandas-profiling/
 
-10. autokeras 
+10. autokeras,AutoSklearn 
 
 11. pycaret- https://pycaret.org/
 
