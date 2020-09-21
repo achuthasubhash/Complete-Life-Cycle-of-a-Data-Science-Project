@@ -40,7 +40,7 @@ d.Databases
 
   Databases are 2 kind sequel  and no sequel database
 
-  sql,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable
+  sql,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
