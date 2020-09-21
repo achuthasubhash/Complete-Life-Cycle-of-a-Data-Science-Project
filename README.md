@@ -295,6 +295,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     19.feature importance with decision trees
     
     20.forward elimination , backward elimination 
+    
+    21.PyImpetus
 
 ***5.Model selection***
 
