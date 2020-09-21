@@ -262,7 +262,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
        d.Random_forest_importance
   
-    4.statics to select important feature (chi square  test,T test,anova test,hypothesis test)
+    4.statics to select important feature (chi square  test,T test,anova test,hypothesis test,ANOVA)
   
     5.keep in mind  curse of dimensionality
   
@@ -288,7 +288,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     16.Univariate  feature selection
     
-    17.recursive feature  elimination
+    17.recursive feature  elimination,recursive feature addition
     
     18.importance of feature (random forest importance)
     
@@ -297,6 +297,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     20.forward elimination , backward elimination 
     
     21.PyImpetus
+    
+    22.Step Forward Feature Selection,Step Backward Feature Selection
 
 ***5.Model selection***
 
