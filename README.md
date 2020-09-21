@@ -926,6 +926,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 54.3 NLP Interpretability Tools For Debugging Language Models-https://www.topbots.com/nlp-interpretability-tools/
 
+55.New Algorithm For Training Sparse Neural Networks (RigL)-https://analyticsindiamag.com/rigl-google-algorithm-neural-networks/
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
