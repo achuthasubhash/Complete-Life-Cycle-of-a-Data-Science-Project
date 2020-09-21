@@ -128,7 +128,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
      1.if missing data too small then delete it 
      
-     2.replace mean(influenced by outiler),median(not influenced by outiler),mode
+     2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode
      
      3.apply classifier algorithm to predict missing value
      
@@ -270,7 +270,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
   
     8.lasso regression to penalise unimportant features
     
-    9.filter method,wrapper method
+    9.filter method,wrapper method,embedded method
     
     10.threshold based method 
     
@@ -332,7 +332,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
          a.collaborative Recommendation system,
          
-         bcontent based Recommendation system 
+         b.content based Recommendation system 
          
          c.utility based Recommendation system 
          
@@ -341,6 +341,12 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
          e.demographic based Recommendation system 
          
          f.hybrid based Recommendation system 
+         
+         g.Average Weighted Recommendation
+         
+         h.using K Nearest Neighbor
+         
+         i.cosine distance recommender system
    
    C.Ensemble methods
    
