@@ -320,13 +320,13 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
         
         Random Forest Classification,xgboost,adaboost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis,
         
-        passive aggressive classifier algorithm
+        passive aggressive classifier algorithm,cart,c4.5,c5.0
         
         use cases:
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,SVD,LDA,tsne
+     1.Dimensionality reduction - PCA,SVD,LDA,tsne,plsr,pcr
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
