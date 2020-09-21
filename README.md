@@ -115,6 +115,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     34)Big Bad NLP Database-https://datasets.quantumstat.com/
     
     35)https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
+    
+    36)bigquery public datasets-https://cloud.google.com/bigquery/public-data
        
 ***2.Feature engineering***
 
