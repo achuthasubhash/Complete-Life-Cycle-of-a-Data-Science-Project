@@ -116,9 +116,19 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     35)https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
     
-    36)bigquery public dataset
+    36)bigquery public dataset ,Google Public Data Explorer
     
     37)inbuilt library data eg:iris dataset,mnist dataset,etc...
+    
+    38)data.gov.be ,data.egov.bg/,data.gov.cz/english,portal.opendata.dk,govdata.de,opendata.riik.ee,data.gov.ie,data.gov.gr,datos.gob.es,data.gouv.fr,data.gov.hr
+    
+    dati.gov.it,data.gov.cy,opendata.gov.lt,data.gov.lv,data.public.lu,data.gov.mt,data.overheid.nl,data.gv.at,danepubliczne.gov.pl,dados.gov.pt,data.gov.ro,podatki.gov.si
+
+    data.gov.sk,avoindata.fi,oppnadata.se,https://data.adb.org/,https://data.iadb.org/,https://www.weforum.org/agenda/2018/03/latin-america-smart-cities-big-data/
+    
+    https://data.fivethirtyeight.com/,https://wiki.dbpedia.org/,https://www.europeandataportal.eu/en,https://data.europa.eu/,https://www.census.gov/,
+    
+    https://www.who.int/data/gho,https://data.unicef.org/open-data/,http://data.un.org/,https://data.oecd.org/,https://data.worldbank.org/   
        
 ***2.Feature engineering***
 
