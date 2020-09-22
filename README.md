@@ -841,7 +841,7 @@ participate online competition and do project and apply to intership , job,real 
 
 ***Some useful content :***
 
-1. H20.ai
+1. H20.ai automl, google automl
 
 2. Tpot
 
@@ -849,7 +849,7 @@ participate online competition and do project and apply to intership , job,real 
 
 4. AutoGluon
 
-5. autosklearn
+5. autosklearn,autokeras
 
 6. autoviml
 
