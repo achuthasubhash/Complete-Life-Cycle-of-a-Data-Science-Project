@@ -120,7 +120,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     37)google_images_download,bing_image_downloader
     
-    38)inbuilt library data eg:iris dataset,mnist dataset
+    38)inbuilt library data eg:iris dataset,mnist dataset,etc...
        
 ***2.Feature engineering***
 
