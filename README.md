@@ -44,13 +44,13 @@ d.Databases
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
-    1)kaggle
+    1)kaggle-https://www.kaggle.com/datasets
    
-    2)movielens
+    2)movielens-https://grouplens.org/datasets/movielens/latest/
    
-    3)data.gov:   https://data.gov.in/
+    3)data.gov-https://data.gov.in/
    
-    4)uci
+    4)uci-https://archive.ics.uci.edu/ml/datasets.php
    
     5)quandi
     
@@ -60,7 +60,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     8)online hacktons
    
-    9)image data from Google_Search
+    9)image data from google_images_download
    
     10)image data from Bing_Search
    
@@ -116,11 +116,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     35)https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
     
-    36)bigquery public datasets
+    36)bigquery public dataset
     
-    37)google_images_download,bing_image_downloader
-    
-    38)inbuilt library data eg:iris dataset,mnist dataset,etc...
+    37)inbuilt library data eg:iris dataset,mnist dataset,etc...
        
 ***2.Feature engineering***
 
