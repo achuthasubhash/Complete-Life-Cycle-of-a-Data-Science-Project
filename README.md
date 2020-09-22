@@ -385,6 +385,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
       4.Twin Delayed DDPG
       
       5.A3C 
+      
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
@@ -460,11 +461,11 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      3.using rnn,lstm,gru
      
-     4.attention
+       for above 3 models have bidirectional also
      
-     5.self attention
+     4.Encoder and Decoder(sequence to sequence)
      
-     6.wordembedding
+     5.wordembedding
         
         a.using pretrained model 
           
@@ -479,9 +480,11 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
           i)word2vec library
           
           ii)keras embedding 
-        
-     7.Encoder and Decoder(sequence to sequence)
       
+     6.attention
+     
+     7.self attention
+     
      8.Transformer (big breakthrough in NLP)
       
      9.BERT,ROBERTA,XLNet, XLM-RoBERTa, T5,DISTILBERT,GPT,GPT2,GPT3.
@@ -661,6 +664,8 @@ Docker and Kubernetes
     6.Codebasics-https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ           
     
     7.3Blue1Brown-https://www.youtube.com/c/3blue1brown/featured
+    
+    8.The AI Guy -https://www.youtube.com/channel/UCrydcKaojc44XnuXrfhlV8Q 
 
 ***BEST BLOGS TO FOLLOW***
 
