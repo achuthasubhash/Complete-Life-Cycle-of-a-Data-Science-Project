@@ -237,7 +237,7 @@ performance if not distributed then use below methods to bring it guassian distr
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: zscore,boxplot,IQR
+      methods to find outiler: zscore,boxplot,IQR,TensorFlow_Data_Validation
       
    j.Sampling techniques
      
