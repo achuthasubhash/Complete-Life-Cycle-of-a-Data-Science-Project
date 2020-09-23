@@ -10,7 +10,7 @@ As data science is fastly developing field i found these few new techinques whic
 
 ***1.Data collection***
 
-Data of 2 kinds
+Data consists of 2 kinds
 
     a.Structure data (tabular data,etc...)
     
@@ -34,13 +34,13 @@ https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-
   
 b.3rd party API'S 
 
-c.Big data engineering to collect data
+c.creating own data  (manual collection eg:google docx,servey,etc...)
 
 d.Databases
 
   Databases are 2 kind sequel  and no sequel database
 
-  sql,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase
+  sql,sql lite,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
@@ -166,7 +166,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      3.class_weight give more importance(weight) to that small class
      
-     4.use kfold to keep the ratio of classess constant
+     4.use kfold to keep the ratio of classess constantly
   
    c.Remove noise data
    
@@ -210,9 +210,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
        4.Robust Scaler not influenced by outliers because using of median,IQR
       
-       5.Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to 
-         
-          Improve performance
+   Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
+performance if not distributed then use below methods to bring it guassian distribution
      
            a.Guassian Transformation
         
@@ -232,7 +231,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
         
    g.Remove low variance feature by using VarianceThreshold
    
-   h.Same variable in feature then remove feature
+   h.Same variable(only 1 variable) in feature then remove feature
    
    i.Outilers   removing outilers depond on problem we are solving
     
@@ -256,7 +255,21 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     model visualization Tensorboard,netron
     
-    data distributions-normal distribution,
+    data distributions-normal distribution,Standard Normal Distribution,Student's t-Distribution,Bernoulli Distribution,Binomial Distribution,Poisson Distribution,Uniform Distribution,F Distribution,Covariance and Correlation
+  
+    Types of Statistics  
+    
+    1.Descriptive
+    
+    2.Inferential
+    
+    Types of data
+    
+    1) Categorical
+    
+    2) Numerical
+    
+    Central Limit Theorem,Bayes Theorem,Confidence Interval,Hypothesis Testing,z test, t test,f test,Confidence Interval,1 tail test, 2 tail test,chisquare test,anova test
   
 ***4.Feature selection***
 
