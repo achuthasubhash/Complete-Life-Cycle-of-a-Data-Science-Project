@@ -683,16 +683,16 @@ Docker and Kubernetes
 ***BEST YOUTUBE CHANNEL TO FOLLOW***
 
     1.Krish Naik-https://www.youtube.com/user/krishnaik06
-
-    2.Abhishek thakur-https://www.youtube.com/user/abhisheksvnit
-
-    3.AIEngineering-https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw
-
-    4.Ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
     
-    5.Ken jee-https://www.youtube.com/c/KenJee1/featured
+    2.Codebasics-https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ  
+
+    3.Abhishek thakur-https://www.youtube.com/user/abhisheksvnit
+
+    4.AIEngineering-https://www.youtube.com/channel/UCwBs8TLOogwyGd0GxHCp-Dw
+
+    5.Ineuron-https://www.youtube.com/channel/UCb1GdqUqArXMQ3RS86lqqOw
     
-    6.Codebasics-https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ           
+    6.Ken jee-https://www.youtube.com/c/KenJee1/featured       
     
     7.3Blue1Brown-https://www.youtube.com/c/3blue1brown/featured
     
