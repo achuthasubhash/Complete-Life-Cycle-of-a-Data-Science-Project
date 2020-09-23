@@ -257,6 +257,8 @@ performance if not distributed then use below methods to bring it guassian distr
     
     model visualization Tensorboard,netron
     
+    distributions(discerte,continous)
+    
     data distributions-normal distribution,Standard Normal Distribution,Student's t-Distribution,Bernoulli Distribution,Binomial Distribution,Poisson Distribution,Uniform Distribution,F Distribution,Covariance and Correlation
   
     Types of Statistics  
@@ -267,11 +269,13 @@ performance if not distributed then use below methods to bring it guassian distr
     
     Types of data
     
-    1) Categorical
+    1) Categorical (nomial,ordinal)
+     
+    2) Numerical   (discerte,continous)
     
-    2) Numerical
+    random variable(discerte random variable ,continous random variable)
     
-    Central Limit Theorem,Bayes Theorem,Confidence Interval,Hypothesis Testing,z test, t test,f test,Confidence Interval,1 tail test, 2 tail test,chisquare test,anova test
+    Central Limit Theorem,Bayes Theorem,Confidence Interval,Hypothesis Testing,z test, t test,f test,Confidence Interval,1 tail test, 2 tail test,chisquare test,anova test,A/B testing
   
 ***4.Feature selection***
 
