@@ -605,7 +605,7 @@ Generally used metrics
    
     2.Classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,log loss,Average precision,Mean average precision
     
-    3.Reinforcement learning - total rewards
+    3.Reinforcement learning - generally  total rewards
     
     4.Incase of machine translation use bleu score
     
