@@ -846,7 +846,9 @@ Docker and Kubernetes
  
     1.Google cloab
     
-    2.Kaggle kernel
+    2.Kaggle kernel(read terms and conditions before use)
+    
+    3.Paperspace Gradient(read terms and conditions before use)
     
 ***So what next ?***
 
