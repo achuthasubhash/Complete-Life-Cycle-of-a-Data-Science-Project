@@ -418,6 +418,10 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      4.Pose estimation 
      
      5.Deepdream,Neural style transfer
+     
+     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations
+     
+     Data Augmentation possible for images
    
    3.Recurrent neural network (use when series of data)
    
@@ -587,6 +591,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
   
 Tensorboard to visualization of model performance
 
+Distributed Training with TensorFlow 
+
 ***6.Testing model***
 
 Generally used metrics
@@ -622,6 +628,8 @@ Docker and Kubernetes
     4.Google cloud platform
     
     MODEL DEPLOYMENT USING TF SERVING
+    
+    model visualization using Tensorboard,netron
 
     Python Frameworks for App Development- Flask,Streamlit,Django,Web2py,Pyramid,CherryPy https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
@@ -826,7 +834,6 @@ Docker and Kubernetes
     1.Google cloab
     
     2.Kaggle kernel
-    
     
 ***So what next ?***
 
