@@ -629,6 +629,12 @@ Docker and Kubernetes
 
 ***CI CD pipeline used-  circleci , jenkins***
 
+***In real world project use pipeline*** -https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+   
+   1.easy debugging
+   
+   2.better readability
+   
 ***BIG DATA: hadoop,apache spark***
 
 ***research paper***-https://arxiv.org/ ,  https://www.kaggle.com/Cornell-University/arxiv
