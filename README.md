@@ -666,7 +666,9 @@ Docker and Kubernetes
 
    code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
 
-***upcoming programming language for data science is julia*** 
+***programming language for data science is Python, R,Julia*** 
+
+   ide:jupyter notebook,spyder,pycharm,visual studio
 
 ***BEST ONLINE COURSES***
 
