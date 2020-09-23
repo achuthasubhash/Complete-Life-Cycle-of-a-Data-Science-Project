@@ -254,6 +254,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plotm,time series plot,density plot,dot plot,strip plot
     
+    model visualization Tensorboard,netron
+    
     data distributions-normal distribution,
   
 ***4.Feature selection***
@@ -618,6 +620,8 @@ Docker and Kubernetes
     3.Amazon Web Services
     
     4.Google cloud platform
+    
+    MODEL DEPLOYMENT USING TF SERVING
 
     Python Frameworks for App Development- Flask,Streamlit,Django,Web2py,Pyramid,CherryPy https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
