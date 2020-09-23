@@ -434,7 +434,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations
      
-     Data Augmentation possible for images
+     Data Augmentation possible for images to increase size of dataset and performance of model
    
    3.Recurrent neural network (use when series of data)
    
@@ -444,7 +444,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      3.LSTM (have memory cell,forget gate  etc..)
      
-     all above 3 models have bidirectional also based on problem statement use bidirectional 
+     all above 3 models have bidirectional also based on problem statement use bidirectional model
   
    4.Generative adversarial network
    
@@ -642,7 +642,7 @@ Docker and Kubernetes
     
     MODEL DEPLOYMENT USING TF SERVING
     
-    model visualization using Tensorboard,netron
+    Models visualization using Tensorboard,netron
 
     Python Frameworks for App Development- Flask,Streamlit,Django,Web2py,Pyramid,CherryPy https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
@@ -868,6 +868,7 @@ participate online competition and do project and apply to intership , job,real 
 
 7.driven data-https://www.drivendata.org/
 
+8.dockship-https://dockship.io/
 
 ***Some useful content :***
 
