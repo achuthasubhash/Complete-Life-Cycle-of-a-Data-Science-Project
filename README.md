@@ -860,6 +860,8 @@ Docker and Kubernetes
     
     4.knime - https://www.knime.com/(read terms and conditions before use)
     
+    5.RapidMiner (read terms and conditions before use)
+    
 ***So what next ?***
 
 participate online competition and do project and apply to intership , job,real world problems, etc...
