@@ -31,6 +31,8 @@ https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-
     5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper
     
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝)-https://github.com/twintproject/twint
+    
+    7.urllib
   
 b.3rd party API'S 
 
@@ -249,7 +251,7 @@ performance if not distributed then use below methods to bring it guassian distr
   
     Explore the dataset by using  python or microsoft excel or tableau or powerbi, etc...
     
-    Data visualization (Matplotlib,Seaborn,Bokeh,etc...)
+    Data visualization (Matplotlib,Seaborn,Bokeh,ggplot,etc...)
     
     Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plotm,time series plot,density plot,dot plot,strip plot
     
