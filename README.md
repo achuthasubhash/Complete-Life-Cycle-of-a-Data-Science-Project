@@ -850,6 +850,8 @@ Docker and Kubernetes
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis etc...
    
+   62.Teachable Machine-https://teachablemachine.withgoogle.com/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
