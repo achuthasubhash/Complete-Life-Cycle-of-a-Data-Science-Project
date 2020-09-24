@@ -476,7 +476,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     Nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp,polyglot  libraries
+     Nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp,polyglot,PyDictionary  libraries
      
      NLU,NLG,NER,text summarization,machine translation
       
