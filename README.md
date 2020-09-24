@@ -886,6 +886,16 @@ participate online competition and do project and apply to intership , job,real 
 
 8.dockship-https://dockship.io/
 
+9.International Data Analysis Olympiad (IDAHO)
+
+10.Codalab
+
+11.Iron Viz
+
+12.Data Science Challenges
+
+13.Tianchi Big Data Competition
+
 ***Some useful content :***
 
 1. H20.ai automl, google automl
