@@ -674,7 +674,7 @@ Docker and Kubernetes
 
 ***programming language for data science is Python, R,Julia*** 
 
-   ide:jupyter notebook,spyder,pycharm,visual studio
+   IDE:jupyter notebook,spyder,pycharm,visual studio
 
 ***BEST ONLINE COURSES***
 
