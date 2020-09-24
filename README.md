@@ -852,6 +852,8 @@ Docker and Kubernetes
    
    62.Teachable Machine-https://teachablemachine.withgoogle.com/
    
+   63.Data Science in the Cloud-Amazon SageMaker,Amazon Lex,Amazon Rekognition,Azure Machine Learning (Azure ML) Services,Azure Service Bot framework,Google Cloud AutoML
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
