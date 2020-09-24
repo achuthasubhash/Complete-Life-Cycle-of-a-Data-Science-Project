@@ -255,7 +255,7 @@ performance if not distributed then use below methods to bring it guassian distr
     
     Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plotm,time series plot,density plot,dot plot,strip plot
     
-    model visualization Tensorboard,netron
+    model visualization Tensorboard,netron,playground tensorflow
     
     distributions(discerte,continous)
     
@@ -572,9 +572,13 @@ performance if not distributed then use below methods to bring it guassian distr
    
    H.Active learning,Multi-Task Learning,Online Learning
    
-   I.Transfer learning
+   I.Transfer learning(Inductive Transfer learning,Unsupervised Transfer Learning,Transductive Transfer Learning)
+   
+   https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
    
    J.Deep dream,Style transfer
+   
+   K.One-shot learning,Zero-shot learning
 
 ***Hyperparameter tuning***
   
