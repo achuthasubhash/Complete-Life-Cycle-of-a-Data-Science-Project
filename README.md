@@ -1023,6 +1023,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 55.New Algorithm For Training Sparse Neural Networks (RigL)-https://analyticsindiamag.com/rigl-google-algorithm-neural-networks/
 
+56.Read Data from pdf and Word-PyPDF2,PDFMiner,PDFQuery,tabula-py,pdflib for Python,PDFTables,PyFPDF2
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
