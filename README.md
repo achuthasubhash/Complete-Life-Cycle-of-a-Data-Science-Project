@@ -4,8 +4,6 @@
 
 ***MOTIVATION:Motivation to create this repository  to help upcoming aspirants and help to  others in the data science field***
 
-As data science is fastly developing field i found these few new techinques which make your work easier-https://github.com/achuthasubhash/Tips
-
 ***Business understanding*** 
 
 ***1.Data collection***
