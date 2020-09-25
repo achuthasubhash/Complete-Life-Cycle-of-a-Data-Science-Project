@@ -528,7 +528,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      8.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/
       
-     9.BERT,Quantized MobileBERT,ROBERTA,XLNet, XLM-RoBERTa, T5,DISTILBERT,GPT,GPT2,GPT3.
+     9.BERT,Quantized MobileBERT,ROBERTA,XLNet, XLM-RoBERTa, T5,DISTILBERT,GPT,GPT2,GPT3,PRADO
    
    F.Time Series 
    
