@@ -514,7 +514,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      8.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/
       
-     9.BERT,ROBERTA,XLNet, XLM-RoBERTa, T5,DISTILBERT,GPT,GPT2,GPT3.
+     9.BERT,Quantized MobileBERT,ROBERTA,XLNet, XLM-RoBERTa, T5,DISTILBERT,GPT,GPT2,GPT3.
    
    F.Time Series 
    
@@ -853,6 +853,8 @@ Docker and Kubernetes
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis etc...
    
    62.Teachable Machine-https://teachablemachine.withgoogle.com/
+   
+   64.tensorflow development-https://blog.tensorflow.org/
    
    63.Data Science in the Cloud-Amazon SageMaker,Amazon Lex,Amazon Rekognition,Azure Machine Learning (Azure ML) Services,Azure Service Bot framework,Google Cloud AutoML
    
