@@ -580,7 +580,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    H.Active learning,Multi-Task Learning,Online Learning
    
-   I.Transfer learning(Inductive Transfer learning,Unsupervised Transfer Learning,Transductive Transfer Learning)
+   I.Transfer learning(Inductive Transfer learning(similar domain,different task),Unsupervised Transfer Learning(different task,different domain but similar enough) ,Transductive Transfer Learning(similar task,different domain))
    
    https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
    
