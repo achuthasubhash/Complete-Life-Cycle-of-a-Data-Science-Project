@@ -976,6 +976,8 @@ participate online competition and do project and apply to intership , job,real 
 
 24.Guietta (tool that makes simple GUIs simple)  https://pypi.org/project/guietta/
 
+   pandas-visual-analysis -https://analyticsindiamag.com/hands-on-guide-to-pandas-visual-analysis-way-to-speed-up-data-visualization/
+
 25.hummingbird (make code fastly exexcute) https://pypi.org/project/Hummingbird/
 
 26.memory-profiler (tell memory consumption line by line)  https://pypi.org/project/memory-profiler/
