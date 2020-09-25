@@ -384,6 +384,8 @@ performance if not distributed then use below methods to bring it guassian distr
          h.using K Nearest Neighbor
          
          i.cosine distance recommender system
+         
+         j.TensorFlow Recommenders
    
    C.Ensemble methods
    
