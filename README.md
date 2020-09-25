@@ -242,12 +242,18 @@ performance if not distributed then use below methods to bring it guassian distr
    h.Same variable(only 1 variable) in feature then remove feature
    
    i.Outilers   removing outilers depond on problem we are solving
+   
+      2 type of outilers available: Global outiler, Local outiler
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: zscore,boxplot,IQR,TensorFlow_Data_Validation
+      methods to find outiler: zscore,boxplot,scatter plot,IQR,TensorFlow_Data_Validation
       
-   j.Sampling techniques
+   j.Anomaly
+   
+     clustering techniques to find it
+      
+   k.Sampling techniques
      
      a.biased sampling
      
