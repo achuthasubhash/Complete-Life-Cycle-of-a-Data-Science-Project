@@ -140,6 +140,14 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
 
    a.Handle missing value
    
+     types of missing value 
+     
+     1.missing completely at random(no correlation b/w missing and observed data) we can delete no disturbance of data distribution
+     
+     2.missing at random (randomness in missing data, missing value have correlation by data) we can't delete because disturbance of data distribution
+     
+     3.missing not at random  (there is reason for missing value and directly related to value)
+   
      1.if missing data too small then delete it 
      
      2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode
