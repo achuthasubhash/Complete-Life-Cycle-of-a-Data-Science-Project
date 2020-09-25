@@ -404,6 +404,10 @@ performance if not distributed then use below methods to bring it guassian distr
      2.Bagging models
    
      3.Boosting models
+     
+     4.Hard voting
+     
+     5.Soft voting
    
    D.Reinforcement learning
    
