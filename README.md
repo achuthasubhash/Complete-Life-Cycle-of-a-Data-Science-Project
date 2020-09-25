@@ -333,11 +333,9 @@ performance if not distributed then use below methods to bring it guassian distr
     
     19.feature importance with decision trees
     
-    20.forward elimination , backward elimination 
+    20.forward Selection , backward elimination 
     
     21.PyImpetus
-    
-    22.Step Forward Feature Selection,Step Backward Feature Selection
 
 ***5.Model selection***
 
