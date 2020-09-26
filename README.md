@@ -54,11 +54,11 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     4)uci-https://archive.ics.uci.edu/ml/datasets.php
    
-    5)quandi
+    5)Group Lens dataset
     
-    6)world3bank  https://data.world/
+    6)world3bank  https://data.world/ , worldbank
    
-    7)UCIMachineLearning
+    7)Google Cloud BigQuery public datasets
    
     8)online hacktons
    
@@ -130,7 +130,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://data.fivethirtyeight.com/ , https://wiki.dbpedia.org/ ,https://www.europeandataportal.eu/en ,https://data.europa.eu/ ,https://www.census.gov/,
     
-    https://www.who.int/data/gho ,https://data.unicef.org/open-data/ ,http://data.un.org/ ,https://data.oecd.org/ ,https://data.worldbank.org/   
+    https://www.who.int/data/gho ,https://data.unicef.org/open-data/ ,http://data.un.org/ ,https://data.oecd.org/ ,https://data.worldbank.org/  
+    
+    39.Awesome Public Dataset-https://github.com/awesomedata/awesome-public-datasets
        
 ***2.Feature engineering***
 
