@@ -879,6 +879,8 @@ Docker and Kubernetes
    64.platforms to build and deploy ML models -Uber has Michelangelo,Google has TFX,Databricks has MLFlow,Amazon Web Services (AWS) has Sagemaker
    
    65.Time Complexity Of Machine Learning Models -https://www.thekerneltrip.com/machine/learning/computational-complexity-learning-algorithms/
+  
+   66.ML from scratch-https://dafriedman97.github.io/mlbook/content/introduction.html
    
 ***Follow leaders in the field to update yourself in the field***
 
