@@ -344,8 +344,14 @@ performance if not distributed then use below methods to bring it guassian distr
     20.forward Selection , backward elimination 
     
     21.PyImpetus
+    
+***5.Data splitting***
 
-***5.Model selection***
+     Splitting ratio of data deponds on size of dataset available
+
+     Training data,Validation data,Testing data
+
+***6.Model selection***
 
   Machine learning
    
