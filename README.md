@@ -270,6 +270,8 @@ performance if not distributed then use below methods to bring it guassian distr
     Data visualization (Matplotlib,Seaborn,Bokeh,ggplot,visualizer,etc...)
     
     Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plotm,time series plot,density plot,dot plot,strip plot
+  
+    univariate and bivariate and multivariate analysis
     
     model visualization Tensorboard,netron,playground tensorflow
     
