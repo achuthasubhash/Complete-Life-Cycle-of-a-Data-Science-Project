@@ -133,6 +133,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://www.who.int/data/gho ,https://data.unicef.org/open-data/ ,http://data.un.org/ ,https://data.oecd.org/ ,https://data.worldbank.org/  
     
     39.Awesome Public Dataset-https://github.com/awesomedata/awesome-public-datasets
+    
+    40.Datasets for Machine Learning on Graphs-https://ogb.stanford.edu/
        
 ***2.Feature engineering***
 
