@@ -373,7 +373,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,SVD,LDA,tsne,plsr,pcr
+     1.Dimensionality reduction - PCA,SVD,LDA,tsne,plsr,pcr,autoencoders
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
