@@ -894,6 +894,8 @@ Docker and Kubernetes
   
    66.ML from scratch-https://dafriedman97.github.io/mlbook/content/introduction.html
    
+   67.turn-on visual training for most popular ML algorithms https://github.com/lucko515/ml_tutor  https://pypi.org/project/ml-tutor/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
