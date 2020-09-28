@@ -508,7 +508,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      Nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu  libraries
      
-     NLU,NLG,NER,text summarization,machine translation,chat bot
+     NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot
       
      1.bag of words
      
@@ -542,7 +542,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      8.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/
       
-     9.BERT,Quantized MobileBERT,ROBERTA,XLNet, XLM-RoBERTa, T5,DISTILBERT,GPT,GPT2,GPT3,PRADO
+     9.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO
    
    F.Time Series 
    
@@ -878,7 +878,7 @@ Docker and Kubernetes
    
    60.reinforcement learning by using  PyTorch-https://github.com/SforAiDl/genrl
    
-   61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis etc...
+   61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis,Amazon lex etc...
    
    62.Teachable Machine-https://teachablemachine.withgoogle.com/
    
