@@ -950,7 +950,7 @@ participate online competition and do project and apply to intership , job,real 
 
 3. autopandas
 
-4. AutoGluon
+4. AutoGluon   https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
 
 5. autosklearn,autokeras
 
