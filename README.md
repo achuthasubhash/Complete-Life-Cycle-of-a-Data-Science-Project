@@ -36,13 +36,13 @@ b.Web Crawling
   
 b.3rd party API'S 
 
-c.creating own data  (manual collection eg:google docx,servey,etc...)
+c.creating own data  (manual collection eg:google docx,servey,etc...) primary data
 
 d.Databases
 
   Databases are 2 kind sequel  and no sequel database
 
-  sql,sql lite,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase
+  sql,sql lite,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase,oracle db
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
@@ -216,13 +216,11 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
    f.Scaling of data
    
-       1.Normalisation
+       1.Normalisation (Min Max Scaling) robust scaling
    
        2.Standardization
      
-       3.Min Max Scaling
-     
-       4.Robust Scaler not influenced by outliers because using of median,IQR
+       3.Robust Scaler not influenced by outliers because using of median,IQR
       
    Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
 performance if not distributed then use below methods to bring it guassian distribution
@@ -273,7 +271,7 @@ performance if not distributed then use below methods to bring it guassian distr
     
     Data visualization (Matplotlib,Seaborn,Bokeh,ggplot,visualizer,etc...)
     
-    Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plotm,time series plot,density plot,dot plot,strip plot
+    Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plot,time series plot,density plot,dot plot,strip plot
   
     univariate and bivariate and multivariate analysis
     
@@ -426,6 +424,8 @@ performance if not distributed then use below methods to bring it guassian distr
      5.Soft voting
    
    D.Reinforcement learning
+   
+      agent,environment,policy,reward function,value function
    
       agent apply action to environment get corresponding reward so that it learn environment
       
