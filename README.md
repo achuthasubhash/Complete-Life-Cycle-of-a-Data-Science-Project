@@ -978,7 +978,7 @@ participate online competition and do project and apply to intership , job,real 
 
 14.automl lazypredict https://github.com/shankarpandala/lazypredict 
 
-15.bamboolib or pandas-ui or pandas-summary (python package for easy data exploration & transformation)  https://bamboolib.8080labs.com/ , https://pypi.org/project/pandas-ui/
+15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis (python package for easy data exploration & transformation)  
 
 16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
 
