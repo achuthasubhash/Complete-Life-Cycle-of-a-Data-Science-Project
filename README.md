@@ -439,6 +439,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
       5.A3C 
       
+      6.advantage weighted actor critic (AWAC). 
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
