@@ -896,6 +896,8 @@ Docker and Kubernetes
    
    67.turn-on visual training for most popular ML algorithms https://github.com/lucko515/ml_tutor  https://pypi.org/project/ml-tutor/
    
+   68.mlcourse.ai is a free online- https://mlcourse.ai/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
