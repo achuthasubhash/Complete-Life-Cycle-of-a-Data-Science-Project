@@ -435,7 +435,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    D.Reinforcement learning
    
-      agent,environment,policy,reward function,value function
+      agent,environment,policy,reward function,value function,state,action,episode
    
       agent apply action to environment get corresponding reward so that it learn environment
       
