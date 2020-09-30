@@ -469,7 +469,7 @@ performance if not distributed then use below methods to bring it guassian distr
        
        3 kind of object segmentation semantic segmentation,instance segmentation,panoptic segmentation
      
-     4.Pose estimation 
+     4.DeepSORT,Pose estimation 
      
      5.Deepdream,Neural style transfer
      
