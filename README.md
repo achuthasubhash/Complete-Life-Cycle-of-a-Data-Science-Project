@@ -389,7 +389,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
-     3.Association Rule Learning - support,lift,confidence
+     3.Association Rule Learning - support,lift,confidence,Fp-growth
    
      4.Recommendation system -
      
@@ -442,6 +442,8 @@ performance if not distributed then use below methods to bring it guassian distr
       5.A3C 
       
       6.advantage weighted actor critic (AWAC). 
+      
+      7.XCS
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
@@ -596,6 +598,8 @@ performance if not distributed then use below methods to bring it guassian distr
       12.Atspy For Automating The Time-Series Forecasting-https://analyticsindiamag.com/hands-on-guide-to-atspy-for-automating-the-time-series-forecasting/
       
       13.Darts-https://analyticsindiamag.com/hands-on-guide-to-darts-a-python-tool-for-time-series-forecasting/
+      
+      14.Bayesian Neural Network 
       
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
