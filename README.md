@@ -547,9 +547,11 @@ performance if not distributed then use below methods to bring it guassian distr
      
      7.self attention
      
-     8.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/
+     8.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
       
      9.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO
+     
+      http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/
    
    F.Time Series 
    
