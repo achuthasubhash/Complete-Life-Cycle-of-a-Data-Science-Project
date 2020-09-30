@@ -899,6 +899,8 @@ Docker and Kubernetes
    
    68.mlcourse.ai is a free online- https://mlcourse.ai/
    
+   69.using pretrained model provided by tfhub- https://tfhub.dev/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
