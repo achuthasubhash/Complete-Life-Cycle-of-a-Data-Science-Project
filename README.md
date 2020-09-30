@@ -907,6 +907,8 @@ Docker and Kubernetes
    
    69.using pretrained model provided by tfhub- https://tfhub.dev/
    
+   70.Deep-Learning-with-PyTorch- https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
