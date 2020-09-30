@@ -172,6 +172,10 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      10.regression Imputation
      
+     11.End of Distribution Imputation
+     
+     12.Missing indicator
+     
    b.Handle imbalance
    
      1.Under Sampling - mostly not prefer because lost of data
@@ -214,6 +218,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      13.binary encoding
      
+     14.Rare label encoding
+     
    f.Scaling of data
    
        1.Normalisation (Min Max Scaling) robust scaling
@@ -221,6 +227,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
        2.Standardization
      
        3.Robust Scaler not influenced by outliers because using of median,IQR
+       
+       4.Mean normalization
       
    Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
 performance if not distributed then use below methods to bring it guassian distribution
