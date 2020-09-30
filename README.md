@@ -315,7 +315,7 @@ performance if not distributed then use below methods to bring it guassian distr
   
     4.statics to select important feature (chi square  test,T test,anova test,hypothesis test,ANOVA)
   
-    5.keep in mind  curse of dimensionality (as dim increases performance decreases)
+    5.keep in mind  curse of dimensionality (as dimension increases performance decreases)
   
     6.highly correleated then can remove 1 feature (multicollinearity)
   
@@ -335,7 +335,7 @@ performance if not distributed then use below methods to bring it guassian distr
     
     14.Correlation Feature Selection
     
-    15.remove features with very low variance
+    15.remove features with very low variance (quasi constant feature dropping)
     
     16.Univariate  feature selection
     
@@ -348,6 +348,8 @@ performance if not distributed then use below methods to bring it guassian distr
     20.forward Selection , backward elimination 
     
     21.PyImpetus
+    
+    22.drop constant features (variance=0)
     
 ***5.Data splitting***
 
