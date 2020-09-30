@@ -315,7 +315,7 @@ performance if not distributed then use below methods to bring it guassian distr
   
     4.statics to select important feature (chi square  test,T test,anova test,hypothesis test,ANOVA)
   
-    5.keep in mind  curse of dimensionality
+    5.keep in mind  curse of dimensionality (as dim increases performance decreases)
   
     6.highly correleated then can remove 1 feature (multicollinearity)
   
