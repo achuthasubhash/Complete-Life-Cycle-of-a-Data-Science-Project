@@ -1094,6 +1094,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 56.Read Data from pdf and Word-PyPDF2,PDFMiner,PDFQuery,tabula-py,pdflib for Python,PDFTables,PyFPDF2
 
+57.Text Annotation-https://towardsdatascience.com/tortus-e4002d95134b
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
