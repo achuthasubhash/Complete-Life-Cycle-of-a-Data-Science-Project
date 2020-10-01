@@ -815,7 +815,7 @@ Docker and Kubernetes
     
    21.regarding satellite images
    
-       ersi-https://www.esri.com/en-us/arcgis/about-arcgis/overview
+       ersi arcgis-https://www.esri.com/en-us/arcgis/about-arcgis/overview
        
        earthcube-https://www.earthcube.eu/
    
