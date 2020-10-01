@@ -13,6 +13,8 @@ Data consists of 2 kinds
     a.Structure data (tabular data,etc...)
     
     b.Unstructured data (images,text,audio,etc...)
+    
+    c.semi structured data (XML,JSON,etc...)
 
 a.Web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
 
