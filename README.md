@@ -8,7 +8,7 @@
 
 ***1.Data collection***
 
-Data consists of 2 kinds
+Data consists of 3 kinds
 
     a.Structure data (tabular data,etc...)
     
