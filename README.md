@@ -813,7 +813,11 @@ Docker and Kubernetes
     
    20.code implementations for research papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
     
-   21.regarding satellite images-https://www.esri.com/en-us/arcgis/about-arcgis/overview
+   21.regarding satellite images
+   
+       ersi-https://www.esri.com/en-us/arcgis/about-arcgis/overview
+       
+       earthcube-https://www.earthcube.eu/
    
    22.Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection
    
