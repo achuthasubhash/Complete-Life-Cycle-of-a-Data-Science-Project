@@ -263,6 +263,8 @@ performance if not distributed then use below methods to bring it guassian distr
       
       methods to find outiler: zscore,boxplot,scatter plot,IQR,TensorFlow_Data_Validation
       
+      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant
+      
       if outiler present then use robust scaling
       
    j.Anomaly
