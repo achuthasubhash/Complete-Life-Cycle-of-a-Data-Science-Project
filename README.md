@@ -186,7 +186,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      3.class_weight give more importance(weight) to that small class
      
-     4.use kfold to keep the ratio of classess constantly
+     4.use Stratified kfold to keep the ratio of classess constantly
   
    c.Remove noise data
    
