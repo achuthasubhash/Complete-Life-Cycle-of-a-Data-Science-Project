@@ -927,6 +927,8 @@ Docker and Kubernetes
    
    70.Deep-Learning-with-PyTorch- https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
    
+   71.MIT 6.S191 Introduction to Deep Learning-http://introtodeeplearning.com/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
