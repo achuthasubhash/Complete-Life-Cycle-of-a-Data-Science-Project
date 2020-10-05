@@ -30,7 +30,7 @@ https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-
     
     5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper
     
-    6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝)-https://github.com/twintproject/twint
+    6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
     
     7.urllib
     
