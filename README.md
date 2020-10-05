@@ -1102,6 +1102,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 56.Read Data from pdf and Word-PyPDF2,PDFMiner,PDFQuery,tabula-py,pdflib for Python,PDFTables,PyFPDF2
 
+   OpenCV to Extract Information From Table Images-https://analyticsindiamag.com/how-to-use-opencv-to-extract-information-from-table-images/
+
 57.Text Annotation-https://towardsdatascience.com/tortus-e4002d95134b
 
 58.GDMix, A Framework That Trains Efficient Personalisation Models - https://analyticsindiamag.com/linkedin-open-sources-gdmix-a-framework-that-trains-efficient-personalisation-models/
