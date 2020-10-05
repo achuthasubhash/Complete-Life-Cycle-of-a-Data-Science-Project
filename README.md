@@ -326,6 +326,8 @@ performance if not distributed then use below methods to bring it guassian distr
        c.stepforward and stepbackward method
     
        d.Random_forest_importance
+       
+       e.decision tree
   
     4.statics to select important feature (chi square  test,T test,anova test,hypothesis test,ANOVA)
   
@@ -364,6 +366,8 @@ performance if not distributed then use below methods to bring it guassian distr
     21.PyImpetus
     
     22.drop constant features (variance=0)
+    
+    23.
     
 ***5.Data splitting***
 
