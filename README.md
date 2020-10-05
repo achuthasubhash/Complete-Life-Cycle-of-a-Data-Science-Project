@@ -1104,6 +1104,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 57.Text Annotation-https://towardsdatascience.com/tortus-e4002d95134b
 
+58.GDMix, A Framework That Trains Efficient Personalisation Models - https://analyticsindiamag.com/linkedin-open-sources-gdmix-a-framework-that-trains-efficient-personalisation-models/
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
