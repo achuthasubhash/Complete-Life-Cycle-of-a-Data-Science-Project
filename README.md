@@ -137,6 +137,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     39.Awesome Public Dataset-https://github.com/awesomedata/awesome-public-datasets
     
     40.Datasets for Machine Learning on Graphs-https://ogb.stanford.edu/
+    
+    41.Big Bad NLP Database-https://datasets.quantumstat.com/
        
 ***2.Feature engineering***
 
