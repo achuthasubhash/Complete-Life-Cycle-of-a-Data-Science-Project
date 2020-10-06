@@ -1110,6 +1110,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 58.GDMix, A Framework That Trains Efficient Personalisation Models - https://analyticsindiamag.com/linkedin-open-sources-gdmix-a-framework-that-trains-efficient-personalisation-models/
 
+59.Learn Machine Learning Concepts Interactively-https://towardsdatascience.com/learn-machine-learning-concepts-interactively-6c3f64518da2
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
