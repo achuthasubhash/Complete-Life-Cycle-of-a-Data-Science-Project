@@ -643,17 +643,15 @@ performance if not distributed then use below methods to bring it guassian distr
   
     b.RandomizedSearchCV (search randomly narrow down our time)
   
-    c.Bayesian Optimization
+    c.Bayesian Optimization (Hyperopt)
     
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
     e.Optuna
   
-    f.Genetic Algorithms 
+    f.Genetic Algorithms
     
-    g.Hyperopt
-    
-    h.Keras tuner
+    g.Keras tuner
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
