@@ -285,7 +285,7 @@ performance if not distributed then use below methods to bring it guassian distr
     
     Data visualization (Matplotlib,Seaborn,Bokeh,ggplot,visualizer,etc...)
     
-    Scatterplot,line scatter plot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map
+    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,PDF,Kernel density function
   
     univariate and bivariate and multivariate analysis
     
@@ -403,7 +403,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,SVD,LDA,tsne,plsr,pcr,autoencoders
+     1.Dimensionality reduction - PCA,SVD,LDA,tsne,plsr,pcr,autoencoders,kpca
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
@@ -560,16 +560,24 @@ performance if not distributed then use below methods to bring it guassian distr
           i)word2vec library
           
           ii)keras embedding 
+        
+     6.Document embedding
       
-     6.attention
-     
-     7.self attention
-     
-     8.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
+       Doc2vec
       
-     9.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO
+     7.sentence embedding
+    
+       sense2vec
+      
+     8.attention
      
-      http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/
+     9.self attention
+     
+     10.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
+      
+     11.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO
+     
+        http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/
    
    F.Time Series 
    
@@ -637,7 +645,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    J.Deep dream,Style transfer
    
-   K.One-shot learning,Zero-shot learning
+   K.One-shot learning,Zero-shot learning 
 
 ***Hyperparameter tuning***
   
