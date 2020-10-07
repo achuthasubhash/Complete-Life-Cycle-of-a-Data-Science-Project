@@ -535,7 +535,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     Nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron  libraries
+     Nltk,spacy,genism,textblob,inltk,stanza,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero  libraries
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot
       
@@ -632,6 +632,8 @@ performance if not distributed then use below methods to bring it guassian distr
       13.Darts-https://analyticsindiamag.com/hands-on-guide-to-darts-a-python-tool-for-time-series-forecasting/
       
       14.Bayesian Neural Network 
+      
+      15.PyFlux-https://analyticsindiamag.com/pyflux-guide-python-library-for-time-series-analysis-and-prediction/
       
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
@@ -1029,6 +1031,10 @@ participate online competition and do project and apply to intership , job,real 
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex
+   
+   ExploriPy import EDA-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
+
 16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
 
 17.Dabl has a built-in function that will automatically detect data types and quality issues and apply appropriate pre-processing to a dataset to prepare it for machine learning.  https://pypi.org/project/dabl/
@@ -1125,6 +1131,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 58.GDMix, A Framework That Trains Efficient Personalisation Models - https://analyticsindiamag.com/linkedin-open-sources-gdmix-a-framework-that-trains-efficient-personalisation-models/
 
 59.Learn Machine Learning Concepts Interactively-https://towardsdatascience.com/learn-machine-learning-concepts-interactively-6c3f64518da2
+
+60.Folium, Python Library For Geographical Data Visualization-https://analyticsindiamag.com/hands-on-tutorial-on-folium-python-library-for-geographical-data-visualization/
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
