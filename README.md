@@ -725,7 +725,7 @@ Docker and Kubernetes
     
     Models visualization using Tensorboard,netron
 
-    Python Frameworks for App Development- Flask,Streamlit,Django,Web2py,Pyramid,CherryPy https://analyticsindiamag.com/top-8-python-tools-for-app-development/
+    Python Frameworks for App Development- Flask,Streamlit,Django,Web2py,Pyramid,CherryPy,Voila https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
 ***Tensorflow lite:Use of tensorflow lite to reduce size of model***
     
