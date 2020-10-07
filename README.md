@@ -383,11 +383,11 @@ performance if not distributed then use below methods to bring it guassian distr
    
      1.Regression (output feature in continous data form)
      
-       linear regression,polynomial regression,support vector machine,Decision Tree Regression,Random Forest Regression,
+       linear regression,polynomial regression,support vector regression,Decision Tree Regression,Random Forest Regression,
        
        least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization),catboost,gradientboosting,adaboost,
        
-       elsatic net,light gbm,ordinary least squares
+       elsatic net,light gbm,ordinary least squares,cart
        
        use cases:
    
@@ -407,7 +407,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
-     3.Association Rule Learning - support,lift,confidence,Fp-growth
+     3.Association Rule Learning - support,lift,confidence,aprior,elcat,Fp-growth,Fp-tree construction
    
      4.Recommendation system -
      
@@ -507,7 +507,9 @@ performance if not distributed then use below methods to bring it guassian distr
      
      all above 3 models have bidirectional also based on problem statement use bidirectional model
   
-   4.Generative adversarial network
+   4.Generative adversarial network 
+   
+     Cycle gan,Dcgan
    
    5.Autoencoder
    
@@ -567,7 +569,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
      7.sentence embedding
     
-       sense2vec
+       sense2vec,SENT2VEC,Universal sentence encoder
       
      8.attention
      
@@ -577,7 +579,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
      11.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO
      
-        http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/
+        http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
    
    F.Time Series 
    
@@ -917,7 +919,7 @@ Docker and Kubernetes
    
    60.reinforcement learning by using  PyTorch-https://github.com/SforAiDl/genrl
    
-   61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis,Amazon lex etc...
+   61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis,Amazon lex,Wit.ai,Luis.ai,IBM Watson  etc...
    
    62.Teachable Machine-https://teachablemachine.withgoogle.com/
    
