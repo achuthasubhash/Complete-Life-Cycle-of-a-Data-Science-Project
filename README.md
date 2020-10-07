@@ -235,6 +235,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
        3.Robust Scaler not influenced by outliers because using of median,IQR
        
        4.Mean normalization
+       
+       5.maximum absolute scaling
       
    Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
 performance if not distributed then use below methods to bring it guassian distribution
