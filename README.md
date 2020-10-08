@@ -1003,7 +1003,7 @@ participate online competition and do project and apply to intership , job,real 
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl
+1. H20.ai automl, google automl,Azure Cognitive Services
 
 2. Tpot
 
