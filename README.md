@@ -323,7 +323,7 @@ performance if not distributed then use below methods to bring it guassian distr
   
     3.Feature Importance
   
-       a.ExtraTreesClassifier
+       a.ExtraTreesClassifier,ExtraTreesregressor
     
        b.SelectKBest
     
@@ -370,8 +370,6 @@ performance if not distributed then use below methods to bring it guassian distr
     21.PyImpetus
     
     22.drop constant features (variance=0)
-    
-    23.
     
 ***5.Data splitting***
 
