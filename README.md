@@ -449,6 +449,8 @@ performance if not distributed then use below methods to bring it guassian distr
    
    D.Reinforcement learning
    
+      2 types a)model free   b)model based
+   
       agent,environment,policy,reward function,value function,state,action,episode
    
       agent apply action to environment get corresponding reward so that it learn environment
