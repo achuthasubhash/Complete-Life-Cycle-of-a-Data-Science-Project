@@ -1138,6 +1138,22 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 60.Folium, Python Library For Geographical Data Visualization-https://analyticsindiamag.com/hands-on-tutorial-on-folium-python-library-for-geographical-data-visualization/
 
+applications of data science in many industry
+
+    1.E-commerce- Identifying consumers,Recommending Products,Analyzing Reviews
+    
+    2.Manufacturing- Predicting potential problems,Monitoring systems,Automating manufacturing units, Maintenance Scheduling,Anomaly Detection
+    
+    3.Banking- Fraud detection,Credit risk modeling,Customer lifetime value
+    
+    4. Healthcare- Medical image analysis, Drug discovery,Bioinformatics,Virtual Assistants
+    
+    5.Transport- Self-driving cars,Enhanced driving experience,Car monitoring system,Enhancing the safety of passengers
+    
+    6.Finance- Customer segmentation,Strategic decision making,Algorithmic trading,Risk analytics
+    
+    7.Marketing (Added from comments Credits: Jawad Ali)- LTV predictions,Predictive analytics for customer behavior,Ad targeting
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
