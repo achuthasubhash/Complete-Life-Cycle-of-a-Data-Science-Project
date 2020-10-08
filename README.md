@@ -515,7 +515,7 @@ performance if not distributed then use below methods to bring it guassian distr
   
    4.Generative adversarial network 
    
-     Cycle gan,Dcgan
+     Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,DiscoGAN,lsGAN
    
    5.Autoencoder
    
