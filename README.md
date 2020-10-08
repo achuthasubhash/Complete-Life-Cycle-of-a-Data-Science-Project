@@ -1146,7 +1146,7 @@ applications of data science in many industry
     
     3.Banking- Fraud detection,Credit risk modeling,Customer lifetime value
     
-    4. Healthcare- Medical image analysis, Drug discovery,Bioinformatics,Virtual Assistants
+    4.Healthcare- Medical image analysis, Drug discovery,Bioinformatics,Virtual Assistants,image segmentation
     
     5.Transport- Self-driving cars,Enhanced driving experience,Car monitoring system,Enhancing the safety of passengers
     
