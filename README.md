@@ -321,7 +321,7 @@ performance if not distributed then use below methods to bring it guassian distr
 
     1.pearson correleation
    
-    2.chisquare
+    2.chisquare,Anova
   
     3.Feature Importance
   
@@ -470,6 +470,8 @@ performance if not distributed then use below methods to bring it guassian distr
       6.advantage weighted actor critic (AWAC). 
       
       7.XCS
+      
+      https://simoninithomas.github.io/deep-rl-course/
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
@@ -955,6 +957,8 @@ Docker and Kubernetes
    
    71.MIT 6.S191 Introduction to Deep Learning-http://introtodeeplearning.com/
    
+   72.R for Data Science-https://r4ds.had.co.nz/ ,Fundamentals of Data Visualization-https://clauswilke.com/dataviz/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
@@ -1164,6 +1168,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 61.GPU Technology Conference (GTC) Keynote Oct 2020-https://www.youtube.com/watch?v=Dw4oet5f0dI&list=PLZHnYvH1qtOYOfzAj7JZFwqtabM5XPku1
 
 62.jiant nlp task-https://github.com/nyu-mll/jiant
+
+63.painted your machine learning model-https://koaning.github.io/human-learn/
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
