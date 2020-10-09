@@ -613,7 +613,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
       2.Autoregressive 
       
-      3.Moving average,Exponential Smoothing
+      3.Moving average,Exponential Moving average,Exponential Smoothing
       
       4.Lstm(neural network)
       
