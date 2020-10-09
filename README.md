@@ -1159,6 +1159,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 60.Folium, Python Library For Geographical Data Visualization-https://analyticsindiamag.com/hands-on-tutorial-on-folium-python-library-for-geographical-data-visualization/
 
+61.GPU Technology Conference (GTC) Keynote Oct 2020-https://www.youtube.com/watch?v=Dw4oet5f0dI&list=PLZHnYvH1qtOYOfzAj7JZFwqtabM5XPku1
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
