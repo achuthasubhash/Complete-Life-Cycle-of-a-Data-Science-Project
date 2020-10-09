@@ -655,7 +655,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    J.Deep dream,Style transfer
    
-   K.One-shot learning,Zero-shot learning 
+   K.One-shot learning,Zero-shot learning
 
 ***Hyperparameter tuning***
   
@@ -865,7 +865,9 @@ Docker and Kubernetes
    
    30.Machine-Learning-with-Python-https://github.com/tirthajyoti/Machine-Learning-with-Python
    
-   31.huggingface-https://github.com/huggingface
+   31.huggingface contain almost all nlp pretrained model and all tasks related to nlp field
+     
+      https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/
    
    32.multi-task-NLP-https://github.com/hellohaptik/multi-task-NLP
    
@@ -971,8 +973,27 @@ Docker and Kubernetes
     
 ***So what next ?***
 
-participate online competition and do project and apply to intership , job,real world problems, etc...
+participate online competition and do project and apply to intership ,job,solving real world problems, etc...
 
+applications of data science in many industry
+
+    1.E-commerce- Identifying consumers,Recommending Products,Analyzing Reviews
+    
+    2.Manufacturing- Predicting potential problems,Monitoring systems,Automating manufacturing units, Maintenance Scheduling,Anomaly Detection
+    
+    3.Banking- Fraud detection,Credit risk modeling,Customer lifetime value
+    
+    4.Healthcare- Medical image analysis, Drug discovery,Bioinformatics,Virtual Assistants,image segmentation
+    
+    5.Transport- Self-driving cars,Enhanced driving experience,Car monitoring system,Enhancing the safety of passengers
+    
+    6.Finance- Customer segmentation,Strategic decision making,Algorithmic trading,Risk analytics
+    
+    7.Marketing (Added from comments Credits: Jawad Ali)- LTV predictions,Predictive analytics for customer behavior,Ad targeting
+    
+    and many more fields
+    
+    
 ***online competitions:***
 
 1.Kaggle-https://www.kaggle.com/
@@ -1137,22 +1158,6 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 59.Learn Machine Learning Concepts Interactively-https://towardsdatascience.com/learn-machine-learning-concepts-interactively-6c3f64518da2
 
 60.Folium, Python Library For Geographical Data Visualization-https://analyticsindiamag.com/hands-on-tutorial-on-folium-python-library-for-geographical-data-visualization/
-
-applications of data science in many industry
-
-    1.E-commerce- Identifying consumers,Recommending Products,Analyzing Reviews
-    
-    2.Manufacturing- Predicting potential problems,Monitoring systems,Automating manufacturing units, Maintenance Scheduling,Anomaly Detection
-    
-    3.Banking- Fraud detection,Credit risk modeling,Customer lifetime value
-    
-    4.Healthcare- Medical image analysis, Drug discovery,Bioinformatics,Virtual Assistants,image segmentation
-    
-    5.Transport- Self-driving cars,Enhanced driving experience,Car monitoring system,Enhancing the safety of passengers
-    
-    6.Finance- Customer segmentation,Strategic decision making,Algorithmic trading,Risk analytics
-    
-    7.Marketing (Added from comments Credits: Jawad Ali)- LTV predictions,Predictive analytics for customer behavior,Ad targeting
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
