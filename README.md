@@ -141,6 +141,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     40.Datasets for Machine Learning on Graphs-https://ogb.stanford.edu/
     
     41.Big Bad NLP Database-https://datasets.quantumstat.com/
+    
+    42.30 largest tensorflow datasets-https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
        
 ***2.Feature engineering***
 
@@ -583,7 +585,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      10.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
       
-     11.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO
+     11.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
    
@@ -1160,6 +1162,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 60.Folium, Python Library For Geographical Data Visualization-https://analyticsindiamag.com/hands-on-tutorial-on-folium-python-library-for-geographical-data-visualization/
 
 61.GPU Technology Conference (GTC) Keynote Oct 2020-https://www.youtube.com/watch?v=Dw4oet5f0dI&list=PLZHnYvH1qtOYOfzAj7JZFwqtabM5XPku1
+
+62.jiant nlp task-https://github.com/nyu-mll/jiant
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
