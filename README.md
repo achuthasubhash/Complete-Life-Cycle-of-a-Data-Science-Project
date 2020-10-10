@@ -677,6 +677,8 @@ performance if not distributed then use below methods to bring it guassian distr
     
     g.Keras tuner
     
+    https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
+    
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
      1.Loocv
