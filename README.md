@@ -329,12 +329,14 @@ performance if not distributed then use below methods to bring it guassian distr
     
        b.SelectKBest
     
-       c.stepforward and stepbackward method
+       c.Logistic Regression
     
        d.Random_forest_importance
        
        e.decision tree
-  
+       
+       f.Linear Regression
+       
     4.statics to select important feature (chi square  test,T test,anova test,hypothesis test,ANOVA)
   
     5.keep in mind  curse of dimensionality (as dimension increases performance decreases)
@@ -361,13 +363,13 @@ performance if not distributed then use below methods to bring it guassian distr
     
     16.Univariate  feature selection
     
-    17.recursive feature  elimination,recursive feature addition
+    17.recursive feature  elimination,recursive feature addition,Exhaustive search
     
     18.importance of feature (random forest importance)
     
     19.feature importance with decision trees
     
-    20.forward Selection , backward elimination 
+    20.Step forward feature selection,Step backward feature selection
     
     21.PyImpetus
     
