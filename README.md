@@ -152,7 +152,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
 
    a.Handle missing value
    
-     types of missing value 
+     Types of missing value 
      
      1.missing completely at random(no correlation b/w missing and observed data) we can delete no disturbance of data distribution
      
@@ -469,7 +469,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
       5.A3C 
       
-      6.advantage weighted actor critic (AWAC). 
+      6.Advantage weighted actor critic (AWAC). 
       
       7.XCS
       
@@ -477,7 +477,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
-   Frameworks:Pytorch,Tensorflow,Keras,caffe
+   Frameworks:Pytorch,Tensorflow,Keras,caffe,theano
    
    1.Multilayer perceptron(MLP)
    
@@ -489,7 +489,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      1.Classification of image
      
-       create own model,lenet,alexnet,resenet,inception,vgg,efficientnet,Nasnet
+       create own model,Lenet,Alexnet,Resenet,Inception,Vgg,Efficient,Nasnet
      
      2.Localization of object in image
      
@@ -499,7 +499,7 @@ performance if not distributed then use below methods to bring it guassian distr
        
        maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net
        
-       3 kind of object segmentation semantic segmentation,instance segmentation,panoptic segmentation
+       3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
      
      4.DeepSORT,Pose estimation 
      
@@ -507,7 +507,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations
      
-     Data Augmentation possible for images to increase size of dataset and performance of model
+     Data Augmentation apply to increase size of dataset and performance of model
    
    3.Recurrent neural network (use when series of data)
    
@@ -539,7 +539,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    6.BoltzmannMachines,deep belief network,deep BoltzmannMachines
    
-   7.Self Organizing Maps (SOM) unsupervised learning 
+   7.Self Organizing Maps (SOM)
    
    8.Natural language processing
    
@@ -575,9 +575,7 @@ performance if not distributed then use below methods to bring it guassian distr
           
           ii)keras embedding 
         
-     6.Document embedding
-      
-       Doc2vec
+     6.Document embedding-Doc2vec
       
      7.sentence embedding
     
@@ -709,15 +707,14 @@ Generally used metrics
    
     2.Classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,log loss,Average precision,Mean average precision
     
-    3.Reinforcement learning - generally  total rewards
+    3.Reinforcement learning - generally  use rewards
     
     4.Incase of machine translation use bleu score
     
     5.Clustering then use silhouette score
     
-    6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss,
+    6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss
 
-If not giving good performance go back to Data collection or  Feature engineering to increase performance of model
 
 Docker and Kubernetes
 
