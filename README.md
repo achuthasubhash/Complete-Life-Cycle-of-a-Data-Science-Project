@@ -810,7 +810,7 @@ Docker and Kubernetes
 
    4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
 
-   5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/
+   5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/  https://deep-learning-drizzle.github.io/index.html
 
    6.Fastaibook-https://github.com/fastai/fastbook
     
