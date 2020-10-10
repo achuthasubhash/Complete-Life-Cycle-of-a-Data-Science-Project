@@ -959,6 +959,8 @@ Docker and Kubernetes
    
    72.R for Data Science-https://r4ds.had.co.nz/ ,Fundamentals of Data Visualization-https://clauswilke.com/dataviz/
    
+   73.MAGENTA-https://magenta.tensorflow.org/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
