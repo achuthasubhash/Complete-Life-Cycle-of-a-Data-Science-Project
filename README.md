@@ -415,7 +415,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      4.Recommendation system -
      
-         a.collaborative Recommendation system,
+         a.collaborative Recommendation system (model based, memory based)
          
          b.content based Recommendation system 
          
