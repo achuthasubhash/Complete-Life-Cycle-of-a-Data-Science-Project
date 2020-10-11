@@ -149,6 +149,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     41.Big Bad NLP Database-https://datasets.quantumstat.com/
     
     42.30 largest tensorflow datasets-https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
+    
+    43.50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
        
 ***2.Feature engineering***
 
