@@ -748,6 +748,8 @@ Docker and Kubernetes
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
     
+    https://github.com/gradio-app/gradio
+    
 ***Tensorflow lite:Use of tensorflow lite to reduce size of model***
     
 ***Quantization:Use Quantization to reduce size of model***
