@@ -417,7 +417,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,SVD,LDA,tsne,plsr,pcr,autoencoders,kpca
+     1.Dimensionality reduction - PCA,SVD,LDA,tsne,plsr,pcr,autoencoders,kpca,lsa
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
@@ -480,6 +480,8 @@ performance if not distributed then use below methods to bring it guassian distr
       6.Advantage weighted actor critic (AWAC). 
       
       7.XCS
+      
+      8.genetic algorithm
       
       https://simoninithomas.github.io/deep-rl-course/
    
