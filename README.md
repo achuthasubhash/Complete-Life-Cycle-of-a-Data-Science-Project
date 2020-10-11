@@ -1180,6 +1180,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 63.painted your machine learning model-https://koaning.github.io/human-learn/
 
+64.Vector AI-https://github.com/vector-ai/vectorai
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
