@@ -1196,6 +1196,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 66.Deep Learning Models Without Coding(DeepCognition)-https://analyticsindiamag.com/how-to-use-deepcognition-to-build-drag-and-drop-deep-learning-models-without-coding/
 
+67.100 Machine Learning Projects-https://medium.com/@amankharwal/100-machine-learning-projects-aff22b22dd6e
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
