@@ -1192,6 +1192,10 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 64.Vector AI-https://github.com/vector-ai/vectorai
 
+65.NVIDIA NeMo(for Conversational AI)-https://github.com/NVIDIA/NeMo
+
+66.Deep Learning Models Without Coding(DeepCognition)-https://analyticsindiamag.com/how-to-use-deepcognition-to-build-drag-and-drop-deep-learning-models-without-coding/
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
