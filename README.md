@@ -1204,6 +1204,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 67.100 Machine Learning Projects-https://medium.com/@amankharwal/100-machine-learning-projects-aff22b22dd6e
 
+68.Question generation using Natural Language Processing-https://github.com/ramsrigouthamg/Questgen.ai
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
