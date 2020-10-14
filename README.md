@@ -549,7 +549,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
       6.variational autoencoder
    
-   6.BoltzmannMachines,deep belief network,deep BoltzmannMachines
+   6.BoltzmannMachines,a Restricted Boltzmann Machine,deep belief network,deep BoltzmannMachines
    
    7.Self Organizing Maps (SOM)
    
