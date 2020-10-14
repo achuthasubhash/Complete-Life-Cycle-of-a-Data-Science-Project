@@ -602,6 +602,12 @@ performance if not distributed then use below methods to bring it guassian distr
      11.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
+        
+     12.Speech
+       
+        speech to text   
+        
+        text to speech
    
    F.Time Series 
    
