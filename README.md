@@ -559,7 +559,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      Nltk,spacy,genism,textblob,inltk,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair  libraries
      
-     NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot
+     NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
      1.bag of words
      
