@@ -986,6 +986,8 @@ Docker and Kubernetes
    
    74.machine learning in JavaScript-https://www.tensorflow.org/js
    
+   75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
