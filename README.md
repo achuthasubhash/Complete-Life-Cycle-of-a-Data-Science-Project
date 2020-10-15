@@ -1208,7 +1208,7 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 68.Question generation using Natural Language Processing-https://github.com/ramsrigouthamg/Questgen.ai
 
-69.PixelLib(image segmentation)-https://github.com/ayoolaolafenwa/PixelLib
+69.PixelLib(image segmentation,Blur Background,Gray Background,Background Colour Change,Background Change)-https://github.com/ayoolaolafenwa/PixelLib
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
