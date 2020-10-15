@@ -153,6 +153,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     43.50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
     
     44.https://github.com/fivethirtyeight/data
+    
+    45.Recommender Systems Datasets-https://cseweb.ucsd.edu/~jmcauley/datasets.html
        
 ***2.Feature engineering***
 
