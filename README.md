@@ -56,7 +56,7 @@ d.Databases
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
-    1)kaggle-https://www.kaggle.com/datasets
+    1)kaggle-https://www.kaggle.com/datasets , 𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚔𝚊𝚐𝚐𝚕𝚎𝚍𝚊𝚝𝚊𝚜𝚎𝚝𝚜
    
     2)movielens-https://grouplens.org/datasets/movielens/latest/
    
