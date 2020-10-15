@@ -988,6 +988,8 @@ Docker and Kubernetes
    
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
    
+   76.Code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
