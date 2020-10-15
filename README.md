@@ -864,7 +864,7 @@ Docker and Kubernetes
     
    20.code implementations for research papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
     
-   21.regarding satellite images
+   21.regarding satellite images - Geo AI,Arcgis
    
        ersi arcgis-https://www.esri.com/en-us/arcgis/about-arcgis/overview
        
