@@ -1131,6 +1131,8 @@ applications of data science in many industry
 
 29.PDFTableExtract(by PyPDF2)  https://github.com/ashima/pdf-table-extract
 
+   Camelot-https://towardsdatascience.com/extracting-tabular-data-from-pdfs-made-easy-with-camelot-80c13967cc88
+
 30.PyImpuyte(Python package that simplifies the task of imputing missing values in big datasets)  https://pypi.org/project/PyImpuyte/
 
 31.libra(Automates the end-to-end machine learning process in just one line of code)  https://pypi.org/project/libra/
