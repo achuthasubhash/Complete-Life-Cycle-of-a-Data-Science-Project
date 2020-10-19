@@ -155,6 +155,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     44.https://github.com/fivethirtyeight/data
     
     45.Recommender Systems Datasets-https://cseweb.ucsd.edu/~jmcauley/datasets.html
+    
+    46.indiadataportal-https://indiadataportal.com/
        
 ***2.Feature engineering***
 
