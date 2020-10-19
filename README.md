@@ -992,6 +992,8 @@ Docker and Kubernetes
    
    76.Code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
    
+   77.Natural Language Processing 365-https://ryanong.co.uk/natural-language-processing-365/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
