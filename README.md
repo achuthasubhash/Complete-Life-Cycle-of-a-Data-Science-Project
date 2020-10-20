@@ -168,13 +168,13 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
      Types of missing value 
      
-     1.missing completely at random(no correlation b/w missing and observed data) we can delete no disturbance of data distribution
+     i.missing completely at random(no correlation b/w missing and observed data) we can delete no disturbance of data distribution
      
-     2.missing at random (randomness in missing data, missing value have correlation by data) we can't delete because disturbance of data distribution
+     ii.missing at random (randomness in missing data, missing value have correlation by data) we can't delete because disturbance of data distribution
      
-     3.missing not at random  (there is reason for missing value and directly related to value)
+     iii.missing not at random  (there is reason for missing value and directly related to value)
    
-     1.if missing data too small then delete it 
+     1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion
      
      2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode
      
@@ -186,7 +186,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      6.Random Sample Imputation
      
-     7.Adding a variable to capture NAN
+     7.Adding a variable to capture NAN(missing term)
      
      8.Arbitrary Value Imputation
      
@@ -195,8 +195,6 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      10.regression Imputation
      
      11.End of Distribution Imputation
-     
-     12.Missing indicator
      
    b.Handle imbalance
    
@@ -629,7 +627,13 @@ performance if not distributed then use below methods to bring it guassian distr
       
       3.do mean of previous or future x samples and impute
       
-      4.take previous year value and impute
+      4.take previous season value and impute (data with trend)
+      
+      5.mean,mode,median,random sample imputation (data without trend and without seasonality)
+      
+      6.linear interpolation(data with trend and without seasonality)
+      
+      7.seasonal +interpolation(data with trend and with seasonality)
       
       here model selection deponds on different property of data like stationary,trend,seasonality,cyclic
       
