@@ -998,6 +998,8 @@ Docker and Kubernetes
    
    78.Top Computer Vision Google Colab Notebooks- https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks
    
+   79.For practice -https://www.confetti.ai/exams
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
