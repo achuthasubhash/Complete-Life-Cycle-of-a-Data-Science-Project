@@ -1046,7 +1046,7 @@ applications of data science in many industry
     
     7.Marketing (Added from comments Credits: Jawad Ali)- LTV predictions,Predictive analytics for customer behavior,Ad targeting
     
-    and many more fields
+    and many more fields - https://www.topbots.com/enterprise-ai-companies-2020/
     
     
 ***online competitions:***
