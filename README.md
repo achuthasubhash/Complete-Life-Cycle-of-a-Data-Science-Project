@@ -1234,6 +1234,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 69.PixelLib(image segmentation,Blur Background,Gray Background,Background Colour Change,Background Change)-https://github.com/ayoolaolafenwa/PixelLib
 
+70.High-Resolution 3D Human Digitization-https://shunsukesaito.github.io/PIFuHD/
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
