@@ -389,6 +389,8 @@ performance if not distributed then use below methods to bring it guassian distr
     
     22.drop constant features (variance=0)
     
+    23.variance inflation factor(vif)
+    
 ***5.Data splitting***
 
      Splitting ratio of data deponds on size of dataset available
