@@ -1006,6 +1006,8 @@ Docker and Kubernetes
    
    79.For practice -https://www.confetti.ai/exams
    
+   80.Yellowbrick-https://towardsdatascience.com/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
