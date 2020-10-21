@@ -1109,6 +1109,8 @@ applications of data science in many industry
 
 14.automl lazypredict https://github.com/shankarpandala/lazypredict 
 
+   AutoFeat-https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/
+
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex
