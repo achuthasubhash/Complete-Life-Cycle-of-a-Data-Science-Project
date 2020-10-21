@@ -1113,9 +1113,13 @@ applications of data science in many industry
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex,Datapane
    
    ExploriPy import EDA-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
+   
+   Lens- Statistical Analysis of Data https://analyticsindiamag.com/hands-on-tutorial-on-lens-python-tool-for-swift-statistical-analysis/ 
+   
+   Datacleaner-https://analyticsindiamag.com/tutorial-on-datacleaner-python-tool-to-speed-up-data-cleaning-process/
 
 16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
 
