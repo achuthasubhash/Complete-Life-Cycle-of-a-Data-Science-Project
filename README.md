@@ -573,7 +573,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
        for above 3 models have bidirectional also
      
-     4.Encoder and Decoder(sequence to sequence)
+     4.Encoder and Decoder(sequence to sequence), ProphetNet(new pretrained seq2seq model)
      
      5.wordembedding
         
@@ -1237,6 +1237,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 69.PixelLib(image segmentation,Blur Background,Gray Background,Background Colour Change,Background Change)-https://github.com/ayoolaolafenwa/PixelLib
 
 70.High-Resolution 3D Human Digitization-https://shunsukesaito.github.io/PIFuHD/
+
+71.AI model that translates 100 languages without relying on English data - https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation/
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
