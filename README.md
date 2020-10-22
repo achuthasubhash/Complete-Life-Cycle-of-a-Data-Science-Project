@@ -1246,6 +1246,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 71.AI model that translates 100 languages without relying on English data - https://ai.facebook.com/blog/introducing-many-to-many-multilingual-machine-translation/
 
+72.800 free textbooks - https://open.umn.edu/opentextbooks
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
