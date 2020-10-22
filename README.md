@@ -309,7 +309,7 @@ performance if not distributed then use below methods to bring it guassian distr
   
     univariate and bivariate and multivariate analysis
     
-    model visualization Tensorboard,netron,playground tensorflow,plotly
+    model visualization Tensorboard,netron,playground tensorflow,plotly,TensorDash
     
     distributions(discerte,continous)
     
