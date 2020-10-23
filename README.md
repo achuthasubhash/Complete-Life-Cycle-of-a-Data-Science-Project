@@ -64,7 +64,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     4)uci-https://archive.ics.uci.edu/ml/datasets.php
    
-    5)Group Lens dataset
+    5)Group Lens dataset https://grouplens.org/
     
     6)world3bank  https://data.world/ , worldbank
    
@@ -92,7 +92,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     18)Google public datasets :- https://lnkd.in/g5dH8qE
    
-    19)Quandl :- https://www.quandl.com
+    19)Quandl :- https://www.quandl.com  stock data
+    
+       statista : https://www.statista.com/ stock data
    
     20)socorateopendata :- https://lnkd.in/gea7JMz
    
@@ -142,7 +144,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://www.who.int/data/gho ,https://data.unicef.org/open-data/ ,http://data.un.org/ ,https://data.oecd.org/ ,https://data.worldbank.org/  
     
-    39.Awesome Public Dataset-https://github.com/awesomedata/awesome-public-datasets
+    39.Awesome Public Dataset- https://github.com/awesomedata/awesome-public-datasets
     
     40.Datasets for Machine Learning on Graphs-https://ogb.stanford.edu/
     
@@ -159,6 +161,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     45.Recommender Systems Datasets-https://cseweb.ucsd.edu/~jmcauley/datasets.html
     
     46.indiadataportal-https://indiadataportal.com/
+    
+    47.US Government Open Dataset: https://www.data.gov/
        
 ***2.Feature engineering***
 
