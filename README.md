@@ -972,7 +972,7 @@ Docker and Kubernetes
    
    60.reinforcement learning by using  PyTorch-https://github.com/SforAiDl/genrl
    
-   61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis,Amazon lex,Wit.ai,Luis.ai,IBM Watson  etc...
+   61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson  etc...
    
    62.Teachable Machine-https://teachablemachine.withgoogle.com/
    
