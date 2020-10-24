@@ -71,6 +71,10 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     6)world3bank  https://data.world/ , worldbank
    
     7)Google Cloud BigQuery public datasets
+    
+      Google Public Datasets-cloud.google.com/bigquery/public-data/
+      
+      Academic Torrents-https://academictorrents.com/check.htm?returnto=%2Fbrowse.php
    
     8)online hacktons
    
@@ -88,9 +92,13 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     15)https://data.world/datasets/open-data
    
-    16)FiveThirtyEight :-  https://lnkd.in/gyh-HDj
+    16)FiveThirtyEight :-  https://lnkd.in/gyh-HDj , https://data.fivethirtyeight.com/
    
     17)BuzzFeed :- https://lnkd.in/gzPWyHj
+    
+       Buzzfeed News -github.com/BuzzFeedNews
+       
+       Socrata - https://opendata.socrata.com/
    
     18)Google public datasets :- https://lnkd.in/g5dH8qE
    
@@ -165,6 +173,10 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     46.indiadataportal-https://indiadataportal.com/
     
     47.US Government Open Dataset: https://www.data.gov/
+    
+    48.AWS Public Data Sets:https://registry.opendata.aws/
+    
+      Reddit - /r/datasets
        
 ***2.Feature engineering***
 
