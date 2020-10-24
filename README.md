@@ -1014,7 +1014,9 @@ Docker and Kubernetes
    
    80.Yellowbrick-https://towardsdatascience.com/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc
    
-   81.Mathematics of Machine Learning-https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568
+   81.Mathematics of Machine Learning-https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568 
+   
+   https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning
    
 ***Follow leaders in the field to update yourself in the field***
 
