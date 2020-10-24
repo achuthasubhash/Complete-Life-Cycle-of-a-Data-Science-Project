@@ -607,7 +607,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
      8.attention 
      
-     9.self attention,Global Attention,Local Attention (monotonic,predictive)    https://github.com/uzaymacar/attention-mechanisms
+     9.self attention,Global Attention,Multi-Head Attention,Local Attention (monotonic,predictive)    https://github.com/uzaymacar/attention-mechanisms
      
      10.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
       
