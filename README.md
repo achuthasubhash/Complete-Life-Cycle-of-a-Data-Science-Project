@@ -313,7 +313,7 @@ performance if not distributed then use below methods to bring it guassian distr
   
     univariate and bivariate and multivariate analysis
     
-    model visualization Tensorboard,netron,playground tensorflow,plotly,TensorDash
+    model visualization Tensorboard,netron,playground tensorflow,plotly,TensorDash,Dash
     
     distributions(discerte,continous)
     
@@ -675,7 +675,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
       14.Bayesian Neural Network 
       
-      15.PyFlux-https://analyticsindiamag.com/pyflux-guide-python-library-for-time-series-analysis-and-prediction/
+      15.PyFlux (easy way to compare different models)-https://analyticsindiamag.com/pyflux-guide-python-library-for-time-series-analysis-and-prediction/
       
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
@@ -1129,7 +1129,7 @@ applications of data science in many industry
 
 16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
 
-17.Dabl has a built-in function that will automatically detect data types and quality issues and apply appropriate pre-processing to a dataset to prepare it for machine learning.  https://pypi.org/project/dabl/
+17.Dabl-automate the known 80% of Data Science which is data preprocessing, data cleaning, and feature engineering https://pypi.org/project/dabl/
 
 18.dask (parallel comptataion)   https://docs.dask.org/en/latest/
 
@@ -1255,6 +1255,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 73.TensorDash is an application that lets you remotely monitor your deep learning model's metrics and notifies you when your model training is completed or crashed.
 
    https://github.com/CleanPegasus/TensorDash
+   
+74.YellowBrick -select features, tune hyperparameters, select the best models, and understand the performance metrics.
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
