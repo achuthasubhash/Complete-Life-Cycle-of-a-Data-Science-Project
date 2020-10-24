@@ -26,6 +26,8 @@ a.Web scraping  best article to refer-https://towardsdatascience.com/choose-the-
 
 https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=KJ|link|weekend-blogs|blogs|44087|0.875
 
+https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-scraping-software
+
     1.Beautifulsoup
    
     2.Scrapy
