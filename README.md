@@ -1252,6 +1252,10 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 72.800 free textbooks - https://open.umn.edu/opentextbooks
 
+73.TensorDash is an application that lets you remotely monitor your deep learning model's metrics and notifies you when your model training is completed or crashed.
+
+   https://github.com/CleanPegasus/TensorDash
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
