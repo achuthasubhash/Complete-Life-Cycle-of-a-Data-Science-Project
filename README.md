@@ -1034,6 +1034,8 @@ Docker and Kubernetes
    
    https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b
    
+   https://www.datasciencecentral.com/profiles/blogs/free-online-book-machine-learning-from-scratch
+   
    82.Googleai-https://ai.google/education
    
 ***Follow leaders in the field to update yourself in the field***
