@@ -864,7 +864,7 @@ Docker and Kubernetes
 
    5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/  https://deep-learning-drizzle.github.io/index.html
 
-   6.Fastaibook-https://github.com/fastai/fastbook
+   6.Fastaibook-https://github.com/fastai/fastbook , https://course.fast.ai/
     
    7.TopDeepLearning-https://github.com/aymericdamien/TopDeepLearning
    
