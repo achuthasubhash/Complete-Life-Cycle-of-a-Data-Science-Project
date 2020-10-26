@@ -176,6 +176,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     48.AWS Public Data Sets:https://registry.opendata.aws/
     
+    49.https://the-eye.eu/public/AI/pile_preliminary_components/
+    
       Reddit - /r/datasets
        
 ***2.Feature engineering***
