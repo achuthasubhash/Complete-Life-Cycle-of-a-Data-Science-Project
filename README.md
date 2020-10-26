@@ -1286,6 +1286,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 75.Freely Available Python Books-https://rajukumarmishrablog.com/freely-available-python-books/
 
+   Collection of Python Cheat Sheets- https://rajukumarmishrablog.com/collection-of-python-cheat-sheets/
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
