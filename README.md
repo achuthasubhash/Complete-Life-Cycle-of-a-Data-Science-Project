@@ -1284,6 +1284,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
    
 74.YellowBrick -select features, tune hyperparameters, select the best models, and understand the performance metrics.
 
+75.Freely Available Python Books-https://rajukumarmishrablog.com/freely-available-python-books/
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
