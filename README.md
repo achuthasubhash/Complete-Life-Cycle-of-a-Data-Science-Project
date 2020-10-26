@@ -853,6 +853,8 @@ Docker and Kubernetes
     3.Medium-https://medium.com/
     
     4.Machinelearningmastery-https://machinelearningmastery.com/blog/
+    
+    5.ML+  -https://www.machinelearningplus.com/
 
 ***BEST RESOURCES***
 
