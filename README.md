@@ -353,11 +353,13 @@ performance if not distributed then use below methods to bring it guassian distr
   
 ***4.Feature selection***
 
-    1.pearson correleation
-   
-    2.chisquare,Anova
+    1.Filter methods (correleation,chisquare  test,Ttest,anova test,hypothesis test,information gain etc...)
+
+    2.Wrapper methods (forward selection,backwaed elimination,stepwise selection etc...)
+
+    3.Embedded method (lasso,ridge regression,elasticnet etc...)
   
-    3.Feature Importance
+    4.Feature Importance
   
        a.ExtraTreesClassifier,ExtraTreesregressor
     
@@ -370,46 +372,36 @@ performance if not distributed then use below methods to bring it guassian distr
        e.decision tree
        
        f.Linear Regression
-       
-    4.statics to select important feature (chi square  test,T test,anova test,hypothesis test,ANOVA)
   
-    5.keep in mind  curse of dimensionality (as dimension increases performance decreases)
+    5.curse of dimensionality (as dimension increases performance decreases)
   
-    6.highly correleated then can remove 1 feature (multicollinearity)
+    6.highly correleated features then can take any 1 feature (multicollinearity)
   
     7.dimension reduction
   
     8.lasso regression to penalise unimportant features
     
-    9.filter method,wrapper method,embedded method
+    9.threshold based method 
     
-    10.threshold based method 
+    10.model based selection
     
-    11.hypothesis testing
+    11.Mutual Information Feature Selection
     
-    12.model based selection
+    12.remove features with very low variance (quasi constant feature dropping)
     
-    13.Mutual Information Feature Selection
+    13.Univariate  feature selection
     
-    14.Correlation Feature Selection
+    14.importance of feature (random forest importance)
     
-    15.remove features with very low variance (quasi constant feature dropping)
+    15.feature importance with decision trees
     
-    16.Univariate  feature selection
+    16.PyImpetus
     
-    17.recursive feature  elimination,recursive feature addition,Exhaustive search
+    17.drop constant features (variance=0)
     
-    18.importance of feature (random forest importance)
+    18.variance inflation factor(vif)
     
-    19.feature importance with decision trees
-    
-    20.Step forward feature selection,Step backward feature selection
-    
-    21.PyImpetus
-    
-    22.drop constant features (variance=0)
-    
-    23.variance inflation factor(vif)
+    https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
     
 ***5.Data splitting***
 
