@@ -990,6 +990,8 @@ Docker and Kubernetes
    
    62.Teachable Machine-https://teachablemachine.withgoogle.com/
    
+   Microsoft Lobe (Models Without Coding)-https://lobe.ai/
+   
    64.tensorflow development-https://blog.tensorflow.org/
    
    63.Data Science in the Cloud-Amazon SageMaker,Amazon Lex,Amazon Rekognition,Azure Machine Learning (Azure ML) Services,Azure Service Bot framework,Google Cloud AutoML
@@ -1289,6 +1291,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 76.Add External Data to Your Pandas Dataframe - https://towardsdatascience.com/add-external-data-to-your-pandas-dataframe-with-a-one-liner-f060f80daaa4
 
                                                 https://www.openblender.io/#/welcome
+                                                
+                                 
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
