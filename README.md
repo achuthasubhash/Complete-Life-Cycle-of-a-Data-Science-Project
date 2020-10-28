@@ -181,6 +181,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
       Reddit - /r/datasets
       
     50.openblender- https://www.openblender.io/#/welcome
+    
+    51.Top 10 Datasets For Cybersecurity Projects- https://analyticsindiamag.com/top-10-datasets-for-cybersecurity-projects/
        
 ***2.Feature engineering***
 
