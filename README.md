@@ -1281,6 +1281,10 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 75.Freely Available Python Books-https://rajukumarmishrablog.com/freely-available-python-books/
 
    Collection of Python Cheat Sheets- https://rajukumarmishrablog.com/collection-of-python-cheat-sheets/
+   
+76.Add External Data to Your Pandas Dataframe - https://towardsdatascience.com/add-external-data-to-your-pandas-dataframe-with-a-one-liner-f060f80daaa4
+
+                                                https://www.openblender.io/#/welcome
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
