@@ -183,6 +183,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     50.openblender- https://www.openblender.io/#/welcome
     
     51.Top 10 Datasets For Cybersecurity Projects- https://analyticsindiamag.com/top-10-datasets-for-cybersecurity-projects/
+    
+    52.Datasets from Web Crawl Data (nlp)-http://data.statmt.org/cc-100/
        
 ***2.Feature engineering***
 
