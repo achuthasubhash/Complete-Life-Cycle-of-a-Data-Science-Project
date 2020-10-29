@@ -1294,8 +1294,9 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
                                                 https://www.openblender.io/#/welcome
                                                 
-                                 
-
+77.visualize the model architecture-https://github.com/PerceptiLabs/PerceptiLabs                                                
+                                                
+                                                
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
