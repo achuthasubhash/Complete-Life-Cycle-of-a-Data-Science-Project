@@ -751,7 +751,7 @@ Generally used metrics
   
      Always check bias variance tradeoff to know how model is performing
      
-     Model can be overfitting(low bias,high variance),underfitting(high bias,low variance),good fit(low bias,low variance)
+     Model can be overfitting(low bias,high variance),underfitting(high bias,high variance),good fit(low bias,low variance)
      
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
