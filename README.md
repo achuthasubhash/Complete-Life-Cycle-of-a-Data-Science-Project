@@ -378,6 +378,8 @@ performance if not distributed then use below methods to bring it guassian distr
        e.decision tree
        
        f.Linear Regression
+       
+       g.xgboost
   
     5.curse of dimensionality (as dimension increases performance decreases)
   
