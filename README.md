@@ -994,6 +994,8 @@ Docker and Kubernetes
    
    64.tensorflow development-https://blog.tensorflow.org/
    
+   TensorFlow Hub- https://tfhub.dev/
+   
    63.Data Science in the Cloud-Amazon SageMaker,Amazon Lex,Amazon Rekognition,Azure Machine Learning (Azure ML) Services,Azure Service Bot framework,Google Cloud AutoML
    
    64.platforms to build and deploy ML models -Uber has Michelangelo,Google has TFX,Databricks has MLFlow,Amazon Web Services (AWS) has Sagemaker
