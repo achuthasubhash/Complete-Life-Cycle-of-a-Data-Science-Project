@@ -539,9 +539,11 @@ performance if not distributed then use below methods to bring it guassian distr
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
      
-     4.DeepSORT,Pose estimation 
+     4.objecttracking  (mean shit and optical flow and kalman filter)
      
-     5.Deepdream,Neural style transfer
+       Tracktor++,Trackrcnn,Jde,DeepSORT 
+     
+     5.Deepdream,Neural style transfer, Pose estimation 
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations
      
@@ -624,6 +626,8 @@ performance if not distributed then use below methods to bring it guassian distr
      9.self attention,Global Attention,Multi-Head Attention,Local Attention (monotonic,predictive)    https://github.com/uzaymacar/attention-mechanisms
      
      10.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
+     
+        Shrinking Transformers (reduce size)  1.quantization,distillation,pruning,
       
      11.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET
      
