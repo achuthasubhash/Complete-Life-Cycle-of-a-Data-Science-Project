@@ -224,6 +224,10 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      11.End of Distribution Imputation
      
+     12.Arbitrary Value Imputation
+     
+     13.Frequent Category Imputation
+     
    b.Handle imbalance
    
      1.Under Sampling - mostly not prefer because lost of data
