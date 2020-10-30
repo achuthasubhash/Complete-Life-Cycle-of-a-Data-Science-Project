@@ -701,6 +701,8 @@ performance if not distributed then use below methods to bring it guassian distr
       
       15.PyFlux (easy way to compare different models)-https://analyticsindiamag.com/pyflux-guide-python-library-for-time-series-analysis-and-prediction/
       
+      16.Orbit
+      
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
