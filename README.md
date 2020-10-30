@@ -425,7 +425,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      1.Regression (output feature in continous data form)
      
-       linear regression,polynomial regression,support vector regression,Decision Tree Regression,Random Forest Regression,
+       linear regression,polynomial regression,Robust Regression,support vector regression,Decision Tree Regression,Random Forest Regression,
        
        least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization),catboost,gradientboosting,adaboost,
        
