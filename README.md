@@ -516,6 +516,8 @@ performance if not distributed then use below methods to bring it guassian distr
       8.genetic algorithm
       
       https://simoninithomas.github.io/deep-rl-course/
+      
+       Environments-OpenAI Gym, DeepMind Lab, Unity ML-Agents
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
@@ -1161,7 +1163,7 @@ applications of data science in many industry
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex,Datapane,Sweetviz,PandasGUI,Datatable
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dore
    
    ExploriPy import EDA-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
    
