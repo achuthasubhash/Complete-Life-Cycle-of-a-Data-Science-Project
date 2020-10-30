@@ -1308,7 +1308,9 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
                                                 https://www.openblender.io/#/welcome
                                                 
-77.visualize the model architecture-https://github.com/PerceptiLabs/PerceptiLabs                                                
+77.visualize the model architecture-https://github.com/PerceptiLabs/PerceptiLabs  
+
+78.Train Conversational AI in 3 lines of code with NeMo and Lightning-https://towardsdatascience.com/train-conversational-ai-in-3-lines-of-code-with-nemo-and-lightning-a6088988ae37
                                                 
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
