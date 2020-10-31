@@ -187,6 +187,10 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     52.Datasets from Web Crawl Data (nlp)-http://data.statmt.org/cc-100/
     
     53.https://www.springboard.com/blog/free-public-data-sets-data-science-project/
+    
+    54.NASA - National Aeronautics and Space Administration 
+    
+    55.Academic Torrents,GitHub Datasets,CERN Open Data Portal,Global Health Observatory Data Repository
        
 ***2.Feature engineering***
 
