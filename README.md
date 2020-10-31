@@ -191,6 +191,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     54.NASA - National Aeronautics and Space Administration 
     
     55.Academic Torrents,GitHub Datasets,CERN Open Data Portal,Global Health Observatory Data Repository
+    
+    56.32 Data Sets to Uplift your Skills in Data Science-https://blog.datasciencedojo.com/data-sets-data-science-skills/?utm_content=144243072&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
+    
        
 ***2.Feature engineering***
 
