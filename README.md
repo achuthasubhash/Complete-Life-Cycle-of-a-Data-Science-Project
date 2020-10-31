@@ -185,6 +185,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     51.Top 10 Datasets For Cybersecurity Projects- https://analyticsindiamag.com/top-10-datasets-for-cybersecurity-projects/
     
     52.Datasets from Web Crawl Data (nlp)-http://data.statmt.org/cc-100/
+    
+    53.https://www.springboard.com/blog/free-public-data-sets-data-science-project/
        
 ***2.Feature engineering***
 
@@ -431,7 +433,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
        linear regression,polynomial regression,Robust Regression,support vector regression,Decision Tree Regression,Random Forest Regression,
        
-       least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization),catboost,gradientboosting,adaboost,
+       least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,
        
        elsatic net,light gbm,ordinary least squares,cart
        
