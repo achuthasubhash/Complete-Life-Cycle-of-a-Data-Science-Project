@@ -504,7 +504,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
       2 types a)model free   b)model based
    
-      agent,environment,policy,reward function,value function,state,action,episode
+      agent,environment,policy(On-Policy vs Off-Policy),reward function,value function,state,action,episode,actor-critic
    
       agent apply action to environment get corresponding reward so that it learn environment
       
