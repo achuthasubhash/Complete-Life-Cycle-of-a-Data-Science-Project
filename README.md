@@ -785,6 +785,7 @@ Generally used metrics
     
     6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss
 
+    Regularization- L1, L2, dropout, early stopping, and data augmentation.
 
 Docker and Kubernetes
 
