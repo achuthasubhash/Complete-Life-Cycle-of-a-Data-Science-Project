@@ -1024,6 +1024,8 @@ Docker and Kubernetes
    
    Microsoft Lobe (Models Without Coding)-https://lobe.ai/
    
+   WEKA - https://www.cs.waikato.ac.nz/ml/weka/
+   
    64.tensorflow development-https://blog.tensorflow.org/
    
    TensorFlow Hub- https://tfhub.dev/
