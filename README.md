@@ -1331,6 +1331,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 77.visualize the model architecture-https://github.com/PerceptiLabs/PerceptiLabs  
 
 78.Train Conversational AI in 3 lines of code with NeMo and Lightning-https://towardsdatascience.com/train-conversational-ai-in-3-lines-of-code-with-nemo-and-lightning-a6088988ae37
+
+79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
                                                 
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
