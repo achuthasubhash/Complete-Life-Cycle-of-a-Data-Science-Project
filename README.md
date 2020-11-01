@@ -194,6 +194,12 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     56.32 Data Sets to Uplift your Skills in Data Science-https://blog.datasciencedojo.com/data-sets-data-science-skills/?utm_content=144243072&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
     
+    57.OpenDaL-https://opendatalibrary.com/
+    
+    Pandas Data Reader-https://pandas-datareader.readthedocs.io/en/latest/remote_data.html
+    
+    Data Is Plural-https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
+    
        
 ***2.Feature engineering***
 
