@@ -724,6 +724,8 @@ performance if not distributed then use below methods to bring it guassian distr
       
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
+      https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+      
       https://github.com/Apress/hands-on-time-series-analylsis-python
           
    G.Semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
