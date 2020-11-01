@@ -350,7 +350,7 @@ performance if not distributed then use below methods to bring it guassian distr
     
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,etc...)
     
-    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,PDF,Kernel density function,networkx
+    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot
   
     univariate and bivariate and multivariate analysis
     
