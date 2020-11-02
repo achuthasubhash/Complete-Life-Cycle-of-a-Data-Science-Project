@@ -1219,6 +1219,10 @@ applications of data science in many industry
 
 25.hummingbird (make code fastly exexcute) https://pypi.org/project/Hummingbird/
 
+CUML- increase the speed of training your machine learning model https://towardsdatascience.com/train-your-machine-learning-model-150x-faster-with-cuml-69d0768a047a
+
+https://docs.rapids.ai/api/cuml/stable/
+
 26.memory-profiler (tell memory consumption line by line)  https://pypi.org/project/memory-profiler/
 
 27.numexpr (incerease speed of execution of numpy)  https://github.com/pydata/numexpr
