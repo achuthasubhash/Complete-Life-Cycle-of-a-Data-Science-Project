@@ -430,6 +430,8 @@ performance if not distributed then use below methods to bring it guassian distr
     
     18.variance inflation factor(vif)
     
+    19.Recursive Feature Elimination
+    
     https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
     
 ***5.Data splitting***
