@@ -1085,6 +1085,10 @@ Docker and Kubernetes
    
    82.Googleai-https://ai.google/education
    
+   83.ELI5 is a Python package which helps to debug machine learning classifiers and explain their predictions
+   
+   PyBrain is a modular Machine Learning Library for Python
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
