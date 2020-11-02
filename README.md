@@ -746,6 +746,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    K.One-shot learning,Zero-shot learning
 
+  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,SIGMOID ACTIVATION,TANH ACTIVATION
 ***Hyperparameter tuning***
   
     a.GridSearchCV (check every given parameter so take long time)
@@ -820,7 +821,7 @@ Docker and Kubernetes
     
     Models visualization using Tensorboard,netron
 
-    Python Frameworks for App Development- Flask,Streamlit,Django,Web2py,Pyramid,CherryPy,Voila https://analyticsindiamag.com/top-8-python-tools-for-app-development/
+    Python Frameworks for App Development- Flask,Streamlit,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
     
