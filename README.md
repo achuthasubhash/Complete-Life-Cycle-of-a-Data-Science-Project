@@ -606,7 +606,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     Nltk,spacy,genism,textblob,inltk,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair  libraries
+     Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair  libraries
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
@@ -659,6 +659,8 @@ performance if not distributed then use below methods to bring it guassian distr
         speech to text   
         
         text to speech
+        
+     https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
    
    F.Time Series 
    
@@ -1195,7 +1197,7 @@ applications of data science in many industry
 
 17.Dabl-automate the known 80% of Data Science which is data preprocessing, data cleaning, and feature engineering https://pypi.org/project/dabl/
 
-18.dask (parallel comptataion)   https://docs.dask.org/en/latest/
+18.dask (parallel comptataion)   https://docs.dask.org/en/latest/   https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f#cid=av01_so-nvsh_en-us
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
