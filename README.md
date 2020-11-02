@@ -243,6 +243,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      13.Frequent Category Imputation
      
+     14.MICE Imputation
+     
    b.Handle imbalance
    
      1.Under Sampling - mostly not prefer because lost of data
