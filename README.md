@@ -356,6 +356,8 @@ performance if not distributed then use below methods to bring it guassian distr
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,etc...)
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot
+    
+    𝗞𝗲𝗿𝗮𝘀 𝗠𝗼𝗱𝗲𝗹 𝘃𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿(ann-visualizer)- 𝗽𝗶𝗽𝟯 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗿𝗮𝗽𝗵𝘃𝗶𝘇
   
     univariate and bivariate and multivariate analysis
     
@@ -668,6 +670,9 @@ performance if not distributed then use below methods to bring it guassian distr
         text to speech
         
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
+     
+     MT5-https://venturebeat.com/2020/10/26/google-open-sources-mt5-a-multilingual-model-trained-on-over-101-languages/?utm_content=144321587&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
+     
    
    F.Time Series 
    
@@ -727,7 +732,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
       15.PyFlux (easy way to compare different models)-https://analyticsindiamag.com/pyflux-guide-python-library-for-time-series-analysis-and-prediction/
       
-      16.Orbit
+      16.Orbit , DeepAR
       
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
