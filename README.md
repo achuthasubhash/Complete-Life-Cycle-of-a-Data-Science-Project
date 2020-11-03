@@ -44,6 +44,8 @@ https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-sc
     
     7.urllib
     
+    8.pattern
+    
 b.Web Crawling
   
 b.3rd party API'S 
