@@ -1355,6 +1355,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph
+
+81.HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9
                                                 
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
