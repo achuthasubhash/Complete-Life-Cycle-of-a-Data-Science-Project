@@ -807,7 +807,7 @@ Generally used metrics
     
     4.Incase of machine translation use bleu score
     
-    5.Clustering then use silhouette score,Elbow Method,Dendrogram,Gap Statistic,Bayesian information criterion,Davies-Bouldin Index,Calinski-Harabasz Index
+    5.Clustering then use External: Adjusted Rand index, Jaccard Score, Purity Score    Internal:silhouette_score, Davies-Bouldin Index, Dunn Index
     
     6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss
 
