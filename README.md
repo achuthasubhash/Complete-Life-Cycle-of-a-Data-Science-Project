@@ -1168,7 +1168,7 @@ applications of data science in many industry
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl,Azure Cognitive Services,Google Cloud Platform
+1. H20.ai automl, google automl,Azure Cognitive Services,Google Cloud Platform,Weka 
 
 2. Tpot
 
