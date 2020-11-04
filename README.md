@@ -755,6 +755,9 @@ performance if not distributed then use below methods to bring it guassian distr
    K.One-shot learning,Zero-shot learning
 
   TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,SIGMOID ACTIVATION,TANH ACTIVATION
+  
+  Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief
+  
 ***Hyperparameter tuning***
   
     a.GridSearchCV (check every given parameter so take long time)
