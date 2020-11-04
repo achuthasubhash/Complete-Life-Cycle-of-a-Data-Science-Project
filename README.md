@@ -557,7 +557,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,Resenet,Inception,Vgg,Efficient,Nasnet,STN
+       create own model,Lenet,Alexnet,Resenet,Inception,Vgg,Efficient,Nasnet,STN,nasneta,senet,amoebanetc
      
      2.Localization of object in image
      
@@ -565,7 +565,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
        rcnn,fastrcnn,fatercnn,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net
+       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
      
