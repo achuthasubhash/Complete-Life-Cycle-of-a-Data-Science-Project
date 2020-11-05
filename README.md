@@ -1385,7 +1385,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 81.HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9
 
 82.Gradio - take input frpm user  https://gradio.app/getting_started
-                                                
+
+83. Mito, an editable spreadsheet inside your Jupyter Notebook. - https://trymito.io/                                                
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
