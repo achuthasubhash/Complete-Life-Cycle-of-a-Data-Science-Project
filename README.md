@@ -569,13 +569,13 @@ performance if not distributed then use below methods to bring it guassian distr
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,Resenet,Inception,Vgg,Efficient,Nasnet,STN,nasneta,senet,amoebanetc
+       create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg,Efficient,Nasnet,STN,nasneta,senet,amoebanetc
      
      2.Localization of object in image
      
      3.Object detection and object segmentation 
      
-       rcnn,fastrcnn,fatercnn,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
+       rcnn,fastrcnn,fatercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,
        
