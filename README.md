@@ -204,6 +204,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     VisualData-https://www.visualdata.io/discovery
     
+    https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+    
 ***2.Feature engineering***
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
@@ -547,7 +549,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
-   Frameworks:Pytorch,Tensorflow,Keras,caffe,theano
+   Frameworks:Pytorch,Tensorflow,Keras,caffe,theano,MXNet,Matlab,Microsoft Cognitive Toolkit
    
    1.Multilayer perceptron(MLP)
    
@@ -625,13 +627,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      2.Tfidf
      
-     3.using rnn,lstm,gru
-     
-       for above 3 models have bidirectional also
-     
-     4.Encoder and Decoder(sequence to sequence), ProphetNet(new pretrained seq2seq model)
-     
-     5.wordembedding
+     3.wordembedding
         
         a.using pretrained model 
           
@@ -647,25 +643,31 @@ performance if not distributed then use below methods to bring it guassian distr
           
           ii)keras embedding 
         
-     6.Document embedding-Doc2vec
+     4.Document embedding-Doc2vec
       
-     7.sentence embedding
+     5.sentence embedding
     
        sense2vec,SENT2VEC,Universal sentence encoder
+     
+     6.using rnn,lstm,gru
+     
+       for above 3 models have bidirectional also
+     
+     7.Encoder and Decoder(sequence to sequence), ProphetNet(new pretrained seq2seq model)
       
      8.attention 
      
-     9.self attention,Global Attention,Multi-Head Attention,Local Attention (monotonic,predictive)    https://github.com/uzaymacar/attention-mechanisms
+       self attention,Global Attention,Multi-Head Attention,Local Attention (monotonic,predictive)    https://github.com/uzaymacar/attention-mechanisms
      
-     10.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
+     9.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
      
         Shrinking Transformers (reduce size)  1.quantization,distillation,pruning,
       
-     11.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT
+     10.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
-     12.Speech
+     11.Speech
        
         speech to text   
         
@@ -675,6 +677,10 @@ performance if not distributed then use below methods to bring it guassian distr
      
      MT5-https://venturebeat.com/2020/10/26/google-open-sources-mt5-a-multilingual-model-trained-on-over-101-languages/?utm_content=144321587&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
      
+     APPLICATIONS OF MACHINE TRANSLATIO-Text-to-text,Text-to-speech,Speech-to-text,Speech-to-speech,Image (of words)-to-text
+     
+     Google-GNMT (Tensorflow),Facebook-fairseq (Torch),Amazon-Sockeye (MXNet),NEMATUS (Theano),THUMT (Theano),OpenNMT (PyTorch),StanfordNMT (Matlab),DyNet-lamtram(CMU),EUREKA(MangoNMT
+   
    
    F.Time Series 
    
@@ -962,7 +968,7 @@ Docker and Kubernetes
    
    25.recommenders-https://github.com/microsoft/recommenders
    
-   26.Awesome-NLP-Resources -https://github.com/Robofied/Awesome-NLP-Resources
+   26.Awesome-NLP-Resources -https://github.com/Robofied/Awesome-NLP-Resources  https://shivanandroy.com/awesome-nlp-resources/
    
    27.Tool for visualizing attention in the Transformer model-https://github.com/jessevig/bertviz
    
