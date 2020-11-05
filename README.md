@@ -557,7 +557,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
-   Frameworks:Pytorch,Tensorflow,Keras,caffe,theano,MXNet,Matlab,Microsoft Cognitive Toolkit
+   Frameworks:Pytorch,Tensorflow,Keras,caffe,theano,MXNet,Matlab,Microsoft Cognitive Toolkit,opacus(Train PyTorch models with Differential Privacy)
    
    1.Multilayer perceptron(MLP)
    
