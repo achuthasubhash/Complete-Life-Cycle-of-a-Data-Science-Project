@@ -1078,6 +1078,8 @@ Docker and Kubernetes
    
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
    
+      65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
+   
    76.Code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
    
    77.Natural Language Processing 365- https://ryanong.co.uk/natural-language-processing-365/
