@@ -180,7 +180,15 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     49.https://the-eye.eu/public/AI/pile_preliminary_components/
     
-      Reddit - /r/datasets
+      Reddit -https://www.reddit.com/r/datasets/
+      
+      wikipedia-https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+      
+      http://opendata.cern.ch/  ,  https://www.imf.org/en/Data
+      
+      Global Health Observatory data repository-https://apps.who.int/gho/data/node.main
+      
+      CERN Open Data Portal-http://opendata.cern.ch/
       
     50.openblender- https://www.openblender.io/#/welcome
     
@@ -190,7 +198,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     53.https://www.springboard.com/blog/free-public-data-sets-data-science-project/
     
-    54.NASA - National Aeronautics and Space Administration 
+    54.NASA - https://nasa.github.io/data-nasa-gov-frontpage/ace 
     
     55.Academic Torrents,GitHub Datasets,CERN Open Data Portal,Global Health Observatory Data Repository
     
@@ -1375,6 +1383,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph
 
 81.HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9
+
+82.Gradio - take input frpm user  https://gradio.app/getting_started
                                                 
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
