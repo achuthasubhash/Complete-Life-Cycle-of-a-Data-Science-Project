@@ -206,13 +206,13 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     57.OpenDaL-https://opendatalibrary.com/
     
-    Pandas Data Reader-https://pandas-datareader.readthedocs.io/en/latest/remote_data.html
-    
     Data Is Plural-https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
     
     VisualData-https://www.visualdata.io/discovery
     
     https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+     
+    58.Pandas Data Reader-https://pandas-datareader.readthedocs.io/en/latest/remote_data.html
     
 ***2.Feature engineering***
 
