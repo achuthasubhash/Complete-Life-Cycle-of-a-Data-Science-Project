@@ -76,6 +76,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
       Google Public Datasets-cloud.google.com/bigquery/public-data/
       
+      Google Cloud Data Catalog  https://cloud.google.com/data-catalog
+      
       Academic Torrents-https://academictorrents.com/check.htm?returnto=%2Fbrowse.php
    
     8)online hacktons
