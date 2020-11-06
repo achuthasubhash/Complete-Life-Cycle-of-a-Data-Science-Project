@@ -1181,6 +1181,8 @@ applications of data science in many industry
 
 8.dockship-https://dockship.io/
 
+9.SIGNATE Competition- https://signate.jp/about?rf=competition_about
+
 9.International Data Analysis Olympiad (IDAHO)
 
 10.Codalab
