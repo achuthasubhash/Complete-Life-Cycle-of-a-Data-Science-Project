@@ -556,6 +556,8 @@ performance if not distributed then use below methods to bring it guassian distr
       https://simoninithomas.github.io/deep-rl-course/
       
        Environments-OpenAI Gym, DeepMind Lab, Unity ML-Agents
+       
+       https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
@@ -772,7 +774,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    K.One-shot learning,Zero-shot learning
 
-  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,SIGMOID ACTIVATION,TANH ACTIVATION
+  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Softmax,Swish,Softplus
   
   Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief
   
@@ -1388,7 +1390,9 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 82.Gradio - take input frpm user  https://gradio.app/getting_started
 
-83. Mito, an editable spreadsheet inside your Jupyter Notebook. - https://trymito.io/                                                
+83. Mito, an editable spreadsheet inside your Jupyter Notebook. - https://trymito.io/   
+
+84.Google Introduces Document AI (DocAI) https://www.marktechpost.com/2020/11/05/google-introduces-document-ai-docai-platform-for-automated-document-processing/
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
