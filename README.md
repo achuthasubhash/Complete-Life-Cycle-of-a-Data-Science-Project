@@ -216,6 +216,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
     58.Pandas Data Reader-https://pandas-datareader.readthedocs.io/en/latest/remote_data.html
     
+    59.ieee-dataport-https://ieee-dataport.org/datasets
+    
 ***2.Feature engineering***
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
@@ -1123,6 +1125,10 @@ Docker and Kubernetes
    PyBrain is a modular Machine Learning Library for Python
    
    84.Best Online Courses for Machine Learning and Data Science-https://www.mltut.com/best-online-courses-for-machine-learning-and-data-science/
+   
+   AI Expert Roadmap-https://i.am.ai/roadmap/#data-science-roadmap
+   
+   85.FastAPI-https://fastapi.tiangolo.com/deployment/deta/
    
 ***Follow leaders in the field to update yourself in the field***
 
