@@ -1122,6 +1122,8 @@ Docker and Kubernetes
    
    PyBrain is a modular Machine Learning Library for Python
    
+   84.Best Online Courses for Machine Learning and Data Science-https://www.mltut.com/best-online-courses-for-machine-learning-and-data-science/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
