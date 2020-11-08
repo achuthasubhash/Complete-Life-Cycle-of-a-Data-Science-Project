@@ -83,6 +83,12 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     8)online hacktons
    
     9)image data from google_images_download
+    
+    https://www.visualdata.io/discovery
+    
+    http://xviewdataset.org/#dataset
+    
+    https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html
    
     10)image data from Bing_Search
    
@@ -217,6 +223,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     58.Pandas Data Reader-https://pandas-datareader.readthedocs.io/en/latest/remote_data.html
     
     59.ieee-dataport-https://ieee-dataport.org/datasets
+    
+    https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
     
 ***2.Feature engineering***
 
