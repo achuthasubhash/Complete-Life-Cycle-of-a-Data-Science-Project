@@ -353,6 +353,8 @@ performance if not distributed then use below methods to bring it guassian distr
       
       if outiler present then use robust scaling
       
+      https://medium.com/towards-artificial-intelligence/outlier-detection-and-treatment-a-beginners-guide-c44af0699754
+      
    j.Anomaly
    
      clustering techniques to find it
