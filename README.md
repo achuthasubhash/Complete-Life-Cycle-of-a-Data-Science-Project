@@ -499,6 +499,11 @@ performance if not distributed then use below methods to bring it guassian distr
          
          b.content based Recommendation system 
          
+         similarity based(user-user similarity,item-item similarity)
+         
+         matrix factorization
+         
+         
          c.utility based Recommendation system 
          
          d.knowledge based Recommendation system 
