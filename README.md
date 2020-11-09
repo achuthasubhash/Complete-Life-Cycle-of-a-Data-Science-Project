@@ -1430,6 +1430,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 84.Google Introduces Document AI (DocAI) https://www.marktechpost.com/2020/11/05/google-introduces-document-ai-docai-platform-for-automated-document-processing/
 
 85.100 Machine Learning Projects-https://amankharwal.medium.com/100-machine-learning-projects-aff22b22dd6e
+
+86.https://towardsdatascience.com/25-hot-new-data-tools-and-what-they-dont-do-31bf23bd8e56
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
