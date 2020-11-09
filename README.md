@@ -1145,6 +1145,8 @@ Docker and Kubernetes
    
    85.FastAPI-https://fastapi.tiangolo.com/deployment/deta/
    
+   86.Yann LeCun’s Deep Learning Course at CDS-https://cds.nyu.edu/deep-learning/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
