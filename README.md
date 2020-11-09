@@ -1145,7 +1145,13 @@ Docker and Kubernetes
    
    85.FastAPI-https://fastapi.tiangolo.com/deployment/deta/
    
-   86.Yann LeCun’s Deep Learning Course at CDS-https://cds.nyu.edu/deep-learning/
+   86.Yann LeCun’s Deep Learning Course at CDS-https://cds.nyu.edu/deep-learning/ https://atcold.github.io/pytorch-Deep-Learning/
+    
+   87.Four Important Computer Vision Annotation Tools  https://heartbeat.fritz.ai/4-important-computer-vision-annotation-tools-you-need-to-know-in-2020-9f964931ed7
+   
+   88.Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/
+   
+   89.for low code object detection (detecto)- https://github.com/alankbi/detecto
    
 ***Follow leaders in the field to update yourself in the field***
 
