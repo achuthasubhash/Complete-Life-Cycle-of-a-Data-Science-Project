@@ -1153,6 +1153,8 @@ Docker and Kubernetes
    
    89.for low code object detection (detecto)- https://github.com/alankbi/detecto
    
+   90.1 line for hundreds of NLP models and algorithms- https://github.com/JohnSnowLabs/nlu
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
@@ -1426,6 +1428,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 83. Mito, an editable spreadsheet inside your Jupyter Notebook. - https://trymito.io/   
 
 84.Google Introduces Document AI (DocAI) https://www.marktechpost.com/2020/11/05/google-introduces-document-ai-docai-platform-for-automated-document-processing/
+
+85.100 Machine Learning Projects-https://amankharwal.medium.com/100-machine-learning-projects-aff22b22dd6e
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
