@@ -226,6 +226,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
     
+    https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/data/datasets.md#datasets-and-sources-of-raw-data
+    
 ***2.Feature engineering***
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
@@ -778,6 +780,8 @@ performance if not distributed then use below methods to bring it guassian distr
       https://www.machinelearningplus.com/time-series/time-series-analysis-python/
       
       https://github.com/Apress/hands-on-time-series-analylsis-python
+      
+      https://otexts.com/fpp2/simple-methods.html
           
    G.Semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
    
@@ -1021,7 +1025,7 @@ Docker and Kubernetes
    
    34.Powerful and efficient Computer Vision Annotation Tool (CVAT)-https://github.com/openvinotoolkit/cvat, https://github.com/abreheret/PixelAnnotationTool
    
-   https://github.com/UniversalDataTool/universal-data-tool
+   https://github.com/UniversalDataTool/universal-data-tool  http://www.robots.ox.ac.uk/~vgg/software/via/
    
    35.Data augmentation for NLP-https://github.com/makcedward/nlpaug
    
