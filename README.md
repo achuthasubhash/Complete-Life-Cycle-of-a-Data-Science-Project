@@ -1161,17 +1161,19 @@ Docker and Kubernetes
 
     2.Twitter
     
-***Free CPU/GPU/TPU***
+***CPU/GPU/TPU***
  
-    1.Google cloab
+    1.Google cloab (FREE)
     
-    2.Kaggle kernel(read terms and conditions before use)
+    2.Kaggle kernel(read terms and conditions before use) (FREE)
     
     3.Paperspace Gradient(read terms and conditions before use)
     
     4.knime - https://www.knime.com/(read terms and conditions before use)
     
     5.RapidMiner (read terms and conditions before use)
+    
+    https://github.com/zszazi/Deep-learning-in-cloud
     
 ***So what next ?***
 
