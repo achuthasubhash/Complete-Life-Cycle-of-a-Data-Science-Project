@@ -379,7 +379,7 @@ performance if not distributed then use below methods to bring it guassian distr
     
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,etc...)
     
-    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot
+    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot
     
     𝗞𝗲𝗿𝗮𝘀 𝗠𝗼𝗱𝗲𝗹 𝘃𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿(ann-visualizer)- 𝗽𝗶𝗽𝟯 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗿𝗮𝗽𝗵𝘃𝗶𝘇
   
@@ -1077,6 +1077,8 @@ Docker and Kubernetes
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson  etc...
    
+   https://blog.ubisend.com/optimise-chatbots/chatbot-training-data
+   
    62.Teachable Machine-https://teachablemachine.withgoogle.com/
    
    Microsoft Lobe (Models Without Coding)-https://lobe.ai/
@@ -1434,6 +1436,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 85.100 Machine Learning Projects-https://amankharwal.medium.com/100-machine-learning-projects-aff22b22dd6e
 
 86.https://towardsdatascience.com/25-hot-new-data-tools-and-what-they-dont-do-31bf23bd8e56
+
+87.Opacus: A high-speed library for training PyTorch models-https://ai.facebook.com/blog/introducing-opacus-a-high-speed-library-for-training-pytorch-models-with-differential-privacy
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
