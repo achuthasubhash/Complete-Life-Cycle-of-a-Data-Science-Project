@@ -1010,7 +1010,7 @@ Docker and Kubernetes
    
    25.recommenders-https://github.com/microsoft/recommenders
    
-   26.Awesome-NLP-Resources -https://github.com/Robofied/Awesome-NLP-Resources  https://shivanandroy.com/awesome-nlp-resources/
+   26.Awesome-NLP-Resources -https://github.com/Robofied/Awesome-NLP-Resources  https://shivanandroy.com/awesome-nlp-resources/ 
    
    27.Tool for visualizing attention in the Transformer model-https://github.com/jessevig/bertviz
    
