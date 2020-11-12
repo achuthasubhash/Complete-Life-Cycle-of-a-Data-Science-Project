@@ -175,6 +175,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     43.50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
     
        70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
+       
+       tensorflow_datasets.object_detection   -   https://storage.googleapis.com/openimages/web/index.html
     
     https://github.com/google-research-datasets/Objectron/  https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html?m=1
     
@@ -1108,7 +1110,7 @@ Docker and Kubernetes
    
    65.Time Complexity Of Machine Learning Models -https://www.thekerneltrip.com/machine/learning/computational-complexity-learning-algorithms/
   
-   66.ML from scratch-https://dafriedman97.github.io/mlbook/content/introduction.html
+   66.ML from scratch-https://dafriedman97.github.io/mlbook/content/introduction.html   
    
    67.turn-on visual training for most popular ML algorithms https://github.com/lucko515/ml_tutor  https://pypi.org/project/ml-tutor/
    
