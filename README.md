@@ -577,6 +577,9 @@ performance if not distributed then use below methods to bring it guassian distr
        Environments-OpenAI Gym, DeepMind Lab, Unity ML-Agents
        
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
+       
+       https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-reinforcement-learning-tutorials-examples-projects-and-courses
+       
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
