@@ -144,7 +144,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
     32)coco dataset https://cocodataset.org/#explore
     
-    33)huggingface datasets-https://github.com/huggingface/datasets
+    33)huggingface datasets-https://github.com/huggingface/datasets  https://huggingface.co/datasets
     
     34)Big Bad NLP Database-https://datasets.quantumstat.com/
     
@@ -175,6 +175,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     43.50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
     
        70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
+    
+    https://github.com/google-research-datasets/Objectron/  https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html?m=1
     
     44.https://github.com/fivethirtyeight/data
     
@@ -272,11 +274,15 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      14.MICE Imputation
      
+     https://stefvanbuuren.name/fimd/want-the-hardcopy.html
+     
    b.Handle imbalance
    
      1.Under Sampling - mostly not prefer because lost of data
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time)
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,ADASYN,Smote-NC
+     
+     https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
      
      3.class_weight give more importance(weight) to that small class
      
@@ -1163,6 +1169,10 @@ Docker and Kubernetes
    89.for low code object detection (detecto)- https://github.com/alankbi/detecto
    
    90.1 line for hundreds of NLP models and algorithms- https://github.com/JohnSnowLabs/nlu
+   
+   91.AudioFeaturizer when deal with audio data- https://pypi.org/project/AudioFeaturizer/
+   
+     liborsa 
    
 ***Follow leaders in the field to update yourself in the field***
 
