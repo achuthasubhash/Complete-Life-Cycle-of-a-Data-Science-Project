@@ -1444,6 +1444,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 87.Opacus: A high-speed library for training PyTorch models-https://ai.facebook.com/blog/introducing-opacus-a-high-speed-library-for-training-pytorch-models-with-differential-privacy
 
 88.lazynlp https://github.com/chiphuyen/lazynlp
+
+89.yfinance  to get finance data 
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
