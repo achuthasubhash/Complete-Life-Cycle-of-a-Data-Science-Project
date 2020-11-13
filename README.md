@@ -623,6 +623,8 @@ performance if not distributed then use below methods to bring it guassian distr
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations
      
+     imageai.Detection for Object detection
+     
      Data Augmentation apply to increase size of dataset and performance of model
    
    3.Recurrent neural network (use when series of data)
