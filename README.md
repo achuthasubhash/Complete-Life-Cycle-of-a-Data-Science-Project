@@ -178,7 +178,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
        
        tensorflow_datasets.object_detection   -   https://storage.googleapis.com/openimages/web/index.html
     
-    https://github.com/google-research-datasets/Objectron/  https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html?m=1
+    https://github.com/google-research-datasets/Objectron/  https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html?m=1 
+   
+    https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html
     
     44.https://github.com/fivethirtyeight/data
     
@@ -1364,7 +1366,9 @@ https://docs.rapids.ai/api/cuml/stable/
 
 44.Google's TAPAS, a BERT-Based Model for Querying Tables Using Natural Language  https://github.com/google-research/tapas
 
-45.RAPIDS  open GPU Data Science  https://rapids.ai/
+45.RAPIDS  open GPU Data Science  https://rapids.ai/ 
+
+RAPIDS cuML
 
 46.pyforest Lazy-import of all popular Python Data Science libraries. Stop writing the same imports over and over again. https://pypi.org/project/pyforest/0.1.1/
 
@@ -1465,6 +1469,13 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 89.yfinance  to get finance data 
 
 90.Pseudo-Labeling (deal with small datasets)https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af
+
+91.Project List A - Comparatively Easy Wine Quality Analysis,Boston Housing Prediction,Spam Email Classification,Survival Prediction - Titanic Disaster,Stock Market Prediction
+Class of Flower Prediction,Bigmart Sales Prediction,Air Pollution Prediction,IMDB Prediction,Optimizing Product Price,Web Traffic Time Series Forecasting,Insurance Purchase Prediction,Tweet Classification
+
+Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detection,Human Action Recognition,Video Classification,Driver Drowsiness Detection,Medical Report Gen Using CT Scans,Sign Language Detection,Image Caption Generator,Celebrity Voice Prediction,Speech Emotion Recognition,Job Recommendation System,Interest Level in Rental Properties,Google Ads Keywords Generator
+
+
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
