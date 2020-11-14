@@ -141,6 +141,12 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     31)https://storage.googleapis.com/openimages/web/index.html  , 
     
        https://storage.googleapis.com/openimages/web/visualizer/index.html?set=train&type=segmentation&r=false&c=%2Fm%2F09qck
+       
+       https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.35328417.1459465882.1589693499-869920574.1589693499
+       
+       https://catalog.data.gov/dataset?groups=education2168#topic=education_navigation
+       
+       https://vincentarelbundock.github.io/Rdatasets/datasets.html
      
     32)coco dataset https://cocodataset.org/#explore
     
