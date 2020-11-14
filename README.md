@@ -403,7 +403,7 @@ performance if not distributed then use below methods to bring it guassian distr
   
     univariate and bivariate and multivariate analysis
     
-    model visualization Tensorboard,netron,playground tensorflow,plotly,TensorDash,Dash
+    model visualization Tensorboard,netron,playground tensorflow,plotly,TensorDash,Dash,Microscope,Lucid
     
     distributions(discerte,continous)
     
@@ -1229,6 +1229,20 @@ applications of data science in many industry
     7.Marketing (Added from comments Credits: Jawad Ali)- LTV predictions,Predictive analytics for customer behavior,Ad targeting
     
     and many more fields - https://www.topbots.com/enterprise-ai-companies-2020/ , https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/
+    
+***Research blogs***
+
+    1.https://ai.facebook.com/
+    
+    2.https://ai.googleblog.com/
+    
+    3.https://deepmind.com/blog
+    
+    4.https://openai.com/blog/
+    
+    5.https://www.malongtech.com/en/research.html
+    
+    6.
     
     
 ***online competitions:***
