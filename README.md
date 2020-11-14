@@ -1172,7 +1172,9 @@ Docker and Kubernetes
    
    85.FastAPI-https://fastapi.tiangolo.com/deployment/deta/
    
-   86.Yann LeCun’s Deep Learning Course at CDS-https://cds.nyu.edu/deep-learning/ https://atcold.github.io/pytorch-Deep-Learning/
+   86.Yann LeCun’s Deep Learning Course at CDS-https://cds.nyu.edu/deep-learning/ https://atcold.github.io/pytorch-Deep-Learning/  
+   
+   https://atcold.github.io/pytorch-Deep-Learning/
     
    87.Four Important Computer Vision Annotation Tools  https://heartbeat.fritz.ai/4-important-computer-vision-annotation-tools-you-need-to-know-in-2020-9f964931ed7
    
@@ -1184,7 +1186,7 @@ Docker and Kubernetes
    
    91.AudioFeaturizer when deal with audio data- https://pypi.org/project/AudioFeaturizer/
    
-     liborsa 
+   liborsa library
    
 ***Follow leaders in the field to update yourself in the field***
 
