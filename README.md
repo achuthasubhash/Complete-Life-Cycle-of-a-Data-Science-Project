@@ -240,6 +240,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/data/datasets.md#datasets-and-sources-of-raw-data
     
+    60.Faker is a Python package that generates fake data for you-https://github.com/joke2k/faker
+    
 ***2.Feature engineering***
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
@@ -621,6 +623,8 @@ performance if not distributed then use below methods to bring it guassian distr
        maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
+       
+       PyTorch based low code object detection-https://github.com/alankbi/detecto
      
      4.objecttracking  (mean shit and optical flow and kalman filter)
      
