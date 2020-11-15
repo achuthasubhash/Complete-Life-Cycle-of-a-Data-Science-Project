@@ -1191,6 +1191,8 @@ Docker and Kubernetes
    
    liborsa library
    
+   92.Palladium-https://palladium.readthedocs.io/en/latest/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
