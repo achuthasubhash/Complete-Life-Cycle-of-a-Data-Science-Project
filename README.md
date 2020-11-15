@@ -1243,15 +1243,31 @@ applications of data science in many industry
     
 ***Research blogs***
 
-    1.https://ai.facebook.com/
+   1.https://ai.facebook.com/
     
-    2.https://ai.googleblog.com/
+   2.https://ai.googleblog.com/
     
-    3.https://deepmind.com/blog
+   3.https://deepmind.com/blog
     
-    4.https://openai.com/blog/
+   4.https://openai.com/blog/
     
-    5.https://www.malongtech.com/en/research.html
+   5.https://www.malongtech.com/en/research.html
+    
+***RESEARCH LABS IN THE WORLD***   
+
+   1.The Alan Turing Institute:https://www.turing.ac.uk/
+
+   2.J.P. Morgan AI Research Lab:https://www.jpmorgan.com/insights/tec...
+
+   3.Oxford ML Research Group:http://www.robots.ox.ac.uk/~parg/proj...
+
+   4.Microsoft Research Lab- AI:https://www.microsoft.com/en-us/resea...
+
+   5.Berkeley AI Research:https://bair.berkeley.edu/
+
+   6.LIVIA:https://en.etsmtl.ca/Unites-de-recher...
+
+   7.MIT Computer Science and Artificial :https://www.csail.mit.edu/
    
 ***online competitions:***
 
