@@ -1244,10 +1244,7 @@ applications of data science in many industry
     4.https://openai.com/blog/
     
     5.https://www.malongtech.com/en/research.html
-    
-    6.
-    
-    
+   
 ***online competitions:***
 
 1.Kaggle-https://www.kaggle.com/
