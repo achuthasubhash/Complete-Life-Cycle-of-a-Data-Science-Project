@@ -1158,6 +1158,8 @@ Docker and Kubernetes
    https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning
    
    https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b
+    
+   https://towardsai.net/p/data-science/how-much-math-do-i-need-in-data-science-d05d83f8cb19
    
    https://www.datasciencecentral.com/profiles/blogs/free-online-book-machine-learning-from-scratch
    
