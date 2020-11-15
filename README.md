@@ -1197,6 +1197,8 @@ Docker and Kubernetes
    
    92.Palladium-https://palladium.readthedocs.io/en/latest/
    
+   93.KNIME-https://www.knime.com/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
@@ -1508,6 +1510,7 @@ Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detec
 92. Visual Programming (Orange) https://orange.biolab.si/
 
 93.The Linux Command Handbook-https://www.freecodecamp.org/news/the-linux-commands-handbook/
+
                                                 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
