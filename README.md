@@ -523,14 +523,13 @@ performance if not distributed then use below methods to bring it guassian distr
    
      4.Recommendation system -
      
-         a.collaborative Recommendation system (model based, memory based)
-         
+         a.collaborative Recommendation system (model based, memory based(item based,user based))  user-item interaction matrix
+        
          b.content based Recommendation system 
          
          similarity based(user-user similarity,item-item similarity)
          
          matrix factorization
-         
          
          c.utility based Recommendation system 
          
@@ -953,6 +952,8 @@ Docker and Kubernetes
     7.3Blue1Brown-https://www.youtube.com/c/3blue1brown/featured
     
     8.The AI Guy -https://www.youtube.com/channel/UCrydcKaojc44XnuXrfhlV8Q 
+    
+    9.Unfold Data Science-https://www.youtube.com/channel/UCh8IuVJvRdporrHi-I9H7Vw
 
 ***BEST BLOGS TO FOLLOW***
 
@@ -1498,6 +1499,8 @@ https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html
 Class of Flower Prediction,Bigmart Sales Prediction,Air Pollution Prediction,IMDB Prediction,Optimizing Product Price,Web Traffic Time Series Forecasting,Insurance Purchase Prediction,Tweet Classification
 
 Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detection,Human Action Recognition,Video Classification,Driver Drowsiness Detection,Medical Report Gen Using CT Scans,Sign Language Detection,Image Caption Generator,Celebrity Voice Prediction,Speech Emotion Recognition,Job Recommendation System,Interest Level in Rental Properties,Google Ads Keywords Generator
+
+92. Visual Programming (Orange) https://orange.biolab.si/
 
 
                                                 
