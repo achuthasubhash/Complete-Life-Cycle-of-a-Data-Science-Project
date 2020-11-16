@@ -728,6 +728,8 @@ performance if not distributed then use below methods to bring it guassian distr
         
         text to speech
         
+        Acoustic model,Speaker diarisation,apis
+        
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
      
      MT5-https://venturebeat.com/2020/10/26/google-open-sources-mt5-a-multilingual-model-trained-on-over-101-languages/?utm_content=144321587&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
