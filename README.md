@@ -1535,6 +1535,7 @@ Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detec
 
 95.DataBrew-do drag-and-drop data cleansing
 
+96.stratascratch- https://www.stratascratch.com/
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
