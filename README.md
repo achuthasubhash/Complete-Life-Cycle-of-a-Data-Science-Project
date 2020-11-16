@@ -1531,7 +1531,11 @@ Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detec
 
 93.The Linux Command Handbook-https://www.freecodecamp.org/news/the-linux-commands-handbook/
 
-                                                
+94.130 Machine Learning Projects Solved and Explained-https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
+
+95.DataBrew-do drag-and-drop data cleansing
+
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
