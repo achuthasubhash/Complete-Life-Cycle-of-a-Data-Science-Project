@@ -993,7 +993,7 @@ Docker and Kubernetes
     
    9.EasyOCR-https://github.com/JaidedAI/EasyOCR
     
-   10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list
+   10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
    11.free-data-science-books-https://github.com/chaconnewu/free-data-science-books
     
