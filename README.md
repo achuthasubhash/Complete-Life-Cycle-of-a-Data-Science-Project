@@ -1070,7 +1070,9 @@ Docker and Kubernetes
    
    38.gym-https://github.com/openai/gym
    
-   39.Super Duper NLP Repo-https://notebooks.quantumstat.com/  https://models.quantumstat.com/  https://miro.com/app/board/o9J_kqndLls=/ https://datasets.quantumstat.com/ 
+   39.Super Duper NLP Repo-https://notebooks.quantumstat.com/  https://models.quantumstat.com/  https://miro.com/app/board/o9J_kqndLls=/ https://datasets.quantumstat.com/  
+   
+   https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter
    
    40.papers summarizing the advances in the field-https://github.com/eugeneyan/ml-surveys
    
