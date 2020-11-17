@@ -912,7 +912,7 @@ Docker and Kubernetes
     
     https://github.com/gradio-app/gradio
     
-***Tensorflow lite:Use of tensorflow lite to reduce size of model***
+***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite
     
 ***Quantization:Use Quantization to reduce size of model***
 
@@ -1545,6 +1545,10 @@ Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detec
 95.DataBrew-do drag-and-drop data cleansing
 
 96.stratascratch- https://www.stratascratch.com/
+
+97.5 ways to celebrate TensorFlow's 5th birthday-https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/
+
+98.TensorFlow.js: Machine Learning in Javascript  https://blog.tensorflow.org/2018/03/introducing-tensorflowjs-machine-learning-javascript.html
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
