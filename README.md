@@ -334,6 +334,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      14.Rare label encoding
      
+     15.Leave-one-out(Loo) encoding
+     
    f.Scaling of data
    
        1.Normalisation (Min Max Scaling) robust scaling
@@ -579,6 +581,8 @@ performance if not distributed then use below methods to bring it guassian distr
       
       3.Deep Convolutional Q-Learning
       
+      Deep Deterministic Policy Gradient
+      
       4.Twin Delayed DDPG
       
       5.A3C 
@@ -597,6 +601,9 @@ performance if not distributed then use below methods to bring it guassian distr
        
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-reinforcement-learning-tutorials-examples-projects-and-courses
        
+   
+   Semi-Supervised Learning-small amount of labeled data with a large amount of unlabeled data during training
+   
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
