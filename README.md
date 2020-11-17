@@ -1257,7 +1257,7 @@ applications of data science in many industry
     
 ***RESEARCH LABS IN THE WORLD***   
 
-   https://ai.facebook.com/      https://ai.googleblog.com/    https://research.google/
+   https://ai.facebook.com/      https://ai.googleblog.com/    https://research.google/     https://ai.google/research/
 
    1.The Alan Turing Institute:https://www.turing.ac.uk/
 
