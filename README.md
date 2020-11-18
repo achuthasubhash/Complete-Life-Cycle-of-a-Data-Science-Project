@@ -745,6 +745,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      Google-GNMT (Tensorflow),Facebook-fairseq (Torch),Amazon-Sockeye (MXNet),NEMATUS (Theano),THUMT (Theano),OpenNMT (PyTorch),StanfordNMT (Matlab),DyNet-lamtram(CMU),EUREKA(MangoNMT
    
+   classification,clustering,recommender systems,topic modelling,sentiment analysis,semantic analysis,summarization,machine translation,conversational interface,named entity recognition
    
    F.Time Series 
    
