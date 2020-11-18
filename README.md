@@ -1211,6 +1211,8 @@ Docker and Kubernetes
    
    93.KNIME-https://www.knime.com/
    
+   94.Facebook Open Sourced New Frameworks to Advance Deep Learning Research https://www.kdnuggets.com/2020/11/facebook-open-source-frameworks-advance-deep-learning-research.html
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
