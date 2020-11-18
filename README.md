@@ -1168,6 +1168,8 @@ Docker and Kubernetes
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
    
       65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
+      
+      https://github.com/chaconnewu/free-data-science-books
    
    76.Code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
    
@@ -1347,7 +1349,13 @@ applications of data science in many industry
 
 9. pandasprofiling(display whole EDA) - https://pypi.org/project/pandas-profiling/
 
-10. autokeras,AutoSklearn 
+10. autokeras,AutoSklearn,Neural Network Intelligence
+
+    FeatureTools automated feature engineering.
+    
+    MLBox,Lightwood,mindsdb(machine learning models using SQL queries),mljar-supervised,Ludwig(deep learning models without the need to write code)
+    
+    AdaNet is a lightweight TensorFlow-based framework
 
 11. pycaret- https://pycaret.org/
 
@@ -1551,6 +1559,8 @@ Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detec
 
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 
+https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
+
 92. Visual Programming (Orange) https://orange.biolab.si/
 
 93.The Linux Command Handbook-https://www.freecodecamp.org/news/the-linux-commands-handbook/
@@ -1566,6 +1576,8 @@ https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-t
 98.TensorFlow.js: Machine Learning in Javascript  https://blog.tensorflow.org/2018/03/introducing-tensorflowjs-machine-learning-javascript.html
 
 99.Language Interpretability Tool open-source platform for visualization and understanding of NLP models - https://pair-code.github.io/lit/
+
+100. Deep Learning Hardware Guide https://towardsdatascience.com/another-deep-learning-hardware-guide-73a4c35d3e86
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
