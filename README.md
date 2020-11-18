@@ -917,7 +917,7 @@ Docker and Kubernetes
     
     Models visualization using Tensorboard,netron
 
-    Python Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  https://analyticsindiamag.com/top-8-python-tools-for-app-development/
+    Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
     
