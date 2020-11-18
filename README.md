@@ -121,6 +121,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
     22)labelimage:- https://github.com/wkentaro/labelme  ,  https://github.com/tzutalin/labelImg
+    
+    SuperAnnotate -https://www.superannotate.com/
    
     23)tensorflow_datasets as tfds
    
@@ -643,6 +645,13 @@ performance if not distributed then use below methods to bring it guassian distr
      
      imageai.Detection for Object detection
      
+     DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet
+     
+     3D POSE ESTIMATION
+     
+     DEEP LEARNING METHODS FOR 3D:3D human pose estimation= 2D pose estimation + matching,Integral Human Pose Regression,Towards 3D Human Pose Estimation in the
+Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human Pose Estimation,
+     
      Data Augmentation apply to increase size of dataset and performance of model
    
    3.Recurrent neural network (use when series of data)
@@ -833,6 +842,8 @@ performance if not distributed then use below methods to bring it guassian distr
   
   Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief
   
+    Regularization- L1, L2, dropout, early stopping, and data augmentation.
+  
 ***Hyperparameter tuning***
   
     a.GridSearchCV (check every given parameter so take long time)
@@ -889,7 +900,6 @@ Generally used metrics
     
     6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss
 
-    Regularization- L1, L2, dropout, early stopping, and data augmentation.
 
 Docker and Kubernetes
 
@@ -1539,6 +1549,8 @@ Class of Flower Prediction,Bigmart Sales Prediction,Air Pollution Prediction,IMD
 
 Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detection,Human Action Recognition,Video Classification,Driver Drowsiness Detection,Medical Report Gen Using CT Scans,Sign Language Detection,Image Caption Generator,Celebrity Voice Prediction,Speech Emotion Recognition,Job Recommendation System,Interest Level in Rental Properties,Google Ads Keywords Generator
 
+https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
 92. Visual Programming (Orange) https://orange.biolab.si/
 
 93.The Linux Command Handbook-https://www.freecodecamp.org/news/the-linux-commands-handbook/
@@ -1552,6 +1564,8 @@ Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detec
 97.5 ways to celebrate TensorFlow's 5th birthday-https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/
 
 98.TensorFlow.js: Machine Learning in Javascript  https://blog.tensorflow.org/2018/03/introducing-tensorflowjs-machine-learning-javascript.html
+
+99.Language Interpretability Tool open-source platform for visualization and understanding of NLP models - https://pair-code.github.io/lit/
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
