@@ -188,6 +188,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://github.com/google-research-datasets/Objectron/  https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html?m=1 
    
+    http://idd.insaan.iiit.ac.in/
+    
     https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html
     
     44.https://github.com/fivethirtyeight/data
@@ -602,6 +604,8 @@ performance if not distributed then use below methods to bring it guassian distr
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
        
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-reinforcement-learning-tutorials-examples-projects-and-courses
+       
+       Open AI Gym - https://gym.openai.com/
        
    
    Semi-Supervised Learning-small amount of labeled data with a large amount of unlabeled data during training
@@ -1228,6 +1232,10 @@ Docker and Kubernetes
    94.Facebook Open Sourced New Frameworks to Advance Deep Learning Research https://www.kdnuggets.com/2020/11/facebook-open-source-frameworks-advance-deep-learning-research.html
    
    95.machine learning in JavaScript using TensorFlow.js  https://www.tensorflow.org/js  https://www.tensorflow.org/js/models    https://tensorflow-js-object-detection.glitch.me/
+   
+   96.Atlas web-based dashboard -https://www.atlas.dessa.com/
+   
+   97.Pytest  (test  code) https://docs.pytest.org/en/latest/index.html  (test  code)
    
 ***Follow leaders in the field to update yourself in the field***
 
