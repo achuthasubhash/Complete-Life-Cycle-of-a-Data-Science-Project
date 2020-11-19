@@ -122,6 +122,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     22)labelimage:- https://github.com/wkentaro/labelme  ,  https://github.com/tzutalin/labelImg
     
+    Labelbox-https://labelbox.com/
+    
     SuperAnnotate -https://www.superannotate.com/
    
     23)tensorflow_datasets as tfds
@@ -555,7 +557,7 @@ performance if not distributed then use below methods to bring it guassian distr
          
          i.cosine distance recommender system
          
-         j.TensorFlow Recommenders
+         j.TensorFlow Recommenders https://www.tensorflow.org/recommenders
          
          k.suprise baseline model
          
@@ -923,7 +925,7 @@ Docker and Kubernetes
      
     TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx
     
-    Models visualization using Tensorboard,netron
+    Models visualization using Tensorboard,netron, TensorBoard.dev
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
@@ -1153,6 +1155,10 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    
    TensorFlow Hub (trained ready-to-deploy machine learning models in one place) - https://tfhub.dev/
    
+   TensorBoard.dev - https://tensorboard.dev/
+   
+   tutorials-https://www.tensorflow.org/tutorials  https://www.tensorflow.org/guide
+   
    63.Data Science in the Cloud-Amazon SageMaker,Amazon Lex,Amazon Rekognition,Azure Machine Learning (Azure ML) Services,Azure Service Bot framework,Google Cloud AutoML
    
    64.platforms to build and deploy ML models -Uber has Michelangelo,Google has TFX,Databricks has MLFlow,Amazon Web Services (AWS) has Sagemaker
@@ -1173,8 +1179,6 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    
    72.R for Data Science-https://r4ds.had.co.nz/ ,Fundamentals of Data Visualization-https://clauswilke.com/dataviz/
    
-   73.MAGENTA-https://magenta.tensorflow.org/
-   
    74.machine learning in JavaScript-https://www.tensorflow.org/js https://www.tensorflow.org/js/models    https://tensorflow-js-object-detection.glitch.me/
    
    TensorFlow.jl Julia with TensorFlow https://malmaud.github.io/tfdocs/ https://malmaud.github.io/TensorFlow.jl/latest/tutorial.html
@@ -1184,6 +1188,14 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    TensorFlow Federated (TFF)  ( facilitate open research and experimentation with Federated Learning)-https://www.tensorflow.org/federated
    
    TFX is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx  https://github.com/tensorflow/tfx
+   
+   Federated Learning -https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification
+   
+   Neural Structured Learning-https://www.tensorflow.org/neural_structured_learning/tutorials/graph_keras_mlp_cora
+   
+   Responsible AI-https://www.tensorflow.org/resources/responsible-ai
+   
+   https://www.tensorflow.org/graphics
    
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
    
@@ -1238,6 +1250,8 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    91.AudioFeaturizer when deal with audio data- https://pypi.org/project/AudioFeaturizer/
    
    liborsa library https://librosa.org/doc/latest/index.html
+   
+   MAGENTA-https://magenta.tensorflow.org/
    
    92.Palladium-https://palladium.readthedocs.io/en/latest/
    
@@ -1355,7 +1369,7 @@ applications of data science in many industry
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit),Azure Cognitive Services,Google Cloud Platform,Weka,
+1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit),Azure Cognitive Services,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit
 
 2. Tpot
 
