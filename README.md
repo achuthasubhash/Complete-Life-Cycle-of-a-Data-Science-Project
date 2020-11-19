@@ -1259,11 +1259,13 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    
    94.Facebook Open Sourced New Frameworks to Advance Deep Learning Research https://www.kdnuggets.com/2020/11/facebook-open-source-frameworks-advance-deep-learning-research.html
    
-   95.
+   95.PYTORCH - https://pytorch.org/  https://pytorch.org/ecosystem/  https://pytorch.org/tutorials/ https://pytorch.org/docs/stable/index.html https://github.com/pytorch/pytorch
    
    96.Atlas web-based dashboard -https://www.atlas.dessa.com/
    
    97.Pytest  (test  code) https://docs.pytest.org/en/latest/index.html  (test  code)
+   
+   98.keras- https://keras.io/ https://keras.io/api/ https://keras.io/examples/
    
 ***Follow leaders in the field to update yourself in the field***
 
