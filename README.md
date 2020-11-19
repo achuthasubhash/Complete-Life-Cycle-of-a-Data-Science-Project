@@ -162,6 +162,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     37)inbuilt library data eg:iris dataset,mnist dataset,etc...
     
+    tf.data.Datasets for TensorFlow Datasets 
+    
     38)data.gov.be ,data.egov.bg/ ,data.gov.cz/english ,portal.opendata.dk,govdata.de,opendata.riik.ee,data.gov.ie,data.gov.gr,datos.gob.es,data.gouv.fr,data.gov.hr
     
     dati.gov.it,data.gov.cy,opendata.gov.lt,data.gov.lv,data.public.lu,data.gov.mt,data.overheid.nl,data.gv.at,danepubliczne.gov.pl,dados.gov.pt,data.gov.ro,podatki.gov.si
@@ -929,8 +931,12 @@ Docker and Kubernetes
     
     https://github.com/gradio-app/gradio
     
-***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android-beta/#0  https://tfhub.dev/s?deployment-format=lite  https://www.tensorflow.org/lite/examples https://www.tensorflow.org/lite/microcontrollers TinyML https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
-    
+***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite  https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android-beta/#0  https://tfhub.dev/s?deployment-format=lite  https://www.tensorflow.org/lite/examples https://www.tensorflow.org/lite/microcontrollers 
+
+TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
+
+Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/performance/post_training_quantization
+
 ***Quantization:Use Quantization to reduce size of model***
 
 ***8.Mointoring model***
@@ -1145,7 +1151,7 @@ Docker and Kubernetes
    
    64.tensorflow development-https://blog.tensorflow.org/
    
-   TensorFlow Hub- https://tfhub.dev/
+   TensorFlow Hub (trained ready-to-deploy machine learning models in one place) - https://tfhub.dev/
    
    63.Data Science in the Cloud-Amazon SageMaker,Amazon Lex,Amazon Rekognition,Azure Machine Learning (Azure ML) Services,Azure Service Bot framework,Google Cloud AutoML
    
@@ -1169,7 +1175,15 @@ Docker and Kubernetes
    
    73.MAGENTA-https://magenta.tensorflow.org/
    
-   74.machine learning in JavaScript-https://www.tensorflow.org/js
+   74.machine learning in JavaScript-https://www.tensorflow.org/js https://www.tensorflow.org/js/models    https://tensorflow-js-object-detection.glitch.me/
+   
+   TensorFlow.jl Julia with TensorFlow https://malmaud.github.io/tfdocs/ https://malmaud.github.io/TensorFlow.jl/latest/tutorial.html
+   
+   Sonnet is a library built on top of TensorFlow 2  https://github.com/deepmind/sonnet
+   
+   TensorFlow Federated (TFF)  ( facilitate open research and experimentation with Federated Learning)-https://www.tensorflow.org/federated
+   
+   TFX is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx  https://github.com/tensorflow/tfx
    
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
    
@@ -1223,7 +1237,7 @@ Docker and Kubernetes
    
    91.AudioFeaturizer when deal with audio data- https://pypi.org/project/AudioFeaturizer/
    
-   liborsa library
+   liborsa library https://librosa.org/doc/latest/index.html
    
    92.Palladium-https://palladium.readthedocs.io/en/latest/
    
@@ -1231,7 +1245,7 @@ Docker and Kubernetes
    
    94.Facebook Open Sourced New Frameworks to Advance Deep Learning Research https://www.kdnuggets.com/2020/11/facebook-open-source-frameworks-advance-deep-learning-research.html
    
-   95.machine learning in JavaScript using TensorFlow.js  https://www.tensorflow.org/js  https://www.tensorflow.org/js/models    https://tensorflow-js-object-detection.glitch.me/
+   95.
    
    96.Atlas web-based dashboard -https://www.atlas.dessa.com/
    
