@@ -914,6 +914,8 @@ Docker and Kubernetes
     4.Google cloud platform
     
     MODEL DEPLOYMENT USING TF SERVING
+     
+    TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx
     
     Models visualization using Tensorboard,netron
 
@@ -923,7 +925,7 @@ Docker and Kubernetes
     
     https://github.com/gradio-app/gradio
     
-***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite
+***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android-beta/#0  https://tfhub.dev/s?deployment-format=lite  https://www.tensorflow.org/lite/examples https://www.tensorflow.org/lite/microcontrollers TinyML https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
     
 ***Quantization:Use Quantization to reduce size of model***
 
@@ -1224,6 +1226,8 @@ Docker and Kubernetes
    93.KNIME-https://www.knime.com/
    
    94.Facebook Open Sourced New Frameworks to Advance Deep Learning Research https://www.kdnuggets.com/2020/11/facebook-open-source-frameworks-advance-deep-learning-research.html
+   
+   95.machine learning in JavaScript using TensorFlow.js  https://www.tensorflow.org/js  https://www.tensorflow.org/js/models    https://tensorflow-js-object-detection.glitch.me/
    
 ***Follow leaders in the field to update yourself in the field***
 
@@ -1577,7 +1581,8 @@ https://medium.com/the-innovation/130-machine-learning-projects-solved-and-expla
 
 99.Language Interpretability Tool open-source platform for visualization and understanding of NLP models - https://pair-code.github.io/lit/
 
-100. Deep Learning Hardware Guide https://towardsdatascience.com/another-deep-learning-hardware-guide-73a4c35d3e86
+100.Deep Learning Hardware Guide https://towardsdatascience.com/another-deep-learning-hardware-guide-73a4c35d3e86
+
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
