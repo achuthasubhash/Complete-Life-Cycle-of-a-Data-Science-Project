@@ -1010,7 +1010,9 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
 
    1.paperswithcode-https://paperswithcode.com/methods
 
-   2.madewithml-https://madewithml.com/topics/   Weights & Biases-https://wandb.ai/gallery        sotabench-https://sotabench.com/
+   2.madewithml-https://madewithml.com/topics/   https://madewithml.com/courses/applied-ml-in-production/
+   
+   Weights & Biases-https://wandb.ai/gallery        sotabench-https://sotabench.com/
 
    3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
 
