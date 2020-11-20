@@ -1154,6 +1154,8 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    
    WEKA - https://www.cs.waikato.ac.nz/ml/weka/
    
+   Monk_Gui-https://github.com/Tessellate-Imaging/Monk_Gui
+   
    64.tensorflow development-https://blog.tensorflow.org/
    
    TensorFlow Hub (trained ready-to-deploy machine learning models in one place) - https://tfhub.dev/
