@@ -907,7 +907,8 @@ Generally used metrics
     5.Clustering then use External: Adjusted Rand index, Jaccard Score, Purity Score    Internal:silhouette_score, Davies-Bouldin Index, Dunn Index
     
     6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss
-
+   
+    7.Distance Metrics - Euclidean Distance,Manhattan Distance,Minkowski Distance,Hamming Distance
 
 Docker and Kubernetes
 
