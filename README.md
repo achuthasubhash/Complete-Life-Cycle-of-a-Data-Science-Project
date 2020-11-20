@@ -1145,9 +1145,11 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    
    https://blog.ubisend.com/optimise-chatbots/chatbot-training-data
    
-   62.Teachable Machine-https://teachablemachine.withgoogle.com/
+   62. No Code Machine Learning / Deep Learning 
    
-   Microsoft Lobe (Models Without Coding)-https://lobe.ai/
+   Teachable Machine-https://teachablemachine.withgoogle.com/
+   
+   Microsoft Lobe -https://lobe.ai/
    
    WEKA - https://www.cs.waikato.ac.nz/ml/weka/
    
