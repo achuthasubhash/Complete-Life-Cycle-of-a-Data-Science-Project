@@ -1278,6 +1278,8 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    
    99.High-Performance Jupyter Notebook - BlazingSQL Notebooks https://blazingsql.com/notebooks
    
+   100.CV-pretrained-model-   https://github.com/balavenkatesh3322/CV-pretrained-modelCV-pretrained-model-
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
