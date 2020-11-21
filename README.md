@@ -1276,6 +1276,8 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    
    98.keras- https://keras.io/ https://keras.io/api/ https://keras.io/examples/
    
+   99.High-Performance Jupyter Notebook - BlazingSQL Notebooks https://blazingsql.com/notebooks
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
