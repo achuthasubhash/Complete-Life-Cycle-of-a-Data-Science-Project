@@ -124,7 +124,11 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Labelbox-https://labelbox.com/
     
+    Playment-https://playment.io/
+    
     SuperAnnotate -https://www.superannotate.com/
+    
+    CVAT-https://github.com/openvinotoolkit/cvat
    
     23)tensorflow_datasets as tfds
    
