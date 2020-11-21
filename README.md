@@ -527,11 +527,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,
         
-        Random Forest Classification,xgboost,adaboost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis,
-        
-        passive aggressive classifier algorithm,cart,c4.5,c5.0
-        
-        use cases:
+        Random Forest Classification,xgboost,adaboost,Gradient Boost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, passive aggressive classifier algorithm,cart,c4.5,c5.0
    
    B.Unsupervised learning(no label(target) data)
    
