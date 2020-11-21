@@ -1622,6 +1622,8 @@ https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-t
 
 https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 
+https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/
+
 92. Visual Programming (Orange) https://orange.biolab.si/
 
 93.The Linux Command Handbook-https://www.freecodecamp.org/news/the-linux-commands-handbook/
