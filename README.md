@@ -402,6 +402,8 @@ performance if not distributed then use below methods to bring it guassian distr
    j.Anomaly
    
      clustering techniques to find it
+     
+     Isolation Forest(for Big Data)
       
    k.Sampling techniques
      
@@ -597,7 +599,7 @@ performance if not distributed then use below methods to bring it guassian distr
       
       Deep Deterministic Policy Gradient
       
-      4.Twin Delayed DDPG
+      4.Twin Delayed DDPG,DQN
       
       5.A3C 
       
@@ -605,7 +607,8 @@ performance if not distributed then use below methods to bring it guassian distr
       
       7.XCS
       
-      8.genetic algorithm
+      8.genetic algorithm,sarsa
+      
       
       https://simoninithomas.github.io/deep-rl-course/
       
@@ -962,7 +965,7 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    
 ***BIG DATA: hadoop,apache spark***
 
-***research paper***-https://arxiv.org/ ,  https://www.kaggle.com/Cornell-University/arxiv
+***research paper***-https://arxiv.org/ ,https://arxiv.org/list/cs.LG/recent,  https://www.kaggle.com/Cornell-University/arxiv
 
    code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
 
@@ -1390,7 +1393,7 @@ applications of data science in many industry
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit),Azure Cognitive Services,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML
+1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit),Azure Cognitive Services,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML
 
 2. Tpot
 
