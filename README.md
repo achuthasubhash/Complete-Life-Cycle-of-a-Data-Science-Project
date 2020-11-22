@@ -1621,6 +1621,8 @@ https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-t
 
 https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 
+https://data-flair.training/blogs/machine-learning-datasets/#
+
 https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/
 
 92. Visual Programming (Orange) https://orange.biolab.si/
@@ -1640,6 +1642,8 @@ https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/
 99.Language Interpretability Tool open-source platform for visualization and understanding of NLP models - https://pair-code.github.io/lit/
 
 100.Deep Learning Hardware Guide https://towardsdatascience.com/another-deep-learning-hardware-guide-73a4c35d3e86
+
+101.johnsnowlabs- https://nlp.johnsnowlabs.com/  https://nlp.johnsnowlabs.com/docs/en/quickstart
 
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
