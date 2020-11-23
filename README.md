@@ -1661,6 +1661,8 @@ https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a72
 
 103.Edit a spreadsheet Generate Python  https://trymito.io/?source=twitter1
 
+104.Clarifai-https://www.clarifai.com/  https://analyticsindiamag.com/clarifai/
+
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
