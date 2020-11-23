@@ -254,6 +254,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     60.Faker is a Python package that generates fake data for you-https://github.com/joke2k/faker
     
+    61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
+    
 ***2.Feature engineering***
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
