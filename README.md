@@ -101,6 +101,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     14)data.world:https://lnkd.in/gEK897K
    
     15)https://data.world/datasets/open-data
+    
+       https://tinyletter.com/data-is-plural
    
     16)FiveThirtyEight :-  https://lnkd.in/gyh-HDj , https://data.fivethirtyeight.com/
    
@@ -1214,6 +1216,8 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    https://www.tensorflow.org/graphics
    
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
+   
+      https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
    
       65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
       
