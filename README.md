@@ -1222,6 +1222,8 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
       65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
       
       https://github.com/chaconnewu/free-data-science-books
+      
+      http://introtodeeplearning.com/
    
    76.Code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
    
@@ -1291,6 +1293,10 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
    
    100.CV-pretrained-model-   https://github.com/balavenkatesh3322/CV-pretrained-modelCV-pretrained-model-
    
+   101.Kubeflow  Machine Learning Toolkit for Kubernetes https://www.kubeflow.org/
+   
+   102.Daily AI updates to your inbox- https://sago-ai.news/#/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
@@ -1335,7 +1341,7 @@ applications of data science in many industry
     
 ***Research blogs***
 
-   1.https://ai.facebook.com/
+   1.https://ai.facebook.com/  
     
    2.https://ai.googleblog.com/
     
