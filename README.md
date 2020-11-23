@@ -1647,6 +1647,8 @@ https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/
 
 101.johnsnowlabs- https://nlp.johnsnowlabs.com/  https://nlp.johnsnowlabs.com/docs/en/quickstart
 
+103.Edit a spreadsheet Generate Python  https://trymito.io/?source=twitter1
+
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
