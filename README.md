@@ -1629,7 +1629,9 @@ https://medium.com/the-innovation/130-machine-learning-projects-solved-and-expla
 
 https://data-flair.training/blogs/machine-learning-datasets/#
 
-https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/
+https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
+
+https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a721  
 
 92. Visual Programming (Orange) https://orange.biolab.si/
 
