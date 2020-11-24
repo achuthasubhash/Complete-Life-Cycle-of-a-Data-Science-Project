@@ -1074,9 +1074,9 @@ leverage of model architecture
     
    21.regarding satellite images - Geo AI,Arcgis
    
-       ersi arcgis-https://www.esri.com/en-us/arcgis/about-arcgis/overview
+   ersi arcgis-https://www.esri.com/en-us/arcgis/about-arcgis/overview
        
-       earthcube-https://www.earthcube.eu/
+   earthcube-https://www.earthcube.eu/
    
    22.Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection
    
@@ -1102,7 +1102,7 @@ leverage of model architecture
    
    31.huggingface contain almost all nlp pretrained model and all tasks related to nlp field
      
-      https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/
+   https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/
    
    32.multi-task-NLP-https://github.com/hellohaptik/multi-task-NLP
    
@@ -1228,13 +1228,13 @@ leverage of model architecture
    
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
    
-      https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
+   https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
    
-      65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
+   65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
+     
+   https://github.com/chaconnewu/free-data-science-books
       
-      https://github.com/chaconnewu/free-data-science-books
-      
-      http://introtodeeplearning.com/
+   http://introtodeeplearning.com/
    
    76.Code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
    
