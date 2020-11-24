@@ -981,6 +981,8 @@ leverage of model architecture
 ***research paper***-https://arxiv.org/ ,https://arxiv.org/list/cs.LG/recent,  https://www.kaggle.com/Cornell-University/arxiv
 
    code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
+   
+   Summarise Research Papers  - https://www.semanticscholar.org/
 
 ***programming language for data science is Python,R,Julia,Java,Scala,JAVA SCRIPT(Tensorflow.js)*** 
 
