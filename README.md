@@ -212,7 +212,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     47.US Government Open Dataset: https://www.data.gov/
     
-    48.AWS Public Data Sets:https://registry.opendata.aws/
+    48.AWS Public Data Sets:https://registry.opendata.aws/    https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc
     
     49.https://the-eye.eu/public/AI/pile_preliminary_components/
     
@@ -260,6 +260,18 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
     
+    62.Google Analytics cost data import https://segmentstream.com/google-analytics?utm_source=twitter&utm_medium=cpc&utm_campaign=ga_costs_import_en&utm_content=guide
+    
+    63.https://lionbridge.ai/services/crowdsourcing/    https://lionbridge.ai/     https://www.clickworker.com/  https://appen.com/  https://www.globalme.net/
+    
+    64.Azure Open Datasets https://azure.microsoft.com/en-us/services/open-datasets/
+    
+    Yelp Open Dataset  https://www.yelp.com/dataset
+    
+    ODK Open Data Kit- https://getodk.org/
+    
+    World Bank Open Data https://data.worldbank.org/
+     
 ***2.Feature engineering***
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
