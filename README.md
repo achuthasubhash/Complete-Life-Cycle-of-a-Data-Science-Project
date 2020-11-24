@@ -709,7 +709,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair  libraries
+     Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp  libraries
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
@@ -1041,6 +1041,16 @@ leverage of model architecture
    3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
 
    4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
+   
+   PyTorch Lightning-https://github.com/PyTorchLightning/pytorch-lightning
+   
+   jax- https://github.com/google/jax
+   
+   incubator-mxnet - https://github.com/apache/incubator-mxnet
+   
+   ignite-https://github.com/pytorch/ignite
+   
+   fastText - https://github.com/facebookresearch/fastText
 
    5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/  https://deep-learning-drizzle.github.io/index.html
 
@@ -1104,7 +1114,7 @@ leverage of model architecture
    
    31.huggingface contain almost all nlp pretrained model and all tasks related to nlp field
      
-   https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/
+   https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/   https://github.com/huggingface/tokenizers
    
    32.multi-task-NLP-https://github.com/hellohaptik/multi-task-NLP
    
