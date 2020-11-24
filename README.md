@@ -918,6 +918,12 @@ Generally used metrics
     6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss
    
     7.Distance Metrics - Euclidean Distance,Manhattan Distance,Minkowski Distance,Hamming Distance
+    
+    metric-Built-in metrics, Custom metric without external parameters,Custom metric with external parameters,Subclassing custom metric layer
+    
+    https://medium.com/swlh/custom-loss-and-custom-metrics-using-keras-sequential-model-api-d5bcd3a4ff28
+    
+    loss-Built-in loss, Custom loss without external parameters,Custom loss with external parameters,Subclassing loss layer
 
 Docker and Kubernetes
 
@@ -1597,7 +1603,7 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
    
 76.Add External Data to Your Pandas Dataframe - https://towardsdatascience.com/add-external-data-to-your-pandas-dataframe-with-a-one-liner-f060f80daaa4
 
-                                                https://www.openblender.io/#/welcome
+https://www.openblender.io/#/welcome
                                                 
 77.visualize the model architecture-https://github.com/PerceptiLabs/PerceptiLabs  
 
