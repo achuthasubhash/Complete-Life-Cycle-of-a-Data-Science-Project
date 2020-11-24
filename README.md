@@ -131,6 +131,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     SuperAnnotate -https://www.superannotate.com/
     
     CVAT-https://github.com/openvinotoolkit/cvat
+    
+    https://github.com/heartexlabs/awesome-data-labeling
    
     23)tensorflow_datasets as tfds
    
@@ -1452,7 +1454,7 @@ applications of data science in many industry
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale
    
    ExploriPy import EDA-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
    
