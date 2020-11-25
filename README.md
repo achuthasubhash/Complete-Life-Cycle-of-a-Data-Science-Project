@@ -695,7 +695,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      all above 3 models have bidirectional also based on problem statement use bidirectional model
   
-   4.Generative adversarial network 
+   4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
    
      Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix)
    
