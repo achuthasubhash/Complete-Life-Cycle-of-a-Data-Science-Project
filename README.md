@@ -667,6 +667,8 @@ performance if not distributed then use below methods to bring it guassian distr
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
        PyTorch based low code object detection-https://github.com/alankbi/detecto
+       
+       https://awesomeopensource.com/project/hoya012/deep_learning_object_detection
      
      4.objecttracking  (mean shit and optical flow and kalman filter)
      
