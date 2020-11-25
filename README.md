@@ -200,7 +200,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://github.com/google-research-datasets/Objectron/  https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html?m=1 
    
-    http://idd.insaan.iiit.ac.in/
+    http://idd.insaan.iiit.ac.in/   http://database.mmsp-kn.de/koniq-10k-database.html
     
     https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html
     
@@ -1384,7 +1384,7 @@ applications of data science in many industry
     
 ***Research blogs***
 
-   1.https://ai.facebook.com/  
+   1.https://ai.facebook.com/   https://ai.facebook.com/blog/
     
    2.https://ai.googleblog.com/
     
@@ -1393,6 +1393,12 @@ applications of data science in many industry
    4.https://openai.com/blog/
     
    5.https://www.malongtech.com/en/research.html
+   
+   6.https://blogs.nvidia.com/blog/tag/artificial-intelligence/
+   
+   7.https://blog.tensorflow.org/
+   
+   8.https://pytorch.org/blog/
     
 ***RESEARCH LABS IN THE WORLD***   
 
