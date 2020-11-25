@@ -271,6 +271,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     ODK Open Data Kit- https://getodk.org/
     
     World Bank Open Data https://data.worldbank.org/
+    
+    https://analyticsindiamag.com/10-biggest-data-breaches-that-made-headlines-in-2020/
      
 ***2.Feature engineering***
 
@@ -1703,6 +1705,8 @@ https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a72
 103.Edit a spreadsheet Generate Python  https://trymito.io/?source=twitter1
 
 104.Clarifai-https://www.clarifai.com/  https://analyticsindiamag.com/clarifai/
+
+105.rapidly build and deploy machine learning models https://analyticsindiamag.com/top-10-datarobot-alternatives-one-must-know/
 
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
