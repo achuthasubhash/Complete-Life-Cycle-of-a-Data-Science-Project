@@ -134,7 +134,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://github.com/heartexlabs/awesome-data-labeling
    
-    23)tensorflow_datasets as tfds
+    23)tensorflow_datasets as tfds  https://www.tensorflow.org/datasets  (import tensorflow_datasets as tfds)
    
     24)https://datasets.bifrost.ai/?ref=producthunt
    
@@ -697,7 +697,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
    
-     Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix)
+     Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
+     
+     https://github.com/hindupuravinash/the-gan-zoo
    
    5.Autoencoder
    
