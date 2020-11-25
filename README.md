@@ -1280,6 +1280,8 @@ leverage of model architecture
     
    https://towardsai.net/p/data-science/how-much-math-do-i-need-in-data-science-d05d83f8cb19
    
+   https://www.mltut.com/how-to-learn-math-for-machine-learning-step-by-step-guide/
+   
    https://www.datasciencecentral.com/profiles/blogs/free-online-book-machine-learning-from-scratch
    
    82.Googleai-https://ai.google/education
