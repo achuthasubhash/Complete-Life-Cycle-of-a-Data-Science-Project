@@ -1504,6 +1504,8 @@ applications of data science in many industry
 
 18.dask (parallel comptataion)   https://docs.dask.org/en/latest/   https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f#cid=av01_so-nvsh_en-us
 
+Modin , Vaex , Dask,cuDF
+
 19.dataprep (Understand your data with a few lines of code in seconds)
 
    data-preparation-tools - https://improvado.io/blog/data-preparation-tools
