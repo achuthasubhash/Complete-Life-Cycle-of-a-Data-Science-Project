@@ -617,14 +617,13 @@ performance if not distributed then use below methods to bring it guassian distr
       
       4.Twin Delayed DDPG,DQN
       
-      5.A3C 
+      5.A3C  (Actor Critic)
       
       6.Advantage weighted actor critic (AWAC). 
       
       7.XCS
       
       8.genetic algorithm,sarsa
-      
       
       https://simoninithomas.github.io/deep-rl-course/
       
@@ -636,6 +635,15 @@ performance if not distributed then use below methods to bring it guassian distr
        
        Open AI Gym - https://gym.openai.com/
        
+       KerasRL https://github.com/keras-rl/keras-rl
+       
+       pyqlearning
+       
+       tensorforce https://tensorforce.readthedocs.io/en/latest/index.html
+       
+       rl_coach https://github.com/IntelLabs/coach#installation        MushroomRL https://mushroomrl.readthedocs.io/en/latest/
+       
+       TFAgents  https://github.com/tensorflow/agents        Stable Baselines  https://github.com/openai/baselines
    
    Semi-Supervised Learning-small amount of labeled data with a large amount of unlabeled data during training
    
