@@ -1730,6 +1730,12 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
 105.rapidly build and deploy machine learning models https://analyticsindiamag.com/top-10-datarobot-alternatives-one-must-know/
 
+106.Hive Data   full-stack AI https://thehive.ai/hive-data
+
+107.real-time remote service to get the Keras callbacks to the telegram including the details of metrics  https://github.com/ksdkamesh99/TensorGram
+
+108.Language Interpretability Tool - https://pair-code.github.io/lit/demos/
+
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
