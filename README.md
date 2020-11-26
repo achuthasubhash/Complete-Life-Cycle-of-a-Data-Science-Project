@@ -1352,6 +1352,8 @@ leverage of model architecture
    
    102.Daily AI updates to your inbox- https://sago-ai.news/#/
    
+   103.Three API styles - Sequential Model,functional API,Model subclassing
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
