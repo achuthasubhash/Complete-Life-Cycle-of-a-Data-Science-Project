@@ -1338,6 +1338,8 @@ leverage of model architecture
    
    95.PYTORCH - https://pytorch.org/  https://pytorch.org/ecosystem/  https://pytorch.org/tutorials/ https://pytorch.org/docs/stable/index.html https://github.com/pytorch/pytorch
    
+   Lightning  https://pytorchlightning.ai/community#projects
+   
    96.Atlas web-based dashboard -https://www.atlas.dessa.com/
    
    97.Pytest  (test  code) https://docs.pytest.org/en/latest/index.html  (test  code)
@@ -1708,7 +1710,7 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
 92. Visual Programming (Orange) https://orange.biolab.si/
 
-93.The Linux Command Handbook-https://www.freecodecamp.org/news/the-linux-commands-handbook/
+93.The Linux Command Handbook-https://www.freecodecamp.org/news/the-linux-commands-handbook/ 
 
 94.130 Machine Learning Projects Solved and Explained-https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 
