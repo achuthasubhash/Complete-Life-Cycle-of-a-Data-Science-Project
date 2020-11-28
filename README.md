@@ -1749,6 +1749,7 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
 110.machine-learning-roadmap-2020   https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva 
 
+111.Django models https://www.deploymachinelearning.com/#create-django-models
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
