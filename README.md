@@ -889,7 +889,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
   Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief
   
-    Regularization- L1, L2, dropout, early stopping, and data augmentation.
+    Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation
   
 ***Hyperparameter tuning***
   
@@ -908,6 +908,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     g.Keras tuner
     
     https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
+    
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
@@ -1741,6 +1742,8 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 108.Language Interpretability Tool - https://pair-code.github.io/lit/demos/
 
 109.Docly will handle the comments  http://thedocly.io/
+
+110.machine-learning-roadmap-2020   https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva 
 
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
