@@ -132,6 +132,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     CVAT-https://github.com/openvinotoolkit/cvat
     
+    Lionbridge- https://lionbridge.ai/
+    
     https://github.com/heartexlabs/awesome-data-labeling
    
     23)tensorflow_datasets as tfds  https://www.tensorflow.org/datasets  (import tensorflow_datasets as tfds)
