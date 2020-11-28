@@ -206,6 +206,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html
     
+     ImageNet data -http://image-net.org/
+    
     44.https://github.com/fivethirtyeight/data
     
     45.Recommender Systems Datasets-https://cseweb.ucsd.edu/~jmcauley/datasets.html
