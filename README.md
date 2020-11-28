@@ -1225,6 +1225,8 @@ leverage of model architecture
    
    Monk_Gui-https://github.com/Tessellate-Imaging/Monk_Gui
    
+   ENNUI-https://math.mit.edu/ennui/  https://github.com/martinjm97/ENNUI   https://www.youtube.com/watch?v=4VRC5k0Qs2w
+   
    64.tensorflow development-https://blog.tensorflow.org/
    
    TensorFlow Hub (trained ready-to-deploy machine learning models in one place) - https://tfhub.dev/
