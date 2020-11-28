@@ -1703,7 +1703,7 @@ https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-t
 
 https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 
-https://data-flair.training/blogs/machine-learning-datasets/#
+https://data-flair.training/blogs/machine-learning-datasets/#   
 
 https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
