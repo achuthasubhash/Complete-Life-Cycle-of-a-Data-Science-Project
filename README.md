@@ -168,6 +168,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     34)Big Bad NLP Database-https://datasets.quantumstat.com/
     
+    https://github.com/niderhoff/nlp-datasets
+    
     35)https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
     
     36)bigquery public dataset ,Google Public Data Explorer
@@ -268,15 +270,19 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     63.https://lionbridge.ai/services/crowdsourcing/    https://lionbridge.ai/     https://www.clickworker.com/  https://appen.com/  https://www.globalme.net/
     
-    64.Azure Open Datasets https://azure.microsoft.com/en-us/services/open-datasets/
-    
+    64.Azure Open Datasets https://azure.microsoft.com/en-us/services/open-datasets/       https://azure.microsoft.com/en-in/services/open-datasets/catalog/
+      
     Yelp Open Dataset  https://www.yelp.com/dataset
+    
+    https://data.world/
     
     ODK Open Data Kit- https://getodk.org/
     
     World Bank Open Data https://data.worldbank.org/
     
     https://analyticsindiamag.com/10-biggest-data-breaches-that-made-headlines-in-2020/
+    
+    https://data.mendeley.com/
      
 ***2.Feature engineering***
 
@@ -700,6 +706,8 @@ performance if not distributed then use below methods to bring it guassian distr
 Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human Pose Estimation,
      
      Data Augmentation apply to increase size of dataset and performance of model
+     
+     low code object detection -  detecto  https://github.com/alankbi/detecto 
    
    3.Recurrent neural network (use when series of data)
    
@@ -1347,6 +1355,8 @@ leverage of model architecture
    
    Lightning  https://pytorchlightning.ai/community#projects
    
+   𝗢𝗽𝗮𝗰𝘂𝘀 (𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗣𝘆𝗧𝗼𝗿𝗰𝗵 𝗺𝗼𝗱𝗲𝗹𝘀 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁𝗶𝗮𝗹 𝗽𝗿𝗶𝘃𝗮𝗰𝘆)-https://opacus.ai/
+   
    96.Atlas web-based dashboard -https://www.atlas.dessa.com/
    
    97.Pytest  (test  code) https://docs.pytest.org/en/latest/index.html  (test  code)
@@ -1502,6 +1512,8 @@ applications of data science in many industry
     AdaNet is a lightweight TensorFlow-based framework
 
 11. pycaret- https://pycaret.org/
+
+mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
 12.Auto_Timeseries by auto_ts 
 
@@ -1751,9 +1763,11 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
 110.machine-learning-roadmap-2020   https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva 
 
-111.Django models https://www.deploymachinelearning.com/#create-django-models
+111.Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
 
 112.freecodecamp - https://www.freecodecamp.org/learn
+
+113.image_to_string (pytesseract)
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
