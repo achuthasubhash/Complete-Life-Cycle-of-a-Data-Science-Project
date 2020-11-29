@@ -1753,6 +1753,8 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
 111.Django models https://www.deploymachinelearning.com/#create-django-models
 
+112.freecodecamp - https://www.freecodecamp.org/learn
+
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
 
