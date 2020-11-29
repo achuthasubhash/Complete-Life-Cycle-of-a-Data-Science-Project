@@ -1237,6 +1237,14 @@ leverage of model architecture
    
    ENNUI-https://math.mit.edu/ennui/  https://github.com/martinjm97/ENNUI   https://www.youtube.com/watch?v=4VRC5k0Qs2w
    
+   Knime https://www.knime.com/
+   
+   Accord.net http://accord-framework.net/
+   
+   Rapid Miner https://rapidminer.com/
+   
+   opennn https://www.opennn.net/
+   
    64.tensorflow development-https://blog.tensorflow.org/
    
    TensorFlow Hub (trained ready-to-deploy machine learning models in one place) - https://tfhub.dev/
@@ -1373,6 +1381,8 @@ leverage of model architecture
    
    103.Three API styles - Sequential Model,functional API,Model subclassing
    
+   104.Deep Learning Toolkit for Medical Image Analysis -https://github.com/DLTK/DLTK
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
@@ -1483,7 +1493,7 @@ applications of data science in many industry
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,Azure Machine Learning Studio,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,RapidMiner,IBM Watson
+1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,Azure Machine Learning Studio,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson
 
 2. Tpot
 
@@ -1525,7 +1535,7 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,
    
    ExploriPy import EDA-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
    
