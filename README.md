@@ -682,7 +682,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
        rcnn,fastrcnn,fatercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,
+       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,UNet++ 
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
@@ -892,6 +892,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    H.Active learning,Multi-Task Learning,Online Learning
    
    I.Transfer learning(Inductive Transfer learning(similar domain,different task),Unsupervised Transfer Learning(different task,different domain but similar enough) ,Transductive Transfer Learning(similar task,different domain))
+   
+   https://github.com/artix41/awesome-transfer-learning
    
    https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
    
@@ -1143,7 +1145,7 @@ leverage of model architecture
    
    25.recommenders-https://github.com/microsoft/recommenders
    
-   26.Awesome-NLP-Resources -https://github.com/Robofied/Awesome-NLP-Resources  https://shivanandroy.com/awesome-nlp-resources/ 
+   26.Awesome-NLP-Resources -https://github.com/Robofied/Awesome-NLP-Resources  https://shivanandroy.com/awesome-nlp-resources/   https://github.com/keon/awesome-nlp
    
    27.Tool for visualizing attention in the Transformer model-https://github.com/jessevig/bertviz
    
@@ -1386,6 +1388,8 @@ leverage of model architecture
    104.Deep Learning Toolkit for Medical Image Analysis -https://github.com/DLTK/DLTK
    
    106.Interpret The ML Model  lime - https://lime-ml.readthedocs.io/en/latest/
+   
+   107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
    
 ***Follow leaders in the field to update yourself in the field***
 
