@@ -1543,13 +1543,15 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas
    
    ExploriPy import EDA-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
    
    Lens- Statistical Analysis of Data https://analyticsindiamag.com/hands-on-tutorial-on-lens-python-tool-for-swift-statistical-analysis/ 
    
    Datacleaner-https://analyticsindiamag.com/tutorial-on-datacleaner-python-tool-to-speed-up-data-cleaning-process/
+   
+   Datacleaner :dora 
    
    featurewiz(Select the best features from your data set fast with a single line of code) - https://github.com/AutoViML/featurewiz
 
@@ -1765,7 +1767,7 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
 100.Deep Learning Hardware Guide https://towardsdatascience.com/another-deep-learning-hardware-guide-73a4c35d3e86
 
-101.johnsnowlabs- https://nlp.johnsnowlabs.com/  https://nlp.johnsnowlabs.com/docs/en/quickstart
+101.johnsnowlabs- https://nlp.johnsnowlabs.com/  https://nlp.johnsnowlabs.com/docs/en/quickstart  https://nlp.johnsnowlabs.com/docs/en/licensed_release_notes
 
 103.Edit a spreadsheet Generate Python  https://trymito.io/?source=twitter1
 
