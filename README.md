@@ -1544,6 +1544,8 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
    Lens- Statistical Analysis of Data https://analyticsindiamag.com/hands-on-tutorial-on-lens-python-tool-for-swift-statistical-analysis/ 
    
    Datacleaner-https://analyticsindiamag.com/tutorial-on-datacleaner-python-tool-to-speed-up-data-cleaning-process/
+   
+   featurewiz(Select the best features from your data set fast with a single line of code) - https://github.com/AutoViML/featurewiz
 
 16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
 
