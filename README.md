@@ -122,7 +122,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
-    22)labelimage:- https://github.com/wkentaro/labelme  ,  https://github.com/tzutalin/labelImg
+    22)labelimage:- https://github.com/wkentaro/labelme  ,  https://github.com/tzutalin/labelImg 
     
     Labelbox-https://labelbox.com/
     
@@ -133,6 +133,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     CVAT-https://github.com/openvinotoolkit/cvat
     
     Lionbridge- https://lionbridge.ai/
+    
+    V7 Darwin The Rapid Image Annotator   https://docs.v7labs.com/docs/loading-a-dataset-in-python   https://github.com/v7labs/darwin-py#usage-as-a-python-library
     
     https://github.com/heartexlabs/awesome-data-labeling
    
@@ -565,7 +567,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
-     3.Association Rule Learning - support,lift,confidence,aprior,elcat,Fp-growth,Fp-tree construction
+     3.Association Rule Learning - support,lift,confidence,aprior,elcat,Fp-growth,Fp-tree construction, association_rules
    
      4.Recommendation system -
      
