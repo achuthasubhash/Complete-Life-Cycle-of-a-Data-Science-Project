@@ -423,9 +423,9 @@ performance if not distributed then use below methods to bring it guassian distr
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: zscore,boxplot,scatter plot,IQR,TensorFlow_Data_Validation
+      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,IQR,TensorFlow_Data_Validation
       
-      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant
+      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering
       
       if outiler present then use robust scaling
       
@@ -1391,6 +1391,7 @@ leverage of model architecture
    
    107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
    
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
@@ -1512,6 +1513,8 @@ applications of data science in many industry
 5. autosklearn,autokeras
 
 6. autoviml
+
+   𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲  https://github.com/Muhammad4hmed/GML
 
 7. autoViz
 
