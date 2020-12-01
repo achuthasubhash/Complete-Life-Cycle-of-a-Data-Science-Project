@@ -46,6 +46,8 @@ https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-sc
     
     8.pattern
     
+    9.Octoparse Easy Web Scraping  https://www.octoparse.com/ 
+    
 b.Web Crawling
   
 b.3rd party API'S 
