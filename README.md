@@ -879,7 +879,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       15.PyFlux (easy way to compare different models)-https://analyticsindiamag.com/pyflux-guide-python-library-for-time-series-analysis-and-prediction/
       
-      16.Orbit , DeepAR
+      16.Orbit , DeepAR ,NeuralProphet(https://github.com/ourownstory/neural_prophet    https://ourownstory.github.io/neural_prophet/model-overview/)
       
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
