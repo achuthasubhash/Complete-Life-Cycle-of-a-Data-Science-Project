@@ -940,7 +940,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      6.Repeated cross-validation
   
-Tensorboard to visualization of model performance
+Tensorboard,Neptune to visualization of model performance
 
 Distributed Training with TensorFlow 
 
