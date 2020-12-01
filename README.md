@@ -641,6 +641,8 @@ performance if not distributed then use below methods to bring it guassian distr
       
        Environments-OpenAI Gym, DeepMind Lab, Unity ML-Agents
        
+       https://analyticsindiamag.com/8-best-free-resources-to-learn-deep-reinforcement-learning-using-tensorflow/
+       
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
        
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-reinforcement-learning-tutorials-examples-projects-and-courses
@@ -1744,7 +1746,7 @@ https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-t
 
 https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 
-https://data-flair.training/blogs/machine-learning-datasets/#   
+https://data-flair.training/blogs/machine-learning-datasets/#      https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
 
 https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
@@ -1792,7 +1794,15 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
 112.freecodecamp - https://www.freecodecamp.org/learn
 
-113.image_to_string (pytesseract)
+113.image_to_string (pytesseract) 
+
+114.NLP Pipelines in a single line of code https://medium.com/analytics-vidhya/nlp-pipelines-in-a-single-line-of-code-500b3266ac7b
+
+115.Best and Worst Cases of Machine-Learning Models https://medium.com/towards-artificial-intelligence/best-and-worst-cases-of-machine-learning-models-part-1-36cdb9296611
+
+https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
+
+
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
