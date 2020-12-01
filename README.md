@@ -1802,6 +1802,7 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
 
 https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
 
+116.aitextgen #for ai text generation
 
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
