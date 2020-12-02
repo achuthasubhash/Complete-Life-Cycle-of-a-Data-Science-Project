@@ -891,6 +891,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       https://otexts.com/fpp2/simple-methods.html
           
+      https://analyticsindiamag.com/top-time-series-deep-learning-methods/
+      
    G.Semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
    
    H.Active learning,Multi-Task Learning,Online Learning
