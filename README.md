@@ -1813,6 +1813,8 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
 
 116.aitextgen #for ai text generation
 
+117.http://introtodeeplearning.com/  http://cs231n.stanford.edu/   http://web.stanford.edu/class/cs224n/index.html#schedule  https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A  https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A    https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP  https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
+
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
