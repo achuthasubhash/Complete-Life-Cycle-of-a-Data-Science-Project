@@ -931,7 +931,6 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
     
-    
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
      1.Loocv
