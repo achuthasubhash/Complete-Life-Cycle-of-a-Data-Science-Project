@@ -1455,7 +1455,7 @@ applications of data science in many industry
     
    2.https://ai.googleblog.com/
     
-   3.https://deepmind.com/blog
+   3.https://deepmind.com/blog  https://deepai.org/definitions
     
    4.https://openai.com/blog/
     
