@@ -655,11 +655,13 @@ performance if not distributed then use below methods to bring it guassian distr
        
        pyqlearning
        
-       tensorforce https://tensorforce.readthedocs.io/en/latest/index.html
+       tensorforce https://tensorforce.readthedocs.io/en/latest/index.html  
        
        rl_coach https://github.com/IntelLabs/coach#installation        MushroomRL https://mushroomrl.readthedocs.io/en/latest/
        
-       TFAgents  https://github.com/tensorflow/agents        Stable Baselines  https://github.com/openai/baselines
+       TFAgents  https://github.com/tensorflow/agents (https://www.tensorflow.org/agents)   https://deepmind.com/blog/article/trfl     
+       
+       Stable Baselines  https://github.com/openai/baselines
        
        https://neptune.ai/blog/the-best-tools-for-reinforcement-learning-in-python?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-the-best-tools-for-reinforcement-learning-in-python
    
@@ -1263,6 +1265,10 @@ leverage of model architecture
    TensorBoard.dev - https://tensorboard.dev/
    
    tutorials-https://www.tensorflow.org/tutorials  https://www.tensorflow.org/guide
+   
+   TensorFlow Graphics - https://www.tensorflow.org/graphics    Lattice-https://www.tensorflow.org/lattice
+   
+   TensorFlow Probability-https://www.tensorflow.org/probability   TensorFlow Privacy- tensorflow-privacy
    
    63.Data Science in the Cloud-Amazon SageMaker,Amazon Lex,Amazon Rekognition,Azure Machine Learning (Azure ML) Services,Azure Service Bot framework,Google Cloud AutoML
    
