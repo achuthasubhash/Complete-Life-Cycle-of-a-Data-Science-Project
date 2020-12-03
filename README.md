@@ -660,6 +660,8 @@ performance if not distributed then use below methods to bring it guassian distr
        rl_coach https://github.com/IntelLabs/coach#installation        MushroomRL https://mushroomrl.readthedocs.io/en/latest/
        
        TFAgents  https://github.com/tensorflow/agents        Stable Baselines  https://github.com/openai/baselines
+       
+       https://neptune.ai/blog/the-best-tools-for-reinforcement-learning-in-python?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-the-best-tools-for-reinforcement-learning-in-python
    
    Semi-Supervised Learning-small amount of labeled data with a large amount of unlabeled data during training
    
@@ -1456,6 +1458,8 @@ applications of data science in many industry
    7.https://blog.tensorflow.org/
    
    8.https://pytorch.org/blog/
+   
+   https://www.kdnuggets.com/2020/01/top-10-ai-ml-articles-to-know.html
     
 ***RESEARCH LABS IN THE WORLD***   
 
