@@ -287,6 +287,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://analyticsindiamag.com/10-biggest-data-breaches-that-made-headlines-in-2020/
     
     https://data.mendeley.com/
+    
+    https://github.com/iamtekson/geospatial-data-download-sites
      
 ***2.Feature engineering***
 
