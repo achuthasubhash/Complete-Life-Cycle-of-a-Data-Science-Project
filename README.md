@@ -1412,6 +1412,8 @@ leverage of model architecture
    
    106.Interpret The ML Model  lime - https://lime-ml.readthedocs.io/en/latest/
    
+   SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
+   
    107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
    
    108.Machine Learning University -  https://aws.amazon.com/machine-learning/mlu/
@@ -1533,6 +1535,8 @@ applications of data science in many industry
 
 https://neptune.ai/blog/best-machine-learning-as-a-service-platforms-mlaas?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-machine-learning-as-a-service-platforms-mlaas
 
+https://codegnan.com/blog/35-best-data-sciecne-tools-for-beginners-to-master/
+
 2. Tpot
 
 3. autopandas
@@ -1544,6 +1548,8 @@ https://neptune.ai/blog/best-machine-learning-as-a-service-platforms-mlaas?utm_s
 6. autoviml
 
    𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲  https://github.com/Muhammad4hmed/GML
+   
+   CodeLess  https://pypi.org/project/codeless/  https://github.com/porky5191/codeless_demo_project
 
 7. autoViz
 
