@@ -1537,7 +1537,7 @@ https://neptune.ai/blog/best-machine-learning-as-a-service-platforms-mlaas?utm_s
 
 4. AutoGluon   https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
 
-5. autosklearn,autokeras
+5. autosklearn,autokeras,LightAutoML  (https://github.com/sberbank-ai-lab/LightAutoML)
 
 6. autoviml
 
