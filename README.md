@@ -1408,6 +1408,8 @@ leverage of model architecture
    
    107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
    
+   108.Machine Learning University -  https://aws.amazon.com/machine-learning/mlu/
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
@@ -1773,7 +1775,7 @@ https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/ https:
 
 https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a721   https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37
 
-https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
+https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/  https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78
 
 92. Visual Programming (Orange) https://orange.biolab.si/
 
