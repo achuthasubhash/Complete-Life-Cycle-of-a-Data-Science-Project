@@ -28,6 +28,8 @@ https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-
 
 https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-scraping-software
 
+https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-hero-38051423256b
+
     1.Beautifulsoup
    
     2.Scrapy
@@ -925,7 +927,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
     b.RandomizedSearchCV (search randomly narrow down our time)
   
-    c.Bayesian Optimization (Hyperopt)
+    c.Bayesian Optimization , Hyperopt
     
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
@@ -934,6 +936,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     f.Genetic Algorithms
     
     g.Keras tuner
+    
+    h.Scikit-Optimize
     
     https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
     
@@ -1776,6 +1780,8 @@ https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/ https:
 https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a721   https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37
 
 https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/  https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78
+
+https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1
 
 92. Visual Programming (Orange) https://orange.biolab.si/
 
