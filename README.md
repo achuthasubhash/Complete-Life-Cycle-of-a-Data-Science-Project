@@ -138,6 +138,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Lionbridge- https://lionbridge.ai/
     
+    Dataturks
+    
     V7 Darwin The Rapid Image Annotator   https://docs.v7labs.com/docs/loading-a-dataset-in-python   https://github.com/v7labs/darwin-py#usage-as-a-python-library
     
     https://github.com/heartexlabs/awesome-data-labeling
@@ -206,7 +208,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
        70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
        
-       tensorflow_datasets.object_detection   -   https://storage.googleapis.com/openimages/web/index.html
+    tensorflow_datasets.object_detection - https://storage.googleapis.com/openimages/web/index.html
     
     https://github.com/google-research-datasets/Objectron/  https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html?m=1 
    
@@ -214,7 +216,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html
     
-     ImageNet data -http://image-net.org/
+    ImageNet data -http://image-net.org/
     
     44.https://github.com/fivethirtyeight/data
     
@@ -731,7 +733,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      3.LSTM (have memory cell,forget gate  etc..)
      
-     all above 3 models have bidirectional also based on problem statement use bidirectional model
+     all above 3 models have bidirectional also based on problem statement use bidirectional models
   
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
    
@@ -753,7 +755,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       6.variational autoencoder
    
-   6.BoltzmannMachines,a Restricted Boltzmann Machine,deep belief network,deep BoltzmannMachines
+   6.BoltzmannMachines,Restricted Boltzmann Machine,deep belief network,deep BoltzmannMachines
    
    7.Self Organizing Maps (SOM)
    
