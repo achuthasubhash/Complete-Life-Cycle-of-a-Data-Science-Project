@@ -1783,7 +1783,7 @@ https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a72
 
 https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/  https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78
 
-https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1
+https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1  https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
 
 92. Visual Programming (Orange) https://orange.biolab.si/
 
@@ -1826,6 +1826,8 @@ https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3db
 112.freecodecamp - https://www.freecodecamp.org/learn
 
 113.image_to_string (pytesseract) 
+
+Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 114.NLP Pipelines in a single line of code https://medium.com/analytics-vidhya/nlp-pipelines-in-a-single-line-of-code-500b3266ac7b
 
