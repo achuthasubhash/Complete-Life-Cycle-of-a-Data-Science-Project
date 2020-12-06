@@ -1595,9 +1595,11 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
    
    Datacleaner-https://analyticsindiamag.com/tutorial-on-datacleaner-python-tool-to-speed-up-data-cleaning-process/
    
-   Datacleaner :dora 
+   Datacleaner :dora   ,Voilà -Jupyter Notebooks quickly into standalone web applications , Plotly Dash - for more advanced and production level dashboards
    
    featurewiz(Select the best features from your data set fast with a single line of code) - https://github.com/AutoViML/featurewiz
+   
+   Panel - web apps
 
 16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
 
