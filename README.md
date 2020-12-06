@@ -50,6 +50,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     9.Octoparse Easy Web Scraping  https://www.octoparse.com/ 
     
+     ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
+    
 b.Web Crawling
   
 b.3rd party API'S 
@@ -728,6 +730,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Data Augmentation apply to increase size of dataset and performance of model
      
      low code object detection -  detecto  https://github.com/alankbi/detecto 
+     
+     Object Detection with 10 lines of code-https://www.datasciencecentral.com/profiles/blogs/object-detection-with-10-lines-of-code
    
    3.Recurrent neural network (use when series of data)
    
