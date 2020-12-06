@@ -392,15 +392,17 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
    f.Scaling of data
    
-       1.Normalisation (Min Max Scaling) robust scaling
+       1.Normalisation  
    
        2.Standardization
      
        3.Robust Scaler not influenced by outliers because using of median,IQR
        
-       4.Mean normalization
+       4. Min Max Scaling
        
-       5.maximum absolute scaling
+       5.Mean normalization
+       
+       6.maximum absolute scaling
       
    Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
 performance if not distributed then use below methods to bring it guassian distribution
@@ -434,6 +436,8 @@ performance if not distributed then use below methods to bring it guassian distr
       methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,IQR,TensorFlow_Data_Validation
       
       Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering
+      
+      outiler treatment: mean/median/random imputation,drop,discretization (binning)
       
       if outiler present then use robust scaling
       
