@@ -1426,6 +1426,13 @@ leverage of model architecture
    
    108.Machine Learning University -  https://aws.amazon.com/machine-learning/mlu/
    
+   109.mlflow  https://mlflow.org/   An open source platform for the machine learning lifecycle
+   
+   https://neptune.ai/  
+      
+   https://azure.microsoft.com/en-us/services/machine-learning/
+      
+   https://github.com/VertaAI/modeldb 
    
 ***Follow leaders in the field to update yourself in the field***
 
