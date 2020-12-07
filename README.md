@@ -208,7 +208,11 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     42.30 largest tensorflow datasets-https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
     
-    43.50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
+    43. coco dataset-https://cocodataset.org/#home
+    
+    Google Open images-https://opensource.google/projects/open-images-dataset  https://storage.googleapis.com/openimages/web/index.html
+    
+    50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
     
        70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
        
