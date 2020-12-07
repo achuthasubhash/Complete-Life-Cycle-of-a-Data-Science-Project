@@ -929,7 +929,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
   Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief
   
-  Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation
+  Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation,tree purning
   
   Hyperparameters Number of hidden layers,Dropout,activation function,Weights initialization , learning rate,epoch, iterations and batch size
   
