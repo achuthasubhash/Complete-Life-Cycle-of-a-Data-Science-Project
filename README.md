@@ -43,6 +43,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
     
       https://analyticsindiamag.com/complete-tutorial-on-twint-twitter-scraping-without-twitters-api/
+      
+      Scraping Instagram -instaloader
     
     7.urllib
     
@@ -1598,7 +1600,7 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair
    
    https://github.com/mstaniak/autoEDA-resources
    
@@ -1809,6 +1811,8 @@ https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a72
 https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/  https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78
 
 https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1  https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
+
+https://amankharwal.medium.com/30-python-projects-solved-and-explained-563fd7473003
 
 92. Visual Programming (Orange) https://orange.biolab.si/
 
