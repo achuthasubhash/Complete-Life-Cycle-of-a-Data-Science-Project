@@ -53,7 +53,9 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     9.Octoparse Easy Web Scraping  https://www.octoparse.com/ 
     
      ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
-    
+     
+     Diffbot  https://analyticsindiamag.com/diffbot/
+     
 b.Web Crawling
   
 b.3rd party API'S 
