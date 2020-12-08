@@ -1832,7 +1832,7 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/  https://a
 
 https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1  https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
 
-https://amankharwal.medium.com/30-python-projects-solved-and-explained-563fd7473003
+https://amankharwal.medium.com/30-python-projects-solved-and-explained-563fd7473003  https://www.aiquotient.app/projects
 
 92. Visual Programming (Orange) https://orange.biolab.si/
 
