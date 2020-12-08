@@ -236,6 +236,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     47.US Government Open Dataset: https://www.data.gov/
     
+    https://censusreporter.org/   https://data.census.gov/cedsci/
+    
     48.AWS Public Data Sets:https://registry.opendata.aws/    https://aws.amazon.com/opendata/?wwps-cards.sort-by=item.additionalFields.sortDate&wwps-cards.sort-order=desc
     
     49.https://the-eye.eu/public/AI/pile_preliminary_components/
