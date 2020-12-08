@@ -303,6 +303,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://data.mendeley.com/
     
     https://github.com/iamtekson/geospatial-data-download-sites
+    
+    https://eugeneyan.com/writing/data-discovery-platforms/
      
 ***2.Feature engineering***
 
