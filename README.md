@@ -56,6 +56,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      Diffbot  https://analyticsindiamag.com/diffbot/
      
+     Trustpilot
+     
 b.Web Crawling
   
 b.3rd party API'S 
@@ -228,6 +230,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     ImageNet data -http://image-net.org/
     
+    ApolloScape Dataset-http://apolloscape.auto/
+    
     44.https://github.com/fivethirtyeight/data
     
     45.Recommender Systems Datasets-https://cseweb.ucsd.edu/~jmcauley/datasets.html
@@ -307,6 +311,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://github.com/iamtekson/geospatial-data-download-sites
     
     https://eugeneyan.com/writing/data-discovery-platforms/
+    
+    65.https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
      
 ***2.Feature engineering***
 
@@ -783,7 +789,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp  libraries
+     Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp,VnCoreNLP  libraries
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
@@ -844,6 +850,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
      
      MT5-https://venturebeat.com/2020/10/26/google-open-sources-mt5-a-multilingual-model-trained-on-over-101-languages/?utm_content=144321587&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
+     
+     VADER does not require any training data https://pypi.org/project/vaderSentiment/  https://analyticsindiamag.com/sentiment-analysis-made-easy-using-vader/
      
      APPLICATIONS OF MACHINE TRANSLATIO-Text-to-text,Text-to-speech,Speech-to-text,Speech-to-speech,Image (of words)-to-text
      
@@ -1117,7 +1125,7 @@ leverage of model architecture
     5.ML+  -https://www.machinelearningplus.com/
 
 ***BEST RESOURCES***
-
+ 
    1.paperswithcode-https://paperswithcode.com/methods
 
    2.madewithml-https://madewithml.com/topics/   https://madewithml.com/courses/applied-ml-in-production/
@@ -1202,7 +1210,7 @@ leverage of model architecture
    
    31.huggingface contain almost all nlp pretrained model and all tasks related to nlp field
      
-   https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/   https://github.com/huggingface/tokenizers
+   https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/  https://huggingface.co/transformers/master/   https://github.com/huggingface/tokenizers
    
    32.multi-task-NLP-https://github.com/hellohaptik/multi-task-NLP
    
