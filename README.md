@@ -1135,6 +1135,8 @@ leverage of model architecture
    5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/  https://deep-learning-drizzle.github.io/index.html
 
    6.Fastaibook-https://github.com/fastai/fastbook , https://course.fast.ai/
+   
+   neptune.ai-https://docs.neptune.ai/index.html
     
    7.TopDeepLearning-https://github.com/aymericdamien/TopDeepLearning
    
