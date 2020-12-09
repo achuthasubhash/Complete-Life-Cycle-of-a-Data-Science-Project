@@ -315,6 +315,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://eugeneyan.com/writing/data-discovery-platforms/
     
     65.https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
+    
+    https://github.com/MTG/freesound-datasets
      
 ***2.Feature engineering***
 
@@ -720,7 +722,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      3.Object detection and object segmentation 
      
-       rcnn,fastrcnn,fatercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
+       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,UNet++ 
        
@@ -835,7 +837,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
         Shrinking Transformers (reduce size)  1.quantization,distillation,pruning,
       
-     10.BERT,Quantized MobileBERT,ALBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT
+     10.BERT,Quantized MobileBERT,ALBERT,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
@@ -1835,6 +1837,8 @@ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/  https://a
 https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1  https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
 
 https://amankharwal.medium.com/30-python-projects-solved-and-explained-563fd7473003  https://www.aiquotient.app/projects
+
+https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
 
 92. Visual Programming (Orange) https://orange.biolab.si/
 
