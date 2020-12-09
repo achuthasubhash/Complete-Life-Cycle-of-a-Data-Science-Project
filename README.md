@@ -146,6 +146,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Lionbridge- https://lionbridge.ai/
     
+    LinkedAI: A No-code Data Annotations- https://analyticsindiamag.com/linkedai/
+    
     Dataturks
     
     V7 Darwin The Rapid Image Annotator   https://docs.v7labs.com/docs/loading-a-dataset-in-python   https://github.com/v7labs/darwin-py#usage-as-a-python-library
