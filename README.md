@@ -58,6 +58,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      Trustpilot
      
+     MechanicalSoup https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/
+     
 b.Web Crawling
   
 b.3rd party API'S 
@@ -485,7 +487,7 @@ performance if not distributed then use below methods to bring it guassian distr
     
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,etc...)
     
-    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds
+    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
     𝗞𝗲𝗿𝗮𝘀 𝗠𝗼𝗱𝗲𝗹 𝘃𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿(ann-visualizer)- 𝗽𝗶𝗽𝟯 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗿𝗮𝗽𝗵𝘃𝗶𝘇
   
@@ -1005,6 +1007,8 @@ Generally used metrics
      
      Model can be overfitting(low bias,high variance),underfitting(high bias,high variance),good fit(low bias,low variance)
      
+     https://scikit-learn.org/stable/modules/model_evaluation.html   https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model
+     
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
     2.Classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,log loss,Average precision,Mean average precision
@@ -1046,6 +1050,12 @@ Docker and Kubernetes
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
+    
+    web application(dash)- https://dash.plotly.com/
+    
+    Jupyter Notebook into an interactive dashboard (voila)-https://voila.readthedocs.io/en/stable/
+    
+    high-level app and dashboarding solution(Panel)-https://panel.holoviz.org/
     
     https://github.com/gradio-app/gradio
     
@@ -1602,7 +1612,7 @@ https://codegnan.com/blog/35-best-data-sciecne-tools-for-beginners-to-master/
 
 8. sweetviz (EDA purpose)  - https://pypi.org/project/sweetviz/
 
-9. pandasprofiling(display whole EDA) - https://pypi.org/project/pandas-profiling/
+9. pandasprofiling(display whole EDA) - https://pypi.org/project/pandas-profiling/  https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/index.html
 
 10. autokeras,AutoSklearn,Neural Network Intelligence
 
@@ -1675,6 +1685,8 @@ https://docs.rapids.ai/api/cuml/stable/
 26.memory-profiler (tell memory consumption line by line)  https://pypi.org/project/memory-profiler/
 
 27.numexpr (incerease speed of execution of numpy)  https://github.com/pydata/numexpr
+
+Numba (optimise performance of numpy and high performance  python compiler)  http://numba.pydata.org/
 
 28.pandarallel  (simple and efficient tool to parallelize your pandas computation on all your CPUs) https://pypi.org/project/pandarallel/
 
