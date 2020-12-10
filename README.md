@@ -154,6 +154,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     V7 Darwin The Rapid Image Annotator   https://docs.v7labs.com/docs/loading-a-dataset-in-python   https://github.com/v7labs/darwin-py#usage-as-a-python-library
     
+    https://waliamrinal.medium.com/top-and-easy-to-use-open-source-image-labelling-tools-for-machine-learning-projects-ffd9d5af4a20
+    
     https://github.com/heartexlabs/awesome-data-labeling
    
     23)tensorflow_datasets as tfds  https://www.tensorflow.org/datasets  (import tensorflow_datasets as tfds)
@@ -290,7 +292,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/data/datasets.md#datasets-and-sources-of-raw-data
     
-    60.Faker is a Python package that generates fake data for you-https://github.com/joke2k/faker
+    60.Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
     
@@ -466,6 +468,8 @@ performance if not distributed then use below methods to bring it guassian distr
       outiler treatment: mean/median/random imputation,drop,discretization (binning)
       
       if outiler present then use robust scaling
+      
+      alibi-detect https://github.com/SeldonIO/alibi-detect#adversarial-detection   https://docs.seldon.io/projects/alibi-detect/en/latest/
       
       https://medium.com/towards-artificial-intelligence/outlier-detection-and-treatment-a-beginners-guide-c44af0699754
       
