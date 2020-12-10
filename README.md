@@ -907,6 +907,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       8.Facebook prophet (note:expceted date column as ds and target column as y)
       
+      NeuralProphet Model- https://ourownstory.github.io/neural_prophet/model-overview/
+      
       9.Holts winter,Holts linear trend
       
       10.AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/
