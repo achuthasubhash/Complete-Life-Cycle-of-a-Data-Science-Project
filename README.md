@@ -1586,7 +1586,7 @@ applications of data science in many industry
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,Azure Machine Learning Studio,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson
+1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio
 
 https://neptune.ai/blog/best-machine-learning-as-a-service-platforms-mlaas?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-machine-learning-as-a-service-platforms-mlaas
 
