@@ -1182,7 +1182,7 @@ leverage of model architecture
     
    11.free-data-science-books-https://github.com/chaconnewu/free-data-science-books
     
-   12.arcgis-https://github.com/Esri/arcgis-python-api 
+   12.arcgis-https://github.com/Esri/arcgis-python-api   https://geemap.org/
     
    13.data-science-ipython-notebooks-https://github.com/donnemartin/data-science-ipython-notebooks
     
