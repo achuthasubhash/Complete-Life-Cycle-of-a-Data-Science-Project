@@ -62,6 +62,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      Scrape HTML tables https://www.youtube.com/watch?v=6U5xJ3mXRKA&feature=youtu.be 
      
+     pandas(read_html)
+     
 b.Web Crawling
   
 b.3rd party API'S 
@@ -325,6 +327,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://github.com/MTG/freesound-datasets
     
     https://dataform.co/
+    
+    https://github.com/rfordatascience/tidytuesday https://www.youtube.com/watch?v=vCBeGLpvoYM
      
 ***2.Feature engineering***
 
@@ -1323,6 +1327,8 @@ leverage of model architecture
    Rapid Miner https://rapidminer.com/
    
    opennn https://www.opennn.net/
+   
+   orange https://orange.biolab.si/
    
    64.tensorflow development-https://blog.tensorflow.org/
    
