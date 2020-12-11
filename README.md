@@ -1202,11 +1202,13 @@ leverage of model architecture
     
    20.code implementations for research papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
     
-   21.regarding satellite images - Geo AI,Arcgis
+   21.regarding satellite images - Geo AI,Arcgis,geemap
    
    ersi arcgis-https://www.esri.com/en-us/arcgis/about-arcgis/overview
        
    earthcube-https://www.earthcube.eu/
+   
+   geemap-https://geemap.org/
    
    22.Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection
    
@@ -1442,7 +1444,7 @@ leverage of model architecture
    
    95.PYTORCH - https://pytorch.org/  https://pytorch.org/ecosystem/  https://pytorch.org/tutorials/ https://pytorch.org/docs/stable/index.html https://github.com/pytorch/pytorch
    
-   Lightning  https://pytorchlightning.ai/community#projects
+   PYTORCH Lightning  https://pytorchlightning.ai/community#projects   https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2
    
    𝗢𝗽𝗮𝗰𝘂𝘀 (𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗣𝘆𝗧𝗼𝗿𝗰𝗵 𝗺𝗼𝗱𝗲𝗹𝘀 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁𝗶𝗮𝗹 𝗽𝗿𝗶𝘃𝗮𝗰𝘆)-https://opacus.ai/
    
