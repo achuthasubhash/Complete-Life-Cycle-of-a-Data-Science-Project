@@ -65,6 +65,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      pandas(read_html)
      
 b.Web Crawling
+
+  https://python.libhunt.com/scrapy-alternatives
   
 b.3rd party API'S 
 
