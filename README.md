@@ -935,7 +935,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       13.Darts-https://analyticsindiamag.com/hands-on-guide-to-darts-a-python-tool-for-time-series-forecasting/
       
-      14.Bayesian Neural Network 
+      14.Bayesian Neural Network , TsEuler
       
       15.PyFlux (easy way to compare different models)-https://analyticsindiamag.com/pyflux-guide-python-library-for-time-series-analysis-and-prediction/
       
@@ -1715,6 +1715,8 @@ https://docs.rapids.ai/api/cuml/stable/
 26.memory-profiler (tell memory consumption line by line)  https://pypi.org/project/memory-profiler/
 
 27.numexpr (incerease speed of execution of numpy)  https://github.com/pydata/numexpr
+
+pypolars instead of  pandas (beating-pandas-performance)
 
 Numba (optimise performance of numpy and high performance  python compiler)  http://numba.pydata.org/
 
