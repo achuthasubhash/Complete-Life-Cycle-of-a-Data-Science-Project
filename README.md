@@ -323,6 +323,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     65.https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
     
     https://github.com/MTG/freesound-datasets
+    
+    https://dataform.co/
      
 ***2.Feature engineering***
 
