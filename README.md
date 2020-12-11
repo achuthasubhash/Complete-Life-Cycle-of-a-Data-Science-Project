@@ -1464,9 +1464,11 @@ leverage of model architecture
    
    104.Deep Learning Toolkit for Medical Image Analysis -https://github.com/DLTK/DLTK
    
-   106.Interpret The ML Model  lime - https://lime-ml.readthedocs.io/en/latest/
+   106.Interpret The ML Model  lime (explain black box models) - https://lime-ml.readthedocs.io/en/latest/
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
+   
+   interpret https://github.com/interpretml/interpret
    
    107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
    
@@ -1479,6 +1481,16 @@ leverage of model architecture
    https://azure.microsoft.com/en-us/services/machine-learning/
       
    https://github.com/VertaAI/modeldb 
+   
+   110.Data Preparation / ETL   https://airflow.apache.org/   https://intake.readthedocs.io/en/latest/
+   
+   111.fairlearn  https://github.com/fairlearn/fairlearn/blob/master/README.md  Evaluating fairness of AI/ML models and training data and for mitigating bias in models
+determined to be unfair.
+
+   AI Fairness 360  evaluating fairness of AI/ML models and training data and mitigating bias in current models https://aif360.mybluemix.net/
+
+   112.
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
