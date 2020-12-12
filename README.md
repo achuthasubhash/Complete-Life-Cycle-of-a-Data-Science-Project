@@ -191,8 +191,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
        https://vincentarelbundock.github.io/Rdatasets/datasets.html
      
     32)coco dataset https://cocodataset.org/#explore
-    
-    33)huggingface datasets-https://github.com/huggingface/datasets  https://huggingface.co/datasets
+     
+    33)huggingface datasets-https://github.com/huggingface/datasets  https://huggingface.co/datasets  https://huggingface.co/languages
     
     34)Big Bad NLP Database-https://datasets.quantumstat.com/
     
@@ -770,6 +770,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      low code object detection -  detecto  https://github.com/alankbi/detecto 
      
      Object Detection with 10 lines of code-https://www.datasciencecentral.com/profiles/blogs/object-detection-with-10-lines-of-code
+     
+     Remo Improves Image Management  https://www.freecodecamp.org/news/manage-computer-vision-datasets-in-python-with-remo/
    
    3.Recurrent neural network (use when series of data)
    
