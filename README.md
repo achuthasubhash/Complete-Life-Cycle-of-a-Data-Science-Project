@@ -376,6 +376,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      14.MICE Imputation
      
+     15.autoimpute-https://github.com/kearnz/autoimpute
+     
      https://stefvanbuuren.name/fimd/want-the-hardcopy.html
      
    b.Handle imbalance
@@ -944,6 +946,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       16.Orbit , DeepAR ,NeuralProphet(https://github.com/ourownstory/neural_prophet    https://ourownstory.github.io/neural_prophet/model-overview/)
       
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
+      
+      time series visualization tool https://plotjuggler.io/
       
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
