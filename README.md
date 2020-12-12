@@ -1503,7 +1503,7 @@ determined to be unfair.
 
    AI Fairness 360  evaluating fairness of AI/ML models and training data and mitigating bias in current models https://aif360.mybluemix.net/
 
-   112.
+   112.MONAI Framework For Medical Imaging Research https://analyticsindiamag.com/monai-datatsets-managers/
    
    
 ***Follow leaders in the field to update yourself in the field***
