@@ -220,7 +220,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     40.Datasets for Machine Learning on Graphs-https://ogb.stanford.edu/
     
-    41.Big Bad NLP Database-https://datasets.quantumstat.com/
+    41.https://www.johnsnowlabs.com/data/
     
     42.30 largest tensorflow datasets-https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
     
