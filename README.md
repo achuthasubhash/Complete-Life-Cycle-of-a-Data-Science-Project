@@ -533,11 +533,11 @@ performance if not distributed then use below methods to bring it guassian distr
   
 ***4.Feature selection***
 
-    1.Filter methods (correleation,chisquare  test,Ttest,anova test,hypothesis test,information gain etc...)
+    1.Filter methods (correleation,chisquare  test,Ttest,anova test,mutal information,hypothesis test,information gain etc...)
 
-    2.Wrapper methods (forward selection,backwaed elimination,stepwise selection etc...)
+    2.Wrapper methods (recursive feature eliminiation,boruta,forward selection,backwaed elimination,stepwise selection etc...)
 
-    3.Embedded method (lasso,ridge regression,elasticnet etc...)
+    3.Embedded method (lasso,ridge regression,elasticnet,tree based etc...)
   
     4.Feature Importance
   
