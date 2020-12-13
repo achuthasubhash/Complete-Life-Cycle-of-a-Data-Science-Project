@@ -1156,6 +1156,8 @@ leverage of model architecture
 
 ***BEST BLOGS TO FOLLOW***
 
+    https://www.cybrhome.com/topic/data-science-blogs
+
     1.Towards data science-https://towardsdatascience.com/
 
     2.Analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar
@@ -1884,13 +1886,13 @@ https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-t
 
 https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 
-https://data-flair.training/blogs/machine-learning-datasets/#      https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
+https://thecleverprogrammer.com/machine-learning/
 
-https://thecleverprogrammer.com/2020/06/01/work-on-data-science-projects/ https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/
+https://data-flair.training/blogs/machine-learning-datasets/#      https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
 
 https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a721   https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37
 
-https://thecleverprogrammer.com/2020/11/15/machine-learning-projects/  https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78
+https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78
 
 https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1  https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
 
