@@ -880,6 +880,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      APPLICATIONS OF MACHINE TRANSLATIO-Text-to-text,Text-to-speech,Speech-to-text,Speech-to-speech,Image (of words)-to-text
      
      Google-GNMT (Tensorflow),Facebook-fairseq (Torch),Amazon-Sockeye (MXNet),NEMATUS (Theano),THUMT (Theano),OpenNMT (PyTorch),StanfordNMT (Matlab),DyNet-lamtram(CMU),EUREKA(MangoNMT
+     
+     https://www.kdnuggets.com/2020/05/best-nlp-deep-learning-course-free.html
    
    classification,clustering,recommender systems,topic modelling,sentiment analysis,semantic analysis,summarization,machine translation,conversational interface,named entity recognition
    
@@ -978,6 +980,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief
   
   Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation,tree purning
+  
+  Different Normalization Layers - https://towardsdatascience.com/different-normalization-layers-in-deep-learning-1a7214ff71d6
   
   Hyperparameters Number of hidden layers,Dropout,activation function,Weights initialization , learning rate,epoch, iterations and batch size
   
