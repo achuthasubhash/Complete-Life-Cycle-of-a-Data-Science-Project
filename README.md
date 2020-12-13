@@ -1127,6 +1127,8 @@ leverage of model architecture
     4.DATACAMP
     
     5.Udacity
+    
+    6.https://www.skillbasics.com/
 
 ***BEST YOUTUBE CHANNEL TO FOLLOW***
 
