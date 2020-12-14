@@ -884,6 +884,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Google-GNMT (Tensorflow),Facebook-fairseq (Torch),Amazon-Sockeye (MXNet),NEMATUS (Theano),THUMT (Theano),OpenNMT (PyTorch),StanfordNMT (Matlab),DyNet-lamtram(CMU),EUREKA(MangoNMT
      
      https://www.kdnuggets.com/2020/05/best-nlp-deep-learning-course-free.html
+     
+     https://medium.com/modern-nlp/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c
    
    classification,clustering,recommender systems,topic modelling,sentiment analysis,semantic analysis,summarization,machine translation,conversational interface,named entity recognition
    
@@ -1074,6 +1076,8 @@ Docker and Kubernetes
     Models visualization using Tensorboard,netron, TensorBoard.dev
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  https://analyticsindiamag.com/top-8-python-tools-for-app-development/
+    
+    snapyml Deploy AI Models For Free -http://snapyml.snapy.ai/
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
     
