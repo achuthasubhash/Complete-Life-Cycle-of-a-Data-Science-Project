@@ -1011,6 +1011,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     h.Scikit-Optimize
     
+    i.ray[tune] and aisaratuners https://towardsdatascience.com/choosing-a-hyperparameter-tuning-library-ray-tune-or-aisaratuners-b707b175c1d7
+    
     https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
