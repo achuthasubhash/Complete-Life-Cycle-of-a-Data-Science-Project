@@ -838,6 +838,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
           i)word2vec library
           
           ii)keras embedding 
+          
+      elmo (store semantic of word)
         
      4.Document embedding-Doc2vec
       
