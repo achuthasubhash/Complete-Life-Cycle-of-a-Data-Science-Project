@@ -1982,6 +1982,8 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
 
 117.https://data-flair.training/blogs/data-science-tutorials-home
 
+118.Integrating Tableau With Python https://analyticsindiamag.com/tabpy/
+
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
