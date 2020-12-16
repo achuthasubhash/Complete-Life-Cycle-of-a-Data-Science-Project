@@ -1502,11 +1502,23 @@ leverage of model architecture
    
    104.Deep Learning Toolkit for Medical Image Analysis -https://github.com/DLTK/DLTK
    
-   106.Interpret The ML Model  lime (explain black box models) - https://lime-ml.readthedocs.io/en/latest/
+   106.Interpret The ML Model  lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
    interpret https://github.com/interpretml/interpret
+   
+   eli5  https://eli5.readthedocs.io/en/latest/
+   
+   skater https://oracle.github.io/Skater/
+   
+   what if tool https://pair-code.github.io/what-if-tool/  https://pair-code.github.io/what-if-tool/demos/uci.html
+   
+   DeepLIFT  https://github.com/kundajelab/deeplift
+   
+   https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/
+   
+   https://christophm.github.io/interpretable-ml-book/
    
    107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
    
