@@ -1085,6 +1085,8 @@ Docker and Kubernetes
     
     snapyml Deploy AI Models For Free -http://snapyml.snapy.ai/
     
+    wave-apps https://github.com/h2oai/wave-apps
+    
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
     
     web application(dash)- https://dash.plotly.com/
