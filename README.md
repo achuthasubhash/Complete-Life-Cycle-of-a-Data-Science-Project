@@ -333,6 +333,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://dataform.co/
     
     https://github.com/rfordatascience/tidytuesday https://www.youtube.com/watch?v=vCBeGLpvoYM
+    
+    https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44181|0.375
      
 ***2.Feature engineering***
 
@@ -1085,7 +1087,7 @@ Docker and Kubernetes
     
     snapyml Deploy AI Models For Free -http://snapyml.snapy.ai/
     
-    wave-apps https://github.com/h2oai/wave-apps
+    h20wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
     
@@ -1656,7 +1658,7 @@ applications of data science in many industry
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio
+1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio,AWS Sagemaker Studio,Google AI Platform,Databricks,Domino Data Lab
 
 https://neptune.ai/blog/best-machine-learning-as-a-service-platforms-mlaas?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-machine-learning-as-a-service-platforms-mlaas
 
@@ -1916,7 +1918,9 @@ https://medium.com/the-innovation/130-machine-learning-projects-solved-and-expla
 
 https://thecleverprogrammer.com/machine-learning/
 
-https://data-flair.training/blogs/machine-learning-datasets/#      https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
+https://data-flair.training/blogs/machine-learning-datasets/#      https://data-flair.training/blogs/cartoonify-image-opencv-python/
+
+https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
 
 https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a721   https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37
 
