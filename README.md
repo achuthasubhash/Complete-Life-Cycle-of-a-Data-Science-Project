@@ -1718,6 +1718,8 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
    
    featurewiz(Select the best features from your data set fast with a single line of code) - https://github.com/AutoViML/featurewiz
    
+   explainerdashboard https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9
+   
    Panel - web apps
 
 16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
