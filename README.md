@@ -1422,6 +1422,8 @@ leverage of model architecture
    
    https://www.tensorflow.org/graphics
    
+   Multilingual Representations for Indian Languages https://tfhub.dev/google/MuRIL/1
+   
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
    
    https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
@@ -1728,7 +1730,7 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager
    
    https://github.com/mstaniak/autoEDA-resources
    
