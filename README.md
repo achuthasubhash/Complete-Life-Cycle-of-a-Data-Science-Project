@@ -748,7 +748,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,UNet++ 
+       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,UNet++,EfficientDet
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
@@ -1659,6 +1659,8 @@ applications of data science in many industry
 ***Some useful content :***
 
 1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio,AWS Sagemaker Studio,Google AI Platform,Databricks,Domino Data Lab
+
+https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
 
 https://neptune.ai/blog/best-machine-learning-as-a-service-platforms-mlaas?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-machine-learning-as-a-service-platforms-mlaas
 
