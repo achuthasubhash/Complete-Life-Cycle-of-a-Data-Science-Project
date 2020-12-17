@@ -335,6 +335,12 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://github.com/rfordatascience/tidytuesday https://www.youtube.com/watch?v=vCBeGLpvoYM
     
     https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44181|0.375
+    
+    66.https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research  
+    
+    https://archive.org/details/datasets
+    
+    https://commoncrawl.org/
      
 ***2.Feature engineering***
 
@@ -388,7 +394,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
      1.Under Sampling - mostly not prefer because lost of data
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,ADASYN,Smote-NC
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,ADASYN,Smote-NC    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
      
      https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
      
@@ -569,7 +575,7 @@ performance if not distributed then use below methods to bring it guassian distr
   
     8.lasso regression to penalise unimportant features
     
-    9.threshold based method 
+    9.VarianceThreshold 
     
     10.model based selection
     
@@ -590,6 +596,8 @@ performance if not distributed then use below methods to bring it guassian distr
     18.variance inflation factor(vif)
     
     19.Recursive Feature Elimination
+    
+    20.exchaustive feature selection
     
     https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
     
@@ -1045,6 +1053,8 @@ Generally used metrics
      
      https://scikit-learn.org/stable/modules/model_evaluation.html   https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model
      
+     https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
+     
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
     2.Classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,log loss,Average precision,Mean average precision
@@ -1444,6 +1454,8 @@ leverage of model architecture
    
    https://www.datasciencecentral.com/profiles/blogs/free-online-book-machine-learning-from-scratch
    
+   https://hadrienj.github.io/posts/Essential-Math-for-Data-Science-Introduction_to_matrices_and_matrix_product/?utm_source=linkedin&utm_medium=social&utm_campaign=linkedin_matrices
+   
    https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a          https://github.com/jonkrohn/ML-foundations
    
    82.Googleai-https://ai.google/education
@@ -1461,6 +1473,8 @@ leverage of model architecture
    86.Yann LeCun’s Deep Learning Course at CDS-https://cds.nyu.edu/deep-learning/ https://atcold.github.io/pytorch-Deep-Learning/  
    
    https://atcold.github.io/pytorch-Deep-Learning/
+   
+   https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
     
    87.Four Important Computer Vision Annotation Tools  https://heartbeat.fritz.ai/4-important-computer-vision-annotation-tools-you-need-to-know-in-2020-9f964931ed7
    
@@ -1544,6 +1558,10 @@ determined to be unfair.
    AI Fairness 360  evaluating fairness of AI/ML models and training data and mitigating bias in current models https://aif360.mybluemix.net/
 
    112.MONAI Framework For Medical Imaging Research https://analyticsindiamag.com/monai-datatsets-managers/
+   
+   113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
+   
+   114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/
    
    
 ***Follow leaders in the field to update yourself in the field***
@@ -1930,7 +1948,9 @@ https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78
 
 https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1  https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
 
-https://amankharwal.medium.com/30-python-projects-solved-and-explained-563fd7473003  https://www.aiquotient.app/projects
+https://amankharwal.medium.com/30-python-projects-solved-and-explained-563fd7473003  
+
+https://www.aiquotient.app/projects  https://www.aiquotient.app/
 
 https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
 
@@ -1991,6 +2011,8 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
 117.https://data-flair.training/blogs/data-science-tutorials-home
 
 118.Integrating Tableau With Python https://analyticsindiamag.com/tabpy/
+
+Qlib https://analyticsindiamag.com/qlib/
 
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
