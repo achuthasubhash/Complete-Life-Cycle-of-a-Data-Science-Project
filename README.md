@@ -364,7 +364,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      3.apply classifier algorithm to predict missing value
      
-     4.knn imputer
+     4.Iterative imputer,knn imputer, multivariate imputation
      
      5.apply unsupervised 
      
@@ -728,6 +728,8 @@ performance if not distributed then use below methods to bring it guassian distr
        TFAgents  https://github.com/tensorflow/agents (https://www.tensorflow.org/agents)   https://deepmind.com/blog/article/trfl     
        
        Stable Baselines  https://github.com/openai/baselines
+       
+       https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc
        
        https://neptune.ai/blog/the-best-tools-for-reinforcement-learning-in-python?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-the-best-tools-for-reinforcement-learning-in-python
    
@@ -1434,6 +1436,8 @@ leverage of model architecture
       
    http://introtodeeplearning.com/
    
+   http://d2l.ai/index.html
+   
    76.Code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
    
    77.Natural Language Processing 365- https://ryanong.co.uk/natural-language-processing-365/
@@ -1535,6 +1539,10 @@ leverage of model architecture
    what if tool https://pair-code.github.io/what-if-tool/  https://pair-code.github.io/what-if-tool/demos/uci.html
    
    DeepLIFT  https://github.com/kundajelab/deeplift
+   
+   tabnet  https://cloud.google.com/blog/products/ai-machine-learning/ml-model-tabnet-is-easy-to-use-on-cloud-ai-platform
+   
+   Responsible AI-https://www.tensorflow.org/resources/responsible-ai
    
    https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/
    
