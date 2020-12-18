@@ -1464,6 +1464,8 @@ leverage of model architecture
    
    https://www.youtube.com/playlist?list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a          https://github.com/jonkrohn/ML-foundations
    
+   https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/
+   
    82.Googleai-https://ai.google/education
    
    83.ELI5 is a Python package which helps to debug machine learning classifiers and explain their predictions
