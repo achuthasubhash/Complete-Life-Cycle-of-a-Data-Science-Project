@@ -1575,6 +1575,8 @@ determined to be unfair.
    
    114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/
    
+   115.https://github.com/khuyentran1401/Data-science
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
