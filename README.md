@@ -1376,6 +1376,8 @@ leverage of model architecture
    
    orange https://orange.biolab.si/
    
+   OpenBlender https://openblender.io/#/welcome
+   
    64.tensorflow development-https://blog.tensorflow.org/
    
    TensorFlow Hub (trained ready-to-deploy machine learning models in one place) - https://tfhub.dev/
