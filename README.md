@@ -442,6 +442,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      15.Leave-one-out(Loo) encoding
      
+     https://towardsdatascience.com/beyond-one-hot-17-ways-of-transforming-categorical-features-into-numeric-features-57f54f199ea4
+     
    f.Scaling of data
    
        1.Normalisation  
@@ -600,6 +602,8 @@ performance if not distributed then use below methods to bring it guassian distr
     19.Recursive Feature Elimination
     
     20.exchaustive feature selection
+    
+    https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
     
     https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
     
