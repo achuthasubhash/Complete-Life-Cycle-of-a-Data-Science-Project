@@ -1440,6 +1440,8 @@ leverage of model architecture
    
    http://d2l.ai/index.html
    
+   https://www.youtube.com/playlist?app=desktop&list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB   https://mit6874.github.io/
+   
    76.Code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
    
    77.Natural Language Processing 365- https://ryanong.co.uk/natural-language-processing-365/
@@ -1584,6 +1586,12 @@ determined to be unfair.
    117.mlflow https://mlflow.org/docs/latest/index.html
    
    pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+   
+   118.algorithm to use by problem https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-deep-learning-algorithm-to-use-by-problem
+   
+   119.Connect the world to your data and fuel your ML.
+   
+   OpenBlender Enrich ML Models with adding new Variables from Any Source to Boost Performance   https://www.youtube.com/channel/UCCFN8DDrA6k7eHYLvZGdNVA https://openblender.io/
    
    
 ***Follow leaders in the field to update yourself in the field***
@@ -2043,6 +2051,8 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
 118.Integrating Tableau With Python https://analyticsindiamag.com/tabpy/
 
 Qlib https://analyticsindiamag.com/qlib/
+
+119.Pystiche - Create Your Artistic Image Using Pystiche  https://analyticsindiamag.com/pystiche/    https://pystiche.readthedocs.io/en/latest/index.html
 
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
