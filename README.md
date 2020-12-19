@@ -901,7 +901,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Google-GNMT (Tensorflow),Facebook-fairseq (Torch),Amazon-Sockeye (MXNet),NEMATUS (Theano),THUMT (Theano),OpenNMT (PyTorch),StanfordNMT (Matlab),DyNet-lamtram(CMU),EUREKA(MangoNMT
      
-     https://www.kdnuggets.com/2020/05/best-nlp-deep-learning-course-free.html
+     https://www.kdnuggets.com/2020/05/best-nlp-deep-learning-course-free.html   https://analyticsindiamag.com/flair-hands-on-guide-to-robust-nlp-framework-built-upon-pytorch/
      
      https://medium.com/modern-nlp/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c
    
