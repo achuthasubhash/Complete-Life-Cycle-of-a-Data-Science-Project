@@ -517,6 +517,8 @@ performance if not distributed then use below methods to bring it guassian distr
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
+    https://towardsdatascience.com/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658
+    
     𝗞𝗲𝗿𝗮𝘀 𝗠𝗼𝗱𝗲𝗹 𝘃𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿(ann-visualizer)- 𝗽𝗶𝗽𝟯 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗿𝗮𝗽𝗵𝘃𝗶𝘇
   
     univariate and bivariate and multivariate analysis
@@ -1577,6 +1579,12 @@ determined to be unfair.
    
    115.https://github.com/khuyentran1401/Data-science
    
+   116.Pytest for Data Scientists https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c
+   
+   117.mlflow https://mlflow.org/docs/latest/index.html
+   
+   pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
@@ -1759,6 +1767,8 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
    explainerdashboard https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9
    
    Panel - web apps
+   
+   Datapane ( Build Interactive Reports) https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8
 
 16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
 
@@ -1791,6 +1801,10 @@ CUML- increase the speed of training your machine learning model https://towards
 https://docs.rapids.ai/api/cuml/stable/
 
 26.memory-profiler (tell memory consumption line by line)  https://pypi.org/project/memory-profiler/
+
+Cython A Speed-Up Tool for your Python Function  https://towardsdatascience.com/cython-a-speed-up-tool-for-your-python-function-9bab64364bfd
+
+Python Tricks for Keeping Track of Your Data  https://towardsdatascience.com/python-tricks-for-keeping-track-of-your-data-aef3dc817a4e
 
 27.numexpr (incerease speed of execution of numpy)  https://github.com/pydata/numexpr
 
@@ -1900,6 +1914,8 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 73.TensorDash is an application that lets you remotely monitor your deep learning model's metrics and notifies you when your model training is completed or crashed.
 
    https://github.com/CleanPegasus/TensorDash
+   
+   HyperDash https://towardsdatascience.com/how-to-monitor-and-log-your-machine-learning-experiment-remotely-with-hyperdash-aa7106b15509
    
 74.YellowBrick -select features, tune hyperparameters, select the best models, and understand the performance metrics.
 
