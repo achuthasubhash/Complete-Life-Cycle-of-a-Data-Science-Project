@@ -343,6 +343,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://archive.org/details/datasets
     
     https://commoncrawl.org/
+    
+    67.yfinance for finance data using 
      
 ***2.Feature engineering***
 
@@ -1158,6 +1160,18 @@ leverage of model architecture
 
 ***research paper***-https://arxiv.org/ ,https://arxiv.org/list/cs.LG/recent,  https://www.kaggle.com/Cornell-University/arxiv
 
+   arXiv.org https://arxiv.org/list/cs.AI/recent  https://arxiv.org/list/stat.ML/recent  https://arxiv.org/list/cs.CL/recent  https://arxiv.org/list/cs.CV/recent
+   
+   Semantic Scholar searches: https://www.semanticscholar.org/search?q=%22neural%20networks%22&sort=relevance&ae=false 
+   
+   https://www.semanticscholar.org/search?q=%22machine%20learning%22&sort=relevance&ae=false 
+   
+   https://www.semanticscholar.org/search?q=%22natural%20language%22&sort=relevance&ae=false
+   
+   https://www.semanticscholar.org/search?q=%22computer%20vision%22&sort=relevance&ae=false
+   
+   https://www.semanticscholar.org/search?q=%22deep%20learning%22&sort=relevance&ae=false
+
    code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
    
    Summarise Research Papers  - https://www.semanticscholar.org/
@@ -1614,6 +1628,8 @@ determined to be unfair.
    OpenBlender Enrich ML Models with adding new Variables from Any Source to Boost Performance   https://www.youtube.com/channel/UCCFN8DDrA6k7eHYLvZGdNVA https://openblender.io/
    
    120. Google's MuRIL (Multilingual Representations for Indian Languages)   https://tfhub.dev/google/MuRIL/1
+   
+   121.mxnet https://mxnet.apache.org/versions/master/api/python/docs/tutorials/getting-started/crash-course/index.html
    
    
 ***Follow leaders in the field to update yourself in the field***
