@@ -1996,7 +1996,7 @@ https://medium.com/the-innovation/130-machine-learning-projects-solved-and-expla
 
 https://thecleverprogrammer.com/machine-learning/
 
-https://data-flair.training/blogs/machine-learning-datasets/#      https://data-flair.training/blogs/cartoonify-image-opencv-python/
+https://data-flair.training/blogs/machine-learning-datasets/#   https://data-flair.training/blogs/machine-learning-project-ideas/   https://data-flair.training/blogs/cartoonify-image-opencv-python/
 
 https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
 
