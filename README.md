@@ -1611,6 +1611,8 @@ determined to be unfair.
    
    OpenBlender Enrich ML Models with adding new Variables from Any Source to Boost Performance   https://www.youtube.com/channel/UCCFN8DDrA6k7eHYLvZGdNVA https://openblender.io/
    
+   120. Google's MuRIL (Multilingual Representations for Indian Languages)   https://tfhub.dev/google/MuRIL/1
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
