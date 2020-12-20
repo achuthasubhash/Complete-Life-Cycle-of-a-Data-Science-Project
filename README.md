@@ -204,6 +204,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     36)bigquery public dataset ,Google Public Data Explorer
     
+    https://cloud.google.com/public-datasets
+    
     37)inbuilt library data eg:iris dataset,mnist dataset,etc...
     
     tf.data.Datasets for TensorFlow Datasets 
@@ -1729,6 +1731,8 @@ https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
 https://neptune.ai/blog/best-machine-learning-as-a-service-platforms-mlaas?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-machine-learning-as-a-service-platforms-mlaas
 
 https://codegnan.com/blog/35-best-data-sciecne-tools-for-beginners-to-master/
+
+mlkit-https://firebase.google.com/products/ml
 
 2. Tpot
 
