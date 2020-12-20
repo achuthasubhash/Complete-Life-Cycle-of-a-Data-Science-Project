@@ -797,6 +797,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Object Detection with 10 lines of code-https://www.datasciencecentral.com/profiles/blogs/object-detection-with-10-lines-of-code
      
+     OneNet-https://analyticsindiamag.com/onenet/
+     
      Remo Improves Image Management  https://www.freecodecamp.org/news/manage-computer-vision-datasets-in-python-with-remo/
    
    3.Recurrent neural network (use when series of data)
