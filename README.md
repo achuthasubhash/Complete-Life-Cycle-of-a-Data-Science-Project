@@ -1089,6 +1089,12 @@ Docker and Kubernetes
 
 ***7.deployment***
 
+    Platform as a Service (PaaS),Infrastructure as a Service (IaaS),SaaS (Software as a Service)
+    
+    3 main approaches of Saving and Reloading an ML Model-Pickle Approach,Joblib Approach,JSON approach  
+    
+    https://www.datacamp.com/community/tutorials/pickle-python-tutorial
+
     1.Azure
     
     2.Heroku
