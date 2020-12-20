@@ -1007,6 +1007,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
   Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation,tree purning
   
+  Learning rate scheduling,Weight Decay,Gradient clipping
+  
   Different Normalization Layers - https://towardsdatascience.com/different-normalization-layers-in-deep-learning-1a7214ff71d6
   
   Hyperparameters Number of hidden layers,Dropout,activation function,Weights initialization , learning rate,epoch, iterations and batch size
