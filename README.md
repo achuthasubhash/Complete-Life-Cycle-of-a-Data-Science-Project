@@ -1786,13 +1786,13 @@ mlkit-https://firebase.google.com/products/ml
 
 5. autosklearn,autokeras,LightAutoML  (https://github.com/sberbank-ai-lab/LightAutoML)
 
-6. autoviml
+6. Auto_ViML - Automatically Build Multiple ML Models with a Single Line of Code (https://github.com/AutoViML/Auto_ViML)
 
    𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲  https://github.com/Muhammad4hmed/GML
    
    CodeLess  https://pypi.org/project/codeless/  https://github.com/porky5191/codeless_demo_project
 
-7. autoViz
+7. AutoViz - Automatically Visualize any dataset, any size with a single line of code (https://github.com/AutoViML/AutoViz) 
 
 8. hyperopt
 
@@ -1812,9 +1812,9 @@ mlkit-https://firebase.google.com/products/ml
 
 mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
-12.Auto_Timeseries by auto_ts 
+12.Auto_Timeseries by auto_ts : Automatically build ARIMA, SARIMAX, VAR, FB Prophet and ML Models on Time Series data (https://github.com/AutoViML/Auto_TS)
 
-13.AutoNLP_Sentiment_Analysis by autoviml
+13.AutoNLP_Sentiment_Analysis by autoviml - (https://github.com/AutoViML/Auto_ViML)
 
 14.automl lazypredict https://github.com/shankarpandala/lazypredict 
 
