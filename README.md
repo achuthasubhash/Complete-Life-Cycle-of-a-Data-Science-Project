@@ -907,6 +907,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
      
+     Topic Modeling in One Line with Top2Vec https://towardsdatascience.com/topic-modeling-in-one-line-with-top2vec-a413991aa0ef
+     
      MT5-https://venturebeat.com/2020/10/26/google-open-sources-mt5-a-multilingual-model-trained-on-over-101-languages/?utm_content=144321587&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
      
      VADER does not require any training data https://pypi.org/project/vaderSentiment/  https://analyticsindiamag.com/sentiment-analysis-made-easy-using-vader/
