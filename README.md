@@ -529,6 +529,8 @@ performance if not distributed then use below methods to bring it guassian distr
     
     https://towardsdatascience.com/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658
     
+    https://www.kaggle.com/abhishekvaid19968/data-visualization-using-matplotlib-seaborn-plotly
+    
     𝗞𝗲𝗿𝗮𝘀 𝗠𝗼𝗱𝗲𝗹 𝘃𝗶𝘀𝘂𝗮𝗹𝗶𝘇𝗮𝘁𝗶𝗼𝗻 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗼𝗿(ann-visualizer)- 𝗽𝗶𝗽𝟯 𝗶𝗻𝘀𝘁𝗮𝗹𝗹 𝗴𝗿𝗮𝗽𝗵𝘃𝗶𝘇
   
     univariate and bivariate and multivariate analysis
@@ -1134,6 +1136,8 @@ Docker and Kubernetes
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
     
     web application(dash)- https://dash.plotly.com/
+    
+    Create a Website with AIhttps://www.bookmark.com/ 
     
     Jupyter Notebook into an interactive dashboard (voila)-https://voila.readthedocs.io/en/stable/
     
@@ -2048,7 +2052,7 @@ https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3db
 
 https://amankharwal.medium.com/30-python-projects-solved-and-explained-563fd7473003  
 
-https://www.aiquotient.app/projects  https://www.aiquotient.app/
+https://www.aiquotient.app/projects  https://www.aiquotient.app/  https://www.mltut.com/best-machine-learning-projects-for-beginners/
 
 https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
 
