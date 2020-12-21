@@ -1233,6 +1233,8 @@ leverage of model architecture
     4.Machinelearningmastery-https://machinelearningmastery.com/blog/
     
     5.ML+  -https://www.machinelearningplus.com/
+    
+    6.analyticsinsight https://www.analyticsinsight.net/category/latest-news/
 
 ***BEST RESOURCES***
  
@@ -1298,7 +1300,11 @@ leverage of model architecture
    
    geemap-https://geemap.org/
    
-   22.Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection
+   22.Monk_Object_Detection-https://github.com/Tessellate-Imaging/Monk_Object_Detection  
+   
+   https://github.com/Tessellate-Imaging/monk_v1
+   
+   https://analyticsindiamag.com/build-computer-vision-applications-with-few-lines-of-code-using-monk-ai/
    
    23.NLP-progress - https://github.com/sebastianruder/NLP-progress
    
@@ -1620,6 +1626,8 @@ determined to be unfair.
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
    114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/
+   
+   https://mlops.githubapp.com/
    
    115.https://github.com/khuyentran1401/Data-science
    
