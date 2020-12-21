@@ -344,6 +344,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://commoncrawl.org/
     
+    https://www.youtube.com/watch?v=1aUt8zAG09E
+    
     67.yfinance for finance data using 
      
 ***2.Feature engineering***
