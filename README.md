@@ -893,6 +893,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
+        https://jalammar.github.io/explaining-transformers/
+        
      11.Speech
        
         speech to text   
@@ -1583,6 +1585,8 @@ leverage of model architecture
    tabnet  https://cloud.google.com/blog/products/ai-machine-learning/ml-model-tabnet-is-easy-to-use-on-cloud-ai-platform
    
    Responsible AI-https://www.tensorflow.org/resources/responsible-ai
+   
+   Google Facets https://pair-code.github.io/facets/
    
    AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/
    
