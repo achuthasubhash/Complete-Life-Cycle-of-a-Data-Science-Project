@@ -890,6 +890,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      9.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
      
         Shrinking Transformers (reduce size)  1.quantization,distillation,pruning,
+        
+        Reformer,Performers,vision transformer
       
      10.BERT,Quantized MobileBERT,ALBERT,Electra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
