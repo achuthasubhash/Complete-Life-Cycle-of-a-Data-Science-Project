@@ -973,15 +973,15 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       models 
       
-      1.Arima , auto arima ,seasonal arima
+      1.arma,Arima , auto arima ,seasonal arima
       
-      2.Autoregressive 
+      2.Autoregressive
       
       3.Moving average,Exponential Moving average,Exponential Smoothing
       
       4.Lstm(neural network)
       
-      5.Autoregressive
+      5.GARCH,
       
       6.Navie forecasts
       
@@ -1150,6 +1150,8 @@ Docker and Kubernetes
     Models visualization using Tensorboard,netron, TensorBoard.dev
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  https://analyticsindiamag.com/top-8-python-tools-for-app-development/
+    
+    PyQt and Tkinter , PySimpleGUI are GUI programming in Python  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
     DearPyGui https://github.com/hoffstadt/DearPyGui
     
