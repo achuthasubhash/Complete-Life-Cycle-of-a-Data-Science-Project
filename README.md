@@ -999,7 +999,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       time series visualization tool https://plotjuggler.io/
     
-      pytorch-forecasting  https://github.com/jdb78/pytorch-forecasting
+      pytorch-forecasting  https://github.com/jdb78/pytorch-forecasting  https://analyticsindiamag.com/guide-to-pytorch-time-series-forecasting/ 
+      
+      https://pytorch-forecasting.readthedocs.io/en/latest/  https://pytorch-forecasting.readthedocs.io/en/latest/tutorials/ar.html
       
       sktime-https://github.com/alan-turing-institute/sktime
       
