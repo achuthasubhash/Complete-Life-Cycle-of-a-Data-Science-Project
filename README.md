@@ -527,6 +527,8 @@ performance if not distributed then use below methods to bring it guassian distr
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
+    HiPlot (high dimensional data)-https://github.com/facebookresearch/hiplot
+    
     https://towardsdatascience.com/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658
     
     https://www.kaggle.com/abhishekvaid19968/data-visualization-using-matplotlib-seaborn-plotly
@@ -807,6 +809,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      OneNet-https://analyticsindiamag.com/onenet/
      
+     Norfair https://github.com/tryolabs/norfair
+     
      Remo Improves Image Management  https://www.freecodecamp.org/news/manage-computer-vision-datasets-in-python-with-remo/
    
    3.Recurrent neural network (use when series of data)
@@ -994,6 +998,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
       time series visualization tool https://plotjuggler.io/
+    
+      pytorch-forecasting  https://github.com/jdb78/pytorch-forecasting
+      
+      sktime-https://github.com/alan-turing-institute/sktime
       
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
@@ -1129,6 +1137,8 @@ Docker and Kubernetes
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
+    DearPyGui https://github.com/hoffstadt/DearPyGui
+    
     snapyml Deploy AI Models For Free -http://snapyml.snapy.ai/
     
     h20wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/
@@ -1243,10 +1253,14 @@ leverage of model architecture
     5.ML+  -https://www.machinelearningplus.com/
     
     6.analyticsinsight https://www.analyticsinsight.net/category/latest-news/
+    
+    7.KDnuggets https://www.kdnuggets.com/
 
 ***BEST RESOURCES***
  
    1.paperswithcode-https://paperswithcode.com/methods
+   
+   paperswithcode-client https://github.com/paperswithcode/paperswithcode-client
 
    2.madewithml-https://madewithml.com/topics/   https://madewithml.com/courses/applied-ml-in-production/
    
@@ -1258,6 +1272,8 @@ leverage of model architecture
    
    PyTorch Lightning-https://github.com/PyTorchLightning/pytorch-lightning
    
+   PyTorch JIT -https://lernapparat.de/jit-optimization-intro/
+   
    jax- https://github.com/google/jax
    
    incubator-mxnet - https://github.com/apache/incubator-mxnet
@@ -1265,6 +1281,8 @@ leverage of model architecture
    ignite-https://github.com/pytorch/ignite
    
    fastText - https://github.com/facebookresearch/fastText
+   
+   rapidminer-https://rapidminer.com/
 
    5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/  https://deep-learning-drizzle.github.io/index.html
 
