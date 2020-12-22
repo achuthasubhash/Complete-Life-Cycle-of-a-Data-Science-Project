@@ -1858,7 +1858,11 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
    
    Panel - web apps
    
+   Automating report generation with Jupyter Notebooks https://medium.com/applied-data-science/full-stack-data-scientist-5-automating-report-generation-with-jupyter-notebooks-919e32e88d18
+   
    Datapane ( Build Interactive Reports) https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8
+   
+   pomegranate probabilistic modelling in Python  https://github.com/jmschrei/pomegranate https://www.kdnuggets.com/2020/12/fast-intuitive-statistical-modeling-pomegranate.html
 
 16.CUPY (array process parallel in gpu)  https://pypi.org/project/cupy/
 
