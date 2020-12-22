@@ -410,7 +410,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
      1.Under Sampling - mostly not prefer because lost of data
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,ADASYN,Smote-NC    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
      
      https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
      
@@ -657,7 +657,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,plsr,pcr,autoencoders,kpca,lsa
+     1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,plsr,pcr,autoencoders,kpca,lsa,Factor Analysis,
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
    
@@ -690,6 +690,8 @@ performance if not distributed then use below methods to bring it guassian distr
          j.TensorFlow Recommenders https://www.tensorflow.org/recommenders
          
          k.suprise baseline model
+         
+         l.Tf-Rec https://github.com/Praful932/Tf-Rec
          
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
    
@@ -921,7 +923,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         Acoustic model,Speaker diarisation,apis
         
-     googletrans (google Translator)
+     SpeechRecognition
+     
+     googletrans (google Translator)  
         
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
      
