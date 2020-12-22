@@ -1250,7 +1250,7 @@ leverage of model architecture
 
    2.madewithml-https://madewithml.com/topics/   https://madewithml.com/courses/applied-ml-in-production/
    
-   Weights & Biases-https://wandb.ai/gallery        sotabench-https://sotabench.com/
+   Weights & Biases- https://wandb.ai/gallery        sotabench-https://sotabench.com/
 
    3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
 
