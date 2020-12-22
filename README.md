@@ -94,6 +94,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     5)Group Lens dataset https://grouplens.org/
     
+    Wikipedia ML Datasets https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+    
     6)world3bank  https://data.world/ , worldbank
    
     7)Google Cloud BigQuery public datasets
@@ -246,6 +248,10 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html
     
+    https://www.visualdata.io/discovery
+    
+    https://www.cogitotech.com/use-cases/biodiversity/
+    
     ImageNet data -http://image-net.org/
     
     ApolloScape Dataset-http://apolloscape.auto/
@@ -339,6 +345,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://github.com/rfordatascience/tidytuesday https://www.youtube.com/watch?v=vCBeGLpvoYM
     
     https://www.analyticsvidhya.com/blog/2020/12/top-15-datasets-of-2020-that-every-data-scientist-should-add-to-their-portfolio/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44181|0.375
+    
+    https://cseweb.ucsd.edu/~jmcauley/datasets.html
     
     66.https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research  
     
@@ -1650,6 +1658,8 @@ determined to be unfair.
    AI Fairness 360  evaluating fairness of AI/ML models and training data and mitigating bias in current models https://aif360.mybluemix.net/
 
    112.MONAI Framework For Medical Imaging Research https://analyticsindiamag.com/monai-datatsets-managers/
+   
+   torchio https://github.com/fepegar/torchio https://analyticsindiamag.com/torchio-3d-medical-imaging/
    
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
