@@ -1271,6 +1271,8 @@ leverage of model architecture
     6.analyticsinsight https://www.analyticsinsight.net/category/latest-news/
     
     7.KDnuggets https://www.kdnuggets.com/
+    
+    https://becominghuman.ai/top-25-ai-and-machine-learning-blogs-for-data-scientists-9f121bcfd9a2
 
 ***BEST RESOURCES***
  
