@@ -1442,6 +1442,8 @@ leverage of model architecture
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson  etc...
    
+   https://www.analyticsinsight.net/category/chatbots/
+   
    https://blog.ubisend.com/optimise-chatbots/chatbot-training-data
    
    62. No Code Machine Learning / Deep Learning 
