@@ -250,6 +250,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://www.visualdata.io/discovery
     
+    https://datasets.bifrost.ai/
+    
     https://www.cogitotech.com/use-cases/biodiversity/
     
     ImageNet data -http://image-net.org/
@@ -929,6 +931,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
      
+     https://pakodas.substack.com/p/neural-search-on-indian-languages
+     
      Topic Modeling in One Line with Top2Vec https://towardsdatascience.com/topic-modeling-in-one-line-with-top2vec-a413991aa0ef
      
      MT5-https://venturebeat.com/2020/10/26/google-open-sources-mt5-a-multilingual-model-trained-on-over-101-languages/?utm_content=144321587&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
@@ -1549,6 +1553,8 @@ leverage of model architecture
    https://towardsai.net/p/data-science/how-much-math-do-i-need-in-data-science-d05d83f8cb19
    
    https://www.mltut.com/how-to-learn-math-for-machine-learning-step-by-step-guide/
+   
+   https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks#
    
    https://www.datasciencecentral.com/profiles/blogs/free-online-book-machine-learning-from-scratch
    
