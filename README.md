@@ -1640,6 +1640,8 @@ leverage of model architecture
    
    Google Facets https://pair-code.github.io/facets/
    
+   Opening the AI Black Box -https://zetane.com/gallery 
+   
    AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/
    
    https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/
