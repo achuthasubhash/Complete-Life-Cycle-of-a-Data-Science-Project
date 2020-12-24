@@ -1476,6 +1476,8 @@ leverage of model architecture
    
    OpenBlender https://openblender.io/#/welcome
    
+   perceptilabs  https://towardsdatascience.com/easy-model-building-with-perceptilabs-interactive-tensorflowvisualization-gui-834d5bb3c973
+   
    64.tensorflow development-https://blog.tensorflow.org/
    
    TensorFlow Hub (trained ready-to-deploy machine learning models in one place) - https://tfhub.dev/
