@@ -404,7 +404,13 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      14.MICE Imputation
      
+     Extrapolation and Interpolation
+     
+     Imputation Using Deep Learning (Datawig)
+     
      15.autoimpute-https://github.com/kearnz/autoimpute
+     
+     https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
      
      https://stefvanbuuren.name/fimd/want-the-hardcopy.html
      
@@ -1702,6 +1708,8 @@ determined to be unfair.
    120. Google's MuRIL (Multilingual Representations for Indian Languages)   https://tfhub.dev/google/MuRIL/1
    
    121.mxnet https://mxnet.apache.org/versions/master/api/python/docs/tutorials/getting-started/crash-course/index.html
+   
+   122.tools-https://towardsdatascience.com/data-science-tools-f16ecd91c95d
    
    
 ***Follow leaders in the field to update yourself in the field***
