@@ -631,6 +631,8 @@ performance if not distributed then use below methods to bring it guassian distr
     
     20.exchaustive feature selection
     
+    21.Statistical Methods , Hypothesis Testing ,Recursive Feature Elimination
+    
     https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
     
     https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
@@ -653,7 +655,7 @@ performance if not distributed then use below methods to bring it guassian distr
        
        least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,
        
-       elsatic net,light gbm,ordinary least squares,cart
+       elsatic net,light gbm,ordinary least squares,cart,Stepwise RegressionMultivariate Adaptive Regression Splines 
        
        use cases:
    
@@ -1668,7 +1670,9 @@ leverage of model architecture
    
    Fairness 
    
-   LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,
+   How to easily check if your Machine Learning model is fair (dalex) https://www.kdnuggets.com/2020/12/machine-learning-model-fair.html
+   
+   LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym
    
    107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
    
@@ -1893,6 +1897,8 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
    ExploriPy import EDA-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
    
    Lens- Statistical Analysis of Data https://analyticsindiamag.com/hands-on-tutorial-on-lens-python-tool-for-swift-statistical-analysis/ 
+   
+   MitoSheets https://analyticsindiamag.com/guide-to-mitosheets-harnessing-power-of-spreadsheets-in-python/
    
    Datacleaner-https://analyticsindiamag.com/tutorial-on-datacleaner-python-tool-to-speed-up-data-cleaning-process/
    
