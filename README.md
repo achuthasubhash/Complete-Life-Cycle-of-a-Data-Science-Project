@@ -117,6 +117,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html
    
     10)image data from Bing_Search
+    
+    image data from simple_image_download  https://github.com/RiddlerQ/simple_image_download
    
     11)https://www.columnfivemedia.com/100-best-free-data-sources-infographic
    
