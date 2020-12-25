@@ -1636,7 +1636,9 @@ leverage of model architecture
    
    104.Deep Learning Toolkit for Medical Image Analysis -https://github.com/DLTK/DLTK
    
-   106.Interpret The ML Model  lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/
+   106.Interpret The ML Model  
+   
+   lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
@@ -1663,6 +1665,10 @@ leverage of model architecture
    https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/
    
    https://christophm.github.io/interpretable-ml-book/
+   
+   Fairness 
+   
+   LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,
    
    107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
    
