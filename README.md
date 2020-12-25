@@ -798,7 +798,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,UNet++,EfficientDet
+       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,UNet++,EfficientDet,Vision Transformer
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
@@ -819,6 +819,8 @@ performance if not distributed then use below methods to bring it guassian distr
      DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet
      
      3D POSE ESTIMATION
+     
+     Vision Transformer - Pytorch  https://github.com/lucidrains/vit-pytorch
      
      DEEP LEARNING METHODS FOR 3D:3D human pose estimation= 2D pose estimation + matching,Integral Human Pose Regression,Towards 3D Human Pose Estimation in the
 Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human Pose Estimation,
