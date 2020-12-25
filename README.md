@@ -248,7 +248,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html
     
-    https://www.visualdata.io/discovery
+    https://www.visualdata.io/discovery  https://blogs.bing.com/maps/2019-03/microsoft-releases-12-million-canadian-building-footprints-as-open-data
+    
+    https://blogs.bing.com/maps/2019-09/microsoft-releases-18M-building-footprints-in-uganda-and-tanzania-to-enable-ai-assisted-mapping
     
     https://datasets.bifrost.ai/
     
