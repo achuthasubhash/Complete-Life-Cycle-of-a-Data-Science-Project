@@ -808,7 +808,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
      5.Deepdream,Neural style transfer, Pose estimation 
      
-     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations
+     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet
      
      imageai.Detection for Object detection
      
