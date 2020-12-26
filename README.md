@@ -800,7 +800,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,U-net,UNet++,EfficientDet,Vision Transformer
+       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,EfficientDet,Vision Transformer
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
