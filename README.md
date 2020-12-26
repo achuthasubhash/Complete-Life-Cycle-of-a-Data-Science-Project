@@ -792,7 +792,7 @@ performance if not distributed then use below methods to bring it guassian distr
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg,Efficient,Nasnet,STN,nasneta,senet,amoebanetc
+       create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base)
      
      2.Localization of object in image
      
