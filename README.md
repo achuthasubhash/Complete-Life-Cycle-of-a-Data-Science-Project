@@ -1177,6 +1177,8 @@ Docker and Kubernetes
     
     h20wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/
     
+    DS-with-PySimpleGUI  https://github.com/tirthajyoti/DS-with-PySimpleGUI
+    
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
     
     web application(dash)- https://dash.plotly.com/
@@ -1322,7 +1324,7 @@ leverage of model architecture
 
    5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/  https://deep-learning-drizzle.github.io/index.html
 
-   6.Fastaibook-https://github.com/fastai/fastbook , https://course.fast.ai/
+   6.Fastaibook-https://github.com/fastai/fastbook , https://course.fast.ai/   https://www.fast.ai/2019/07/08/fastai-nlp/
    
    neptune.ai-https://docs.neptune.ai/index.html
     
@@ -1669,6 +1671,8 @@ leverage of model architecture
    Opening the AI Black Box -https://zetane.com/gallery 
    
    AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/
+   
+   torch-dreamshttps://github.com/Mayukhdeb/torch-dreams
    
    https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/
    
@@ -2124,7 +2128,9 @@ https://medium.com/the-innovation/130-machine-learning-projects-solved-and-expla
 
 https://thecleverprogrammer.com/machine-learning/
 
-https://data-flair.training/blogs/machine-learning-datasets/#   https://data-flair.training/blogs/machine-learning-project-ideas/   https://data-flair.training/blogs/cartoonify-image-opencv-python/
+https://data-flair.training/blogs/machine-learning-datasets/#   https://data-flair.training/blogs/machine-learning-project-ideas/   
+
+https://data-flair.training/blogs/cartoonify-image-opencv-python/  https://data-flair.training/blogs/python-project-calorie-calculator-django/
 
 https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
 
