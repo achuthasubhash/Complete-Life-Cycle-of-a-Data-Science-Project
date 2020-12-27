@@ -58,6 +58,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      Trustpilot
      
+     lxml  https://lxml.de/index.html#introduction
+     
      ScrapingBee  https://analyticsindiamag.com/scrapingbee-api/
      
      MechanicalSoup https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/
