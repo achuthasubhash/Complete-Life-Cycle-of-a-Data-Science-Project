@@ -66,6 +66,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      Scrape HTML tables https://www.youtube.com/watch?v=6U5xJ3mXRKA&feature=youtu.be 
      
+     patang (extract product details) https://github.com/tejazz/patang
+     
      pandas(read_html)
      
 b.Web Crawling
