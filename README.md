@@ -1729,6 +1729,8 @@ determined to be unfair.
    
    122.tools-https://towardsdatascience.com/data-science-tools-f16ecd91c95d
    
+   123.Elements of AI free online course  https://www.elementsofai.com/
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
