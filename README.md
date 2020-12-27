@@ -923,6 +923,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      9.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
      
+        FastFormers  https://medium.com/ai-in-plain-english/fastformers-233x-faster-transformers-inference-on-cpu-4c0b7a720e1
+     
         Shrinking Transformers (reduce size)  1.quantization,distillation,pruning,
         
         Reformer,Performers,vision transformer
