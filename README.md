@@ -1019,6 +1019,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       NeuralProphet Model- https://ourownstory.github.io/neural_prophet/model-overview/
       
+      Informer (for Long Sequence Time-Series Forecasting) https://analyticsindiamag.com/informer/ 
+      
       9.Holts winter,Holts linear trend
       
       10.AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/
