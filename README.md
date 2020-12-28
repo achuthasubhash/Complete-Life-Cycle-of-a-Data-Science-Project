@@ -826,6 +826,8 @@ performance if not distributed then use below methods to bring it guassian distr
      
      3D POSE ESTIMATION
      
+     deit https://github.com/facebookresearch/deit
+     
      Vision Transformer - Pytorch  https://github.com/lucidrains/vit-pytorch
      
      DEEP LEARNING METHODS FOR 3D:3D human pose estimation= 2D pose estimation + matching,Integral Human Pose Regression,Towards 3D Human Pose Estimation in the
@@ -1519,6 +1521,8 @@ leverage of model architecture
    65.Time Complexity Of Machine Learning Models -https://www.thekerneltrip.com/machine/learning/computational-complexity-learning-algorithms/
   
    66.ML from scratch-https://dafriedman97.github.io/mlbook/content/introduction.html   
+   
+   https://www.datasciencecentral.com/profiles/blogs/a-complete-tutorial-to-learn-data-science-with-python-from
    
    67.turn-on visual training for most popular ML algorithms https://github.com/lucko515/ml_tutor  https://pypi.org/project/ml-tutor/
    
