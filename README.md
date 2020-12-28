@@ -1727,6 +1727,8 @@ determined to be unfair.
    
    MolBert: Molecular Representation learning with AI 
    
+   Biopython is a set of freely available tools  https://github.com/biopython/biopython
+   
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
    114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/
