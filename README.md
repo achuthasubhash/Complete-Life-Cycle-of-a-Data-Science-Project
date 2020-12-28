@@ -828,6 +828,8 @@ performance if not distributed then use below methods to bring it guassian distr
      
      deit https://github.com/facebookresearch/deit
      
+     EfficientDet https://github.com/ravi02512/efficientdet-keras
+     
      Vision Transformer - Pytorch  https://github.com/lucidrains/vit-pytorch
      
      DEEP LEARNING METHODS FOR 3D:3D human pose estimation= 2D pose estimation + matching,Integral Human Pose Regression,Towards 3D Human Pose Estimation in the
@@ -1722,6 +1724,8 @@ determined to be unfair.
    112.MONAI Framework For Medical Imaging Research https://analyticsindiamag.com/monai-datatsets-managers/
    
    torchio https://github.com/fepegar/torchio https://analyticsindiamag.com/torchio-3d-medical-imaging/
+   
+   MolBert: Molecular Representation learning with AI 
    
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
