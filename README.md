@@ -931,7 +931,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         Reformer,Performers,vision transformer
       
-     10.BERT,Quantized MobileBERT,ALBERT,Electra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
+     10.BERT,ConvBert,Quantized MobileBERT,ALBERT,Electra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
@@ -952,6 +952,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
      
      https://pakodas.substack.com/p/neural-search-on-indian-languages
+     
+     ConvBert https://github.com/yitu-opensource/ConvBert
+     
+     Funnel-Transformer https://github.com/laiguokun/Funnel-Transformer
      
      Topic Modeling in One Line with Top2Vec https://towardsdatascience.com/topic-modeling-in-one-line-with-top2vec-a413991aa0ef
      
