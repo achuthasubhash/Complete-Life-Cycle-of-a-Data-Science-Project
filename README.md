@@ -1924,6 +1924,8 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
    
    Lens- Statistical Analysis of Data https://analyticsindiamag.com/hands-on-tutorial-on-lens-python-tool-for-swift-statistical-analysis/ 
    
+   Dashboard in Less Than 10 Lines of Code  https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b
+   
    MitoSheets https://analyticsindiamag.com/guide-to-mitosheets-harnessing-power-of-spreadsheets-in-python/
    
    Datacleaner-https://analyticsindiamag.com/tutorial-on-datacleaner-python-tool-to-speed-up-data-cleaning-process/
