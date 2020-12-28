@@ -804,7 +804,7 @@ performance if not distributed then use below methods to bring it guassian distr
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,EfficientDet,Vision Transformer
+       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,EfficientDet,Vision Transformer
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
@@ -831,6 +831,8 @@ performance if not distributed then use below methods to bring it guassian distr
      EfficientDet https://github.com/ravi02512/efficientdet-keras
      
      Vision Transformer - Pytorch  https://github.com/lucidrains/vit-pytorch
+     
+     DeepLab-v3-plus Semantic Segmentation in TensorFlow https://github.com/rishizek/tensorflow-deeplab-v3-plus
      
      DEEP LEARNING METHODS FOR 3D:3D human pose estimation= 2D pose estimation + matching,Integral Human Pose Regression,Towards 3D Human Pose Estimation in the
 Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human Pose Estimation,
