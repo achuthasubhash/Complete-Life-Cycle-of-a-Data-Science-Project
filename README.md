@@ -1696,6 +1696,8 @@ leverage of model architecture
    
    DeepLIFT  https://github.com/kundajelab/deeplift
    
+   Arena https://medium.com/responsibleml/python-has-now-the-new-way-of-exploring-xai-explanations-4248846426cf
+   
    tabnet  https://cloud.google.com/blog/products/ai-machine-learning/ml-model-tabnet-is-easy-to-use-on-cloud-ai-platform
    
    Responsible AI-https://www.tensorflow.org/resources/responsible-ai
