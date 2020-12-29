@@ -1692,7 +1692,7 @@ leverage of model architecture
    
    skater https://oracle.github.io/Skater/
    
-   what if tool https://pair-code.github.io/what-if-tool/  https://pair-code.github.io/what-if-tool/demos/uci.html
+   what if tool https://pair-code.github.io/what-if-tool/  https://pair-code.github.io/what-if-tool/demos/uci.html  
    
    DeepLIFT  https://github.com/kundajelab/deeplift
    
@@ -1700,11 +1700,13 @@ leverage of model architecture
    
    Responsible AI-https://www.tensorflow.org/resources/responsible-ai
    
+   fairlearn https://github.com/fairlearn/fairlearn
+   
    Google Facets https://pair-code.github.io/facets/
    
    Opening the AI Black Box -https://zetane.com/gallery 
    
-   AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/
+   AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/  
    
    torch-dreamshttps://github.com/Mayukhdeb/torch-dreams
    
