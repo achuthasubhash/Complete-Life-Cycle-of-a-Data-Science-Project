@@ -897,7 +897,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp,VnCoreNLP  libraries
+     Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp,VnCoreNLP,fasttext  libraries
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
@@ -1622,6 +1622,8 @@ leverage of model architecture
    
    84.Best Online Courses for Machine Learning and Data Science-https://www.mltut.com/best-online-courses-for-machine-learning-and-data-science/
    
+   Comprehensive Project Based Data Science Curriculum   https://julienbeaulieu.github.io/2019/09/25/comprehensive-project-based-data-science-curriculum/
+   
    AI Expert Roadmap-https://i.am.ai/roadmap/#data-science-roadmap
    
    85.FastAPI-https://fastapi.tiangolo.com/deployment/deta/
@@ -1935,6 +1937,8 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 13.AutoNLP_Sentiment_Analysis by autoviml
 
 14.automl lazypredict https://github.com/shankarpandala/lazypredict 
+
+   AutoML Toolkit for Graph Datasets & Tasks AutoGL(Auto Graph Learning)https://medium.com/syncedreview/tsinghua-university-releases-first-automl-toolkit-for-graph-datasets-tasks-c61ea0261d78
 
    AutoFeat-https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/
 
