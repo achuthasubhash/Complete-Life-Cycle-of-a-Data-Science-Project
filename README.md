@@ -647,6 +647,8 @@ anderson teset  use for check any  distribution
     
     21.Statistical Methods , Hypothesis Testing ,Recursive Feature Elimination
     
+    22.Boruta https://github.com/scikit-learn-contrib/boruta_py 
+    
     https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
     
     https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
