@@ -492,6 +492,10 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
       
    Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
 performance if not distributed then use below methods to bring it guassian distribution
+
+normal test for check normal distribution 
+
+anderson teset  use for check any  distribution 
      
            a.Guassian Transformation
         
@@ -2041,6 +2045,12 @@ Numba (optimise performance of numpy and high performance  python compiler)  htt
 
 RAPIDS cuML
 
+tick is a lightweight machine learning library  https://x-datainitiative.github.io/tick/
+
+modular machine learning framework http://www.pybrain.org/docs/
+
+machine learning framework  It supports several programming languages notably: Python, R, Java, Scala, Ruby and Lua  Shogun https://github.com/shogun-toolbox/shogun/
+
 46.pyforest Lazy-import of all popular Python Data Science libraries. Stop writing the same imports over and over again. https://pypi.org/project/pyforest/0.1.1/
 
 47.Modin Get faster Pandas with Modin  https://github.com/modin-project/modin
@@ -2122,6 +2132,8 @@ https://www.openblender.io/#/welcome
 79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX
+
+open-source project for analysis of graphs or networks GrasPy / graspologic  https://graspy.neurodata.io/
 
 https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html
 
