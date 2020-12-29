@@ -1759,6 +1759,8 @@ determined to be unfair.
    
    123.Elements of AI free online course  https://www.elementsofai.com/
    
+   124.Best_AI_paper_2020   https://github.com/louisfb01/Best_AI_paper_2020
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
