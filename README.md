@@ -1041,6 +1041,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       10.AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/
       
+      GluonTS Deep Learning
+      
       11.Temporal Convolutional Neural
       
       12.Atspy For Automating The Time-Series Forecasting-https://analyticsindiamag.com/hands-on-guide-to-atspy-for-automating-the-time-series-forecasting/
