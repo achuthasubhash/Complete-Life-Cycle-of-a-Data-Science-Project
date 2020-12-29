@@ -70,6 +70,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      pandas(read_html)
      
+     https://analyticsindiamag.com/complete-learning-path-to-web-scraping-with-all-major-tools/
+     
 b.Web Crawling
 
   https://python.libhunt.com/scrapy-alternatives
@@ -759,7 +761,9 @@ anderson teset  use for check any  distribution
       
        Environments-OpenAI Gym, DeepMind Lab, Unity ML-Agents
        
-       https://analyticsindiamag.com/8-best-free-resources-to-learn-deep-reinforcement-learning-using-tensorflow/
+       https://analyticsindiamag.com/8-best-free-resources-to-learn-deep-reinforcement-learning-using-tensorflow/  
+       
+       https://analyticsindiamag.com/8-toolkits-for-reinforcement-learning-models-that-make-reasoning-explainability-core-to-ai/
        
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
        
