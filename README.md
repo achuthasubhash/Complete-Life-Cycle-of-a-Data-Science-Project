@@ -971,7 +971,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
      SpeechRecognition
      
-     googletrans (google Translator)  
+     googletrans (google Translator)   https://pypi.org/project/googletrans/
         
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
      
