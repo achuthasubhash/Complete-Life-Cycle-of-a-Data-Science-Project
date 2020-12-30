@@ -177,6 +177,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://waliamrinal.medium.com/top-and-easy-to-use-open-source-image-labelling-tools-for-machine-learning-projects-ffd9d5af4a20
     
     https://github.com/heartexlabs/awesome-data-labeling
+    
+    https://analyticsindiamag.com/complete-guide-to-data-labelling-tools/
    
     23)tensorflow_datasets as tfds  https://www.tensorflow.org/datasets  (import tensorflow_datasets as tfds)
    
@@ -404,7 +406,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      8.Arbitrary Value Imputation
      
-     9.hot deck Imputation
+     9.hot deck Imputation,Cold deck imputation
      
      10.regression Imputation
      
@@ -417,6 +419,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      14.MICE Imputation
      
      Extrapolation and Interpolation
+     
+     Imputation using K-NN
      
      Imputation Using Deep Learning (Datawig)
      
@@ -558,6 +562,8 @@ anderson teset  use for check any  distribution
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,etc...)
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
+    
+    https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
     
     HiPlot (high dimensional data)-https://github.com/facebookresearch/hiplot
     
@@ -1043,9 +1049,11 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       9.Holts winter,Holts linear trend
       
-      10.AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/
+      10.Auto_Timeseries by auto_ts 
       
-      GluonTS Deep Learning
+      AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/  https://github.com/AutoViML/Auto_TS
+      
+      GluonTS , PytorchTS   https://analyticsindiamag.com/gluonts-pytorchts-for-time-series-forecasting/
       
       11.Temporal Convolutional Neural
       
@@ -1785,6 +1793,8 @@ determined to be unfair.
    
    124.Best_AI_paper_2020   https://github.com/louisfb01/Best_AI_paper_2020
    
+   125.roadmap https://github.com/graykode/nlp-roadmap
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
@@ -2185,6 +2195,8 @@ Class of Flower Prediction,Bigmart Sales Prediction,Air Pollution Prediction,IMD
 Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detection,Human Action Recognition,Video Classification,Driver Drowsiness Detection,Medical Report Gen Using CT Scans,Sign Language Detection,Image Caption Generator,Celebrity Voice Prediction,Speech Emotion Recognition,Job Recommendation System,Interest Level in Rental Properties,Google Ads Keywords Generator
 
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
+https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44195|0.375
 
 https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 
