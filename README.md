@@ -248,6 +248,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
        70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
        
+    bifrost-   https://datasets.bifrost.ai/
+       
     tensorflow_datasets.object_detection - https://storage.googleapis.com/openimages/web/index.html
     
     https://github.com/google-research-datasets/Objectron/  https://ai.googleblog.com/2020/11/announcing-objectron-dataset.html?m=1 
@@ -1025,7 +1027,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       4.Lstm(neural network)
       
-      5.GARCH,
+      5.GARCH
+      
+      atspy	Automated time-series models
       
       6.Navie forecasts
       
@@ -1325,6 +1329,8 @@ leverage of model architecture
     https://becominghuman.ai/top-25-ai-and-machine-learning-blogs-for-data-scientists-9f121bcfd9a2
 
 ***BEST RESOURCES***
+
+   https://amitness.com/toolbox/
  
    1.paperswithcode-https://paperswithcode.com/methods
    
