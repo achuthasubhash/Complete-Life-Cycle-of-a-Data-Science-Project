@@ -563,6 +563,8 @@ anderson teset  use for check any  distribution
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
+    https://attachments.convertkitcdnm.com/232198/ee18f415-1406-4e5c-94f1-49a2c6e3ec4e/Statistics-The-Big-Picture-Poster.pdf
+    
     https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
     
     HiPlot (high dimensional data)-https://github.com/facebookresearch/hiplot
