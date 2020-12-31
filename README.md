@@ -1598,6 +1598,8 @@ leverage of model architecture
       
    http://introtodeeplearning.com/ 
    
+   https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html
+   
    http://d2l.ai/index.html            https://www.kdnuggets.com/2020/09/best-free-data-science-ebooks-2020-update.html
     
    https://www.youtube.com/playlist?app=desktop&list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB   https://mit6874.github.io/
