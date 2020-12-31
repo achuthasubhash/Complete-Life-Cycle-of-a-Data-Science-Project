@@ -991,7 +991,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
      
-     https://pakodas.substack.com/p/neural-search-on-indian-languages
+     https://pakodas.substack.com/p/neural-search-on-indian-languages     
+     
+     https://www.linkedin.com/pulse/natural-language-processing-2020-year-review-ivan-bilan/?trackingId=CYfd1ZyLStu6x09tjVIoGw%3D%3D
      
      ConvBert https://github.com/yitu-opensource/ConvBert
      
@@ -1613,6 +1615,8 @@ leverage of model architecture
    65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
      
    https://github.com/chaconnewu/free-data-science-books
+   
+   https://www.kdnuggets.com/2020/03/24-best-free-books-understand-machine-learning.html
       
    http://introtodeeplearning.com/ 
    
