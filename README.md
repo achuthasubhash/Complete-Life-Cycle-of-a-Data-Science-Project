@@ -1616,7 +1616,9 @@ leverage of model architecture
      
    https://github.com/chaconnewu/free-data-science-books
    
-   https://www.kdnuggets.com/2020/03/24-best-free-books-understand-machine-learning.html
+   https://www.kdnuggets.com/2020/03/24-best-free-books-understand-machine-learning.html  
+   
+   https://www.kdnuggets.com/2020/12/15-free-data-science-machine-learning-statistics-ebooks-2021.html
       
    http://introtodeeplearning.com/ 
    
