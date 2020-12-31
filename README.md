@@ -224,7 +224,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     tf.data.Datasets for TensorFlow Datasets 
     
-    38)data.gov.be ,data.egov.bg/ ,data.gov.cz/english ,portal.opendata.dk,govdata.de,opendata.riik.ee,data.gov.ie,data.gov.gr,datos.gob.es,data.gouv.fr,data.gov.hr
+    38)https://data.gov.sg/    https://data.gov.au/   https://data.europa.eu/euodp/en/data   https://data.europa.eu/euodp/en/data    https://data.govt.nz/
+    
+    data.gov.be ,data.egov.bg/ ,data.gov.cz/english ,portal.opendata.dk,govdata.de,opendata.riik.ee,data.gov.ie,data.gov.gr,datos.gob.es,data.gouv.fr,data.gov.hr
     
     dati.gov.it,data.gov.cy,opendata.gov.lt,data.gov.lv,data.public.lu,data.gov.mt,data.overheid.nl,data.gv.at,danepubliczne.gov.pl,dados.gov.pt,data.gov.ro,podatki.gov.si
 
@@ -251,6 +253,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
        70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
        
     bifrost-   https://datasets.bifrost.ai/
+    
+    https://www.visualdata.io/discovery        http://www.image-net.org/      https://www.cs.toronto.edu/~kriz/cifar.html  
        
     tensorflow_datasets.object_detection - https://storage.googleapis.com/openimages/web/index.html
     
@@ -264,7 +268,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://blogs.bing.com/maps/2019-09/microsoft-releases-18M-building-footprints-in-uganda-and-tanzania-to-enable-ai-assisted-mapping
     
-    https://datasets.bifrost.ai/
+    https://datasets.bifrost.ai/     https://storage.googleapis.com/openimages/web/download.html  https://computervisiononline.com/datasets  http://yacvid.hayko.at/
     
     https://www.cogitotech.com/use-cases/biodiversity/
     
@@ -295,6 +299,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
       Global Health Observatory data repository-https://apps.who.int/gho/data/node.main
       
       CERN Open Data Portal-http://opendata.cern.ch/
+      
+      TensorFlow Datasets https://www.tensorflow.org/datasets
       
     50.openblender- https://www.openblender.io/#/welcome
     
@@ -372,7 +378,11 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://www.youtube.com/watch?v=1aUt8zAG09E
     
-    67.yfinance for finance data using 
+    67.yfinance for finance data using
+    
+    openml https://www.openml.org/search?type=data
+    
+    https://registry.opendata.aws/
      
 ***2.Feature engineering***
 
@@ -1929,6 +1939,8 @@ mlkit-https://firebase.google.com/products/ml
 3. autopandas
 
 4. AutoGluon   https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
+
+AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
 5. autosklearn,autokeras,LightAutoML  (https://github.com/sberbank-ai-lab/LightAutoML)
 
