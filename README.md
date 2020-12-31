@@ -575,7 +575,7 @@ anderson teset  use for check any  distribution
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
-    https://datavizproject.com/
+    https://datavizproject.com/   https://datavizcatalogue.com/
     
     https://attachments.convertkitcdnm.com/232198/ee18f415-1406-4e5c-94f1-49a2c6e3ec4e/Statistics-The-Big-Picture-Poster.pdf
     
@@ -2229,6 +2229,8 @@ Class of Flower Prediction,Bigmart Sales Prediction,Air Pollution Prediction,IMD
 Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detection,Human Action Recognition,Video Classification,Driver Drowsiness Detection,Medical Report Gen Using CT Scans,Sign Language Detection,Image Caption Generator,Celebrity Voice Prediction,Speech Emotion Recognition,Job Recommendation System,Interest Level in Rental Properties,Google Ads Keywords Generator
 
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
+https://ml-showcase.paperspace.com/
 
 https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44195|0.375
 
