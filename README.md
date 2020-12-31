@@ -40,6 +40,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper
     
+    webbot https://pypi.org/project/webbot/
+    
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
     
       https://analyticsindiamag.com/complete-tutorial-on-twint-twitter-scraping-without-twitters-api/
@@ -572,6 +574,8 @@ anderson teset  use for check any  distribution
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,etc...)
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
+    
+    https://datavizproject.com/
     
     https://attachments.convertkitcdnm.com/232198/ee18f415-1406-4e5c-94f1-49a2c6e3ec4e/Statistics-The-Big-Picture-Poster.pdf
     
@@ -1346,6 +1350,10 @@ leverage of model architecture
     
     7.KDnuggets https://www.kdnuggets.com/
     
+    https://machinelearningknowledge.ai/
+    
+    https://www.datamuni.com/
+    
     https://becominghuman.ai/top-25-ai-and-machine-learning-blogs-for-data-scientists-9f121bcfd9a2
 
 ***BEST RESOURCES***
@@ -1809,6 +1817,8 @@ determined to be unfair.
    
    125.roadmap https://github.com/graykode/nlp-roadmap
    
+   https://mohammedazeem665.medium.com/plan-to-learn-machine-learning-data-science-in-2021-note-these-assets-from-2020-e84389d94097
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
@@ -1919,6 +1929,10 @@ applications of data science in many industry
 12.Data Science Challenges
 
 13.Tianchi Big Data Competition
+
+14.https://www.techgig.com/hackathon/ml_hackathon 
+
+15.https://www.openml.org/
 
 https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c
 
