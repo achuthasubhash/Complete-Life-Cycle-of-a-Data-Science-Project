@@ -836,7 +836,7 @@ anderson teset  use for check any  distribution
      
      3.Object detection and object segmentation 
      
-       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
+       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,EfficientDet,Vision Transformer
        
