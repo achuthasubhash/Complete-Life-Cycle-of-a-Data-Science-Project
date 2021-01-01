@@ -575,6 +575,8 @@ anderson teset  use for check any  distribution
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
+    https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
+    
     https://datavizproject.com/   https://datavizcatalogue.com/
     
     https://attachments.convertkitcdnm.com/232198/ee18f415-1406-4e5c-94f1-49a2c6e3ec4e/Statistics-The-Big-Picture-Poster.pdf
@@ -1551,6 +1553,8 @@ leverage of model architecture
    WEKA - https://www.cs.waikato.ac.nz/ml/weka/
    
    Monk_Gui-https://github.com/Tessellate-Imaging/Monk_Gui
+   
+   machine learning straight from Microsoft Excel https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/
    
    ENNUI-https://math.mit.edu/ennui/  https://github.com/martinjm97/ENNUI   https://www.youtube.com/watch?v=4VRC5k0Qs2w
    
