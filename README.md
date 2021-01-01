@@ -972,6 +972,12 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         Shrinking Transformers (reduce size)  1.quantization,distillation,pruning,
         
         Reformer,Performers,vision transformer
+        
+        Reformer: The Efficient Transformer
+        
+        Longformer: The Long-Document Transformer
+        
+        ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
       
      10.BERT,ConvBert,Quantized MobileBERT,ALBERT,Electra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
