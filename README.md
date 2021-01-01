@@ -1470,6 +1470,8 @@ leverage of model architecture
      
    https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/  https://huggingface.co/transformers/master/   https://github.com/huggingface/tokenizers
    
+   ktrain  https://github.com/amaiya/ktrain
+   
    32.multi-task-NLP-https://github.com/hellohaptik/multi-task-NLP
    
    33.gpt-2 - https://github.com/openai/gpt-2
