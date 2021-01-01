@@ -1037,9 +1037,15 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       7.seasonal +interpolation(data with trend and with seasonality)
       
-      here model selection deponds on different property of data like stationary,trend,seasonality,cyclic
+      here model selection deponds on different property of data like stationary,trend,seasonality,cyclic 
       
-      adfuller test  for  Stationarity
+      Anomaly Detection using Isolation Forest,AutoEncoders
+      
+      Granger Causality Statistical Test use for variable usable for forecast 
+      
+      adfuller test  for  Stationarity        Non Stationary Statistical Test - KPSS and ADF
+      
+      Handling Data with Regular Gaps using Facebook Prophet
       
       models 
       
@@ -1064,6 +1070,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       NeuralProphet Model- https://ourownstory.github.io/neural_prophet/model-overview/
       
       Informer (for Long Sequence Time-Series Forecasting) https://analyticsindiamag.com/informer/ 
+      
+      deepar is global model
+      
+      GluonTS
       
       9.Holts winter,Holts linear trend
       
