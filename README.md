@@ -2213,6 +2213,8 @@ https://www.openblender.io/#/welcome
 
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX
 
+AutoGL   https://github.com/THUMNLab/AutoGL
+
 open-source project for analysis of graphs or networks GrasPy / graspologic  https://graspy.neurodata.io/
 
 https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html
