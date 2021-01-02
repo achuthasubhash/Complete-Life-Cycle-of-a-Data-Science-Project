@@ -87,6 +87,8 @@ d.Databases
   Databases are 2 kind sequel  and no sequel database
 
   sql,sql lite,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase,oracle db
+  
+Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeling/docs?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200503-Data-Labeling
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
@@ -854,7 +856,7 @@ anderson teset  use for check any  distribution
      
      5.Deepdream,Neural style transfer, Pose estimation 
      
-     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet
+     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas
      
      imageai.Detection for Object detection
      
@@ -1754,6 +1756,8 @@ leverage of model architecture
    
    interpret https://github.com/interpretml/interpret
    
+   google AI Explanations for AI Platform https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/overview?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200423-Intro-Aiexp
+   
    eli5  https://eli5.readthedocs.io/en/latest/
    
    skater https://oracle.github.io/Skater/
@@ -2093,6 +2097,8 @@ Python Tricks for Keeping Track of Your Data  https://towardsdatascience.com/pyt
 27.numexpr (incerease speed of execution of numpy)  https://github.com/pydata/numexpr
 
 pypolars instead of  pandas (beating-pandas-performance)
+
+JAX  Autograd and XLA, facilitating high-performance machine learning research https://github.com/google/jax
 
 Numba (optimise performance of numpy and high performance  python compiler)  http://numba.pydata.org/
 
