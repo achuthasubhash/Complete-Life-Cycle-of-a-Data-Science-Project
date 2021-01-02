@@ -194,7 +194,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     27)google open images:https://storage.googleapis.com/openimages/web/download.html
     
-    https://cloud.google.com/bigquery/public-data/   https://towardsdatascience.com/bigquery-public-datasets-936e1c50e6bc
+    https://cloud.google.com/bigquery/public-data/   https://towardsdatascience.com/bigquery-public-datasets-936e1c50e6bc  
    
     28)https://data.gov.in/
     
@@ -889,6 +889,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      low code object detection -  detecto  https://github.com/alankbi/detecto 
      
+     AutoML  https://github.com/dataloop-ai/AutoML
+     
      Object Detection with 10 lines of code-https://www.datasciencecentral.com/profiles/blogs/object-detection-with-10-lines-of-code
      
      OneNet-https://analyticsindiamag.com/onenet/
@@ -1182,6 +1184,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     h.Scikit-Optimize
     
     i.ray[tune] and aisaratuners https://towardsdatascience.com/choosing-a-hyperparameter-tuning-library-ray-tune-or-aisaratuners-b707b175c1d7
+    
+    Milano   https://github.com/NVIDIA/Milano
     
     https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
     
@@ -1764,6 +1768,8 @@ leverage of model architecture
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
+   https://github.com/slundberg/shap
+   
    interpret https://github.com/interpretml/interpret
    
    google AI Explanations for AI Platform https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/overview?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200423-Intro-Aiexp
@@ -1790,11 +1796,13 @@ leverage of model architecture
    
    AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/  
    
-   torch-dreamshttps://github.com/Mayukhdeb/torch-dreams
+   onnx https://github.com/onnx/onnx
+   
+   torch-dreams https://github.com/Mayukhdeb/torch-dreams
    
    https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/
    
-   https://christophm.github.io/interpretable-ml-book/
+   https://christophm.github.io/interpretable-ml-book/      https://github.com/christophM/interpretable-ml-book
    
    Fairness 
    
