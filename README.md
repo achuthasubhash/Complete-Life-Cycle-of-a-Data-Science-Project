@@ -1892,6 +1892,8 @@ determined to be unfair.
    
    https://mohammedazeem665.medium.com/plan-to-learn-machine-learning-data-science-in-2021-note-these-assets-from-2020-e84389d94097
    
+   126Visualizing the Execution of Python Program  http://pythontutor.com/  https://www.youtube.com/watch?v=pCSlWQjfCzA
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
