@@ -395,6 +395,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     openml https://www.openml.org/search?type=data
     
     https://registry.opendata.aws/
+    
+    voice_datasets https://github.com/jim-schwoebel/voice_datasets
      
 ***2.Feature engineering***
 
@@ -1093,6 +1095,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       NeuralProphet Model- https://ourownstory.github.io/neural_prophet/model-overview/
       
+      hmmlearn https://github.com/ushareng/StockPricePredictionUsingHMM_Byte/blob/master/StockPricePredictionUsingHMM.ipynb
+      
+      stumpy https://github.com/TDAmeritrade/stumpy
+      
       Informer (for Long Sequence Time-Series Forecasting) https://analyticsindiamag.com/informer/ 
       
       deepar is global model
@@ -1616,6 +1622,8 @@ leverage of model architecture
    
    https://www.datasciencecentral.com/profiles/blogs/a-complete-tutorial-to-learn-data-science-with-python-from
    
+   https://medium.com/@mattybv3/learn-data-science-from-scratch-curriculum-with-20-free-online-courses-8cff96d6cbe5
+   
    67.turn-on visual training for most popular ML algorithms https://github.com/lucko515/ml_tutor  https://pypi.org/project/ml-tutor/
    
    68.mlcourse.ai is a free online- https://mlcourse.ai/
@@ -1834,6 +1842,8 @@ determined to be unfair.
    torchio https://github.com/fepegar/torchio https://analyticsindiamag.com/torchio-3d-medical-imaging/
    
    MolBert: Molecular Representation learning with AI 
+   
+   medicalAI https://github.com/aibharata/medicalAI
    
    Biopython is a set of freely available tools  https://github.com/biopython/biopython
    
