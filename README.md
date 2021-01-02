@@ -100,7 +100,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     3)data.gov-https://data.gov.in/
    
-    4)uci-https://archive.ics.uci.edu/ml/datasets.php
+    4)uci-https://archive.ics.uci.edu/ml/datasets.php     https://github.com/tirthajyoti/UCI-ML-API
    
     5)Group Lens dataset https://grouplens.org/
     
@@ -219,6 +219,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     34)Big Bad NLP Database-https://datasets.quantumstat.com/
     
     https://github.com/niderhoff/nlp-datasets
+    
+    nlp-datasets https://github.com/karthikncode/nlp-datasets
     
     35)https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
     
@@ -397,6 +399,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
 ***2.Feature engineering***
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
+   
+   Easy to use Python library of customized functions for cleaning and analyzing data  https://github.com/akanz1/klib
      
    Remove duplicate data in dataset
 
