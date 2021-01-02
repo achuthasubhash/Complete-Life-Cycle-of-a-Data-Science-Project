@@ -286,6 +286,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     ApolloScape Dataset-http://apolloscape.auto/
     
+    https://github.com/chrieke/awesome-satellite-imagery-datasets
+    
     44.https://github.com/fivethirtyeight/data
     
     45.Recommender Systems Datasets-https://cseweb.ucsd.edu/~jmcauley/datasets.html
