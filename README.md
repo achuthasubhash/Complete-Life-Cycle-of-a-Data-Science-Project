@@ -193,6 +193,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     26)https://data.worldbank.org/
    
     27)google open images:https://storage.googleapis.com/openimages/web/download.html
+    
+    https://cloud.google.com/bigquery/public-data/   https://towardsdatascience.com/bigquery-public-datasets-936e1c50e6bc
    
     28)https://data.gov.in/
     
@@ -2030,7 +2032,9 @@ mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets
+   
+   Facets https://github.com/PAIR-code/facets https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc
    
    https://github.com/mstaniak/autoEDA-resources
    
