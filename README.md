@@ -228,6 +228,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     37)inbuilt library data eg:iris dataset,mnist dataset,etc...
     
+    pandas-datareader  https://github.com/pydata/pandas-datareader
+    
     tf.data.Datasets for TensorFlow Datasets 
     
     38)https://data.gov.sg/    https://data.gov.au/   https://data.europa.eu/euodp/en/data   https://data.europa.eu/euodp/en/data    https://data.govt.nz/
@@ -340,6 +342,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     60.Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
+    Synthetic data library https://github.com/finos/datahub
+    
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
     
     62.Google Analytics cost data import https://segmentstream.com/google-analytics?utm_source=twitter&utm_medium=cpc&utm_campaign=ga_costs_import_en&utm_content=guide
@@ -384,7 +388,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://www.youtube.com/watch?v=1aUt8zAG09E
     
-    67.yfinance for finance data using
+    67.yfinance for finance data using     https://github.com/ranaroussi/yfinance
     
     openml https://www.openml.org/search?type=data
     
@@ -1384,7 +1388,7 @@ leverage of model architecture
 
 ***BEST RESOURCES***
 
-   https://amitness.com/toolbox/
+   https://amitness.com/toolbox/      https://github.com/khuyentran1401/Data-science
  
    1.paperswithcode-https://paperswithcode.com/methods
    
@@ -1827,7 +1831,7 @@ determined to be unfair.
    
    https://mlops.githubapp.com/
    
-   115.https://github.com/khuyentran1401/Data-science
+   115.
    
    116.Pytest for Data Scientists https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c
    
@@ -2019,6 +2023,14 @@ AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindi
 11. pycaret- https://pycaret.org/
 
 mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
+
+automated feature engineering  https://github.com/alteryx/featuretools
+
+AutoML toolkit   https://github.com/microsoft/nni
+
+mljar-supervised  Automates Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning https://github.com/mljar/mljar-supervised 
+ 
+MLBox is a powerful Automated Machine Learning python library  https://github.com/AxeldeRomblay/MLBox
 
 12.Auto_Timeseries by auto_ts 
 
