@@ -1297,6 +1297,14 @@ Docker and Kubernetes
 ***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite  https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android-beta/#0  https://tfhub.dev/s?deployment-format=lite  https://www.tensorflow.org/lite/examples https://www.tensorflow.org/lite/microcontrollers
 https://www.tensorflow.org/lite/models
 
+six different types of methods:
+1) Pruning
+2) Quantization
+3) Knowledge distillation
+4) Parameter sharing
+5) Tensor decomposition
+6) Linear Transformer
+
 model optimization (architecture)
  
 TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
