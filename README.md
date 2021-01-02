@@ -1194,6 +1194,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Milano   https://github.com/NVIDIA/Milano
     
+    Auto-PyTorch https://github.com/automl/Auto-PyTorch
+    
     https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
@@ -2311,7 +2313,7 @@ Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detec
 
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 
-https://ml-showcase.paperspace.com/
+https://ml-showcase.paperspace.com/              https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
 https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
 
