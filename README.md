@@ -398,6 +398,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     voice_datasets https://github.com/jim-schwoebel/voice_datasets
      
+    Dynamically-Generated-Hate-Speech-Dataset https://github.com/bvidgen/Dynamically-Generated-Hate-Speech-Dataset
 ***2.Feature engineering***
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
@@ -2303,6 +2304,8 @@ Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detec
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 
 https://ml-showcase.paperspace.com/
+
+https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
 
 https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44195|0.375
 
