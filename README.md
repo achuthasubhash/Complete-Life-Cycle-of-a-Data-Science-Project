@@ -514,6 +514,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      15.Leave-one-out(Loo) encoding
      
      https://towardsdatascience.com/beyond-one-hot-17-ways-of-transforming-categorical-features-into-numeric-features-57f54f199ea4
+
      
    f.Scaling of data
    
@@ -859,7 +860,7 @@ anderson teset  use for check any  distribution
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,EfficientDet,Vision Transformer
+       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,EfficientDet,Vision Transformer,deit
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
