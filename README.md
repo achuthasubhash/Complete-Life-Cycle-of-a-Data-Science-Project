@@ -132,7 +132,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     11)https://www.columnfivemedia.com/100-best-free-data-sources-infographic
    
-    12)Reddit:https://lnkd.in/dv5UCD4
+    12)Reddit:https://lnkd.in/dv5UCD4       https://www.reddit.com/r/datasets/
    
     13)https://datasets.bifrost.ai/?ref=producthunt
    
