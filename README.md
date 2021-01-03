@@ -264,6 +264,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
        
     bifrost-   https://datasets.bifrost.ai/
     
+    https://public.roboflow.com/
+    
     https://www.visualdata.io/discovery        http://www.image-net.org/      https://www.cs.toronto.edu/~kriz/cifar.html  
        
     tensorflow_datasets.object_detection - https://storage.googleapis.com/openimages/web/index.html
@@ -1288,6 +1290,8 @@ Docker and Kubernetes
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
     
+    
+    
     web application(dash)- https://dash.plotly.com/
     
     Create a Website with AIhttps://www.bookmark.com/ 
@@ -1674,6 +1678,8 @@ leverage of model architecture
    https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
    
    65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
+   
+   https://www.datasciencecentral.com/profiles/blogs/free-500-page-book-on-applications-of-deep-neural-networks-1
      
    https://github.com/chaconnewu/free-data-science-books
    
@@ -1793,6 +1799,8 @@ leverage of model architecture
    
    interpret https://github.com/interpretml/interpret
    
+   dalex https://pypi.org/project/dalex/
+   
    google AI Explanations for AI Platform https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/overview?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200423-Intro-Aiexp
    
    eli5  https://eli5.readthedocs.io/en/latest/
@@ -1823,7 +1831,9 @@ leverage of model architecture
    
    https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/
    
-   https://christophm.github.io/interpretable-ml-book/      https://github.com/christophM/interpretable-ml-book
+   https://christophm.github.io/interpretable-ml-book/      https://github.com/christophM/interpretable-ml-book  
+   
+   https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html
    
    Fairness 
    
@@ -1894,7 +1904,19 @@ determined to be unfair.
    
    https://mohammedazeem665.medium.com/plan-to-learn-machine-learning-data-science-in-2021-note-these-assets-from-2020-e84389d94097
    
-   126Visualizing the Execution of Python Program  http://pythontutor.com/  https://www.youtube.com/watch?v=pCSlWQjfCzA
+   126.Visualizing the Execution of Python Program  http://pythontutor.com/  https://www.youtube.com/watch?v=pCSlWQjfCzA
+   
+   MLPerf  Model performance debugging tools https://mlperf.org/ 
+   
+   Model debugging tools  Manifold https://eng.uber.com/manifold/
+   
+   Experiment tracking tools WandB  https://wandb.ai/site
+   
+   Comet  manage and organize machine learning experiments https://www.comet.ml/site/
+   
+   MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/
+   
+   127.19 Best JupyterLab Extensions for Machine Learning  https://neptune.ai/blog/jupyterlab-extensions-for-machine-learning
    
    
 ***Follow leaders in the field to update yourself in the field***
@@ -2081,7 +2103,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME
    
    Facets https://github.com/PAIR-code/facets https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc
    
@@ -2283,6 +2305,8 @@ https://www.openblender.io/#/welcome
 79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX
+
+https://www.tensorflow.org/neural_structured_learning 
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
