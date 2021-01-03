@@ -2352,6 +2352,8 @@ https://medium.com/the-innovation/130-machine-learning-projects-solved-and-expla
 
 https://thecleverprogrammer.com/machine-learning/
 
+https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/?utm_source=linkedin&utm_medium=KJ|link|blackbelt|blogs|44081|0.625
+
 https://data-flair.training/blogs/machine-learning-datasets/#   https://data-flair.training/blogs/machine-learning-project-ideas/   
 
 https://data-flair.training/blogs/cartoonify-image-opencv-python/  https://data-flair.training/blogs/python-project-calorie-calculator-django/
