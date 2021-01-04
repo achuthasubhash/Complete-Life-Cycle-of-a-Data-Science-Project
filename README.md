@@ -642,6 +642,8 @@ anderson teset  use for check any  distribution
     2.Wrapper methods (recursive feature eliminiation,boruta,forward selection,backwaed elimination,stepwise selection etc...)
 
     3.Embedded method (lasso,ridge regression,elasticnet,tree based etc...)
+    
+    DropConstantFeatures  DropDuplicateFeatures    DropCorrelatedFeatures  
   
     4.Feature Importance
   
@@ -687,7 +689,7 @@ anderson teset  use for check any  distribution
     
     18.variance inflation factor(vif)
     
-    19.Recursive Feature Elimination
+    19.Recursive Feature Elimination     RecursiveFeatureAddition
     
     20.exchaustive feature selection
     
