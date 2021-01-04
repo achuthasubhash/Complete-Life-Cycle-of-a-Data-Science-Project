@@ -811,6 +811,8 @@ anderson teset  use for check any  distribution
       
        Environments-OpenAI Gym, DeepMind Lab, Unity ML-Agents
        
+       https://data-flair.training/news/python-libraries-for-reinforcement-learning/
+       
        https://analyticsindiamag.com/8-best-free-resources-to-learn-deep-reinforcement-learning-using-tensorflow/  
        
        https://analyticsindiamag.com/8-toolkits-for-reinforcement-learning-models-that-make-reasoning-explainability-core-to-ai/
