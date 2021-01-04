@@ -1019,6 +1019,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      googletrans (google Translator)   https://pypi.org/project/googletrans/
      
+     The Super Duper NLP Repo  https://notebooks.quantumstat.com/
+     
      autonlp  https://analyticsindiamag.com/hands-on-guide-to-using-autonlp-for-automating-sentiment-analysis/
         
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
@@ -1831,6 +1833,8 @@ leverage of model architecture
    onnx https://github.com/onnx/onnx
    
    torch-dreams https://github.com/Mayukhdeb/torch-dreams
+   
+   https://github.com/jphall663/awesome-machine-learning-interpretability
    
    https://analyticsindiamag.com/8-explainable-ai-frameworks-driving-a-new-paradigm-for-transparency-in-ai/
    
