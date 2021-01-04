@@ -1166,6 +1166,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    J.Deep dream,Style transfer
    
    K.One-shot learning,Zero-shot learning
+   
+   https://github.com/ChristosChristofidis/awesome-deep-learning
 
   TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Softmax,Swish,Softplus
   
@@ -1587,6 +1589,8 @@ leverage of model architecture
    60.reinforcement learning by using  PyTorch-https://github.com/SforAiDl/genrl
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson  etc...
+   
+   https://github.com/fendouai/Awesome-Chatbot
    
    https://www.analyticsinsight.net/category/chatbots/
    
@@ -2356,7 +2360,7 @@ https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginn
 
 https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
 
-https://thecleverprogrammer.com/machine-learning/
+https://thecleverprogrammer.com/machine-learning/    https://www.kdnuggets.com/2020/03/20-machine-learning-datasets-project-ideas.html
 
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/?utm_source=linkedin&utm_medium=KJ|link|blackbelt|blogs|44081|0.625
 
