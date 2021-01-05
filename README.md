@@ -833,7 +833,9 @@ anderson teset  use for check any  distribution
        
        rl_coach https://github.com/IntelLabs/coach#installation        MushroomRL https://mushroomrl.readthedocs.io/en/latest/
        
-       TFAgents  https://github.com/tensorflow/agents (https://www.tensorflow.org/agents)   https://deepmind.com/blog/article/trfl     
+       TFAgents  https://github.com/tensorflow/agents (https://www.tensorflow.org/agents)   https://deepmind.com/blog/article/trfl    
+       
+       Automate The Stock Market Using FinRL (Deep Reinforcement Learning Library)  https://analyticsindiamag.com/stock-market-prediction-using-finrl/
        
        Stable Baselines  https://github.com/openai/baselines
        
