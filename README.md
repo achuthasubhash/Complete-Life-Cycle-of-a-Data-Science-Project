@@ -1287,7 +1287,11 @@ Docker and Kubernetes
     
     Models visualization using Tensorboard,netron, TensorBoard.dev
 
-    Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  https://analyticsindiamag.com/top-8-python-tools-for-app-development/
+    Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
+    
+    streamlit,plotly jupyterdash,h2o wave
+    
+    https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
     PyQt and Tkinter , PySimpleGUI are GUI programming in Python  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
@@ -1934,6 +1938,8 @@ determined to be unfair.
    MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/
    
    127.19 Best JupyterLab Extensions for Machine Learning  https://neptune.ai/blog/jupyterlab-extensions-for-machine-learning
+   
+   128.coreml https://developer.apple.com/machine-learning/core-ml/
    
    
 ***Follow leaders in the field to update yourself in the field***
