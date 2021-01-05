@@ -216,6 +216,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
     33)huggingface datasets-https://github.com/huggingface/datasets  https://huggingface.co/datasets  https://huggingface.co/languages
     
+    pip install datasets
+    
     34)Big Bad NLP Database-https://datasets.quantumstat.com/
     
     https://github.com/niderhoff/nlp-datasets
@@ -249,6 +251,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://www.who.int/data/gho ,https://data.unicef.org/open-data/ ,http://data.un.org/ ,https://data.oecd.org/ ,https://data.worldbank.org/  
     
     39.Awesome Public Dataset- https://github.com/awesomedata/awesome-public-datasets
+    
+    Hub https://github.com/activeloopai/Hub
     
     40.Datasets for Machine Learning on Graphs-https://ogb.stanford.edu/
     
@@ -1009,7 +1013,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
       
-     10.BERT,ConvBert,Quantized MobileBERT,ALBERT,Electra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
+     10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
@@ -1656,6 +1660,8 @@ leverage of model architecture
   
    66.ML from scratch-https://dafriedman97.github.io/mlbook/content/introduction.html   
    
+   https://aihubprojects.com/machine-learning-from-scratch-python/
+   
    https://www.datasciencecentral.com/profiles/blogs/a-complete-tutorial-to-learn-data-science-with-python-from
    
    https://medium.com/@mattybv3/learn-data-science-from-scratch-curriculum-with-20-free-online-courses-8cff96d6cbe5
@@ -1835,6 +1841,8 @@ leverage of model architecture
    Arena https://medium.com/responsibleml/python-has-now-the-new-way-of-exploring-xai-explanations-4248846426cf
    
    tabnet  https://cloud.google.com/blog/products/ai-machine-learning/ml-model-tabnet-is-easy-to-use-on-cloud-ai-platform
+   
+   explainerdashboard  https://towardsdatascience.com/the-quickest-way-to-build-dashboards-for-machine-learning-models-ec769825070d
    
    Responsible AI-https://www.tensorflow.org/resources/responsible-ai
    
@@ -2129,6 +2137,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME
+   
+   explainerdashboard  https://towardsdatascience.com/the-quickest-way-to-build-dashboards-for-machine-learning-models-ec769825070d
    
    Facets https://github.com/PAIR-code/facets https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc
    
