@@ -222,6 +222,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     nlp-datasets https://github.com/karthikncode/nlp-datasets
     
+    https://analyticsindiamag.com/15-most-important-nlp-datasets/
+    
     35)https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
     
     36)bigquery public dataset ,Google Public Data Explorer
