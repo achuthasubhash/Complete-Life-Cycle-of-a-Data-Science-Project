@@ -1473,6 +1473,8 @@ leverage of model architecture
    6.Fastaibook-https://github.com/fastai/fastbook , https://course.fast.ai/   https://www.fast.ai/2019/07/08/fastai-nlp/
    
    neptune.ai-https://docs.neptune.ai/index.html
+   
+   Dive into Deep Learning http://d2l.ai/
     
    7.TopDeepLearning-https://github.com/aymericdamien/TopDeepLearning
    
@@ -1826,7 +1828,7 @@ leverage of model architecture
    
    interpret https://github.com/interpretml/interpret
    
-   dalex https://pypi.org/project/dalex/
+   dalex https://pypi.org/project/dalex/  https://blog.learningdollars.com/2021/01/02/ai-in-medical-diagnosis/
    
    google AI Explanations for AI Platform https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/overview?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200423-Intro-Aiexp
    
