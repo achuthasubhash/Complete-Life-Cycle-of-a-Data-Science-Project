@@ -1586,6 +1586,8 @@ leverage of model architecture
     
    50.Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html
    
+   mllib https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html
+   
    51.for more cheatsheets-https://github.com/FavioVazquez/ds-cheatsheets  , https://medium.com/swlh/the-ultimate-cheat-sheet-for-data-scientists-d1e247b6a60c
    
    52.text2emotion-https://pypi.org/project/text2emotion/
