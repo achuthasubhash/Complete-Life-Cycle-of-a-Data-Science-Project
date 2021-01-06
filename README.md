@@ -1864,6 +1864,8 @@ leverage of model architecture
    
    Google Facets https://pair-code.github.io/facets/
    
+   Google’s Model Card Toolkit
+   
    Opening the AI Black Box -https://zetane.com/gallery 
    
    AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/  
