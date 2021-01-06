@@ -1157,7 +1157,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       https://pytorch-forecasting.readthedocs.io/en/latest/  https://pytorch-forecasting.readthedocs.io/en/latest/tutorials/ar.html
       
-      sktime-https://github.com/alan-turing-institute/sktime
+      sktime-https://github.com/alan-turing-institute/sktime  https://analyticsindiamag.com/sktime-library/
       
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
@@ -1591,6 +1591,8 @@ leverage of model architecture
    50.Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html
    
    mllib https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html   https://spark.apache.org/docs/2.0.0/api/python/index.html
+   
+   https://data-flair.training/blogs/spark-tutorial/
    
    51.for more cheatsheets-https://github.com/FavioVazquez/ds-cheatsheets  , https://medium.com/swlh/the-ultimate-cheat-sheet-for-data-scientists-d1e247b6a60c
    
