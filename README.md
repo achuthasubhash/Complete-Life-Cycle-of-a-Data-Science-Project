@@ -413,6 +413,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
    
+   Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
+   
    Easy to use Python library of customized functions for cleaning and analyzing data  https://github.com/akanz1/klib
      
    Remove duplicate data in dataset
