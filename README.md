@@ -821,7 +821,9 @@ anderson teset  use for check any  distribution
        
        https://data-flair.training/news/python-libraries-for-reinforcement-learning/
        
-       https://analyticsindiamag.com/8-best-free-resources-to-learn-deep-reinforcement-learning-using-tensorflow/  
+       https://analyticsindiamag.com/8-best-free-resources-to-learn-deep-reinforcement-learning-using-tensorflow/   
+       
+       https://analyticsindiamag.com/top-8-autonomous-driving-open-source-projects-one-must-try-hands-on/
        
        https://analyticsindiamag.com/8-toolkits-for-reinforcement-learning-models-that-make-reasoning-explainability-core-to-ai/
        
@@ -1592,7 +1594,7 @@ leverage of model architecture
    
    mllib https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html   https://spark.apache.org/docs/2.0.0/api/python/index.html
    
-   https://data-flair.training/blogs/spark-tutorial/
+   https://data-flair.training/blogs/spark-tutorial/  Spark Core,Spark SQL,Spark Streaming,Spark MLlib,Spark GraphX,etc...
    
    51.for more cheatsheets-https://github.com/FavioVazquez/ds-cheatsheets  , https://medium.com/swlh/the-ultimate-cheat-sheet-for-data-scientists-d1e247b6a60c
    
@@ -1945,7 +1947,9 @@ determined to be unfair.
    
    https://mohammedazeem665.medium.com/plan-to-learn-machine-learning-data-science-in-2021-note-these-assets-from-2020-e84389d94097
    
-   126.Visualizing the Execution of Python Program  http://pythontutor.com/  https://www.youtube.com/watch?v=pCSlWQjfCzA
+   126.https://neptune.ai/blog/best-data-science-tools-to-increase-machine-learning-model-understanding?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-data-science-tools-to-increase-machine-learning-model-understanding
+   
+   Visualizing the Execution of Python Program  http://pythontutor.com/  https://www.youtube.com/watch?v=pCSlWQjfCzA
    
    MLPerf  Model performance debugging tools https://mlperf.org/ 
    
