@@ -935,6 +935,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
      Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
      
+     Imaginaire https://analyticsindiamag.com/guide-to-nvidia-imaginaire-gan-library-in-python/
+     
      https://github.com/hindupuravinash/the-gan-zoo
    
    5.Autoencoder
