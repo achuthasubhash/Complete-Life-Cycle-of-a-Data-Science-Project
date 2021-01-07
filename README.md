@@ -1722,6 +1722,8 @@ leverage of model architecture
    
    https://www.deeplearningbook.org/    http://d2l.ai/
    
+   https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html
+   
    https://www.datasciencecentral.com/profiles/blogs/free-500-page-book-on-applications-of-deep-neural-networks-1
      
    https://github.com/chaconnewu/free-data-science-books
