@@ -1051,6 +1051,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      ConvBert https://github.com/yitu-opensource/ConvBert
      
+     SentenceTransformers  https://www.sbert.net/
+     
      Funnel-Transformer https://github.com/laiguokun/Funnel-Transformer
      
      Topic Modeling in One Line with Top2Vec https://towardsdatascience.com/topic-modeling-in-one-line-with-top2vec-a413991aa0ef
