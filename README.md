@@ -1449,6 +1449,8 @@ leverage of model architecture
     https://www.datamuni.com/
     
     https://becominghuman.ai/top-25-ai-and-machine-learning-blogs-for-data-scientists-9f121bcfd9a2
+    
+    https://medium.com/towards-artificial-intelligence/best-machine-learning-blogs-to-follow-ml-research-ai-3994e01967f9
 
 ***BEST RESOURCES***
 
