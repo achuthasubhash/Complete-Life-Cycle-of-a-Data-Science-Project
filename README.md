@@ -411,6 +411,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     Dynamically-Generated-Hate-Speech-Dataset https://github.com/bvidgen/Dynamically-Generated-Hate-Speech-Dataset
 ***2.Feature engineering***
 
+   Validate your Data (Schema) https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
+
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
    
    Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
