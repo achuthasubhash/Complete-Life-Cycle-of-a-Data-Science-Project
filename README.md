@@ -1278,6 +1278,8 @@ Generally used metrics
     https://medium.com/swlh/custom-loss-and-custom-metrics-using-keras-sequential-model-api-d5bcd3a4ff28
     
     loss-Built-in loss, Custom loss without external parameters,Custom loss with external parameters,Subclassing loss layer
+    
+    https://analyticsindiamag.com/all-pytorch-loss-function/
 
 Docker and Kubernetes
 
