@@ -1456,7 +1456,7 @@ leverage of model architecture
 
 ***BEST RESOURCES***
 
-   https://amitness.com/toolbox/      https://github.com/khuyentran1401/Data-science
+   https://amitness.com/toolbox/      https://github.com/khuyentran1401/Data-science   https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks
  
    1.paperswithcode-https://paperswithcode.com/methods
    
