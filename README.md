@@ -1979,6 +1979,8 @@ determined to be unfair.
    
    128.coreml https://developer.apple.com/machine-learning/core-ml/
    
+   129.Protect Your Neural Networks Against Hacking Adversarial Robustness Toolbox (ART) https://analyticsindiamag.com/adversarial-robustness-toolbox-art/
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
