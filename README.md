@@ -1604,7 +1604,9 @@ leverage of model architecture
    
    49.DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ - https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html
     
-   50.Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html
+   50.https://data-flair.training/blogs/
+   
+   Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html
    
    mllib https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html   https://spark.apache.org/docs/2.0.0/api/python/index.html
    
