@@ -2126,6 +2126,8 @@ mlkit-https://firebase.google.com/products/ml
 
 2. Tpot
 
+auto_ml  https://github.com/ClimbsRocks/auto_ml
+
 3. autopandas
 
 4. AutoGluon   https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
