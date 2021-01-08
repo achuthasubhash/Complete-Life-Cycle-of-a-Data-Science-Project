@@ -902,6 +902,8 @@ anderson teset  use for check any  distribution
      
      3D POSE ESTIMATION
      
+     cnn-raccoon https://github.com/lucko515/cnn-raccoon
+     
      deit https://github.com/facebookresearch/deit
      
      EfficientDet https://github.com/ravi02512/efficientdet-keras
