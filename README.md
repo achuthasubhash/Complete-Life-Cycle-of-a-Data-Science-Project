@@ -1937,7 +1937,7 @@ determined to be unfair.
    
    https://mlops.githubapp.com/
    
-   115.
+   115.Code faster https://www.tabnine.com/
    
    116.Pytest for Data Scientists https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c
    
