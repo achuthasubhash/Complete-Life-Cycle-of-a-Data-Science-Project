@@ -185,6 +185,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     https://analyticsindiamag.com/complete-guide-to-data-labelling-tools/
    
     23)tensorflow_datasets as tfds  https://www.tensorflow.org/datasets  (import tensorflow_datasets as tfds)
+    
+    https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
    
     24)https://datasets.bifrost.ai/?ref=producthunt
    
