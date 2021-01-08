@@ -1606,6 +1606,10 @@ leverage of model architecture
     
    50.https://data-flair.training/blogs/
    
+   https://data-flair.training/blogs/python-tutorials-home/  https://data-flair.training/blogs/hadoop-tutorials-home/  https://data-flair.training/blogs/spark-tutorials-home/
+   
+   https://data-flair.training/blogs/tableau-tutorials-home/  https://data-flair.training/blogs/data-science-tutorials-home/
+   
    Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html
    
    mllib https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html   https://spark.apache.org/docs/2.0.0/api/python/index.html
