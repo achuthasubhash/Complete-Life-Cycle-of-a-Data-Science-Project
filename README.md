@@ -226,7 +226,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     nlp-datasets https://github.com/karthikncode/nlp-datasets
     
-    https://analyticsindiamag.com/15-most-important-nlp-datasets/
+    https://analyticsindiamag.com/15-most-important-nlp-datasets/      https://medium.com/ai-in-plain-english/25-free-datasets-for-natural-language-processing-57e407402c60
     
     35)https://www.edureka.co/blog/25-best-free-datasets-machine-learning/
     
@@ -1681,6 +1681,8 @@ leverage of model architecture
    orange https://orange.biolab.si/
    
    OpenBlender https://openblender.io/#/welcome
+   
+   create neural networks with one line of code https://github.com/PraneetNeuro/nnio.l
    
    perceptilabs  https://towardsdatascience.com/easy-model-building-with-perceptilabs-interactive-tensorflowvisualization-gui-834d5bb3c973
    
