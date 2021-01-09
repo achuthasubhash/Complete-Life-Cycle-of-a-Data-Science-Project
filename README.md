@@ -2150,6 +2150,8 @@ AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindi
 
 5. autosklearn,autokeras,LightAutoML  (https://github.com/sberbank-ai-lab/LightAutoML)
 
+AutoNeuro   https://autoneuro.challenge-ineuron.in/
+
 6. autoviml
 
    𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲  https://github.com/Muhammad4hmed/GML
