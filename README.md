@@ -941,7 +941,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
    
-     Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
+     Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
      
      Imaginaire https://analyticsindiamag.com/guide-to-nvidia-imaginaire-gan-library-in-python/
      
@@ -1737,6 +1737,8 @@ leverage of model architecture
    Multilingual Representations for Indian Languages https://tfhub.dev/google/MuRIL/1
    
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
+   
+   https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
    
    https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
    
