@@ -1287,7 +1287,7 @@ Generally used metrics
     
     loss-Built-in loss, Custom loss without external parameters,Custom loss with external parameters,Subclassing loss layer
     
-    https://analyticsindiamag.com/all-pytorch-loss-function/
+    https://analyticsindiamag.com/all-pytorch-loss-function/   https://analyticsindiamag.com/ultimate-guide-to-loss-functions-in-tensorflow-keras-api-with-python-implementation/
 
 Docker and Kubernetes
 
