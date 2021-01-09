@@ -872,7 +872,7 @@ anderson teset  use for check any  distribution
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base)
+       create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base)
      
      2.Localization of object in image
      
