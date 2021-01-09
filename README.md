@@ -404,6 +404,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     67.yfinance for finance data using     https://github.com/ranaroussi/yfinance
     
+    Downloading Historical Stock prices with Alpha Vantage  https://medium.com/towards-artificial-intelligence/downloading-historical-stock-prices-with-alpha-vantage-688edad46a6d
+    
     openml https://www.openml.org/search?type=data
     
     https://registry.opendata.aws/
@@ -736,6 +738,8 @@ anderson teset  use for check any  distribution
        use cases:
    
      2.Classification (output feature in categorical data form)
+     
+        Binary,Multi-class,Multi-labe
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,
         
