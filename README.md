@@ -894,13 +894,13 @@ anderson teset  use for check any  distribution
      
      5.Deepdream,Neural style transfer, Pose estimation 
      
+     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet
+     
+     3D POSE ESTIMATION
+     
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas
      
      imageai.Detection for Object detection
-     
-     DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet
-     
-     3D POSE ESTIMATION
      
      cnn-raccoon https://github.com/lucko515/cnn-raccoon
      
