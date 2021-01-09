@@ -1045,6 +1045,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      The Super Duper NLP Repo  https://notebooks.quantumstat.com/
      
+     ecco https://github.com/jalammar/ecco
+     
      autonlp  https://analyticsindiamag.com/hands-on-guide-to-using-autonlp-for-automating-sentiment-analysis/
         
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
@@ -1863,6 +1865,8 @@ leverage of model architecture
    https://github.com/slundberg/shap
    
    interpret https://github.com/interpretml/interpret
+   
+   ecco  https://github.com/jalammar/ecco https://jalammar.github.io/explaining-transformers/ https://www.eccox.io/
    
    dalex https://pypi.org/project/dalex/  https://blog.learningdollars.com/2021/01/02/ai-in-medical-diagnosis/
    
