@@ -1526,7 +1526,7 @@ leverage of model architecture
     
    16.reinforcement-learning-https://github.com/dennybritz/reinforcement-learning
     
-   17.keras-applications-https://github.com/keras-team/keras-applications  ,  https://github.com/keras-team/keras
+   17.keras-applications-https://github.com/keras-team/keras-applications  ,  https://github.com/keras-team/keras  https://keras.io/examples/
     
    18.opencv-https://github.com/opencv/opencv
     
