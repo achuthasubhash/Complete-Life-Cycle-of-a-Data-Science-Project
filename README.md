@@ -733,7 +733,7 @@ anderson teset  use for check any  distribution
        
        least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,
        
-       elsatic net,light gbm,ordinary least squares,cart,Stepwise RegressionMultivariate Adaptive Regression Splines 
+       elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines 
        
        use cases:
    
