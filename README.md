@@ -26,6 +26,8 @@ a.Web scraping  best article to refer-https://towardsdatascience.com/choose-the-
 
 https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=KJ|link|weekend-blogs|blogs|44087|0.875
 
+https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44204|0.375
+
 https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-scraping-software
 
 https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-hero-38051423256b
@@ -543,6 +545,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
        5.Mean normalization
        
        6.maximum absolute scaling
+       
+       https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/?utm_source=linkedin&utm_medium=KJ|link|high-performance-blog|blogs|44204|0.375
       
    Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
 performance if not distributed then use below methods to bring it guassian distribution
@@ -1073,6 +1077,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      googletrans (google Translator)   https://pypi.org/project/googletrans/
      
+      𝗴𝗧𝗧𝗦 for text to speech conversion , 𝘀𝗽𝗲𝗲𝗰𝗵_𝗿𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻
+     
      Speech-Transformer-tf2.0 https://github.com/xingchensong/Speech-Transformer-tf2.0
      
      The Super Duper NLP Repo  https://notebooks.quantumstat.com/
@@ -1601,6 +1607,8 @@ leverage of model architecture
    https://github.com/Tessellate-Imaging/monk_v1
    
    https://analyticsindiamag.com/build-computer-vision-applications-with-few-lines-of-code-using-monk-ai/
+   
+   pyradox https://github.com/Ritvik19/pyradox
    
    23.NLP-progress - https://github.com/sebastianruder/NLP-progress
    
@@ -2527,6 +2535,8 @@ https://data-flair.training/blogs/machine-learning-datasets/#   https://data-fla
 https://data-flair.training/blogs/artificial-intelligence-ai-tutorial/
 
 https://data-flair.training/blogs/cartoonify-image-opencv-python/  https://data-flair.training/blogs/python-project-calorie-calculator-django/
+
+https://www.theinsaneapp.com/2020/11/machine-learning-projects-with-source-codes.html https://www.theinsaneapp.com/2020/11/data-science-projects-with-source-code.html
 
 https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction-with-python-93932d9a7f7f
 
