@@ -841,6 +841,8 @@ anderson teset  use for check any  distribution
        
        Open AI Gym - https://gym.openai.com/
        
+       DeepMind’s MuZero
+       
        KerasRL https://github.com/keras-rl/keras-rl
        
        pyqlearning
@@ -1680,6 +1682,8 @@ leverage of model architecture
    
    51.for more cheatsheets-https://github.com/FavioVazquez/ds-cheatsheets  , https://medium.com/swlh/the-ultimate-cheat-sheet-for-data-scientists-d1e247b6a60c
    
+   https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
+   
    52.text2emotion-https://pypi.org/project/text2emotion/
    
    53.ExploriPy-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
@@ -2067,7 +2071,7 @@ determined to be unfair.
    
    131.datascience-fails  https://github.com/xLaszlo/datascience-fails
    
-   132.Jupyter notebook integration for Microsoft Excel  https://github.com/pyxll/pyxll-jupyter
+   132.Jupyter notebook integration for Microsoft Excel  https://github.com/pyxll/pyxll-jupyter https://towardsdatascience.com/python-jupyter-notebooks-in-excel-5ab34fc6439
    
    Voilà turns Jupyter notebooks into standalone web applications  https://github.com/voila-dashboards/voila https://github.com/voila-dashboards/voila-gridstack
    
