@@ -2238,7 +2238,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
 18.dask (parallel comptataion)   https://docs.dask.org/en/latest/   https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f#cid=av01_so-nvsh_en-us
 
-Modin , Vaex , Dask,cuDF
+Modin , Vaex , Dask,cuDF,mars,ray,rapids,joblib,snorkel   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
