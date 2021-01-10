@@ -895,6 +895,8 @@ anderson teset  use for check any  distribution
      4.objecttracking  (mean shit and optical flow and kalman filter)
      
        Tracktor++,Trackrcnn,Jde,DeepSORT 
+       
+       mmtracking https://github.com/open-mmlab/mmtracking
      
      5.Deepdream,Neural style transfer, Pose estimation 
      
@@ -906,19 +908,25 @@ anderson teset  use for check any  distribution
      
      3D Image Classification https://keras.io/examples/vision/3D_image_classification/
      
+     TensorFlow2.0-Examples  https://github.com/YunYang1994/TensorFlow2.0-Examples
+     
      unadversarial  https://github.com/microsoft/unadversarial/ https://analyticsindiamag.com/microsoft-research-unadversarial/
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas
      
      imageai.Detection for Object detection
      
-     cnn-raccoon https://github.com/lucko515/cnn-raccoon
+     cnn-raccoon  interactive dashboards for your Convolutional Neural Networks with a single line of code https://github.com/lucko515/cnn-raccoon
      
      deit https://github.com/facebookresearch/deit
      
+     awesome-computer-vision-models https://github.com/nerox8664/awesome-computer-vision-models
+     
      EfficientDet https://github.com/ravi02512/efficientdet-keras
      
-     Vision Transformer - Pytorch  https://github.com/lucidrains/vit-pytorch
+     Vision Transformer - Pytorch  https://github.com/lucidrains/vit-pytorch   https://github.com/alohays/awesome-visual-representation-learning-with-transformers 
+     
+     https://github.com/ashishpatel26/Vision-Transformer-Keras-Tensorflow-Pytorch-Examples https://github.com/google-research/vision_transformer 
      
      DeepLab-v3-plus Semantic Segmentation in TensorFlow https://github.com/rishizek/tensorflow-deeplab-v3-plus
      
@@ -938,6 +946,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Norfair https://github.com/tryolabs/norfair
      
      Remo Improves Image Management  https://www.freecodecamp.org/news/manage-computer-vision-datasets-in-python-with-remo/
+     
+     yolo https://github.com/zzh8829/yolov3-tf2 https://github.com/ultralytics/yolov5 https://github.com/ashishpatel26/Yolov5-King-of-object-Detection  https://github.com/sicara/tf2-yolov4
+     
+     clip https://github.com/openai/CLIP
    
    3.Recurrent neural network (use when series of data)
    
@@ -954,6 +966,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
      
      Imaginaire https://analyticsindiamag.com/guide-to-nvidia-imaginaire-gan-library-in-python/
+     
+     StyleFlow https://github.com/RameenAbdal/StyleFlow 
      
      https://github.com/hindupuravinash/the-gan-zoo
    
@@ -1034,8 +1048,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         Longformer: The Long-Document Transformer
         
         ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
+        
+        Tree-Transformer https://github.com/yaushian/Tree-Transformer
       
-     10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
+     10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
@@ -1052,6 +1068,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      SpeechRecognition
      
      googletrans (google Translator)   https://pypi.org/project/googletrans/
+     
+     Speech-Transformer-tf2.0 https://github.com/xingchensong/Speech-Transformer-tf2.0
      
      The Super Duper NLP Repo  https://notebooks.quantumstat.com/
      
@@ -1080,6 +1098,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      APPLICATIONS OF MACHINE TRANSLATIO-Text-to-text,Text-to-speech,Speech-to-text,Speech-to-speech,Image (of words)-to-text
      
      Google-GNMT (Tensorflow),Facebook-fairseq (Torch),Amazon-Sockeye (MXNet),NEMATUS (Theano),THUMT (Theano),OpenNMT (PyTorch),StanfordNMT (Matlab),DyNet-lamtram(CMU),EUREKA(MangoNMT
+     
+     awesome-gpt3 https://github.com/elyase/awesome-gpt3
      
      https://analyticsindiamag.com/best-nlp-based-seo-tools-for-2021/
      
@@ -1183,6 +1203,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       sktime-https://github.com/alan-turing-institute/sktime  https://analyticsindiamag.com/sktime-library/
       
+      atspy  https://github.com/firmai/atspy
+      
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
       https://www.machinelearningplus.com/time-series/time-series-analysis-python/
@@ -1220,6 +1242,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   Different Normalization Layers - https://towardsdatascience.com/different-normalization-layers-in-deep-learning-1a7214ff71d6
   
   Hyperparameters Number of hidden layers,Dropout,activation function,Weights initialization , learning rate,epoch, iterations and batch size
+  
+  DropBlock-Keras-Implementation https://github.com/iantimmis/DropBlock-Keras-Implementation   https://github.com/miguelvr/dropblock https://github.com/DHZS/tf-dropblock
   
 ***Hyperparameter tuning***
   
@@ -1471,7 +1495,9 @@ leverage of model architecture
     
     7.KDnuggets https://www.kdnuggets.com/
     
-    https://machinelearningknowledge.ai/
+    https://machinelearningknowledge.ai/   
+    
+    https://github.com/rushter/data-science-blogs
     
     https://www.datamuni.com/
     
@@ -1482,6 +1508,8 @@ leverage of model architecture
 ***BEST RESOURCES***
 
    https://amitness.com/toolbox/      https://github.com/khuyentran1401/Data-science   https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks
+   
+   https://towardsdatascience.com/data-science-tools-f16ecd91c95d
  
    1.paperswithcode-https://paperswithcode.com/methods
    
@@ -1497,6 +1525,16 @@ leverage of model architecture
    
    PyTorch Lightning-https://github.com/PyTorchLightning/pytorch-lightning
    
+   PYTORCH - https://pytorch.org/  https://pytorch.org/ecosystem/  https://pytorch.org/tutorials/ https://pytorch.org/docs/stable/index.html https://github.com/pytorch/pytorch
+   
+   PYTORCH Lightning  https://pytorchlightning.ai/community#projects   https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2
+   
+   𝗢𝗽𝗮𝗰𝘂𝘀 (𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗣𝘆𝗧𝗼𝗿𝗰𝗵 𝗺𝗼𝗱𝗲𝗹𝘀 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁𝗶𝗮𝗹 𝗽𝗿𝗶𝘃𝗮𝗰𝘆)-https://opacus.ai/ 
+   
+   light-face-detection  https://github.com/borhanMorphy/light-face-detection
+   
+   DALLE-pytorch https://github.com/lucidrains/DALLE-pytorch
+   
    PyTorch JIT -https://lernapparat.de/jit-optimization-intro/
    
    jax- https://github.com/google/jax
@@ -1508,6 +1546,7 @@ leverage of model architecture
    fastText - https://github.com/facebookresearch/fastText
    
    rapidminer-https://rapidminer.com/
+   
 
    5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/  https://deep-learning-drizzle.github.io/index.html
 
@@ -1853,11 +1892,7 @@ leverage of model architecture
    
    94.Facebook Open Sourced New Frameworks to Advance Deep Learning Research https://www.kdnuggets.com/2020/11/facebook-open-source-frameworks-advance-deep-learning-research.html
    
-   95.PYTORCH - https://pytorch.org/  https://pytorch.org/ecosystem/  https://pytorch.org/tutorials/ https://pytorch.org/docs/stable/index.html https://github.com/pytorch/pytorch
-   
-   PYTORCH Lightning  https://pytorchlightning.ai/community#projects   https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2
-   
-   𝗢𝗽𝗮𝗰𝘂𝘀 (𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗣𝘆𝗧𝗼𝗿𝗰𝗵 𝗺𝗼𝗱𝗲𝗹𝘀 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁𝗶𝗮𝗹 𝗽𝗿𝗶𝘃𝗮𝗰𝘆)-https://opacus.ai/
+   95.Software Engineering for Machine Learning  https://github.com/SE-ML/awesome-seml 
    
    96.Atlas web-based dashboard -https://www.atlas.dessa.com/
    
@@ -1866,6 +1901,8 @@ leverage of model architecture
    98.keras- https://keras.io/ https://keras.io/api/ https://keras.io/examples/
    
    99.High-Performance Jupyter Notebook - BlazingSQL Notebooks https://blazingsql.com/notebooks
+   
+   jupyter-tabnine https://github.com/wenmin-wu/jupyter-tabnine
    
    100.CV-pretrained-model-   https://github.com/balavenkatesh3322/CV-pretrained-modelCV-pretrained-model-
    
@@ -1966,6 +2003,8 @@ determined to be unfair.
    
    Biopython is a set of freely available tools  https://github.com/biopython/biopython
    
+   DeepIPW  https://github.com/ruoqi-liu/DeepIPW
+   
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
    114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/
@@ -2000,6 +2039,8 @@ determined to be unfair.
    
    https://mohammedazeem665.medium.com/plan-to-learn-machine-learning-data-science-in-2021-note-these-assets-from-2020-e84389d94097
    
+   data-engineer-roadmap  https://github.com/datastacktv/data-engineer-roadmap
+   
    126.https://neptune.ai/blog/best-data-science-tools-to-increase-machine-learning-model-understanding?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-data-science-tools-to-increase-machine-learning-model-understanding
    
    Visualizing the Execution of Python Program  http://pythontutor.com/  https://www.youtube.com/watch?v=pCSlWQjfCzA
@@ -2020,7 +2061,15 @@ determined to be unfair.
    
    129.Protect Your Neural Networks Against Hacking Adversarial Robustness Toolbox (ART) https://analyticsindiamag.com/adversarial-robustness-toolbox-art/
    
-   130.https://towardsdatascience.com/data-science-tools-f16ecd91c95d
+   130.
+   
+   131.datascience-fails  https://github.com/xLaszlo/datascience-fails
+   
+   132.Jupyter notebook integration for Microsoft Excel  https://github.com/pyxll/pyxll-jupyter
+   
+   Voilà turns Jupyter notebooks into standalone web applications  https://github.com/voila-dashboards/voila https://github.com/voila-dashboards/voila-gridstack
+   
+   133.rapidly develop data applications with Python  https://github.com/dstackai/dstack
    
    
 ***Follow leaders in the field to update yourself in the field***
@@ -2249,6 +2298,10 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
 18.dask (parallel comptataion)   https://docs.dask.org/en/latest/   https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f#cid=av01_so-nvsh_en-us
 
+thundergbm  Fast GBDTs and Random Forests on GPUs  https://github.com/Xtra-Computing/thundergbm
+
+thundersvm  https://github.com/Xtra-Computing/thundersvm
+
 Modin , Vaex , Dask,cuDF,mars,ray,rapids,joblib,snorkel   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
@@ -2414,7 +2467,7 @@ https://www.openblender.io/#/welcome
 
 79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
-80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX
+80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler
 
 https://www.tensorflow.org/neural_structured_learning 
 
