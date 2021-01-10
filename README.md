@@ -1359,6 +1359,13 @@ https://www.tensorflow.org/lite/models
 six different types of methods:
 1) Pruning
 2) Quantization
+   Post-Training Quantization
+   — Reduce Float16
+   — Hybrid Quantization
+   — Integer Quantization
+   2. During-Training Quantization
+   3. Post-Training Pruning
+   4. Post-Training Clustering
 3) Knowledge distillation
 4) Parameter sharing
 5) Tensor decomposition
