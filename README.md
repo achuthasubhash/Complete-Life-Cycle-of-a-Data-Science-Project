@@ -904,6 +904,8 @@ anderson teset  use for check any  distribution
      
      3D POSE ESTIMATION
      
+     3D Image Classification https://keras.io/examples/vision/3D_image_classification/
+     
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas
      
      imageai.Detection for Object detection
