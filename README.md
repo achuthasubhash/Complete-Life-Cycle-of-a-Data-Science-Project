@@ -890,6 +890,8 @@ anderson teset  use for check any  distribution
        
        PyTorch based low code object detection-https://github.com/alankbi/detecto
        
+       autogluon 
+       
        https://awesomeopensource.com/project/hoya012/deep_learning_object_detection
      
      4.objecttracking  (mean shit and optical flow and kalman filter)
@@ -1175,7 +1177,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       9.Holts winter,Holts linear trend
       
-      10.Auto_Timeseries by auto_ts 
+      10.Auto_Timeseries by auto-ts   
       
       AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/  https://github.com/AutoViML/Auto_TS
       
