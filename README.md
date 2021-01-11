@@ -1099,6 +1099,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Funnel-Transformer https://github.com/laiguokun/Funnel-Transformer
      
+     CLIP – Connecting Text To Images  https://analyticsindiamag.com/hands-on-guide-to-openais-clip-connecting-text-to-images/ 
+     
      Topic Modeling in One Line with Top2Vec https://towardsdatascience.com/topic-modeling-in-one-line-with-top2vec-a413991aa0ef
      
      MT5-https://venturebeat.com/2020/10/26/google-open-sources-mt5-a-multilingual-model-trained-on-over-101-languages/?utm_content=144321587&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
