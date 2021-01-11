@@ -845,7 +845,7 @@ anderson teset  use for check any  distribution
        
        Open AI Gym - https://gym.openai.com/
        
-       DeepMind’s MuZero
+       DeepMind’s MuZero  https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?utm_campaign=Learning%20Posts&utm_content=150411901&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323
        
        KerasRL https://github.com/keras-rl/keras-rl
        
