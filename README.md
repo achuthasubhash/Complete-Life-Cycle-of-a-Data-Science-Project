@@ -800,6 +800,8 @@ anderson teset  use for check any  distribution
      4.Blending
      
      5.Voting (Hard Voting,Soft Voting)
+     
+     Shapley value of players (models) in weighted voting games  https://github.com/benedekrozemberczki/shapley
    
    D.Reinforcement learning
    
