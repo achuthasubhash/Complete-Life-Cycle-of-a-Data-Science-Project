@@ -1187,6 +1187,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       deepar is global model
       
+      pmdarima for Auto ARIMA
+      
       GluonTS
       
       9.Holts winter,Holts linear trend
