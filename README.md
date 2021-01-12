@@ -1032,6 +1032,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      5.sentence embedding
     
        sense2vec,SENT2VEC,Universal sentence encoder
+       
+     Top2Vec 
      
      6.using rnn,lstm,gru
      
