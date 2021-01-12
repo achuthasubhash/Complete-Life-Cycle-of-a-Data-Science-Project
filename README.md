@@ -1698,6 +1698,8 @@ leverage of model architecture
    
    https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
    
+   https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
+   
    52.text2emotion-https://pypi.org/project/text2emotion/
    
    53.ExploriPy-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
