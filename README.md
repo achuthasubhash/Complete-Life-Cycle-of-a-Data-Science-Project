@@ -2000,6 +2000,8 @@ leverage of model architecture
    
    109.mlflow  https://mlflow.org/   An open source platform for the machine learning lifecycle
    
+   https://www.kdnuggets.com/2021/01/5-tools-effortless-data-science.html
+   
    https://neptune.ai/  
       
    https://azure.microsoft.com/en-us/services/machine-learning/
