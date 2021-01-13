@@ -922,7 +922,7 @@ anderson teset  use for check any  distribution
      
      unadversarial  https://github.com/microsoft/unadversarial/ https://analyticsindiamag.com/microsoft-research-unadversarial/
      
-     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas
+     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,concept whitening
      
      imageai.Detection for Object detection
      
