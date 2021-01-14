@@ -48,6 +48,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
       https://analyticsindiamag.com/complete-tutorial-on-twint-twitter-scraping-without-twitters-api/
       
+      https://developer.twitter.com/en/docs
+      
       Scraping Instagram -instaloader
     
     7.urllib
@@ -409,6 +411,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     67.yfinance for finance data using     https://github.com/ranaroussi/yfinance
     
     Downloading Historical Stock prices with Alpha Vantage  https://medium.com/towards-artificial-intelligence/downloading-historical-stock-prices-with-alpha-vantage-688edad46a6d
+    
+    Get Financial Data Directly into Python https://www.quandl.com/tools/python 
     
     openml https://www.openml.org/search?type=data
     
@@ -925,6 +929,8 @@ anderson teset  use for check any  distribution
      unadversarial  https://github.com/microsoft/unadversarial/ https://analyticsindiamag.com/microsoft-research-unadversarial/
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,concept whitening
+     
+     https://github.com/utkuozbulak/pytorch-cnn-visualizations
      
      imageai.Detection for Object detection
      
