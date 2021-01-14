@@ -390,6 +390,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     65.https://medium.com/towards-artificial-intelligence/best-datasets-for-machine-learning-data-science-computer-vision-nlp-ai-c9541058cf4f
     
+    https://towardsdatascience.com/data-repositories-for-almost-every-type-of-data-science-project-7aa2f98128b
+    
     https://github.com/MTG/freesound-datasets
     
     https://dataform.co/
@@ -603,7 +605,7 @@ anderson teset  use for check any  distribution
    
      clustering techniques to find it
      
-     Isolation Forest(for Big Data)
+     Isolation Forest(for Big Data),dbscan
       
    k.Sampling techniques
      
@@ -910,7 +912,7 @@ anderson teset  use for check any  distribution
      
      4.objecttracking  (mean shit and optical flow and kalman filter)
      
-       Tracktor++,Trackrcnn,Jde,DeepSORT 
+       Tracktor++,Trackrcnn,Jde,DeepSORT,FairMOT
        
        mmtracking https://github.com/open-mmlab/mmtracking
      
@@ -2095,7 +2097,7 @@ determined to be unfair.
    
    129.Protect Your Neural Networks Against Hacking Adversarial Robustness Toolbox (ART) https://analyticsindiamag.com/adversarial-robustness-toolbox-art/
    
-   130.
+   130.https://www.kdnuggets.com/2021/01/10-underappreciated-python-packages-machine-learning-practitioners.html
    
    131.datascience-fails  https://github.com/xLaszlo/datascience-fails
    
@@ -2150,7 +2152,7 @@ applications of data science in many industry
     
 ***Research blogs***
 
-   1.https://ai.facebook.com/   https://ai.facebook.com/blog/
+   1.https://ai.facebook.com/   https://ai.facebook.com/blog/  
     
    2.https://ai.googleblog.com/
     
@@ -2162,9 +2164,11 @@ applications of data science in many industry
    
    6.https://blogs.nvidia.com/blog/tag/artificial-intelligence/
    
-   7.https://blog.tensorflow.org/
+   https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html?m=1
    
-   8.https://pytorch.org/blog/
+   7.https://blog.tensorflow.org/  
+   
+   8.https://pytorch.org/blog/  
    
    https://www.kdnuggets.com/2020/01/top-10-ai-ml-articles-to-know.html
     
