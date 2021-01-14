@@ -153,6 +153,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
        Socrata - https://opendata.socrata.com/
    
     18)Google public datasets :- https://lnkd.in/g5dH8qE
+    
+    Statistics Canada https://www.statcan.gc.ca/eng/start  https://towardsdatascience.com/how-to-collect-data-from-statistics-canada-using-python-db8a81ce6475
    
     19)Quandl :- https://www.quandl.com  stock data
     
