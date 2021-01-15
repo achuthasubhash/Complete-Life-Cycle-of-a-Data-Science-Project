@@ -2182,6 +2182,8 @@ applications of data science in many industry
    
    8.https://pytorch.org/blog/  
    
+   kdnuggets.com  
+   
    https://www.kdnuggets.com/2020/01/top-10-ai-ml-articles-to-know.html
     
 ***RESEARCH LABS IN THE WORLD***   
