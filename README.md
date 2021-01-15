@@ -260,6 +260,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     39.Awesome Public Dataset- https://github.com/awesomedata/awesome-public-datasets
     
+    datasets  https://github.com/benedekrozemberczki/datasets
+    
     Hub https://github.com/activeloopai/Hub
     
     40.Datasets for Machine Learning on Graphs-https://ogb.stanford.edu/
@@ -1228,6 +1230,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
       
       time series visualization tool https://plotjuggler.io/
+      
+      fastquant — Backtest and optimize your trading strategies with only 3 lines of code  https://github.com/enzoampil/fastquant 
     
       pytorch-forecasting  https://github.com/jdb78/pytorch-forecasting  https://analyticsindiamag.com/guide-to-pytorch-time-series-forecasting/ 
       
