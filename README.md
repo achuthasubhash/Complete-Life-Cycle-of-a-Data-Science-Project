@@ -2036,6 +2036,10 @@ leverage of model architecture
 determined to be unfair.
 
    AI Fairness 360  evaluating fairness of AI/ML models and training data and mitigating bias in current models https://aif360.mybluemix.net/
+   
+   An ethics checklist for data scientists  https://deon.drivendata.org/
+   
+   
 
    112.MONAI Framework For Medical Imaging Research https://analyticsindiamag.com/monai-datatsets-managers/
    
