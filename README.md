@@ -1545,6 +1545,22 @@ leverage of model architecture
     
     https://www.datamuni.com/
     
+    https://blog.ml.cmu.edu/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow
+    
+    https://www.amazon.science/blog?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine+learning+blog&utm_content=machine+learning+blog&f0=0000016e-2ff1-d205-a5ef-aff9651e0000&s=0
+    
+    https://distill.pub/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow
+    
+    https://ai.googleblog.com/search/label/Machine%20Learning?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow
+    
+    https://neptune.ai/blog?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine+learning+blog&utm_content=machine+learning+blog
+    
+    https://bair.berkeley.edu/blog/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=best-machine-learning-blogs-to-follow
+    
+    https://deepmind.com/research?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=machine-learning-blogs-to-follow&filters=%7B%22category%22:%5B%22Research%22%5D%7D
+    
+    https://ai.facebook.com/blog/?utm_source=towardsai.net&utm_medium=referral&utm_campaign=marketing&utm_term=machine-learning-blog&utm_content=machine-learning-blogs-to-follow
+    
     https://becominghuman.ai/top-25-ai-and-machine-learning-blogs-for-data-scientists-9f121bcfd9a2
     
     https://medium.com/towards-artificial-intelligence/best-machine-learning-blogs-to-follow-ml-research-ai-3994e01967f9
