@@ -2121,6 +2121,8 @@ determined to be unfair.
    
    133.rapidly develop data applications with Python  https://github.com/dstackai/dstack
    
+   134.Google Research: Looking Back at 2020, and Forward to 2021  https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
