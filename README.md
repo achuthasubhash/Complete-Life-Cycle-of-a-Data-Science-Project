@@ -1968,6 +1968,8 @@ leverage of model architecture
    
    interpret https://github.com/interpretml/interpret
    
+   Captum   Model Interpretability for PyTorch  https://captum.ai/
+   
    ecco  https://github.com/jalammar/ecco https://jalammar.github.io/explaining-transformers/ https://www.eccox.io/
    
    dalex https://pypi.org/project/dalex/  https://blog.learningdollars.com/2021/01/02/ai-in-medical-diagnosis/
