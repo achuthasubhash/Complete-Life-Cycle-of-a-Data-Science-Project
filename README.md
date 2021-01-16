@@ -1773,6 +1773,8 @@ leverage of model architecture
    
    FlashML https://www.flash-ml.com/
    
+   igel  https://github.com/nidhaloff/igel
+   
    machine learning straight from Microsoft Excel https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/
    
    ENNUI-https://math.mit.edu/ennui/  https://github.com/martinjm97/ENNUI   https://www.youtube.com/watch?v=4VRC5k0Qs2w
@@ -1981,6 +1983,8 @@ leverage of model architecture
    
    https://github.com/slundberg/shap
    
+   Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash
+   
    interpret https://github.com/interpretml/interpret
     
    Captum   Model Interpretability for PyTorch  https://captum.ai/  https://github.com/pytorch/captum
@@ -2114,6 +2118,8 @@ determined to be unfair.
    
    Model debugging tools  Manifold https://eng.uber.com/manifold/
    
+   Icecream   https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc
+   
    Experiment tracking tools WandB  https://wandb.ai/site
    
    Comet  manage and organize machine learning experiments https://www.comet.ml/site/
@@ -2137,6 +2143,8 @@ determined to be unfair.
    133.rapidly develop data applications with Python  https://github.com/dstackai/dstack
    
    134.Google Research: Looking Back at 2020, and Forward to 2021  https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html
+   
+   135.cortex  Run inference at scale   https://www.cortex.dev/   https://github.com/cortexlabs/cortex
    
    
 ***Follow leaders in the field to update yourself in the field***
@@ -2408,6 +2416,8 @@ Python Tricks for Keeping Track of Your Data  https://towardsdatascience.com/pyt
 27.numexpr (incerease speed of execution of numpy)  https://github.com/pydata/numexpr
 
 pypolars instead of  pandas (beating-pandas-performance)  https://www.youtube.com/watch?v=1-O_KnLZEso
+
+50X speed up your Pandas apply function https://github.com/jmcarpenter2/swifter
 
 JAX  Autograd and XLA, facilitating high-performance machine learning research https://github.com/google/jax
 
