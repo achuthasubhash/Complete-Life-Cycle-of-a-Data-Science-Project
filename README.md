@@ -2390,7 +2390,7 @@ Python Tricks for Keeping Track of Your Data  https://towardsdatascience.com/pyt
 
 27.numexpr (incerease speed of execution of numpy)  https://github.com/pydata/numexpr
 
-pypolars instead of  pandas (beating-pandas-performance)
+pypolars instead of  pandas (beating-pandas-performance)  https://www.youtube.com/watch?v=1-O_KnLZEso
 
 JAX  Autograd and XLA, facilitating high-performance machine learning research https://github.com/google/jax
 
