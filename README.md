@@ -1095,7 +1095,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      googletrans (google Translator)   https://pypi.org/project/googletrans/
      
-      𝗴𝗧𝗧𝗦 for text to speech conversion , 𝘀𝗽𝗲𝗲𝗰𝗵_𝗿𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻
+     lang-identification   Google Compact Language Detector,FastText
+     
+     𝗴𝗧𝗧𝗦 for text to speech conversion , 𝘀𝗽𝗲𝗲𝗰𝗵_𝗿𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻
      
      Speech-Transformer-tf2.0 https://github.com/xingchensong/Speech-Transformer-tf2.0
      
