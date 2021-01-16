@@ -262,6 +262,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     datasets  https://github.com/benedekrozemberczki/datasets
     
+    kdnuggets  https://www.kdnuggets.com/datasets/index.html
+    
     Hub https://github.com/activeloopai/Hub
     
     40.Datasets for Machine Learning on Graphs-https://ogb.stanford.edu/
@@ -764,6 +766,10 @@ anderson teset  use for check any  distribution
      1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,plsr,pcr,autoencoders,kpca,lsa,Factor Analysis,
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
+     
+     https://www.kdnuggets.com/2020/12/algorithms-explained-k-means-k-medoids-clustering.html
+     
+     K-Means 8x faster, 27x lower error than Scikit-learn in 25 lines   https://www.kdnuggets.com/2021/01/k-means-faster-lower-error-scikit-learn.html#.YAHAAIpnx4A.linkedin
    
      3.Association Rule Learning - support,lift,confidence,aprior,elcat,Fp-growth,Fp-tree construction, association_rules
    
@@ -1404,9 +1410,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     DS-with-PySimpleGUI  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
-    
-    
-    
+   
     web application(dash)- https://dash.plotly.com/
     
     Create a Website with AIhttps://www.bookmark.com/ 
@@ -1442,6 +1446,8 @@ TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.htm
 Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/performance/post_training_quantization
 
 pruning 
+
+Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications  https://github.com/Tencent/PocketFlow
 
 leverage of model architecture
 
@@ -1521,7 +1527,7 @@ leverage of model architecture
 
     1.Towards data science-https://towardsdatascience.com/
 
-    2.Analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar
+    2.Analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar       https://analyticsindiamag.com/
 
     3.Medium-https://medium.com/
     
@@ -1529,9 +1535,9 @@ leverage of model architecture
     
     5.ML+  -https://www.machinelearningplus.com/
     
-    6.analyticsinsight https://www.analyticsinsight.net/category/latest-news/
+    6.analyticsinsight https://www.analyticsinsight.net/category/latest-news/   
     
-    7.KDnuggets https://www.kdnuggets.com/
+    7.KDnuggets https://www.kdnuggets.com/  https://www.kdnuggets.com/news/index.html   
     
     https://machinelearningknowledge.ai/   
     
@@ -1545,7 +1551,9 @@ leverage of model architecture
 
 ***BEST RESOURCES***
 
-   https://amitness.com/toolbox/      https://github.com/khuyentran1401/Data-science   https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks
+   https://amitness.com/toolbox/      https://github.com/khuyentran1401/Data-science   https://github.com/ml-tooling/best-of-ml-python
+   
+   https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks
    
    https://towardsdatascience.com/data-science-tools-f16ecd91c95d        https://mathdatasimplified.com/
  
@@ -1560,6 +1568,8 @@ leverage of model architecture
    3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
 
    4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
+   
+   https://www.kdnuggets.com/2019/08/pytorch-cheat-sheet-beginners.html  https://www.kdnuggets.com/2019/04/nlp-pytorch.html
    
    PyTorch Lightning-https://github.com/PyTorchLightning/pytorch-lightning
    
@@ -1585,7 +1595,6 @@ leverage of model architecture
    
    rapidminer-https://rapidminer.com/
    
-
    5.deep-learning-drizzle-https://deep-learning-drizzle.github.io/  https://deep-learning-drizzle.github.io/index.html
 
    6.Fastaibook-https://github.com/fastai/fastbook , https://course.fast.ai/   https://www.fast.ai/2019/07/08/fastai-nlp/  https://www.fast.ai/2020/08/21/fastai2-launch/
@@ -1716,6 +1725,10 @@ leverage of model architecture
    
    https://data-flair.training/blogs/spark-tutorial/  Spark Core,Spark SQL,Spark Streaming,Spark MLlib,Spark GraphX,etc...
    
+   Machine Learning with Optimus on Apache Spark https://www.kdnuggets.com/2017/11/machine-learning-with-optimus.html
+   
+   BigDL: Distributed Deep Learning Framework for Apache Spark  https://github.com/intel-analytics/BigDL
+   
    51.for more cheatsheets-https://github.com/FavioVazquez/ds-cheatsheets  , https://medium.com/swlh/the-ultimate-cheat-sheet-for-data-scientists-d1e247b6a60c
    
    https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
@@ -1839,6 +1852,8 @@ leverage of model architecture
    Multilingual Representations for Indian Languages https://tfhub.dev/google/MuRIL/1
    
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
+   
+   https://github.com/kabartay/OpenUnivCourses
    
    https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
    
@@ -1967,8 +1982,8 @@ leverage of model architecture
    https://github.com/slundberg/shap
    
    interpret https://github.com/interpretml/interpret
-   
-   Captum   Model Interpretability for PyTorch  https://captum.ai/
+    
+   Captum   Model Interpretability for PyTorch  https://captum.ai/  https://github.com/pytorch/captum
    
    ecco  https://github.com/jalammar/ecco https://jalammar.github.io/explaining-transformers/ https://www.eccox.io/
    
@@ -2043,8 +2058,6 @@ determined to be unfair.
    
    An ethics checklist for data scientists  https://deon.drivendata.org/
    
-   
-
    112.MONAI Framework For Medical Imaging Research https://analyticsindiamag.com/monai-datatsets-managers/
    
    torchio https://github.com/fepegar/torchio https://analyticsindiamag.com/torchio-3d-medical-imaging/
@@ -2295,6 +2308,8 @@ AutoNeuro   https://autoneuro.challenge-ineuron.in/
     AdaNet is a lightweight TensorFlow-based framework
 
 11. pycaret- https://pycaret.org/
+
+Machine Learning in Power BI using PyCaret  https://www.kdnuggets.com/2020/05/machine-learning-power-bi-pycaret.html
 
 mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
