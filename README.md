@@ -1103,7 +1103,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      The Super Duper NLP Repo  https://notebooks.quantumstat.com/
      
-     ecco https://github.com/jalammar/ecco
+     ecco https://github.com/jalammar/ecco  https://www.eccox.io/   https://www.youtube.com/watch?v=rHrItfNeuh0&feature=youtu.be 
      
      autonlp  https://analyticsindiamag.com/hands-on-guide-to-using-autonlp-for-automating-sentiment-analysis/
         
