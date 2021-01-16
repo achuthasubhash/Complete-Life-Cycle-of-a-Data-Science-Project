@@ -2108,6 +2108,16 @@ determined to be unfair.
    
    117.mlflow https://mlflow.org/docs/latest/index.html
    
+   MLOps  https://github.com/microsoft/MLOps
+   
+   DevOps  https://github.com/collections/devops-tools
+   
+   airflow https://github.com/apache/airflow
+   
+   kubeflow https://github.com/kubeflow/kubeflow
+   
+   kubernetes  https://github.com/kubernetes/kubernetes
+   
    pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
    
    118.algorithm to use by problem https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-deep-learning-algorithm-to-use-by-problem
