@@ -416,6 +416,10 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     67.yfinance for finance data using     https://github.com/ranaroussi/yfinance
     
+    import fix_yahoo_finance as yf
+    
+    https://www.analyticsvidhya.com/blog/2021/01/bear-run-or-bull-run-can-reinforcement-learning-help-in-automated-trading/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+AnalyticsVidhya+%28Analytics+Vidhya%29
+    
     Downloading Historical Stock prices with Alpha Vantage  https://medium.com/towards-artificial-intelligence/downloading-historical-stock-prices-with-alpha-vantage-688edad46a6d
     
     Get Financial Data Directly into Python https://www.quandl.com/tools/python 
