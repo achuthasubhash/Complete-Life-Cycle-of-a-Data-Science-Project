@@ -1893,6 +1893,10 @@ leverage of model architecture
    
    https://github.com/kabartay/OpenUnivCourses
    
+   https://www.kdnuggets.com/2018/11/10-free-must-see-courses-machine-learning-data-science.html  
+   
+   https://www.kdnuggets.com/2018/12/10-more-free-must-see-courses-machine-learning-data-science.html
+   
    https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
    
    https://www.theinsaneapp.com/2020/11/free-machine-learning-data-science-and-python-books.html
@@ -1934,6 +1938,8 @@ leverage of model architecture
    https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning
    
    https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b
+   
+   https://www.kdnuggets.com/2020/02/free-mathematics-courses-data-science-machine-learning.html
     
    https://towardsai.net/p/data-science/how-much-math-do-i-need-in-data-science-d05d83f8cb19
    
@@ -2185,6 +2191,8 @@ determined to be unfair.
    132.Jupyter notebook integration for Microsoft Excel  https://github.com/pyxll/pyxll-jupyter https://towardsdatascience.com/python-jupyter-notebooks-in-excel-5ab34fc6439
    
    Voilà turns Jupyter notebooks into standalone web applications  https://github.com/voila-dashboards/voila https://github.com/voila-dashboards/voila-gridstack
+   
+   How to Optimize Your Jupyter Notebook  https://www.kdnuggets.com/2020/01/optimize-jupyter-notebook.html
    
    133.rapidly develop data applications with Python  https://github.com/dstackai/dstack
    
