@@ -614,7 +614,9 @@ anderson teset  use for check any  distribution
      clustering techniques to find it
      
      Isolation Forest(for Big Data),dbscan
-      
+     
+     Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw
+     
    k.Sampling techniques
      
      a.biased sampling
