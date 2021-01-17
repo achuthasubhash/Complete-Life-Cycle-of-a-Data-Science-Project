@@ -2162,6 +2162,8 @@ determined to be unfair.
    
    https://mohammedazeem665.medium.com/plan-to-learn-machine-learning-data-science-in-2021-note-these-assets-from-2020-e84389d94097
    
+   https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+   
    data-engineer-roadmap  https://github.com/datastacktv/data-engineer-roadmap
    
    126.https://neptune.ai/blog/best-data-science-tools-to-increase-machine-learning-model-understanding?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-data-science-tools-to-increase-machine-learning-model-understanding
