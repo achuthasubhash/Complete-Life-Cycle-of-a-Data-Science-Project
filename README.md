@@ -366,7 +366,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     60.Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    Synthetic data library https://github.com/finos/datahub
+    Synthetic data library https://github.com/finos/datahub https://github.com/agmmnn/awesome-blender https://opendata.blender.org/ https://www.youtube.com/watch?v=eZwOeBkLL8E
     
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
     
@@ -939,6 +939,8 @@ anderson teset  use for check any  distribution
      3D POSE ESTIMATION
      
      3D Image Classification https://keras.io/examples/vision/3D_image_classification/
+     
+     albumentations https://github.com/albumentations-team/albumentations
      
      TensorFlow2.0-Examples  https://github.com/YunYang1994/TensorFlow2.0-Examples
      
