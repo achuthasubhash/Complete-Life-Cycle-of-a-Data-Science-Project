@@ -950,6 +950,8 @@ anderson teset  use for check any  distribution
      
      https://github.com/utkuozbulak/pytorch-cnn-visualizations
      
+     Mediapipe for Python https://google.github.io/mediapipe/
+     
      imageai.Detection for Object detection
      
      cnn-raccoon  interactive dashboards for your Convolutional Neural Networks with a single line of code https://github.com/lucko515/cnn-raccoon
@@ -2041,6 +2043,8 @@ leverage of model architecture
    
    eli5  https://eli5.readthedocs.io/en/latest/
    
+   TabNet: Attentive Interpretable Tabular Learning  https://github.com/dreamquark-ai/tabnet
+   
    skater https://oracle.github.io/Skater/
    
    what if tool https://pair-code.github.io/what-if-tool/  https://pair-code.github.io/what-if-tool/demos/uci.html  
@@ -2197,6 +2201,8 @@ determined to be unfair.
    Voilà turns Jupyter notebooks into standalone web applications  https://github.com/voila-dashboards/voila https://github.com/voila-dashboards/voila-gridstack
    
    How to Optimize Your Jupyter Notebook  https://www.kdnuggets.com/2020/01/optimize-jupyter-notebook.html
+   
+   TabNet: Attentive Interpretable Tabular Learning  https://github.com/dreamquark-ai/tabnet
    
    133.rapidly develop data applications with Python  https://github.com/dstackai/dstack
    
