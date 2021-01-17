@@ -1143,6 +1143,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      awesome-gpt3 https://github.com/elyase/awesome-gpt3
      
+     Robustness Gym: Evaluation Toolkit for NLP https://github.com/robustness-gym/robustness-gym
+     
      https://analyticsindiamag.com/best-nlp-based-seo-tools-for-2021/
      
      https://www.kdnuggets.com/2020/05/best-nlp-deep-learning-course-free.html   https://analyticsindiamag.com/flair-hands-on-guide-to-robust-nlp-framework-built-upon-pytorch/
@@ -1367,6 +1369,8 @@ Generally used metrics
     
     metric-Built-in metrics, Custom metric without external parameters,Custom metric with external parameters,Subclassing custom metric layer
     
+    Robustness Gym: Evaluation Toolkit for NLP https://github.com/robustness-gym/robustness-gym
+    
     https://medium.com/swlh/custom-loss-and-custom-metrics-using-keras-sequential-model-api-d5bcd3a4ff28
     
     loss-Built-in loss, Custom loss without external parameters,Custom loss with external parameters,Subclassing loss layer
@@ -1474,6 +1478,8 @@ leverage of model architecture
 ***research paper***-https://arxiv.org/ ,https://arxiv.org/list/cs.LG/recent,  https://www.kaggle.com/Cornell-University/arxiv
 
    arXiv.org https://arxiv.org/list/cs.AI/recent  https://arxiv.org/list/stat.ML/recent  https://arxiv.org/list/cs.CL/recent  https://arxiv.org/list/cs.CV/recent
+   
+   https://github.com/amitness/papers-with-video
    
    Semantic Scholar searches: https://www.semanticscholar.org/search?q=%22neural%20networks%22&sort=relevance&ae=false 
    
