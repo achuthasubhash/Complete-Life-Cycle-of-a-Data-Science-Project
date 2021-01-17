@@ -1811,9 +1811,15 @@ leverage of model architecture
    
    Accord.net http://accord-framework.net/
    
+   H2O Driverless AI https://www.h2o.ai/products/h2o-driverless-ai/
+   
    Rapid Miner https://rapidminer.com/
    
    opennn https://www.opennn.net/
+   
+   datarobot https://www.datarobot.com/
+   
+   dataiku https://www.dataiku.com/product/get-started/
    
    orange https://orange.biolab.si/
    
