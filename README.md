@@ -50,7 +50,11 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       https://developer.twitter.com/en/docs
       
-      Scraping Instagram -instaloader
+      Scraping Instagram -instaloader  https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/
+      
+      Scrape Wikipedia  wikipedia
+      
+      Web Scraping to Create a CSV File  https://thecleverprogrammer.com/2020/08/08/web-scraping-to-create-csv/
     
     7.urllib
     
