@@ -881,6 +881,8 @@ anderson teset  use for check any  distribution
        
        tensorforce https://tensorforce.readthedocs.io/en/latest/index.html  
        
+       Practical_RL https://github.com/yandexdataschool/Practical_RL
+       
        rl_coach https://github.com/IntelLabs/coach#installation        MushroomRL https://mushroomrl.readthedocs.io/en/latest/
        
        TFAgents  https://github.com/tensorflow/agents (https://www.tensorflow.org/agents)   https://deepmind.com/blog/article/trfl    
@@ -1838,6 +1840,8 @@ leverage of model architecture
    datarobot https://www.datarobot.com/
    
    dataiku https://www.dataiku.com/product/get-started/
+   
+   ludwig  https://github.com/ludwig-ai/ludwig
    
    orange https://orange.biolab.si/
    
