@@ -944,6 +944,10 @@ anderson teset  use for check any  distribution
      
      3D Image Classification https://keras.io/examples/vision/3D_image_classification/
      
+     TensorFlow 2 Object Detection API tutorial https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
+     
+     https://blog.paperspace.com/how-to-train-scaled-yolov4-object-detection/
+     
      albumentations https://github.com/albumentations-team/albumentations
      
      TensorFlow2.0-Examples  https://github.com/YunYang1994/TensorFlow2.0-Examples
@@ -1390,6 +1394,8 @@ Generally used metrics
     https://analyticsindiamag.com/all-pytorch-loss-function/   https://analyticsindiamag.com/ultimate-guide-to-loss-functions-in-tensorflow-keras-api-with-python-implementation/
 
 Docker and Kubernetes
+
+https://towardsdatascience.com/deploy-machine-learning-app-built-using-streamlit-and-pycaret-on-google-kubernetes-engine-fd7e393d99cb
 
 simplest way to serve your ML models on Kubernetes  https://towardsdatascience.com/the-simplest-way-to-serve-your-ml-models-on-kubernetes-5323a380bf9f
 
@@ -2045,7 +2051,7 @@ leverage of model architecture
    
    ecco  https://github.com/jalammar/ecco https://jalammar.github.io/explaining-transformers/ https://www.eccox.io/
    
-   dalex https://pypi.org/project/dalex/  https://blog.learningdollars.com/2021/01/02/ai-in-medical-diagnosis/
+   dalex https://pypi.org/project/dalex/  https://blog.learningdollars.com/2021/01/02/ai-in-medical-diagnosis/ https://www.kdnuggets.com/2020/11/dalex-explain-tensorflow-model.html
    
    google AI Explanations for AI Platform https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/overview?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200423-Intro-Aiexp
    
