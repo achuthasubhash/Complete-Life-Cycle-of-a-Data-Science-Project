@@ -1099,6 +1099,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
      10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
+        https://analyticsindiamag.com/top-ten-bert-alternatives-for-nlu-projects/
+     
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
         https://jalammar.github.io/explaining-transformers/
