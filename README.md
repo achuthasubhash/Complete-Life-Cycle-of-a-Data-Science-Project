@@ -190,7 +190,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://waliamrinal.medium.com/top-and-easy-to-use-open-source-image-labelling-tools-for-machine-learning-projects-ffd9d5af4a20
     
-    https://github.com/heartexlabs/awesome-data-labeling
+    https://github.com/heartexlabs/awesome-data-labeling  
+    
+    Label a Dataset with a Few Lines of Code https://eric-landau.medium.com/label-a-dataset-with-a-few-lines-of-code-45c140ff119d
     
     https://analyticsindiamag.com/complete-guide-to-data-labelling-tools/
    
@@ -2670,6 +2672,8 @@ Project List B - Comparatively Difficult,Domain-Specific Chatbot,Fake News Detec
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
 
 https://ml-showcase.paperspace.com/              https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
+https://dev.to/hb/30-machine-learning-ai-data-science-project-ideas-gf5
 
 https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
 
