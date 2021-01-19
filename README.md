@@ -2485,7 +2485,7 @@ pandas chunksize,Modin , Vaex , Dask,cuDF,mars,ray,rapids,joblib,snorkel   https
 
    pandas-visual-analysis -https://analyticsindiamag.com/hands-on-guide-to-pandas-visual-analysis-way-to-speed-up-data-visualization/
 
-25.hummingbird (make code fastly exexcute) https://pypi.org/project/Hummingbird/
+25.hummingbird (make code fastly exexcute) https://pypi.org/project/Hummingbird/  https://analyticsindiamag.com/guide-to-hummingbird-a-microsofts-library-for-expediting-traditional-machine-learning-models/
 
 CUML- increase the speed of training your machine learning model https://towardsdatascience.com/train-your-machine-learning-model-150x-faster-with-cuml-69d0768a047a
 
