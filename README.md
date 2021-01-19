@@ -1442,6 +1442,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     DS-with-PySimpleGUI  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
+    
+    Bamboolib https://medium.com/ai-in-plain-english/bamboolib-a-data-warriors-weapon-9f734f4c2553
    
     web application(dash)- https://dash.plotly.com/
     
