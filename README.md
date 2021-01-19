@@ -1277,6 +1277,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       atspy  https://github.com/firmai/atspy
       
+      tcn https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8
+      
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
       https://www.machinelearningplus.com/time-series/time-series-analysis-python/
