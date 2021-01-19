@@ -1111,7 +1111,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
-        https://jalammar.github.io/explaining-transformers/
+        https://jalammar.github.io/explaining-transformers/    https://jalammar.github.io/hidden-states/
         
      11.Speech
        
