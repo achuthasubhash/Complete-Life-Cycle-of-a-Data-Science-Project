@@ -96,6 +96,8 @@ d.Databases
 
   sql,sql lite,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase,oracle db
   
+  sql in  python https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e
+  
 Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeling/docs?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200503-Data-Labeling
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
@@ -1307,6 +1309,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
   Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief
   
+  https://analyticsindiamag.com/ultimate-guide-to-pytorch-optimizers/    https://analyticsindiamag.com/guide-to-tensorflow-keras-optimizers/
+  
   Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation,tree purning
   
   Learning rate scheduling,Weight Decay,Gradient clipping
@@ -1446,6 +1450,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     Bamboolib https://medium.com/ai-in-plain-english/bamboolib-a-data-warriors-weapon-9f734f4c2553
    
     web application(dash)- https://dash.plotly.com/
+    
+    https://towardsdatascience.com/pycaret-2-1-is-here-whats-new-4aae6a7f636a
     
     Create a Website with AIhttps://www.bookmark.com/ 
     
@@ -1737,7 +1743,9 @@ leverage of model architecture
    
    36.awesome Data Science-https://github.com/academic/awesome-datascience
    
-   37.mlops-https://github.com/visenger/awesome-mlops
+   37.mlops-https://github.com/visenger/awesome-mlops  
+   
+   https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective
    
    38.gym-https://github.com/openai/gym
    
@@ -1930,6 +1938,8 @@ leverage of model architecture
    65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
    
    https://www.deeplearningbook.org/    http://d2l.ai/
+   
+   https://www.datasciencecentral.com/profiles/blogs/free-500-page-book-on-applications-of-deep-neural-networks-1  https://github.com/jeffheaton/t81_558_deep_learning
    
    https://www.theinsaneapp.com/2020/12/free-data-science-books-pdf.html
    
