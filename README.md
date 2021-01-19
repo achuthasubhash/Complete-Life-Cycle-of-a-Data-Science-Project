@@ -2465,7 +2465,7 @@ thundergbm  Fast GBDTs and Random Forests on GPUs  https://github.com/Xtra-Compu
 
 thundersvm  https://github.com/Xtra-Computing/thundersvm
 
-Modin , Vaex , Dask,cuDF,mars,ray,rapids,joblib,snorkel   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandas chunksize,Modin , Vaex , Dask,cuDF,mars,ray,rapids,joblib,snorkel   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
