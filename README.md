@@ -1303,6 +1303,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    K.One-shot learning,Zero-shot learning
    
+   l.Incremental Training https://blog.rasa.com/rasa-new-incremental-training/
+   
    https://github.com/ChristosChristofidis/awesome-deep-learning
    
    101 Machine Learning Algorithms for Data Science with Cheat Sheets https://blog-datasciencedojo-com.cdn.ampproject.org/c/s/blog.datasciencedojo.com/machine-learning-algorithms/amp/
