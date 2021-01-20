@@ -2427,7 +2427,9 @@ AutoNeuro   https://autoneuro.challenge-ineuron.in/
 
 11. pycaret- https://pycaret.org/
 
-Machine Learning in Power BI using PyCaret  https://www.kdnuggets.com/2020/05/machine-learning-power-bi-pycaret.html
+Machine Learning in Power BI using PyCaret  https://www.kdnuggets.com/2020/05/machine-learning-power-bi-pycaret.html  
+
+https://towardsdatascience.com/build-your-first-anomaly-detector-in-power-bi-using-pycaret-2b41b363244e
 
 mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
