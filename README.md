@@ -2220,6 +2220,10 @@ determined to be unfair.
    
    MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/
    
+   neptune https://neptune.ai/
+   
+   weights & biases https://wandb.ai/site
+   
    127.19 Best JupyterLab Extensions for Machine Learning  https://neptune.ai/blog/jupyterlab-extensions-for-machine-learning
    
    128.coreml https://developer.apple.com/machine-learning/core-ml/
