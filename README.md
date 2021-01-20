@@ -1979,7 +1979,9 @@ leverage of model architecture
    
    https://github.com/hrnbot/Basic-Mathematics-for-Machine-Learning
    
-   https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b
+   https://towardsdatascience.com/the-roadmap-of-mathematics-for-deep-learning-357b3db8569b 
+   
+   https://medium.com/towards-artificial-intelligence/basic-linear-algebra-for-deep-learning-and-machine-learning-ml-python-tutorial-444e23db3e9e
    
    https://www.kdnuggets.com/2020/02/free-mathematics-courses-data-science-machine-learning.html
     
