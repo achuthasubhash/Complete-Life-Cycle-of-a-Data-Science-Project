@@ -2668,6 +2668,8 @@ https://www.tensorflow.org/neural_structured_learning
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
+https://analyticsindiamag.com/complete-guide-to-autogl-the-latest-automl-framework-for-graph-datasets/
+
 open-source project for analysis of graphs or networks GrasPy / graspologic  https://graspy.neurodata.io/
 
 https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html
