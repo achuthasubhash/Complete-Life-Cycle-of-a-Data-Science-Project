@@ -962,7 +962,7 @@ anderson teset  use for check any  distribution
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,concept whitening
      
-     https://github.com/utkuozbulak/pytorch-cnn-visualizations
+     https://github.com/utkuozbulak/pytorch-cnn-visualizations 
      
      Mediapipe for Python https://google.github.io/mediapipe/
      
@@ -970,8 +970,8 @@ anderson teset  use for check any  distribution
      
      cnn-raccoon  interactive dashboards for your Convolutional Neural Networks with a single line of code https://github.com/lucko515/cnn-raccoon
      
-     deit https://github.com/facebookresearch/deit
-     
+     deit https://github.com/facebookresearch/deit   https://wandb.ai/thibault-neveu/detr-tensorflow-log/reports/Finetuning-DETR-Object-Detection-with-Transformers-on-Tensorflow-A-step-by-step-tutorial--VmlldzozOTYyNzQ  https://github.com/Visual-Behavior/detr-tensorflow
+       
      awesome-computer-vision-models https://github.com/nerox8664/awesome-computer-vision-models
      
      EfficientDet https://github.com/ravi02512/efficientdet-keras
@@ -1107,7 +1107,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         Tree-Transformer https://github.com/yaushian/Tree-Transformer
       
-     10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
+     10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
         https://analyticsindiamag.com/top-ten-bert-alternatives-for-nlu-projects/
      
@@ -1148,6 +1148,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      ConvBert https://github.com/yitu-opensource/ConvBert
      
      SentenceTransformers  https://www.sbert.net/
+     
+     Reformer – The Efficient Transformer  https://analyticsindiamag.com/hands-on-guide-to-reformer-the-efficient-transformer/
      
      Funnel-Transformer https://github.com/laiguokun/Funnel-Transformer
      
