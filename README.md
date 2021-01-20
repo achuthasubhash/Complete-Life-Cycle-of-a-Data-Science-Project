@@ -268,6 +268,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     39.Awesome Public Dataset- https://github.com/awesomedata/awesome-public-datasets
     
+    https://github.com/the-pudding/data
+    
     datasets  https://github.com/benedekrozemberczki/datasets
     
     kdnuggets  https://www.kdnuggets.com/datasets/index.html
