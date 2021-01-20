@@ -1837,6 +1837,8 @@ leverage of model architecture
    
    igel  https://github.com/nidhaloff/igel
    
+   obviously  https://www.obviously.ai/
+   
    machine learning straight from Microsoft Excel https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/
    
    ENNUI-https://math.mit.edu/ennui/  https://github.com/martinjm97/ENNUI   https://www.youtube.com/watch?v=4VRC5k0Qs2w
