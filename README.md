@@ -2208,6 +2208,8 @@ determined to be unfair.
    
    125.roadmap https://github.com/graykode/nlp-roadmap
    
+   https://www.freecodecamp.org/news/data-science-learning-roadmap/
+   
    https://mohammedazeem665.medium.com/plan-to-learn-machine-learning-data-science-in-2021-note-these-assets-from-2020-e84389d94097
    
    https://github.com/AMAI-GmbH/AI-Expert-Roadmap
