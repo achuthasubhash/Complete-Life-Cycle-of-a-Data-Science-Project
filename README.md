@@ -2174,6 +2174,8 @@ determined to be unfair.
    
    https://mlops.githubapp.com/
    
+   https://olympus.greatlearning.in/courses/12956?_gl=1*ljadx1*_ga*NjMxNjUxNjM2LjE2MDYyMDYzNDM.*_ga_TH52C020P8*MTYxMTIyOTQ0MS40Ny4wLjE2MTEyMjk0NDEuNjA.
+   
    115.Code faster https://www.tabnine.com/
    
    116.Pytest for Data Scientists https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c
