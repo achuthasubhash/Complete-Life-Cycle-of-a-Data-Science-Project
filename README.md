@@ -1757,6 +1757,8 @@ leverage of model architecture
    
    https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective
    
+   https://ml-ops.org/content/mlops-principles
+   
    38.gym-https://github.com/openai/gym
    
    39.Super Duper NLP Repo-https://notebooks.quantumstat.com/  https://models.quantumstat.com/  https://miro.com/app/board/o9J_kqndLls=/ https://datasets.quantumstat.com/  
@@ -2263,6 +2265,8 @@ determined to be unfair.
    134.Google Research: Looking Back at 2020, and Forward to 2021  https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html
    
    135.cortex  Run inference at scale   https://www.cortex.dev/   https://github.com/cortexlabs/cortex
+   
+   136.https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
    
    
 ***Follow leaders in the field to update yourself in the field***
