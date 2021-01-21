@@ -1283,6 +1283,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       tcn https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8
       
+      fine Tune Your Machine Learning Models To Improve Forecasting Accuracy https://www.kdnuggets.com/2019/01/fine-tune-machine-learning-models-forecasting.html
+      
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
       https://www.machinelearningplus.com/time-series/time-series-analysis-python/
