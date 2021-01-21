@@ -2067,7 +2067,7 @@ leverage of model architecture
    
    106.Interpret The ML Model  
    
-   lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/
+   lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/  https://towardsdatascience.com/interpreting-image-classification-model-with-lime-1e7064a2f2e5
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
@@ -2668,7 +2668,7 @@ https://www.openblender.io/#/welcome
 
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis
 
-https://www.tensorflow.org/neural_structured_learning 
+https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
