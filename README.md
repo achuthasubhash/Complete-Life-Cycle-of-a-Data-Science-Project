@@ -2269,6 +2269,8 @@ determined to be unfair.
    136.https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
    
    
+   https://www.perceptilabs.com/home
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
@@ -2441,7 +2443,9 @@ AutoNeuro   https://autoneuro.challenge-ineuron.in/
 
 Machine Learning in Power BI using PyCaret  https://www.kdnuggets.com/2020/05/machine-learning-power-bi-pycaret.html  
 
-https://towardsdatascience.com/build-your-first-anomaly-detector-in-power-bi-using-pycaret-2b41b363244e
+https://towardsdatascience.com/build-your-first-anomaly-detector-in-power-bi-using-pycaret-2b41b363244e  
+
+https://www.kdnuggets.com/2020/06/deploy-machine-learning-pipeline-cloud-docker.html
 
 mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
