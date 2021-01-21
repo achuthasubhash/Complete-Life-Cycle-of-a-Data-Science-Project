@@ -2234,7 +2234,7 @@ determined to be unfair.
    
    Comet  manage and organize machine learning experiments https://www.comet.ml/site/
    
-   MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/
+   MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/   https://analyticsindiamag.com/guide-to-mlflow-a-platform-to-manage-machine-learning-lifecycle/
    
    neptune https://neptune.ai/
    
