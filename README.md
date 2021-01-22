@@ -2188,7 +2188,7 @@ determined to be unfair.
    
    114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/
    
-   https://mlops.githubapp.com/
+   https://mlops.githubapp.com/   https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape
    
    https://olympus.greatlearning.in/courses/12956?_gl=1*ljadx1*_ga*NjMxNjUxNjM2LjE2MDYyMDYzNDM.*_ga_TH52C020P8*MTYxMTIyOTQ0MS40Ny4wLjE2MTEyMjk0NDEuNjA.
    
