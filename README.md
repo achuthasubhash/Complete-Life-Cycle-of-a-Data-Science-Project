@@ -822,6 +822,8 @@ anderson teset  use for check any  distribution
          l.Tf-Rec https://github.com/Praful932/Tf-Rec
          
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
+         
+         https://machinelearningmastery.com/recommender-systems-resources/
    
    C.Ensemble methods
    
@@ -1354,6 +1356,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     h.Scikit-Optimize
     
     i.ray[tune] and aisaratuners https://towardsdatascience.com/choosing-a-hyperparameter-tuning-library-ray-tune-or-aisaratuners-b707b175c1d7
+    
+    j.Keras Hyperparameter Tuning with aisaratuners Library https://aisaradeepwadi.medium.com/advance-keras-hyperparameter-tuning-with-aisaratuners-library-78c488ab4d6a
     
     Milano   https://github.com/NVIDIA/Milano
     
