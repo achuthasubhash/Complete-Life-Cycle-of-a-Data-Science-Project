@@ -2286,6 +2286,8 @@ determined to be unfair.
    
    138.https://analyticsindiamag.com/top-ai-powered-writing-assistants-to-create-better-content/ 
    
+   139.Tensorflow Data Validation - Data Analysis At Scale https://www.youtube.com/watch?v=eGIG_qHgQ08
+   
    
    https://www.perceptilabs.com/home
    
@@ -2412,6 +2414,10 @@ https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-s
 ***Some useful content :***
 
 1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,gcp automl ision,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio,AWS Sagemaker Studio,aws rekognition,Google AI Platform,Databricks,Domino Data Lab,roboflow
+
+H2O Driverless AI https://www.h2o.ai/products/h2o-driverless-ai/
+
+H2O Flow - Web Based Machine Learning Development https://docs.h2o.ai/h2o/latest-stable/h2o-docs/flow.html
 
 https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
 
