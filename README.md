@@ -1273,6 +1273,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       time series visualization tool https://plotjuggler.io/
       
+       Time Series Anomaly Detection using Generative Adversarial Networks(TadGAN) https://analyticsindiamag.com/hands-on-guide-to-tadgan-with-python-codes/
+      
       fastquant — Backtest and optimize your trading strategies with only 3 lines of code  https://github.com/enzoampil/fastquant 
     
       pytorch-forecasting  https://github.com/jdb78/pytorch-forecasting  https://analyticsindiamag.com/guide-to-pytorch-time-series-forecasting/ 
@@ -2271,6 +2273,12 @@ determined to be unfair.
    135.cortex  Run inference at scale   https://www.cortex.dev/   https://github.com/cortexlabs/cortex
    
    136.https://www.theinsaneapp.com/2020/12/machine-learning-and-data-science-cheat-sheets-pdf.html
+   
+   137.Federated Learning Systems
+   
+   Flower – A Framework To Build Federated Learning Systems  https://github.com/adap/flower
+   
+   138.https://analyticsindiamag.com/top-ai-powered-writing-assistants-to-create-better-content/ 
    
    
    https://www.perceptilabs.com/home
