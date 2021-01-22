@@ -1799,6 +1799,8 @@ leverage of model architecture
    
    Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html
    
+   Koalas on Apache Spark - Pandas API  https://www.youtube.com/watch?v=kOtAMiMe1JY&t=482s   https://koalas.readthedocs.io/en/latest/
+   
    mllib https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html   https://spark.apache.org/docs/2.0.0/api/python/index.html
    
    https://data-flair.training/blogs/spark-tutorial/  Spark Core,Spark SQL,Spark Streaming,Spark MLlib,Spark GraphX,etc...
@@ -2828,6 +2830,8 @@ Qlib https://analyticsindiamag.com/qlib/
 119.Pystiche - Create Your Artistic Image Using Pystiche  https://analyticsindiamag.com/pystiche/    https://pystiche.readthedocs.io/en/latest/index.html
 
 120.Low Light Image Enhancement using Python & Deep Learning  https://github.com/soumik12345/MIRNet/  https://www.youtube.com/watch?v=b5Uz_c0JLMs
+
+121.Koalas on Apache Spark - Pandas API  https://www.youtube.com/watch?v=kOtAMiMe1JY&t=482s   https://koalas.readthedocs.io/en/latest/
 
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
