@@ -783,6 +783,8 @@ anderson teset  use for check any  distribution
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
      
+     kmodes https://www.youtube.com/watch?v=8eATPLDJ0NQ
+     
      https://www.kdnuggets.com/2020/12/algorithms-explained-k-means-k-medoids-clustering.html
      
      K-Means 8x faster, 27x lower error than Scikit-learn in 25 lines   https://www.kdnuggets.com/2021/01/k-means-faster-lower-error-scikit-learn.html#.YAHAAIpnx4A.linkedin
