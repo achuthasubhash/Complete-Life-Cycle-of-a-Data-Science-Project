@@ -984,6 +984,8 @@ anderson teset  use for check any  distribution
      
      Vision Transformer - Pytorch  https://github.com/lucidrains/vit-pytorch   https://github.com/alohays/awesome-visual-representation-learning-with-transformers 
      
+     https://keras.io/examples/vision/image_classification_with_vision_transformer/
+     
      https://github.com/ashishpatel26/Vision-Transformer-Keras-Tensorflow-Pytorch-Examples https://github.com/google-research/vision_transformer 
      
      DeepLab-v3-plus Semantic Segmentation in TensorFlow https://github.com/rishizek/tensorflow-deeplab-v3-plus
