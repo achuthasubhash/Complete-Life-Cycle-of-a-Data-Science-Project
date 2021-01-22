@@ -1736,6 +1736,8 @@ leverage of model architecture
    30.Machine-Learning-with-Python-https://github.com/tirthajyoti/Machine-Learning-with-Python
    
    31.huggingface contain almost all nlp pretrained model and all tasks related to nlp field
+   
+   https://huggingface.co/models
      
    https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/  https://huggingface.co/transformers/master/   https://github.com/huggingface/tokenizers
    
