@@ -2104,6 +2104,8 @@ leverage of model architecture
    interpret https://github.com/interpretml/interpret
    
    treeinterpreter https://github.com/andosa/treeinterpreter
+   
+   Adversarial Explainable AI  https://github.com/hbaniecki/adversarial-explainable-ai  https://medium.com/responsibleml/adversarial-attacks-on-explainable-ai-f65d41e83c5f
     
    Captum   Model Interpretability for PyTorch  https://captum.ai/  https://github.com/pytorch/captum
    
