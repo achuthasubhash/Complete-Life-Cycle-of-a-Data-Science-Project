@@ -163,6 +163,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     18)Google public datasets :- https://lnkd.in/g5dH8qE
     
     Statistics Canada https://www.statcan.gc.ca/eng/start  https://towardsdatascience.com/how-to-collect-data-from-statistics-canada-using-python-db8a81ce6475
+    
+    https://www.datasciencecentral.com/profiles/blogs/big-data-sets-available-for-free
    
     19)Quandl :- https://www.quandl.com  stock data
     
@@ -450,6 +452,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
    
    Easy to use Python library of customized functions for cleaning and analyzing data  https://github.com/akanz1/klib
+   
+   Featuretools https://www.featuretools.com/ https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96
      
    Remove duplicate data in dataset
 
@@ -1465,7 +1469,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     snapyml Deploy AI Models For Free -http://snapyml.snapy.ai/
     
-    h20wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/
+    h20wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/ https://h2oai.github.io/wave/
     
     DS-with-PySimpleGUI  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
@@ -2098,6 +2102,8 @@ leverage of model architecture
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash
    
    interpret https://github.com/interpretml/interpret
+   
+   treeinterpreter https://github.com/andosa/treeinterpreter
     
    Captum   Model Interpretability for PyTorch  https://captum.ai/  https://github.com/pytorch/captum
    
@@ -2439,6 +2445,10 @@ mlkit-https://firebase.google.com/products/ml
 
 auto_ml  https://github.com/ClimbsRocks/auto_ml
 
+EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/
+
+A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
+
 3. autopandas
 
 4. AutoGluon   https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
@@ -2481,7 +2491,9 @@ https://www.kdnuggets.com/2020/06/deploy-machine-learning-pipeline-cloud-docker.
 
 mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
-automated feature engineering  https://github.com/alteryx/featuretools
+automated feature engineering  https://github.com/alteryx/featuretools  https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96
+
+Featuretools https://www.featuretools.com/
 
 AutoML toolkit   https://github.com/microsoft/nni
 
