@@ -1925,6 +1925,8 @@ leverage of model architecture
    
    https://aihubprojects.com/machine-learning-from-scratch-python/
    
+   https://github.com/python-engineer/MLfromscratch https://www.youtube.com/watch?v=rLOyrWV8gmA
+   
    https://www.datasciencecentral.com/profiles/blogs/a-complete-tutorial-to-learn-data-science-with-python-from
    
    https://medium.com/@mattybv3/learn-data-science-from-scratch-curriculum-with-20-free-online-courses-8cff96d6cbe5
@@ -2099,7 +2101,7 @@ leverage of model architecture
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
-   https://github.com/slundberg/shap
+   https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html
    
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash
    
@@ -2142,6 +2144,8 @@ leverage of model architecture
    Google’s Model Card Toolkit
    
    Opening the AI Black Box -https://zetane.com/gallery 
+   
+   Rulex Explainable AI https://www.rulex.ai/rulex-explainable-ai-xai/
    
    AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/  
    
