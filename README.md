@@ -922,7 +922,9 @@ anderson teset  use for check any  distribution
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base)
+       create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
+       
+       https://theaisummer.com/cnn-architectures/
      
      2.Localization of object in image
      
@@ -1362,6 +1364,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     j.Keras Hyperparameter Tuning with aisaratuners Library https://aisaradeepwadi.medium.com/advance-keras-hyperparameter-tuning-with-aisaratuners-library-78c488ab4d6a
     
     Milano   https://github.com/NVIDIA/Milano
+    
+    CapsNet Hyperparameter Tuning with Keras https://towardsdatascience.com/scikeras-tutorial-a-multi-input-multi-output-wrapper-for-capsnet-hyperparameter-tuning-with-keras-3127690f7f28
     
     Auto-PyTorch https://github.com/automl/Auto-PyTorch
     
@@ -2289,6 +2293,8 @@ determined to be unfair.
    138.https://analyticsindiamag.com/top-ai-powered-writing-assistants-to-create-better-content/ 
    
    139.Tensorflow Data Validation - Data Analysis At Scale https://www.youtube.com/watch?v=eGIG_qHgQ08
+   
+   140.SciKeras  https://scikeras.readthedocs.io/en/latest/#
    
    
    https://www.perceptilabs.com/home
