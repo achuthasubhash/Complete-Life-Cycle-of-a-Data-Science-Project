@@ -1889,7 +1889,7 @@ leverage of model architecture
    
    orange https://orange.biolab.si/
    
-   OpenBlender https://openblender.io/#/welcome
+   OpenBlender https://openblender.io/#/welcome  https://analyticsindiamag.com/how-to-use-openblender-the-leading-data-blending-tool/
    
    create neural networks with one line of code https://github.com/PraneetNeuro/nnio.l
    
