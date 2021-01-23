@@ -213,6 +213,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     27)google open images:https://storage.googleapis.com/openimages/web/download.html
     
     https://cloud.google.com/bigquery/public-data/   https://towardsdatascience.com/bigquery-public-datasets-936e1c50e6bc  
+    
+    https://christopherzita.medium.com/how-to-download-google-images-using-python-2021-82e69c637d59
    
     28)https://data.gov.in/
     
@@ -2528,6 +2530,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    Lens- Statistical Analysis of Data https://analyticsindiamag.com/hands-on-tutorial-on-lens-python-tool-for-swift-statistical-analysis/ 
    
    Dashboard in Less Than 10 Lines of Code  https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b
+   
+   interactive dashboards https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9
    
    MitoSheets https://analyticsindiamag.com/guide-to-mitosheets-harnessing-power-of-spreadsheets-in-python/
    
