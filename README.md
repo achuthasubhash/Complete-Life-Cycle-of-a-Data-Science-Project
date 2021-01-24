@@ -1155,6 +1155,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      ecco https://github.com/jalammar/ecco  https://www.eccox.io/   https://www.youtube.com/watch?v=rHrItfNeuh0&feature=youtu.be 
      
+     Language Interpretability Tool https://github.com/pair-code/lit https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html
+     
      autonlp  https://analyticsindiamag.com/hands-on-guide-to-using-autonlp-for-automating-sentiment-analysis/
         
      https://medium.com/towards-artificial-intelligence/natural-language-processing-nlp-with-python-tutorial-for-beginners-1f54e610a1a0
@@ -2108,6 +2110,8 @@ leverage of model architecture
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash
    
    interpret https://github.com/interpretml/interpret
+   
+   Language Interpretability Tool https://github.com/pair-code/lit https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html
    
    treeinterpreter https://github.com/andosa/treeinterpreter
    
