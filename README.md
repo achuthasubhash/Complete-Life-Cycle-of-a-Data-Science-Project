@@ -2312,6 +2312,8 @@ determined to be unfair.
    
    140.SciKeras  https://scikeras.readthedocs.io/en/latest/#
    
+   141.debugging  Data viewer https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2021-release/
+   
    
    https://www.perceptilabs.com/home
    
