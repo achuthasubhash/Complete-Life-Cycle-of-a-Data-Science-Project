@@ -2274,7 +2274,7 @@ determined to be unfair.
    
    neptune https://neptune.ai/
    
-   weights & biases https://wandb.ai/site
+   weights & biases https://wandb.ai/site https://analyticsindiamag.com/hands-on-guide-to-weights-and-biases-wandb-with-python-implementation/
    
    127.19 Best JupyterLab Extensions for Machine Learning  https://neptune.ai/blog/jupyterlab-extensions-for-machine-learning
    
