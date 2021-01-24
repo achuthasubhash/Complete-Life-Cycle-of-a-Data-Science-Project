@@ -829,6 +829,8 @@ anderson teset  use for check any  distribution
          
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
          
+         https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8
+         
          https://machinelearningmastery.com/recommender-systems-resources/
    
    C.Ensemble methods
