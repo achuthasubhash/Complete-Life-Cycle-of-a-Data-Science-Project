@@ -2276,7 +2276,7 @@ determined to be unfair.
    
    MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/   https://analyticsindiamag.com/guide-to-mlflow-a-platform-to-manage-machine-learning-lifecycle/
    
-   neptune https://neptune.ai/
+   neptune https://neptune.ai/  https://analyticsindiamag.com/how-to-manage-ml-experiments-with-neptune-ai/
    
    weights & biases https://wandb.ai/site https://analyticsindiamag.com/hands-on-guide-to-weights-and-biases-wandb-with-python-implementation/
    
