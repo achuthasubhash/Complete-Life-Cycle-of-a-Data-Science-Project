@@ -2323,7 +2323,7 @@ determined to be unfair.
    142.Machine Learning Lifecycle in 2021  https://towardsdatascience.com/the-machine-learning-lifecycle-in-2021-473717c633bc
    
    
-   https://www.perceptilabs.com/home
+   https://www.perceptilabs.com/home   http://deeplearninggallery.com/
    
 ***Follow leaders in the field to update yourself in the field***
 
