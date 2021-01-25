@@ -773,7 +773,7 @@ anderson teset  use for check any  distribution
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines 
        
-       use cases:
+       
    
      2.Classification (output feature in categorical data form)
      
@@ -782,6 +782,8 @@ anderson teset  use for check any  distribution
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,
         
         Random Forest Classification,xgboost,adaboost,Gradient Boost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, passive aggressive classifier algorithm,cart,c4.5,c5.0
+        
+        https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
    
    B.Unsupervised learning(no label(target) data)
    
