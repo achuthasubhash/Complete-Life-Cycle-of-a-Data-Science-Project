@@ -2222,6 +2222,8 @@ determined to be unfair.
    
    117.mlflow https://mlflow.org/docs/latest/index.html
    
+   labml https://ramith.fyi/tracking-your-ml-experiments-without-sending-data-to-the-cloud/
+   
    MLOps  https://github.com/microsoft/MLOps
    
    DevOps  https://github.com/collections/devops-tools
@@ -2317,6 +2319,8 @@ determined to be unfair.
    140.SciKeras  https://scikeras.readthedocs.io/en/latest/#
    
    141.debugging  Data viewer https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2021-release/
+   
+   142.Machine Learning Lifecycle in 2021  https://towardsdatascience.com/the-machine-learning-lifecycle-in-2021-473717c633bc
    
    
    https://www.perceptilabs.com/home
