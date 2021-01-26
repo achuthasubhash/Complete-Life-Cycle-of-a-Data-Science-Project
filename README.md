@@ -2660,7 +2660,7 @@ Numba (optimise performance of numpy and high performance  python compiler)  htt
 
 45.RAPIDS  open GPU Data Science  https://rapids.ai/ 
 
-RAPIDS cuML
+RAPIDS cuML,cudf
 
 tick is a lightweight machine learning library  https://x-datainitiative.github.io/tick/
 
