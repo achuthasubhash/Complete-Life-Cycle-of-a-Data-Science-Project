@@ -384,6 +384,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Synthetic data library https://github.com/finos/datahub https://github.com/agmmnn/awesome-blender https://opendata.blender.org/ https://www.youtube.com/watch?v=eZwOeBkLL8E
     
+    https://www.kdnuggets.com/2019/09/scikit-learn-synthetic-dataset.html
+    
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
     
     62.Google Analytics cost data import https://segmentstream.com/google-analytics?utm_source=twitter&utm_medium=cpc&utm_campaign=ga_costs_import_en&utm_content=guide
