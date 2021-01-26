@@ -2889,6 +2889,10 @@ Qlib https://analyticsindiamag.com/qlib/
 
 121.Koalas on Apache Spark - Pandas API  https://www.youtube.com/watch?v=kOtAMiMe1JY&t=482s   https://koalas.readthedocs.io/en/latest/
 
+122.DALL·E  https://openai.com/blog/dall-e/
+
+https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
+
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
