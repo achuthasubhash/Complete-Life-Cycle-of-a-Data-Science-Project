@@ -174,7 +174,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    
     21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
-    22)labelimage:- https://github.com/wkentaro/labelme  ,  https://github.com/tzutalin/labelImg 
+    22)***Label Assist: Model Assisted Pre-Annotation for Computer Vision https://blog.roboflow.com/announcing-label-assist/ https://www.youtube.com/watch?v=919CihTlkZw&feature=youtu.be***
+    
+    labelimage:- https://github.com/wkentaro/labelme  ,  https://github.com/tzutalin/labelImg 
     
     Labelbox-https://labelbox.com/
     
