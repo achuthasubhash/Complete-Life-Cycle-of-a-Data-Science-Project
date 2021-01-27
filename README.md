@@ -2181,6 +2181,8 @@ leverage of model architecture
    
    LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym
    
+   https://analyticsindiamag.com/guide-to-ai-fairness-360-an-open-source-toolkit-for-detection-and-mitigation-of-bias-in-ml-models/
+   
    107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
    
    108.Machine Learning University -  https://aws.amazon.com/machine-learning/mlu/
@@ -2329,6 +2331,8 @@ determined to be unfair.
    141.debugging  Data viewer https://devblogs.microsoft.com/python/python-in-visual-studio-code-january-2021-release/
    
    142.Machine Learning Lifecycle in 2021  https://towardsdatascience.com/the-machine-learning-lifecycle-in-2021-473717c633bc
+   
+   143.Introduction To ML.NET – An ML Framework For DOTNET Developers  https://analyticsindiamag.com/introduction-to-ml-net-a-machine-learning-framework-for-dotnet-developers/
    
    
    https://www.perceptilabs.com/home   http://deeplearninggallery.com/   https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html
