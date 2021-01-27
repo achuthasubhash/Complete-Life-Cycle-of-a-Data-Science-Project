@@ -1493,7 +1493,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     DS-with-PySimpleGUI  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
-    Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/
+    Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/  https://www.gradio.app/
     
     Bamboolib https://medium.com/ai-in-plain-english/bamboolib-a-data-warriors-weapon-9f734f4c2553
    
@@ -1902,6 +1902,8 @@ leverage of model architecture
    Accord.net http://accord-framework.net/
    
    H2O Driverless AI https://www.h2o.ai/products/h2o-driverless-ai/
+   
+   Oracle AutoML https://medium.com/nerd-for-tech/oracles-automl-what-it-is-and-how-it-works-12e09a832c2   https://docs.oracle.com/en-us/iaas/tools/ads-sdk/latest/user_guide/overview/overview.html
    
    Rapid Miner https://rapidminer.com/
    
@@ -2354,6 +2356,8 @@ determined to be unfair.
    https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html  https://www.kdnuggets.com/2018/09/meverick-lin-data-science-cheat-sheet.html
    
    https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html   https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html  https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html   https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html
+   
+   https://www.analyticsvidhya.com/blog/2021/01/5-python-packages-every-data-scientist-must-know/
    
    https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html  https://www.kdnuggets.com/2020/09/10-things-know-scikit-learn.html
    
