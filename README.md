@@ -1473,6 +1473,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     streamlit,plotly jupyterdash,h2o wave
     
+    streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html
+    
     https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
     PyQt and Tkinter , PySimpleGUI are GUI programming in Python  https://github.com/tirthajyoti/DS-with-PySimpleGUI
@@ -2753,6 +2755,8 @@ https://www.openblender.io/#/welcome
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis
 
 https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
+
+https://www.kdnuggets.com/2019/09/5-graph-algorithms-data-scientists-know.html
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
