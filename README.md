@@ -1195,7 +1195,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Robustness Gym: Evaluation Toolkit for NLP https://github.com/robustness-gym/robustness-gym
      
-     https://analyticsindiamag.com/best-nlp-based-seo-tools-for-2021/
+     https://analyticsindiamag.com/best-nlp-based-seo-tools-for-2021/  https://towardsdatascience.com/5-nlp-models-that-you-need-to-know-about-754594a3225b
      
      https://www.kdnuggets.com/2020/05/best-nlp-deep-learning-course-free.html   https://analyticsindiamag.com/flair-hands-on-guide-to-robust-nlp-framework-built-upon-pytorch/
      
@@ -2756,7 +2756,7 @@ https://www.openblender.io/#/welcome
 
 https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
 
-https://www.kdnuggets.com/2019/09/5-graph-algorithms-data-scientists-know.html
+https://www.kdnuggets.com/2019/09/5-graph-algorithms-data-scientists-know.html   https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
