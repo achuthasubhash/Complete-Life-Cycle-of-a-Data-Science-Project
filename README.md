@@ -833,6 +833,8 @@ anderson teset  use for check any  distribution
          
          l.Tf-Rec https://github.com/Praful932/Tf-Rec
          
+         Restricted Boltzmann Machines 
+         
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
          
          https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8
@@ -1431,6 +1433,8 @@ Generally used metrics
    
     7.Distance Metrics - Euclidean Distance,Manhattan Distance,Minkowski Distance,Hamming Distance
     
+    8.Recommender Systems  https://parthchokhra.medium.com/evaluating-recommender-systems-590a7b87afa5
+    
     metric-Built-in metrics, Custom metric without external parameters,Custom metric with external parameters,Subclassing custom metric layer
     
     Robustness Gym: Evaluation Toolkit for NLP https://github.com/robustness-gym/robustness-gym
@@ -1482,6 +1486,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     DearPyGui https://github.com/hoffstadt/DearPyGui
     
     snapyml Deploy AI Models For Free -http://snapyml.snapy.ai/
+    
+    BentoML https://github.com/bentoml/BentoML
     
     h20wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/ https://h2oai.github.io/wave/
     
@@ -1662,6 +1668,8 @@ leverage of model architecture
    paperswithcode-client https://github.com/paperswithcode/paperswithcode-client
 
    2.madewithml-https://madewithml.com/topics/   https://madewithml.com/courses/applied-ml-in-production/
+   
+   modelzoo https://modelzoo.co/
    
    Weights & Biases- https://wandb.ai/gallery        sotabench-https://sotabench.com/
 
@@ -2119,6 +2127,8 @@ leverage of model architecture
    
    interpret https://github.com/interpretml/interpret
    
+   tcav  https://github.com/tensorflow/tcav
+   
    Language Interpretability Tool https://github.com/pair-code/lit https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html
    
    treeinterpreter https://github.com/andosa/treeinterpreter
@@ -2139,7 +2149,9 @@ leverage of model architecture
    
    skater https://oracle.github.io/Skater/
    
-   what if tool https://pair-code.github.io/what-if-tool/  https://pair-code.github.io/what-if-tool/demos/uci.html  
+   what if tool https://pair-code.github.io/what-if-tool/  https://pair-code.github.io/what-if-tool/demos/uci.html 
+   
+   themis  https://themis-ml.readthedocs.io/en/latest/
    
    DeepLIFT  https://github.com/kundajelab/deeplift
    
@@ -2152,6 +2164,8 @@ leverage of model architecture
    Responsible AI-https://www.tensorflow.org/resources/responsible-ai
    
    fairlearn https://github.com/fairlearn/fairlearn
+   
+   cleverhans https://github.com/cleverhans-lab/cleverhans
    
    Google Facets https://pair-code.github.io/facets/
    
@@ -2173,7 +2187,7 @@ leverage of model architecture
    
    https://christophm.github.io/interpretable-ml-book/      https://github.com/christophM/interpretable-ml-book  
    
-   https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html
+   https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html  https://www.kdnuggets.com/2019/09/python-libraries-interpretable-machine-learning.html https://www.kdnuggets.com/2019/08/open-black-boxes-explainable-machine-learning.html
    
    Fairness 
    
@@ -2335,7 +2349,13 @@ determined to be unfair.
    143.Introduction To ML.NET – An ML Framework For DOTNET Developers  https://analyticsindiamag.com/introduction-to-ml-net-a-machine-learning-framework-for-dotnet-developers/
    
    
-   https://www.perceptilabs.com/home   http://deeplearninggallery.com/   https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html
+   https://www.perceptilabs.com/home   http://deeplearninggallery.com/    https://www.kdnuggets.com/2019/01/practical-apache-spark-10-minutes.html
+   
+   https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html  https://www.kdnuggets.com/2018/09/meverick-lin-data-science-cheat-sheet.html
+   
+   https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html   https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html  https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html   https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html
+   
+   https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html  https://www.kdnuggets.com/2020/09/10-things-know-scikit-learn.html
    
 ***Follow leaders in the field to update yourself in the field***
 
@@ -2624,6 +2644,8 @@ Python Tricks for Keeping Track of Your Data  https://towardsdatascience.com/pyt
 pypolars instead of  pandas (beating-pandas-performance)  https://www.youtube.com/watch?v=1-O_KnLZEso
 
 50X speed up your Pandas apply function https://github.com/jmcarpenter2/swifter
+
+Train sklearn 100x Faster https://www.kdnuggets.com/2019/09/train-sklearn-100x-faster.html
 
 JAX  Autograd and XLA, facilitating high-performance machine learning research https://github.com/google/jax
 
