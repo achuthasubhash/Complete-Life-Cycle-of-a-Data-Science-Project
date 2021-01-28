@@ -21,6 +21,8 @@ variable
     a.qualitative (nominal,ordinal,binary)
     
     b.quantitative(discrete,continuous)
+    
+    https://www.chi2innovations.com/blog/discover-data-blog-series/data-types-101/
 
 a.Web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
 
