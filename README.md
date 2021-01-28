@@ -1141,6 +1141,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         https://jalammar.github.io/explaining-transformers/    https://jalammar.github.io/hidden-states/
         
+        https://www.kdnuggets.com/2019/09/bert-roberta-distilbert-xlnet-one-use.html
+        
      11.Speech
        
         speech to text   
@@ -1365,7 +1367,11 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
     b.RandomizedSearchCV (search randomly narrow down our time)
   
-    c.Bayesian Optimization , Hyperopt
+    c.Bayesian Optimization 
+    
+    Hyperopt,hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
+    
+    Spearmint  https://github.com/JasperSnoek/spearmint/
     
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
@@ -1659,7 +1665,7 @@ leverage of model architecture
 
    https://amitness.com/toolbox/      https://github.com/khuyentran1401/Data-science   https://github.com/ml-tooling/best-of-ml-python
    
-   https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks
+   https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks   http://dfkoz.com/ai-data-landscape/   https://landscape.lfai.foundation/
    
    https://towardsdatascience.com/data-science-tools-f16ecd91c95d        https://mathdatasimplified.com/
  
@@ -1677,9 +1683,9 @@ leverage of model architecture
 
    4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
    
-   https://www.kdnuggets.com/2019/08/pytorch-cheat-sheet-beginners.html  https://www.kdnuggets.com/2019/04/nlp-pytorch.html
+   https://www.kdnuggets.com/2019/08/pytorch-cheat-sheet-beginners.html  https://www.kdnuggets.com/2019/04/nlp-pytorch.html  https://www.kdnuggets.com/2019/08/9-tips-training-lightning-fast-neural-networks-pytorch.html
    
-   PyTorch Lightning-https://github.com/PyTorchLightning/pytorch-lightning
+   PyTorch Lightning-https://github.com/PyTorchLightning/pytorch-lightning    https://www.kdnuggets.com/2020/11/deploy-pytorch-lightning-models-production.html
    
    PYTORCH - https://pytorch.org/  https://pytorch.org/ecosystem/  https://pytorch.org/tutorials/ https://pytorch.org/docs/stable/index.html https://github.com/pytorch/pytorch
    
@@ -2151,6 +2157,8 @@ leverage of model architecture
    
    skater https://oracle.github.io/Skater/
    
+   lucid https://github.com/tensorflow/lucid/  https://www.kdnuggets.com/2020/04/openai-open-sources-microscope-lucid-library-neural-networks.html
+   
    what if tool https://pair-code.github.io/what-if-tool/  https://pair-code.github.io/what-if-tool/demos/uci.html 
    
    themis  https://themis-ml.readthedocs.io/en/latest/
@@ -2302,11 +2310,13 @@ determined to be unfair.
    
    Comet  manage and organize machine learning experiments https://www.comet.ml/site/
    
-   MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/   https://analyticsindiamag.com/guide-to-mlflow-a-platform-to-manage-machine-learning-lifecycle/
+   MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/   https://analyticsindiamag.com/guide-to-mlflow-a-platform-to-manage-machine-learning-lifecycle/   https://www.kdnuggets.com/2021/01/model-experiments-tracking-registration-mlflow-databricks.html   
    
    neptune https://neptune.ai/  https://analyticsindiamag.com/how-to-manage-ml-experiments-with-neptune-ai/
    
    weights & biases https://wandb.ai/site https://analyticsindiamag.com/hands-on-guide-to-weights-and-biases-wandb-with-python-implementation/
+   
+   https://www.kdnuggets.com/2020/07/tour-end-to-end-machine-learning-platforms.html
    
    127.19 Best JupyterLab Extensions for Machine Learning  https://neptune.ai/blog/jupyterlab-extensions-for-machine-learning
    
@@ -2361,6 +2371,8 @@ determined to be unfair.
    https://www.analyticsvidhya.com/blog/2021/01/5-python-packages-every-data-scientist-must-know/
    
    https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html  https://www.kdnuggets.com/2020/09/10-things-know-scikit-learn.html
+   
+   146.Data Pipelines  https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html  https://www.kdnuggets.com/2019/03/data-pipelines-luigi-airflow-everything-need-know.html
    
 ***Follow leaders in the field to update yourself in the field***
 
@@ -2650,7 +2662,7 @@ pypolars instead of  pandas (beating-pandas-performance)  https://www.youtube.co
 
 50X speed up your Pandas apply function https://github.com/jmcarpenter2/swifter
 
-Train sklearn 100x Faster https://www.kdnuggets.com/2019/09/train-sklearn-100x-faster.html
+sklearn 100x Faster https://www.kdnuggets.com/2019/09/train-sklearn-100x-faster.html
 
 JAX  Autograd and XLA, facilitating high-performance machine learning research https://github.com/google/jax
 
