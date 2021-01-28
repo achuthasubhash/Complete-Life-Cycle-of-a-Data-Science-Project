@@ -1137,7 +1137,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
      10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
-        https://analyticsindiamag.com/top-ten-bert-alternatives-for-nlu-projects/
+        https://analyticsindiamag.com/top-ten-bert-alternatives-for-nlu-projects/  https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
@@ -2552,13 +2552,13 @@ AutoNeuro   https://autoneuro.challenge-ineuron.in/
     
     AdaNet is a lightweight TensorFlow-based framework
 
-11. pycaret- https://pycaret.org/
+11. pycaret- https://pycaret.org/  
 
 Machine Learning in Power BI using PyCaret  https://www.kdnuggets.com/2020/05/machine-learning-power-bi-pycaret.html  
 
 https://towardsdatascience.com/build-your-first-anomaly-detector-in-power-bi-using-pycaret-2b41b363244e  
 
-https://www.kdnuggets.com/2020/06/deploy-machine-learning-pipeline-cloud-docker.html
+https://www.kdnuggets.com/2020/06/deploy-machine-learning-pipeline-cloud-docker.html https://www.kdnuggets.com/2020/08/github-best-automl-ever-need.html
 
 mindsdb Machine Learning in 5 Lines of Code  https://mindsdb.com/
 
