@@ -2350,10 +2350,11 @@ determined to be unfair.
    
    143.Introduction To ML.NET – An ML Framework For DOTNET Developers  https://analyticsindiamag.com/introduction-to-ml-net-a-machine-learning-framework-for-dotnet-developers/
    
+   https://analyticsindiamag.com/step-by-step-guide-for-image-classification-using-ml-net/
    
-   https://www.perceptilabs.com/home   http://deeplearninggallery.com/    https://www.kdnuggets.com/2019/01/practical-apache-spark-10-minutes.html
+   144.https://www.perceptilabs.com/home   http://deeplearninggallery.com/    https://www.kdnuggets.com/2019/01/practical-apache-spark-10-minutes.html
    
-   https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html  https://www.kdnuggets.com/2018/09/meverick-lin-data-science-cheat-sheet.html
+   145.https://www.kdnuggets.com/2018/09/machine-learning-cheat-sheets.html  https://www.kdnuggets.com/2018/09/meverick-lin-data-science-cheat-sheet.html
    
    https://www.kdnuggets.com/2018/08/data-visualization-cheatsheet.html   https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html  https://www.kdnuggets.com/2018/04/python-regular-expressions-cheat-sheet.html   https://www.kdnuggets.com/2017/09/essential-data-science-machine-learning-deep-learning-cheat-sheets.html
    
