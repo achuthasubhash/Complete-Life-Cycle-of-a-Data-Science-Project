@@ -451,6 +451,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     voice_datasets https://github.com/jim-schwoebel/voice_datasets
      
     Dynamically-Generated-Hate-Speech-Dataset https://github.com/bvidgen/Dynamically-Generated-Hate-Speech-Dataset
+    
+    68.DOCANO, an open source text annotation tool  https://github.com/doccano/doccano
+    
 ***2.Feature engineering***
 
    Validate your Data (Schema) https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
@@ -2584,7 +2587,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux
    
    explainerdashboard  https://towardsdatascience.com/the-quickest-way-to-build-dashboards-for-machine-learning-models-ec769825070d
    
@@ -2595,6 +2598,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    ExploriPy import EDA-https://analyticsindiamag.com/hands-on-tutorial-on-exploripy-effortless-target-based-eda-tool/
    
    Lens- Statistical Analysis of Data https://analyticsindiamag.com/hands-on-tutorial-on-lens-python-tool-for-swift-statistical-analysis/ 
+   
+   lux Python API for Intelligent Visual Data Discovery  https://github.com/lux-org/lux
    
    Dashboard in Less Than 10 Lines of Code  https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b
    
