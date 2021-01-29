@@ -34,11 +34,11 @@ https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-sc
 
 https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-hero-38051423256b
 
-    1.Beautifulsoup
+    1.Beautifulsoup  https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/
    
     2.Scrapy
    
-    3.Selenium
+    3.Selenium     https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/
    
     4.Request to access data 
     
