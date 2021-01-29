@@ -2187,7 +2187,7 @@ leverage of model architecture
    
    Rulex Explainable AI https://www.rulex.ai/rulex-explainable-ai-xai/
    
-   AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/  
+   AI Explainability 360 Toolkit from IBM Research  https://aix360.mybluemix.net/  https://analyticsindiamag.com/guide-to-ai-explainability-360-an-open-source-toolkit-by-ibm/
    
    onnx https://github.com/onnx/onnx
    
