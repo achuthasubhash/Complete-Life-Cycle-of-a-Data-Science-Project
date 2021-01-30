@@ -81,8 +81,10 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      patang (extract product details) https://github.com/tejazz/patang
      
      pandas(read_html)
+      
+     https://analyticsindiamag.com/complete-learning-path-to-web-scraping-with-all-major-tools/ 
      
-     https://analyticsindiamag.com/complete-learning-path-to-web-scraping-with-all-major-tools/
+     https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d
      
 b.Web Crawling
 
