@@ -642,7 +642,7 @@ anderson teset  use for check any  distribution
      
      Isolation Forest(for Big Data),dbscan
      
-     Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw
+     Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
      
    k.Sampling techniques
      
@@ -1552,6 +1552,8 @@ Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/p
 
 pruning 
 
+aimet advanced quantization and compression techniques for trained neural network models  https://github.com/quic/aimet   https://github.com/quic/aimet-model-zoo
+
 Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications  https://github.com/Tencent/PocketFlow
 
 leverage of model architecture
@@ -1684,7 +1686,7 @@ leverage of model architecture
    
    paperswithcode-client https://github.com/paperswithcode/paperswithcode-client
 
-   2.madewithml-https://madewithml.com/topics/   https://madewithml.com/courses/applied-ml-in-production/
+   2.madewithml-https://madewithml.com/topics/   https://madewithml.com/courses/applied-ml-in-production/  https://github.com/GokuMohandas/applied-ml
    
    modelzoo https://modelzoo.co/
    
@@ -2257,7 +2259,7 @@ determined to be unfair.
    
    114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/
    
-   https://mlops.githubapp.com/   https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape
+   https://mlops.githubapp.com/   https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape  https://github.com/paiml/practical-mlops-book
    
    https://olympus.greatlearning.in/courses/12956?_gl=1*ljadx1*_ga*NjMxNjUxNjM2LjE2MDYyMDYzNDM.*_ga_TH52C020P8*MTYxMTIyOTQ0MS40Ny4wLjE2MTEyMjk0NDEuNjA.
    
@@ -2821,6 +2823,8 @@ https://www.kdnuggets.com/2019/09/5-graph-algorithms-data-scientists-know.html  
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
 https://analyticsindiamag.com/complete-guide-to-autogl-the-latest-automl-framework-for-graph-datasets/
+
+Graph Neural Networks, PySpark, Neural Cellular Automata, FB Prophet, Google Cloud and NLP codes https://github.com/RubensZimbres/Repo-2021
 
 open-source project for analysis of graphs or networks GrasPy / graspologic  https://graspy.neurodata.io/
 
