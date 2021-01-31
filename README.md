@@ -2575,6 +2575,8 @@ Featuretools https://www.featuretools.com/
 
 AutoML toolkit   https://github.com/microsoft/nni
 
+LightAutoML LAMA - automatic model creation framework https://github.com/sberbank-ai-lab/LightAutoML https://analyticsindiamag.com/hands-on-python-guide-to-lama-an-automatic-ml-model-creation-framework/
+
 mljar-supervised  Automates Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning https://github.com/mljar/mljar-supervised 
  
 MLBox is a powerful Automated Machine Learning python library  https://github.com/AxeldeRomblay/MLBox
