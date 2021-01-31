@@ -902,6 +902,8 @@ anderson teset  use for check any  distribution
        
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
        
+       https://towardsdatascience.com/value-based-methods-in-deep-reinforcement-learning-d40ca1086e1
+       
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-reinforcement-learning-tutorials-examples-projects-and-courses
        
        Open AI Gym - https://gym.openai.com/
@@ -2142,9 +2144,9 @@ leverage of model architecture
    
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash
    
-   interpret https://github.com/interpretml/interpret
+   interpret https://github.com/interpretml/interpret   mlxtend's  http://rasbt.github.io/mlxtend/
    
-   tcav  https://github.com/tensorflow/tcav
+   tcav  https://github.com/tensorflow/tcav       yellowbrick  https://www.scikit-yb.org/en/latest/quickstart.html
    
    Language Interpretability Tool https://github.com/pair-code/lit https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html
    
