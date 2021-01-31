@@ -1514,8 +1514,10 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     https://towardsdatascience.com/pycaret-2-1-is-here-whats-new-4aae6a7f636a
     
-    Create a Website with AIhttps://www.bookmark.com/ 
+    Create a Website with AI https://www.bookmark.com/ 
     
+    localhost to globalurl https://ngrok.com/  https://remote.it/
+     
     Jupyter Notebook into an interactive dashboard (voila)-https://voila.readthedocs.io/en/stable/
     
     high-level app and dashboarding solution(Panel)-https://panel.holoviz.org/
