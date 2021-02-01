@@ -808,6 +808,8 @@ anderson teset  use for check any  distribution
      
      K-Means 8x faster, 27x lower error than Scikit-learn in 25 lines   https://www.kdnuggets.com/2021/01/k-means-faster-lower-error-scikit-learn.html#.YAHAAIpnx4A.linkedin
    
+     k-Means Clustering by up to 10x Over Scikit-Learn  https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72
+     
      3.Association Rule Learning - support,lift,confidence,aprior,elcat,Fp-growth,Fp-tree construction, association_rules
    
      4.Recommendation system -
@@ -1443,6 +1445,8 @@ Generally used metrics
     4.Incase of machine translation use bleu score
     
     5.Clustering then use External: Adjusted Rand index, Jaccard Score, Purity Score    Internal:silhouette_score, Davies-Bouldin Index, Dunn Index
+    
+    https://towardsdatascience.com/performance-metrics-in-machine-learning-part-3-clustering-d69550662dc6
     
     6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss
    
