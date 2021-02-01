@@ -2523,6 +2523,8 @@ https://codegnan.com/blog/35-best-data-sciecne-tools-for-beginners-to-master/
 
 mlkit-https://firebase.google.com/products/ml
 
+GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0
+
 2. Tpot
 
 auto_ml  https://github.com/ClimbsRocks/auto_ml
