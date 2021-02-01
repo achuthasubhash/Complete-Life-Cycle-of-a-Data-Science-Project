@@ -1386,7 +1386,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
-    e.Optuna
+    e.Optuna  https://analyticsindiamag.com/hands-on-python-guide-to-optuna-a-new-hyperparameter-optimization-tool/
   
     f.Genetic Algorithms
     
@@ -2879,7 +2879,7 @@ https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-t
 
 https://data-flair.training/blogs/machine-learning-datasets/#   https://data-flair.training/blogs/machine-learning-project-ideas/  
 
-https://data-flair.training/blogs/artificial-intelligence-ai-tutorial/
+https://data-flair.training/blogs/artificial-intelligence-ai-tutorial/  
 
 https://data-flair.training/blogs/cartoonify-image-opencv-python/  https://data-flair.training/blogs/python-project-calorie-calculator-django/
 
@@ -2889,7 +2889,7 @@ https://amankharwal.medium.com/20-machine-learning-projects-on-future-prediction
 
 https://medium.com/coders-camp/20-deep-learning-projects-with-python-3c56f7e6a721   https://amankharwal.medium.com/12-machine-learning-projects-on-object-detection-46b32adc3c37
 
-https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78
+https://amankharwal.medium.com/7-python-gui-projects-for-beginners-87ae2c695d78  https://github.com/Kushal997-das/Project-Guidance
 
 https://amankharwal.medium.com/20-machine-learning-projects-for-portfolio-81e3dbd167b1  https://amankharwal.medium.com/4-chatbot-projects-with-python-5b32fd84af37
 
