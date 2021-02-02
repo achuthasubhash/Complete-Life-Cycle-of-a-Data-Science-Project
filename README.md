@@ -2333,7 +2333,7 @@ determined to be unfair.
    
    Experiment tracking tools WandB  https://wandb.ai/site
    
-   Comet  manage and organize machine learning experiments https://www.comet.ml/site/
+   Comet  manage and organize machine learning experiments https://www.comet.ml/site/ https://analyticsindiamag.com/how-to-supercharge-your-machine-learning-experiments-with-comet-ml/
    
    MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/   https://analyticsindiamag.com/guide-to-mlflow-a-platform-to-manage-machine-learning-lifecycle/   https://www.kdnuggets.com/2021/01/model-experiments-tracking-registration-mlflow-databricks.html   
    
