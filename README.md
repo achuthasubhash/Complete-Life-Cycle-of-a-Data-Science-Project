@@ -444,6 +444,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Downloading Historical Stock prices with Alpha Vantage  https://medium.com/towards-artificial-intelligence/downloading-historical-stock-prices-with-alpha-vantage-688edad46a6d
     
+    Pandas Datareader https://pandas-datareader.readthedocs.io/en/latest/  https://www.youtube.com/watch?v=f2BCmQBCwDs
+    
     Get Financial Data Directly into Python https://www.quandl.com/tools/python 
     
     openml https://www.openml.org/search?type=data
