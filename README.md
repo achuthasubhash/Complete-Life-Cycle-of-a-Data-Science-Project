@@ -2030,7 +2030,7 @@ leverage of model architecture
    
    65 Machine Learning and Data books for free- https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189
    
-   https://www.deeplearningbook.org/    http://d2l.ai/
+   https://www.deeplearningbook.org/    http://d2l.ai/  https://www.theinsaneapp.com/2020/12/download-free-machine-learning-books.html
    
    https://www.datasciencecentral.com/profiles/blogs/free-500-page-book-on-applications-of-deep-neural-networks-1  https://github.com/jeffheaton/t81_558_deep_learning
    
