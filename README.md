@@ -1450,7 +1450,7 @@ Generally used metrics
     
     6.Object Detection loss-localization loss,classification loss,Focal Loss,IOU,L2 loss
    
-    7.Distance Metrics - Euclidean Distance,Manhattan Distance,Minkowski Distance,Hamming Distance
+    7.Distance Metrics - Euclidean Distance,Manhattan Distance,Minkowski Distance,Hamming Distance  https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa
     
     8.Recommender Systems  https://parthchokhra.medium.com/evaluating-recommender-systems-590a7b87afa5
     
@@ -2331,7 +2331,7 @@ determined to be unfair.
    
    neptune https://neptune.ai/  https://analyticsindiamag.com/how-to-manage-ml-experiments-with-neptune-ai/
    
-   weights & biases https://wandb.ai/site https://analyticsindiamag.com/hands-on-guide-to-weights-and-biases-wandb-with-python-implementation/
+   weights & biases https://wandb.ai/site https://analyticsindiamag.com/hands-on-guide-to-weights-and-biases-wandb-with-python-implementation/  https://docs.wandb.ai/
    
    https://www.kdnuggets.com/2020/07/tour-end-to-end-machine-learning-platforms.html
    
