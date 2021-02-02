@@ -804,7 +804,9 @@ anderson teset  use for check any  distribution
      
      kmodes https://www.youtube.com/watch?v=8eATPLDJ0NQ
      
-     https://www.kdnuggets.com/2020/12/algorithms-explained-k-means-k-medoids-clustering.html
+     https://www.kdnuggets.com/2020/12/algorithms-explained-k-means-k-medoids-clustering.html 
+     
+     https://www.kdnuggets.com/2017/03/naive-sharding-centroid-initialization-method.html
      
      K-Means 8x faster, 27x lower error than Scikit-learn in 25 lines   https://www.kdnuggets.com/2021/01/k-means-faster-lower-error-scikit-learn.html#.YAHAAIpnx4A.linkedin
    
@@ -2630,6 +2632,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    featurewiz(Select the best features from your data set fast with a single line of code) - https://github.com/AutoViML/featurewiz
    
    explainerdashboard https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9
+   
+   https://www.kdnuggets.com/2019/07/10-simple-hacks-speed-data-analysis-python.html
    
    Panel - web apps
    
