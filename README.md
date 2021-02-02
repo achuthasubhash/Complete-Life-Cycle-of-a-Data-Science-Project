@@ -131,6 +131,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
       Academic Torrents-https://academictorrents.com/check.htm?returnto=%2Fbrowse.php
    
     8)online hacktons
+    
+     Datasets  https://www.paperswithcode.com/datasets
    
     9)image data from google_images_download
     
@@ -467,6 +469,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
    Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
    
    Easy to use Python library of customized functions for cleaning and analyzing data  https://github.com/akanz1/klib
+   
+   Amazon’s New Visual Data Cleaning Tool Can Speed Up Your AI Projects https://medium.com/dataseries/how-amazons-new-visual-data-tool-can-speed-up-your-ai-projects-68e3289382c
    
    Featuretools https://www.featuretools.com/ https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96
      
@@ -1692,7 +1696,7 @@ leverage of model architecture
    
    https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks   http://dfkoz.com/ai-data-landscape/   https://landscape.lfai.foundation/
    
-   https://towardsdatascience.com/data-science-tools-f16ecd91c95d        https://mathdatasimplified.com/
+   https://towardsdatascience.com/data-science-tools-f16ecd91c95d        https://mathdatasimplified.com/  https://github.com/neomatrix369/awesome-ai-ml-dl
  
    1.paperswithcode-https://paperswithcode.com/methods
    
