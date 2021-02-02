@@ -993,6 +993,8 @@ anderson teset  use for check any  distribution
      
      albumentations https://github.com/albumentations-team/albumentations
      
+     Image Augmentation Pipelines with Tensorflow  https://towardsai.net/p/machine-learning/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2
+     
      TensorFlow2.0-Examples  https://github.com/YunYang1994/TensorFlow2.0-Examples
      
      unadversarial  https://github.com/microsoft/unadversarial/ https://analyticsindiamag.com/microsoft-research-unadversarial/
