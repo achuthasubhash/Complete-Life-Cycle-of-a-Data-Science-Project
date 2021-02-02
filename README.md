@@ -866,6 +866,8 @@ anderson teset  use for check any  distribution
      
      5.Voting (Hard Voting,Soft Voting)
      
+     https://analyticsindiamag.com/do-ensemble-methods-always-work/
+     
      Shapley value of players (models) in weighted voting games  https://github.com/benedekrozemberczki/shapley
    
    D.Reinforcement learning
