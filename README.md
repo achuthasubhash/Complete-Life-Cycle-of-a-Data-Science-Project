@@ -524,7 +524,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      
      https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
      
-     https://stefvanbuuren.name/fimd/want-the-hardcopy.html
+     https://stefvanbuuren.name/fimd/want-the-hardcopy.html  https://www.datasciencecentral.com/profiles/blogs/how-to-treat-missing-values-in-your-data-1
      
    b.Handle imbalance
    
