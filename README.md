@@ -1722,6 +1722,8 @@ leverage of model architecture
    
    PYTORCH Lightning  https://pytorchlightning.ai/community#projects   https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2
    
+   lightning-flash  https://github.com/PyTorchLightning/lightning-flash  https://pytorch-lightning.medium.com/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
+   
    𝗢𝗽𝗮𝗰𝘂𝘀 (𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗣𝘆𝗧𝗼𝗿𝗰𝗵 𝗺𝗼𝗱𝗲𝗹𝘀 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁𝗶𝗮𝗹 𝗽𝗿𝗶𝘃𝗮𝗰𝘆)-https://opacus.ai/ 
    
    light-face-detection  https://github.com/borhanMorphy/light-face-detection
