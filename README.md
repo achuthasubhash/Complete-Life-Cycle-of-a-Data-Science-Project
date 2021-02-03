@@ -2323,6 +2323,8 @@ determined to be unfair.
    
    https://github.com/AMAI-GmbH/AI-Expert-Roadmap
    
+   https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463
+   
    data-engineer-roadmap  https://github.com/datastacktv/data-engineer-roadmap
    
    126.https://neptune.ai/blog/best-data-science-tools-to-increase-machine-learning-model-understanding?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-data-science-tools-to-increase-machine-learning-model-understanding
@@ -2402,6 +2404,8 @@ determined to be unfair.
    https://www.kdnuggets.com/2021/01/ultimate-scikit-learn-machine-learning-cheatsheet.html  https://www.kdnuggets.com/2020/09/10-things-know-scikit-learn.html
    
    146.Data Pipelines  https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html  https://www.kdnuggets.com/2019/03/data-pipelines-luigi-airflow-everything-need-know.html
+   
+   147. AI Habitat: A Platform For Embodied AI Research https://analyticsindiamag.com/hands-on-guide-to-ai-habitat-a-platform-for-embodied-ai-research/
    
 ***Follow leaders in the field to update yourself in the field***
 
