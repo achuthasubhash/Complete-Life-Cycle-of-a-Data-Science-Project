@@ -2299,6 +2299,15 @@ determined to be unfair.
    
    pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
    
+   Tensorflow Extended https://www.tensorflow.org/tfx  Tensorflow Transform  https://www.tensorflow.org/tfx/transform/get_started 
+   
+   Serving Models https://www.tensorflow.org/tfx/guide/serving
+   
+   Tensorflow Data Validation https://www.tensorflow.org/tfx/data_validation/get_started TensorFlow Model Analysis https://www.tensorflow.org/tfx/model_analysis/get_started
+   
+   MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/   https://analyticsindiamag.com/guide-to-mlflow-a-platform-to-manage-machine-learning-lifecycle/   https://www.kdnuggets.com/2021/01/model-experiments-tracking-registration-mlflow-databricks.html   
+   
+   
    118.algorithm to use by problem https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-deep-learning-algorithm-to-use-by-problem
    
    119.Connect the world to your data and fuel your ML.
@@ -2341,13 +2350,13 @@ determined to be unfair.
    
    Comet  manage and organize machine learning experiments https://www.comet.ml/site/ https://analyticsindiamag.com/how-to-supercharge-your-machine-learning-experiments-with-comet-ml/
    
-   MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/   https://analyticsindiamag.com/guide-to-mlflow-a-platform-to-manage-machine-learning-lifecycle/   https://www.kdnuggets.com/2021/01/model-experiments-tracking-registration-mlflow-databricks.html   
-   
    neptune https://neptune.ai/  https://analyticsindiamag.com/how-to-manage-ml-experiments-with-neptune-ai/
    
    weights & biases https://wandb.ai/site https://analyticsindiamag.com/hands-on-guide-to-weights-and-biases-wandb-with-python-implementation/  https://docs.wandb.ai/
    
    https://www.kdnuggets.com/2020/07/tour-end-to-end-machine-learning-platforms.html
+   
+   
    
    127.19 Best JupyterLab Extensions for Machine Learning  https://neptune.ai/blog/jupyterlab-extensions-for-machine-learning
    
