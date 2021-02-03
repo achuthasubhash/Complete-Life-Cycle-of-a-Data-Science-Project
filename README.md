@@ -1200,6 +1200,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      ConvBert https://github.com/yitu-opensource/ConvBert
      
+     Python interface for building, loading, and using GloVe vectors https://github.com/Lguyogiro/pyglove
+     
      SentenceTransformers  https://www.sbert.net/
      
      Reformer – The Efficient Transformer  https://analyticsindiamag.com/hands-on-guide-to-reformer-the-efficient-transformer/
@@ -2548,7 +2550,9 @@ https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
 
 https://neptune.ai/blog/best-machine-learning-as-a-service-platforms-mlaas?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-machine-learning-as-a-service-platforms-mlaas
 
-https://codegnan.com/blog/35-best-data-sciecne-tools-for-beginners-to-master/
+https://codegnan.com/blog/35-best-data-sciecne-tools-for-beginners-to-master/  https://analyticsindiamag.com/free-online-resources-to-learn-automl/
+
+https://analyticsindiamag.com/10-popular-automl-tools-developers-can-use/
 
 mlkit-https://firebase.google.com/products/ml
 
