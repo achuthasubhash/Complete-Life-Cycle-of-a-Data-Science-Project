@@ -2162,7 +2162,7 @@ leverage of model architecture
    
    104.Deep Learning Toolkit for Medical Image Analysis -https://github.com/DLTK/DLTK
    
-   106.Interpret The ML Model  
+   106.Interpret The ML Model    https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608
    
    lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/  https://towardsdatascience.com/interpreting-image-classification-model-with-lime-1e7064a2f2e5
    
