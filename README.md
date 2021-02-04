@@ -1087,6 +1087,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       5.deep Autoencoder
       
       6.variational autoencoder
+      
+      https://github.com/zc8340311/RobustAutoencoder
    
    6.BoltzmannMachines,Restricted Boltzmann Machine,deep belief network,deep BoltzmannMachines
    
@@ -1177,6 +1179,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         Acoustic model,Speaker diarisation,apis
         
      SpeechRecognition
+     
+     audiomentations  Python library for audio data augmentation  https://github.com/iver56/audiomentations
      
      googletrans (google Translator)   https://pypi.org/project/googletrans/
      
