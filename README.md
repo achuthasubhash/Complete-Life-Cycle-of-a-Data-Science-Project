@@ -2434,7 +2434,7 @@ determined to be unfair.
     
 ***CPU/GPU/TPU***
  
-    1.Google cloab (FREE)
+    1.Google cloab (FREE)  Jupyter Lab for Python, R, Swift from Google Colab with ColabCode  https://www.youtube.com/watch?v=Q35WIqZoUF4
     
     2.Kaggle kernel(read terms and conditions before use) (FREE)
     
