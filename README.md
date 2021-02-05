@@ -975,6 +975,8 @@ anderson teset  use for check any  distribution
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
+       https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/
+       
        PyTorch based low code object detection-https://github.com/alankbi/detecto
        
        autogluon 
