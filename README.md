@@ -1706,7 +1706,7 @@ leverage of model architecture
    
    https://towardsdatascience.com/data-science-tools-f16ecd91c95d        https://mathdatasimplified.com/  https://github.com/neomatrix369/awesome-ai-ml-dl
  
-   1.paperswithcode-https://paperswithcode.com/methods  https://www.paperswithcode.com/datasets 
+   1.paperswithcode-https://paperswithcode.com/methods  https://www.paperswithcode.com/datasets   
    
    paperswithcode-client https://github.com/paperswithcode/paperswithcode-client
 
