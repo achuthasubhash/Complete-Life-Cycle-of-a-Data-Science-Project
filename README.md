@@ -1522,6 +1522,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
+    H2O.ai https://www.h2o.ai/blog/data-to-production-ready-models-to-business-apps-in-just-a-few-steps/ 
+    
     PyQt and Tkinter , PySimpleGUI are GUI programming in Python  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
     DearPyGui https://github.com/hoffstadt/DearPyGui
