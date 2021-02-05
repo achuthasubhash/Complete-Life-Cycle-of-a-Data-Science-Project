@@ -1710,7 +1710,9 @@ leverage of model architecture
  
    1.paperswithcode-https://paperswithcode.com/methods  https://www.paperswithcode.com/datasets   
    
-   paperswithcode-client https://github.com/paperswithcode/paperswithcode-client
+   paperswithcode-client https://github.com/paperswithcode/paperswithcode-client  
+   
+   https://www.connectedpapers.com/main/4f2eda8077dc7a69bb2b4e0a1a086cf054adb3f9/EfficientNet-Rethinking-Model-Scaling-for-Convolutional-Neural-Networks/graph
 
    2.madewithml-https://madewithml.com/topics/   https://madewithml.com/courses/applied-ml-in-production/  https://github.com/GokuMohandas/applied-ml
    
