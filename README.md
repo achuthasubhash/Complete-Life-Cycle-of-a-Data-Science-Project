@@ -300,7 +300,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
     
-       70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
+     70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
+     
+    VisualData https://www.visualdata.io/discovery
        
     bifrost-   https://datasets.bifrost.ai/
     
