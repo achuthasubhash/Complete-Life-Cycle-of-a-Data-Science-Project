@@ -1736,6 +1736,8 @@ leverage of model architecture
    
    lightning-flash  https://github.com/PyTorchLightning/lightning-flash  https://pytorch-lightning.medium.com/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
    
+   Sharded: A New Technique To Double The Size Of PyTorch Models https://towardsdatascience.com/sharded-a-new-technique-to-double-the-size-of-pytorch-models-3af057466dba
+   
    𝗢𝗽𝗮𝗰𝘂𝘀 (𝘁𝗿𝗮𝗶𝗻𝗶𝗻𝗴 𝗣𝘆𝗧𝗼𝗿𝗰𝗵 𝗺𝗼𝗱𝗲𝗹𝘀 𝘄𝗶𝘁𝗵 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁𝗶𝗮𝗹 𝗽𝗿𝗶𝘃𝗮𝗰𝘆)-https://opacus.ai/ 
    
    light-face-detection  https://github.com/borhanMorphy/light-face-detection
