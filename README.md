@@ -541,8 +541,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
      4.use Stratified kfold to keep the ratio of classess constantly
      
      5.Weighted Neural Network
-     
-     https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/
+       
+     https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/  https://www.kdnuggets.com/2020/01/5-most-useful-techniques-handle-imbalanced-datasets.html
   
    c.Remove noise data
    
