@@ -791,9 +791,7 @@ anderson teset  use for check any  distribution
        least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines 
-       
-       
-   
+
      2.Classification (output feature in categorical data form)
      
         Binary,Multi-class,Multi-labe
@@ -1334,7 +1332,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       time series visualization tool https://plotjuggler.io/
       
-       Time Series Anomaly Detection using Generative Adversarial Networks(TadGAN) https://analyticsindiamag.com/hands-on-guide-to-tadgan-with-python-codes/
+      Time Series Anomaly Detection using Generative Adversarial Networks(TadGAN) https://analyticsindiamag.com/hands-on-guide-to-tadgan-with-python-codes/
       
       fastquant — Backtest and optimize your trading strategies with only 3 lines of code  https://github.com/enzoampil/fastquant 
     
@@ -1343,6 +1341,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       https://pytorch-forecasting.readthedocs.io/en/latest/  https://pytorch-forecasting.readthedocs.io/en/latest/tutorials/ar.html
       
       sktime-https://github.com/alan-turing-institute/sktime  https://analyticsindiamag.com/sktime-library/
+      
+       tsfresh – a magical library for feature extraction in time-series datasets.
       
       atspy  https://github.com/firmai/atspy
       
