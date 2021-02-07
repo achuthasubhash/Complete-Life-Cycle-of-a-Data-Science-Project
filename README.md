@@ -2508,7 +2508,7 @@ applications of data science in many industry
 
    https://ai.facebook.com/      https://ai.googleblog.com/    https://research.google/     https://ai.google/research/
 
-   1.The Alan Turing Institute:https://www.turing.ac.uk/
+   1.The Alan Turing Institute:https://www.turing.ac.uk/ 
 
    2.J.P. Morgan AI Research Lab:https://www.jpmorgan.com/insights/tec...
 
