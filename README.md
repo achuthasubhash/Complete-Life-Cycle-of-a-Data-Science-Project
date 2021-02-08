@@ -1713,6 +1713,8 @@ leverage of model architecture
    https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks   http://dfkoz.com/ai-data-landscape/   https://landscape.lfai.foundation/
    
    https://towardsdatascience.com/data-science-tools-f16ecd91c95d        https://mathdatasimplified.com/  https://github.com/neomatrix369/awesome-ai-ml-dl
+   
+   https://amitness.com/
  
    1.paperswithcode-https://paperswithcode.com/methods  https://www.paperswithcode.com/datasets   
    
@@ -2916,7 +2918,7 @@ https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-t
 
 https://ml-showcase.paperspace.com/              https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
 
-https://dev.to/hb/30-machine-learning-ai-data-science-project-ideas-gf5
+https://dev.to/hb/30-machine-learning-ai-data-science-project-ideas-gf5  https://www.theinsaneapp.com/2021/01/top-30-ai-and-ml-projects-for-2021.html
 
 https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-with-python-6191bc7b9db9
 
