@@ -1408,6 +1408,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Hyperopt,hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
     
+    hyperband  https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms
+    
     Spearmint  https://github.com/JasperSnoek/spearmint/
     
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
