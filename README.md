@@ -975,7 +975,7 @@ anderson teset  use for check any  distribution
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
-       https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/
+       https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/  https://analyticsindiamag.com/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/
        
        PyTorch based low code object detection-https://github.com/alankbi/detecto
        
@@ -1069,6 +1069,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
    
      Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
+     
+     Quantum GAN  https://analyticsindiamag.com/now-gans-are-being-used-for-drug-discovery-complete-guide-to-quantum-gan-with-python-code/
      
      Imaginaire https://analyticsindiamag.com/guide-to-nvidia-imaginaire-gan-library-in-python/
      
