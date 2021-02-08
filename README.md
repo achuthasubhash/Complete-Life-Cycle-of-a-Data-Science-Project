@@ -852,6 +852,8 @@ anderson teset  use for check any  distribution
          
          Restricted Boltzmann Machines 
          
+         Downsize Recommendation Models By 112 Times https://analyticsindiamag.com/explained-facebooks-novel-method-to-downsize-recommendation-models-by-112-times/
+         
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
          
          https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8
@@ -2673,6 +2675,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    lux Python API for Intelligent Visual Data Discovery  https://github.com/lux-org/lux
    
    Dashboard in Less Than 10 Lines of Code  https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b
+   
+   Creating Automated Python Dashboards using Plotly, Datapane, and GitHub Actions https://towardsdatascience.com/creating-automated-python-dashboards-using-plotly-datapane-and-github-actions-ff8aa8b4e3
    
    interactive dashboards https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9
    
