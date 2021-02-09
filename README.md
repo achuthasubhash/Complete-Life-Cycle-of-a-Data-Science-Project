@@ -2313,7 +2313,7 @@ determined to be unfair.
    
    116.Pytest for Data Scientists https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c
    
-   117.mlflow https://mlflow.org/docs/latest/index.html
+   117.mlflow https://mlflow.org/docs/latest/index.html  https://github.com/amesar/mlflow-examples
    
    labml https://ramith.fyi/tracking-your-ml-experiments-without-sending-data-to-the-cloud/
    
