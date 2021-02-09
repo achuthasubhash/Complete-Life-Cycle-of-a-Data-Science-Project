@@ -2446,6 +2446,8 @@ determined to be unfair.
    
    147. AI Habitat: A Platform For Embodied AI Research https://analyticsindiamag.com/hands-on-guide-to-ai-habitat-a-platform-for-embodied-ai-research/
    
+   148.mito Python 10x faster by editing a spreadsheet https://docs.trymito.io/ https://trymito.io/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
