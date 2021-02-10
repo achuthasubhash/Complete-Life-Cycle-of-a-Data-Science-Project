@@ -1074,7 +1074,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Quantum GAN  https://analyticsindiamag.com/now-gans-are-being-used-for-drug-discovery-complete-guide-to-quantum-gan-with-python-code/
      
-     https://analyticsindiamag.com/guide-to-differentiable-augmentation-for-data-efficient-gan-training/
+     https://analyticsindiamag.com/guide-to-differentiable-augmentation-for-data-efficient-gan-training/  https://analyticsindiamag.com/hands-on-python-guide-to-style-based-age-manipulation-sam-technique/
      
      Imaginaire https://analyticsindiamag.com/guide-to-nvidia-imaginaire-gan-library-in-python/
      
