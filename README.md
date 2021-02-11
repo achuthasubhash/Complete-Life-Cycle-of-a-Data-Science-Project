@@ -1678,7 +1678,7 @@ leverage of model architecture
 
     1.Towards data science-https://towardsdatascience.com/
 
-    2.Analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar       https://analyticsindiamag.com/
+    2.Analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar       https://analyticsindiamag.com/  https://www.analyticsinsight.net/
 
     3.Medium-https://medium.com/
     
