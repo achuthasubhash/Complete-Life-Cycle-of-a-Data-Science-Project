@@ -806,7 +806,7 @@ anderson teset  use for check any  distribution
    
      1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,plsr,pcr,autoencoders,kpca,lsa,Factor Analysis,
    
-     2.Clustering :https://scikit-learn.org/stable/modules/clustering.html
+     2.Clustering :https://scikit-learn.org/stable/modules/clustering.html  https://machinelearningmastery.com/clustering-algorithms-with-python/
      
      kmodes https://www.youtube.com/watch?v=8eATPLDJ0NQ
      
