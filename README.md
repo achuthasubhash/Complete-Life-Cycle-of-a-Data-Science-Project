@@ -1532,6 +1532,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html
     
+    booklet https://booklet.ai/  https://towardsdatascience.com/building-a-covid-19-project-recommendation-system-4607806923b9
+    
     https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
     H2O.ai https://www.h2o.ai/blog/data-to-production-ready-models-to-business-apps-in-just-a-few-steps/ 
