@@ -2339,7 +2339,10 @@ determined to be unfair.
    
    MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/   https://analyticsindiamag.com/guide-to-mlflow-a-platform-to-manage-machine-learning-lifecycle/   https://www.kdnuggets.com/2021/01/model-experiments-tracking-registration-mlflow-databricks.html   
    
+   ray https://docs.ray.io/en/master/serve/  https://github.com/ray-project/ray 
    
+   https://medium.com/distributed-computing-with-ray/ray-mlflow-taking-distributed-machine-learning-applications-to-production-103f5505cb88
+
    118.algorithm to use by problem https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-deep-learning-algorithm-to-use-by-problem
    
    119.Connect the world to your data and fuel your ML.
