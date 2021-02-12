@@ -801,6 +801,8 @@ anderson teset  use for check any  distribution
         Random Forest Classification,xgboost,adaboost,Gradient Boost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, passive aggressive classifier algorithm,cart,c4.5,c5.0
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
+        
+        Machine Learning – it’s all about assumptions  https://www.kdnuggets.com/2021/02/machine-learning-assumptions.html
    
    B.Unsupervised learning(no label(target) data)
    
@@ -1549,6 +1551,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     BentoML https://github.com/bentoml/BentoML
     
     h20wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/ https://h2oai.github.io/wave/
+    
+    fastapi https://towardsdatascience.com/deploying-ml-models-in-production-with-fastapi-and-celery-7063e539a5db
     
     DS-with-PySimpleGUI  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
@@ -2718,6 +2722,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 18.dask (parallel comptataion)   https://docs.dask.org/en/latest/   https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f#cid=av01_so-nvsh_en-us
 
 Dask Dataframe and SQL https://docs.dask.org/en/latest/dataframe-sql.html
+
+Speed up Scikit-Learn Model Training  https://www.kdnuggets.com/2021/02/speed-up-scikit-learn-model-training.html
 
 thundergbm  Fast GBDTs and Random Forests on GPUs  https://github.com/Xtra-Computing/thundergbm
 
