@@ -110,7 +110,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Downloading Kaggle datasets directly into Google Colab -https://towardsdatascience.com/downloading-kaggle-datasets-directly-into-google-colab-c8f0f407d73a
    
-    2)movielens-https://grouplens.org/datasets/movielens/latest/
+    2)https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
+    
+    movielens-https://grouplens.org/datasets/movielens/latest/
    
     3)data.gov-https://data.gov.in/
    
