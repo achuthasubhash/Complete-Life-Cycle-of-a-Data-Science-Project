@@ -1186,6 +1186,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         Acoustic model,Speaker diarisation,apis
         
+        Wav2Vec2 https://huggingface.co/transformers/model_doc/wav2vec2.html https://www.youtube.com/watch?v=dJAoK5zK36M&feature=youtu.be
+        
      SpeechRecognition
      
      audiomentations  Python library for audio data augmentation  https://github.com/iver56/audiomentations
