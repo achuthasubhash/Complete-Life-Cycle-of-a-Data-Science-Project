@@ -442,7 +442,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://www.youtube.com/watch?v=1aUt8zAG09E
     
-    67.yfinance for finance data using     https://github.com/ranaroussi/yfinance
+    67.yfinance for finance data using     https://github.com/ranaroussi/yfinance  https://medium.com/towards-artificial-intelligence/algorithmic-trading-with-python-and-machine-learning-part-1-47c56706c182
     
     import fix_yahoo_finance as yf
     
