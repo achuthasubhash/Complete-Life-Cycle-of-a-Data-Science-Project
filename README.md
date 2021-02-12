@@ -1532,9 +1532,11 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave
+    streamlit,plotly jupyterdash,h2o wave,dash 
     
     streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html
+    
+    dash https://github.com/plotly/dash
     
     booklet https://booklet.ai/  https://towardsdatascience.com/building-a-covid-19-project-recommendation-system-4607806923b9
     
