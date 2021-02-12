@@ -1960,6 +1960,8 @@ leverage of model architecture
    
    Microsoft Lobe -https://lobe.ai/
    
+   Ludwig https://github.com/ludwig-ai/ludwig 
+   
    WEKA - https://www.cs.waikato.ac.nz/ml/weka/
    
    Monk_Gui-https://github.com/Tessellate-Imaging/Monk_Gui
@@ -1989,8 +1991,6 @@ leverage of model architecture
    datarobot https://www.datarobot.com/
    
    dataiku https://www.dataiku.com/product/get-started/
-   
-   ludwig  https://github.com/ludwig-ai/ludwig
    
    orange https://orange.biolab.si/
    
