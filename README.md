@@ -1532,6 +1532,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     4.Google cloud platform
     
+    Deploy a Machine Learning Model for Free https://www.freecodecamp.org/news/deploy-your-machine-learning-models-for-free/
+    
     MODEL DEPLOYMENT USING TF SERVING
      
     TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx
@@ -2413,8 +2415,6 @@ determined to be unfair.
    
    https://www.kdnuggets.com/2020/07/tour-end-to-end-machine-learning-platforms.html
    
-   
-   
    127.19 Best JupyterLab Extensions for Machine Learning  https://neptune.ai/blog/jupyterlab-extensions-for-machine-learning
    
    128.coreml https://developer.apple.com/machine-learning/core-ml/
@@ -2475,6 +2475,8 @@ determined to be unfair.
    
    148.mito Python 10x faster by editing a spreadsheet https://docs.trymito.io/ https://trymito.io/
    
+   149.onnx  https://medium.com/towards-artificial-intelligence/onnx-for-model-interoperability-faster-inference-8709375db9bf
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
@@ -2484,6 +2486,8 @@ determined to be unfair.
 ***CPU/GPU/TPU***
  
     1.Google cloab (FREE)  Jupyter Lab for Python, R, Swift from Google Colab with ColabCode  https://www.youtube.com/watch?v=Q35WIqZoUF4
+    
+    GitHub notebooks with Google Colab https://www.youtube.com/watch?v=LmIylxNmA-A&feature=youtu.be  
     
     2.Kaggle kernel(read terms and conditions before use) (FREE)
     
