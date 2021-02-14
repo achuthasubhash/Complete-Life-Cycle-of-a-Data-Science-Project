@@ -1173,6 +1173,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
         
         Tree-Transformer https://github.com/yaushian/Tree-Transformer
+        
+        Transformers Interpret https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470 https://github.com/cdpierse/transformers-interpret
       
      10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
@@ -2213,6 +2215,8 @@ leverage of model architecture
    tcav  https://github.com/tensorflow/tcav       yellowbrick  https://www.scikit-yb.org/en/latest/quickstart.html
    
    Language Interpretability Tool https://github.com/pair-code/lit https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html
+   
+   Transformers Interpret https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470 https://github.com/cdpierse/transformers-interpret
    
    treeinterpreter https://github.com/andosa/treeinterpreter
    
