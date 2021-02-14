@@ -250,6 +250,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     34)Big Bad NLP Database-https://datasets.quantumstat.com/
     
+    fast.ai Datasets https://course.fast.ai/datasets
+    
     https://github.com/niderhoff/nlp-datasets
     
     nlp-datasets https://github.com/karthikncode/nlp-datasets
@@ -1543,6 +1545,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html
     
     dash https://github.com/plotly/dash
+    
+    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
     booklet https://booklet.ai/  https://towardsdatascience.com/building-a-covid-19-project-recommendation-system-4607806923b9
     
