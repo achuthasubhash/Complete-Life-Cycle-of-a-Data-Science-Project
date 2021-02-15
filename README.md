@@ -1695,6 +1695,8 @@ leverage of model architecture
 ***BEST BLOGS TO FOLLOW***
 
     https://www.cybrhome.com/topic/data-science-blogs
+    
+    https://www.datasciencecentral.com/profiles/blog/list  https://developer.nvidia.com/blog/?ncid=em-prom-48627
 
     1.Towards data science-https://towardsdatascience.com/
 
