@@ -1750,7 +1750,7 @@ leverage of model architecture
  
    1.paperswithcode-https://paperswithcode.com/methods  https://www.paperswithcode.com/datasets   
    
-   paperswithcode-client https://github.com/paperswithcode/paperswithcode-client  
+   paperswithcode-client https://github.com/paperswithcode/paperswithcode-client   https://paperswithcode.com/lib/torchvision
    
    https://www.connectedpapers.com/main/4f2eda8077dc7a69bb2b4e0a1a086cf054adb3f9/EfficientNet-Rethinking-Model-Scaling-for-Convolutional-Neural-Networks/graph
 
@@ -2524,6 +2524,8 @@ applications of data science in many industry
     and many more fields - https://www.topbots.com/enterprise-ai-companies-2020/ , https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/
     
 ***Research blogs***
+
+   https://reconshell.com/top-ai-and-machine-learning-blogs-curated-for-ai-enthusiasts/
 
    1.https://ai.facebook.com/   https://ai.facebook.com/blog/  
     
