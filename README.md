@@ -1868,7 +1868,7 @@ leverage of model architecture
    
    31.huggingface contain almost all nlp pretrained model and all tasks related to nlp field
    
-   https://huggingface.co/models
+   https://huggingface.co/models  https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html
      
    https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/  https://huggingface.co/transformers/master/   https://github.com/huggingface/tokenizers
    
