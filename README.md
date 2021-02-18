@@ -106,6 +106,8 @@ Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeli
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
+    https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
+
     1)kaggle-https://www.kaggle.com/datasets , 𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚔𝚊𝚐𝚐𝚕𝚎𝚍𝚊𝚝𝚊𝚜𝚎𝚝𝚜
     
     Downloading Kaggle datasets directly into Google Colab -https://towardsdatascience.com/downloading-kaggle-datasets-directly-into-google-colab-c8f0f407d73a
@@ -1346,7 +1348,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       16.Orbit , DeepAR ,NeuralProphet(https://github.com/ourownstory/neural_prophet    https://ourownstory.github.io/neural_prophet/model-overview/)
       
-      best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/,
+      best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
+      
+      TimeSynth https://github.com/TimeSynth/TimeSynth  https://analyticsindiamag.com/guide-to-timesynth-a-python-library-for-synthetic-time-series-generation/
       
       time series visualization tool https://plotjuggler.io/
       
@@ -1415,6 +1419,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   DropBlock-Keras-Implementation https://github.com/iantimmis/DropBlock-Keras-Implementation   https://github.com/miguelvr/dropblock https://github.com/DHZS/tf-dropblock
   
 ***Hyperparameter tuning***
+
+    https://analyticsindiamag.com/top-8-approaches-for-tuning-hyperparameters-of-machine-learning-models/
   
     a.GridSearchCV (check every given parameter so take long time)
   
@@ -1696,7 +1702,7 @@ leverage of model architecture
 
 ***BEST BLOGS TO FOLLOW***
 
-    https://www.cybrhome.com/topic/data-science-blogs
+    https://www.cybrhome.com/topic/data-science-blogs    
     
     https://www.datasciencecentral.com/profiles/blog/list  https://developer.nvidia.com/blog/?ncid=em-prom-48627
 
@@ -1710,7 +1716,7 @@ leverage of model architecture
     
     5.ML+  -https://www.machinelearningplus.com/
     
-    6.analyticsinsight https://www.analyticsinsight.net/category/latest-news/   
+    6.analyticsinsight https://www.analyticsinsight.net/category/latest-news/    https://www.analyticsinsight.net/
     
     7.KDnuggets https://www.kdnuggets.com/  https://www.kdnuggets.com/news/index.html   
     
@@ -2288,7 +2294,7 @@ leverage of model architecture
    
    https://www.kdnuggets.com/2018/12/machine-learning-explainability-interpretability-ai.html  https://www.kdnuggets.com/2019/09/python-libraries-interpretable-machine-learning.html https://www.kdnuggets.com/2019/08/open-black-boxes-explainable-machine-learning.html
    
-   Fairness 
+   Fairness https://analyticsindiamag.com/building-a-responsible-ai-eco-system/
    
    How to easily check if your Machine Learning model is fair (dalex) https://www.kdnuggets.com/2020/12/machine-learning-model-fair.html
    
