@@ -1548,6 +1548,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     dash https://github.com/plotly/dash
     
+    plotly https://plotly.com/
+    
     Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
     booklet https://booklet.ai/  https://towardsdatascience.com/building-a-covid-19-project-recommendation-system-4607806923b9
