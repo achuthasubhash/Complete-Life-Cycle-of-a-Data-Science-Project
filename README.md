@@ -1179,6 +1179,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         Tree-Transformer https://github.com/yaushian/Tree-Transformer
         
         Transformers Interpret https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470 https://github.com/cdpierse/transformers-interpret
+        
+        mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
      10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
      
