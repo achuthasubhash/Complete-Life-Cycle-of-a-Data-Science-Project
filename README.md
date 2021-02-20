@@ -1316,6 +1316,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       NeuralProphet Model- https://ourownstory.github.io/neural_prophet/model-overview/
       
+      PyTorch Forecasting enables deep learning models for time-series forecasting
+      
       hmmlearn https://github.com/ushareng/StockPricePredictionUsingHMM_Byte/blob/master/StockPricePredictionUsingHMM.ipynb
       
       stumpy https://github.com/TDAmeritrade/stumpy
@@ -1327,6 +1329,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       pmdarima for Auto ARIMA
       
       GluonTS
+      
+      sktime — a unified time-series framework for Scikit-Learn
+      
+      tsfresh — a magical library for feature extraction in time-series datasets
       
       9.Holts winter,Holts linear trend
       
