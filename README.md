@@ -2753,6 +2753,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    
    Automating report generation with Jupyter Notebooks https://medium.com/applied-data-science/full-stack-data-scientist-5-automating-report-generation-with-jupyter-notebooks-919e32e88d18
    
+   10 Useful Jupyter Notebook Extensions for a Data Scientist https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e
+   
    Datapane ( Build Interactive Reports) https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8
    
    pomegranate probabilistic modelling in Python  https://github.com/jmschrei/pomegranate https://www.kdnuggets.com/2020/12/fast-intuitive-statistical-modeling-pomegranate.html
