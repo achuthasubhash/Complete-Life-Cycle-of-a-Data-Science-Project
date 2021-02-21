@@ -2495,6 +2495,8 @@ determined to be unfair.
    
    149.onnx  https://medium.com/towards-artificial-intelligence/onnx-for-model-interoperability-faster-inference-8709375db9bf
    
+   150.Speeding up Python code with Nim https://medium.com/statch/speeding-up-python-code-with-nim-ec205a8a5d9c
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
