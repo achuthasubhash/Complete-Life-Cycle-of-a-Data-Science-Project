@@ -1464,7 +1464,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Auto-PyTorch https://github.com/automl/Auto-PyTorch
     
-    https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3
+    https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3 
+    
+    https://mlwhiz.com/blog/2020/02/22/hyperspark/?utm_campaign=100x-faster-hyperparameter-search-framework-with-pyspark&utm_medium=social_link&utm_source=missinglettr
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
@@ -2619,7 +2621,7 @@ applications of data science in many industry
 
 15.https://www.openml.org/
 
-https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c
+https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-skills-in-2021-32e3fcb95d8c  https://www.kdnuggets.com/2020/09/international-alternatives-kaggle-data-science-competitions.html
 
 ***Some useful content :***
 
