@@ -1428,7 +1428,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
 ***Hyperparameter tuning***
 
-    https://analyticsindiamag.com/top-8-approaches-for-tuning-hyperparameters-of-machine-learning-models/
+    https://analyticsindiamag.com/top-8-approaches-for-tuning-hyperparameters-of-machine-learning-models/  https://analyticsindiamag.com/top-10-open-source-hyperparameter-optimisation-libraries-for-ml-models/
   
     a.GridSearchCV (check every given parameter so take long time)
   
