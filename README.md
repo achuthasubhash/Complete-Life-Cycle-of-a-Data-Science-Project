@@ -1456,6 +1456,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     j.Keras Hyperparameter Tuning with aisaratuners Library https://aisaradeepwadi.medium.com/advance-keras-hyperparameter-tuning-with-aisaratuners-library-78c488ab4d6a
     
+    k.model_search https://github.com/google/model_search https://analyticsindiamag.com/hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl/
+    
     Milano   https://github.com/NVIDIA/Milano
     
     Pywedge https://www.analyticsvidhya.com/blog/2021/02/interactive-widget-based-hyperparameter-tuning-and-tracking-in-pywedge/ 
