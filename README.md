@@ -2501,6 +2501,8 @@ determined to be unfair.
    
    150.Speeding up Python code with Nim https://medium.com/statch/speeding-up-python-code-with-nim-ec205a8a5d9c
    
+   151.Top 10 Free Resources To Learn R  https://analyticsindiamag.com/top-10-free-resources-to-learn-r/
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
