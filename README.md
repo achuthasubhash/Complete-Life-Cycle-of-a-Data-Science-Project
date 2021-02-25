@@ -1374,11 +1374,13 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       sktime-https://github.com/alan-turing-institute/sktime  https://analyticsindiamag.com/sktime-library/
       
-       tsfresh – a magical library for feature extraction in time-series datasets.
+      tsfresh – a magical library for feature extraction in time-series datasets.
       
       atspy  https://github.com/firmai/atspy
       
       tcn https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8
+      
+      Pastas https://analyticsindiamag.com/guide-to-pastas-a-python-framework-for-hydrogeological-time-series-analysis/ https://github.com/pastas/pastas
       
       fine Tune Your Machine Learning Models To Improve Forecasting Accuracy https://www.kdnuggets.com/2019/01/fine-tune-machine-learning-models-forecasting.html
       
