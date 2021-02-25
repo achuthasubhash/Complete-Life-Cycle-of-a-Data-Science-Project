@@ -2507,6 +2507,8 @@ determined to be unfair.
    
    151.Top 10 Free Resources To Learn R  https://analyticsindiamag.com/top-10-free-resources-to-learn-r/
    
+   152.Best ML Frameworks & Extensions for Scikit-learn https://neptune.ai/blog/the-best-ml-framework-extensions-for-scikit-learn?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-the-best-ml-framework-extensions-for-scikit-learn
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
