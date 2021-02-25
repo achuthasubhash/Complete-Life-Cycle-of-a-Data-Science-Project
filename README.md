@@ -30,7 +30,9 @@ https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-
 
 https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44204|0.375
 
-https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-scraping-software
+https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-scraping-software  
+
+https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d
 
 https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-hero-38051423256b
 
