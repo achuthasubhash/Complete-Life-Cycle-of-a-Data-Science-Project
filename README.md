@@ -1384,6 +1384,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       Pastas https://analyticsindiamag.com/guide-to-pastas-a-python-framework-for-hydrogeological-time-series-analysis/ https://github.com/pastas/pastas
       
+      stockDL https://github.com/ashishpapanai/stockDL
+      
       fine Tune Your Machine Learning Models To Improve Forecasting Accuracy https://www.kdnuggets.com/2019/01/fine-tune-machine-learning-models-forecasting.html
       
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
