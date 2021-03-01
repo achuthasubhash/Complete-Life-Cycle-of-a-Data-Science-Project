@@ -1561,6 +1561,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     Deploy a Machine Learning Model for Free https://www.freecodecamp.org/news/deploy-your-machine-learning-models-for-free/
     
     MODEL DEPLOYMENT USING TF SERVING
+    
+    Model Serving https://neptune.ai/blog/ml-model-serving-best-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-ml-model-serving-best-tools
      
     TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx
     
