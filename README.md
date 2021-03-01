@@ -2737,7 +2737,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    
    Facets https://github.com/PAIR-code/facets https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc
    
-   lux https://medium.com/swlh/automating-exploratory-data-analysis-part-3-d04352b83072
+   lux https://medium.com/swlh/automating-exploratory-data-analysis-part-3-d04352b83072 https://pub.towardsai.net/speed-up-eda-with-the-intelligent-lux-37f96542527b
    
    https://github.com/mstaniak/autoEDA-resources
    
