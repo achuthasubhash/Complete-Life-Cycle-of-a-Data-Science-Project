@@ -1576,7 +1576,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     dash https://github.com/plotly/dash
     
-    plotly https://plotly.com/
+    plotly https://plotly.com/  https://analyticsindiamag.com/how-to-use-plotly-in-colab/
     
     Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
@@ -3105,7 +3105,7 @@ Qlib https://analyticsindiamag.com/qlib/
 
 121.Koalas on Apache Spark - Pandas API  https://www.youtube.com/watch?v=kOtAMiMe1JY&t=482s   https://koalas.readthedocs.io/en/latest/
 
-122.DALL·E  https://openai.com/blog/dall-e/
+122.DALL·E  https://openai.com/blog/dall-e/    https://analyticsindiamag.com/comprehensive-guide-to-dall-e-by-openai-creating-images-from-text/
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
