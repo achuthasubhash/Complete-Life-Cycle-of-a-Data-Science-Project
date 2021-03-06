@@ -2244,7 +2244,7 @@ leverage of model architecture
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
-   https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html
+   https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html https://analyticsindiamag.com/hands-on-guide-to-interpret-machine-learning-with-shap/
    
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash
    
