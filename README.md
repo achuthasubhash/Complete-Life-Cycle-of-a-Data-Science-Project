@@ -1087,6 +1087,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
 
      generative adversarial transformers https://github.com/dorarad/gansformer
+     
+     LipGAN https://github.com/Rudrabha/LipGAN  Wav2Lip https://github.com/Rudrabha/Wav2Lip
    
      Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
      
