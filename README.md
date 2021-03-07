@@ -1085,6 +1085,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      all above 3 models have bidirectional also based on problem statement use bidirectional models
   
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
+
+     generative adversarial transformers https://github.com/dorarad/gansformer
    
      Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
      
@@ -1096,7 +1098,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      StyleFlow https://github.com/RameenAbdal/StyleFlow 
      
-     https://github.com/hindupuravinash/the-gan-zoo
+     https://github.com/hindupuravinash/the-gan-zoo  https://analyticsindiamag.com/top-10-tools-for-generative-adversarial-networks/
    
    5.Autoencoder
    
