@@ -778,13 +778,20 @@ anderson teset  use for check any  distribution
     
     21.Statistical Methods , Hypothesis Testing ,Recursive Feature Elimination
     
-    22.Boruta https://github.com/scikit-learn-contrib/boruta_py 
+    22.Boruta https://github.com/scikit-learn-contrib/boruta_py https://analyticsindiamag.com/hands-on-guide-to-automated-feature-selection-using-boruta/
     
     23.Sequence Feature Selection
     
     https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
     
     https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
+    
+    Feature Engineering Tools https://neptune.ai/blog/feature-engineering-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-engineering-tools
+    
+    Featuretools: https://github.com/alteryx/featuretools
+    AutoFeat: https://github.com/cod3licious/autofeat
+    TSFresh: https://github.com/blue-yonder/tsfresh
+    FeatureSelector: https://github.com/WillKoehrsen/feature-selector
     
 ***5.Data splitting***
 
