@@ -1581,6 +1581,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
      
     TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx
     
+    torchblaze https://github.com/MLH-Fellowship/torchblaze https://mlh-fellowship.github.io/torchblaze/
+    
     Models visualization using Tensorboard,netron, TensorBoard.dev
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
@@ -1684,6 +1686,8 @@ leverage of model architecture
    arXiv.org https://arxiv.org/list/cs.AI/recent  https://arxiv.org/list/stat.ML/recent  https://arxiv.org/list/cs.CL/recent  https://arxiv.org/list/cs.CV/recent
    
    https://github.com/amitness/papers-with-video
+   
+   connected papers https://www.connectedpapers.com/
    
    Semantic Scholar searches: https://www.semanticscholar.org/search?q=%22neural%20networks%22&sort=relevance&ae=false 
    
@@ -2683,6 +2687,10 @@ EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alt
 A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
 
 3. autopandas
+
+MLBox https://github.com/AxeldeRomblay/MLBox
+
+TransmogrifAI https://github.com/salesforce/TransmogrifAI
 
 4. AutoGluon   https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
 
