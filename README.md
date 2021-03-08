@@ -214,7 +214,9 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Label a Dataset with a Few Lines of Code https://eric-landau.medium.com/label-a-dataset-with-a-few-lines-of-code-45c140ff119d
     
-    https://analyticsindiamag.com/complete-guide-to-data-labelling-tools/
+    https://analyticsindiamag.com/complete-guide-to-data-labelling-tools/ https://neptune.ai/blog/data-labeling-software
+    
+    Extraction of Objects In Images and Videos Using 5 Lines of Code https://towardsdatascience.com/extraction-of-objects-in-images-and-videos-using-5-lines-of-code-6a9e35677a31
    
     23)tensorflow_datasets as tfds  https://www.tensorflow.org/datasets  (import tensorflow_datasets as tfds)
     
