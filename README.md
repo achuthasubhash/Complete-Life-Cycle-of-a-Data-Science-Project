@@ -1040,7 +1040,7 @@ anderson teset  use for check any  distribution
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad
      
-     https://github.com/utkuozbulak/pytorch-cnn-visualizations 
+     https://github.com/utkuozbulak/pytorch-cnn-visualizations  https://microscope.openai.com/models
      
      Mediapipe for Python https://google.github.io/mediapipe/
      
@@ -2691,6 +2691,8 @@ A machine learning tool for automated prediction engineering https://github.com/
 MLBox https://github.com/AxeldeRomblay/MLBox
 
 TransmogrifAI https://github.com/salesforce/TransmogrifAI
+
+GenoML (AutoML) for Genomics https://genoml.com/ https://github.com/GenoML
 
 4. AutoGluon   https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
 
