@@ -788,6 +788,8 @@ anderson teset  use for check any  distribution
     
     https://www.analyticsvidhya.com/blog/2020/10/a-comprehensive-guide-to-feature-selection-using-wrapper-methods-in-python/
     
+    https://towardsdatascience.com/5-feature-selection-method-from-scikit-learn-you-should-know-ed4d116e4172
+    
     Feature Engineering Tools https://neptune.ai/blog/feature-engineering-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-engineering-tools
     
     Featuretools: https://github.com/alteryx/featuretools
@@ -1973,7 +1975,7 @@ leverage of model architecture
    
    https://data-flair.training/blogs/tableau-tutorials-home/  https://data-flair.training/blogs/data-science-tutorials-home/
    
-   Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html
+   Spark Release 3.0.1-https://spark.apache.org/releases/spark-release-3-0-1.html  https://neptune.ai/blog/apache-spark-tutorial
    
    Koalas on Apache Spark - Pandas API  https://www.youtube.com/watch?v=kOtAMiMe1JY&t=482s   https://koalas.readthedocs.io/en/latest/
    
