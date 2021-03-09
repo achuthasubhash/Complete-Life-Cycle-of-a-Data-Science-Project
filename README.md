@@ -2396,7 +2396,7 @@ determined to be unfair.
    
    labml https://ramith.fyi/tracking-your-ml-experiments-without-sending-data-to-the-cloud/
    
-   MLOps  https://github.com/microsoft/MLOps
+   MLOps  https://github.com/microsoft/MLOps https://mlops.githubapp.com/ https://huyenchip.com/2020/12/30/mlops-v2.html
    
    DevOps  https://github.com/collections/devops-tools
    
