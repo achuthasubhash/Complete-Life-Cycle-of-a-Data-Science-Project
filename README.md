@@ -1000,7 +1000,7 @@ anderson teset  use for check any  distribution
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,EfficientDet,Vision Transformer,deit
+       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,TransUNet,EfficientDet,Vision Transformer,deit
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
@@ -1613,7 +1613,9 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     BentoML https://github.com/bentoml/BentoML
     
-    h20wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/ https://h2oai.github.io/wave/
+    h20 wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/ https://h2oai.github.io/wave/
+    
+    h20 Wave ML (AutoML for Wave Apps) https://h2oai.github.io/wave/blog/ml-release-0.3.0/
     
     fastapi https://towardsdatascience.com/deploying-ml-models-in-production-with-fastapi-and-celery-7063e539a5db
     
