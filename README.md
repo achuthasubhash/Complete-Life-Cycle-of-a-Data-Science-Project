@@ -2846,6 +2846,8 @@ CUML- increase the speed of training your machine learning model https://towards
 
 https://docs.rapids.ai/api/cuml/stable/
 
+modin https://www.kdnuggets.com/2021/03/speed-up-pandas-modin.html
+
 26.memory-profiler (tell memory consumption line by line)  https://pypi.org/project/memory-profiler/
 
 Cython A Speed-Up Tool for your Python Function  https://towardsdatascience.com/cython-a-speed-up-tool-for-your-python-function-9bab64364bfd
