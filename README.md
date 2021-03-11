@@ -1677,6 +1677,8 @@ leverage of model architecture
 
 ***Quantization:Use Quantization to reduce size of model***
 
+TensorFlow Quantum  https://www.tensorflow.org/quantum
+
 ***8.Mointoring model***
 
 ***CI CD pipeline used-  circleci , jenkins***
