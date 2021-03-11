@@ -1103,6 +1103,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
      Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
      
+     5 Alternatives To Deep Nostalgia https://analyticsindiamag.com/top-5-alternatives-to-deep-nostalgia/
+     
+     MixNMatch https://github.com/Yuheng-Li/MixNMatch
+     
      Quantum GAN  https://analyticsindiamag.com/now-gans-are-being-used-for-drug-discovery-complete-guide-to-quantum-gan-with-python-code/
      
      https://analyticsindiamag.com/guide-to-differentiable-augmentation-for-data-efficient-gan-training/  https://analyticsindiamag.com/hands-on-python-guide-to-style-based-age-manipulation-sam-technique/
