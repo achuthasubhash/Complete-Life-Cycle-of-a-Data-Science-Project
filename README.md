@@ -1461,6 +1461,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
     c.Bayesian Optimization 
     
+    Bayesian Optimization Using BoTorch https://analyticsindiamag.com/guide-to-bayesian-optimization-using-botorch/
+    
     Hyperopt,hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
     
     hyperband  https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms
@@ -1488,6 +1490,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     Pywedge https://www.analyticsvidhya.com/blog/2021/02/interactive-widget-based-hyperparameter-tuning-and-tracking-in-pywedge/ 
     
     CapsNet Hyperparameter Tuning with Keras https://towardsdatascience.com/scikeras-tutorial-a-multi-input-multi-output-wrapper-for-capsnet-hyperparameter-tuning-with-keras-3127690f7f28
+    
+    GPyTorch: A Python Library For Gaussian Process Models https://analyticsindiamag.com/guide-to-gpytorch-a-python-library-for-gaussian-process-models/
     
     Auto-PyTorch https://github.com/automl/Auto-PyTorch
     
@@ -2021,6 +2025,8 @@ leverage of model architecture
    
    https://blog.ubisend.com/optimise-chatbots/chatbot-training-data
    
+   OpenChat: Open Source Chatting Framework for Generative Models https://analyticsindiamag.com/a-brief-overview-of-openchat-open-source-chatting-framework-for-generative-models/
+   
    62. No Code Machine Learning / Deep Learning 
    
    Teachable Machine-https://teachablemachine.withgoogle.com/
@@ -2537,6 +2543,8 @@ determined to be unfair.
    151.Top 10 Free Resources To Learn R  https://analyticsindiamag.com/top-10-free-resources-to-learn-r/
    
    152.Best ML Frameworks & Extensions for Scikit-learn https://neptune.ai/blog/the-best-ml-framework-extensions-for-scikit-learn?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-the-best-ml-framework-extensions-for-scikit-learn
+   
+   153.Multimodal Neurons, The Most Advanced Neural Networks Discovered By OpenAI https://analyticsindiamag.com/inside-multimodal-neurons-the-most-advanced-neural-networks-discovered-by-openai/
    
 ***Follow leaders in the field to update yourself in the field***
 
