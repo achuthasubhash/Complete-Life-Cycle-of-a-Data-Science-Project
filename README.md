@@ -2704,6 +2704,8 @@ EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alt
 
 A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
 
+Hugging Face’s AutoNLP https://www.analyticsvidhya.com/blog/2021/03/a-hands-on-introduction-to-hugging-faces-autonlp-101/
+
 3. autopandas
 
 MLBox https://github.com/AxeldeRomblay/MLBox
