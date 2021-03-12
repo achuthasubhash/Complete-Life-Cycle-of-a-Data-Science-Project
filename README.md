@@ -2454,7 +2454,7 @@ determined to be unfair.
    
    124.Best_AI_paper_2020   https://github.com/louisfb01/Best_AI_paper_2020
    
-   125.roadmap https://github.com/graykode/nlp-roadmap
+   125.roadmap https://github.com/graykode/nlp-roadmap  https://www.theinsaneapp.com/2021/03/roadmap-series.html
    
    https://www.freecodecamp.org/news/data-science-learning-roadmap/
    
