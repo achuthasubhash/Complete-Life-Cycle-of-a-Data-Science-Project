@@ -1113,6 +1113,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Imaginaire https://analyticsindiamag.com/guide-to-nvidia-imaginaire-gan-library-in-python/
      
+     Disentanglement https://analyticsindiamag.com/what-is-face-identity-disentanglement-and-how-it-outperformed-gans/
+     
      StyleFlow https://github.com/RameenAbdal/StyleFlow 
      
      https://github.com/hindupuravinash/the-gan-zoo  https://analyticsindiamag.com/top-10-tools-for-generative-adversarial-networks/
@@ -2401,6 +2403,8 @@ determined to be unfair.
    https://mlops.githubapp.com/   https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape  https://github.com/paiml/practical-mlops-book
    
    https://olympus.greatlearning.in/courses/12956?_gl=1*ljadx1*_ga*NjMxNjUxNjM2LjE2MDYyMDYzNDM.*_ga_TH52C020P8*MTYxMTIyOTQ0MS40Ny4wLjE2MTEyMjk0NDEuNjA.
+   
+   ClearML https://analyticsindiamag.com/guide-to-clearml-zero-integration-mlops-solution/
    
    115.Code faster https://www.tabnine.com/
    
