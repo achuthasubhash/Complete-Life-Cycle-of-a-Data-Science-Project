@@ -3160,6 +3160,8 @@ Qlib https://analyticsindiamag.com/qlib/
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
+Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html
+
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
