@@ -2736,7 +2736,7 @@ AutoNeuro   https://autoneuro.challenge-ineuron.in/
 
 8. hyperopt
 
-8. sweetviz (EDA purpose)  - https://pypi.org/project/sweetviz/
+8. sweetviz (EDA purpose)  - https://pypi.org/project/sweetviz/ https://www.kdnuggets.com/2021/03/know-your-data-much-faster-sweetviz-python-library.html
 
 9. pandasprofiling(display whole EDA) - https://pypi.org/project/pandas-profiling/  https://pandas-profiling.github.io/pandas-profiling/docs/master/rtd/index.html
 
