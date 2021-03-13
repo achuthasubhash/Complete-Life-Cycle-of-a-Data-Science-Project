@@ -2035,7 +2035,7 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    OpenChat: Open Source Chatting Framework for Generative Models https://analyticsindiamag.com/a-brief-overview-of-openchat-open-source-chatting-framework-for-generative-models/
    
-   62. No Code Machine Learning / Deep Learning 
+   62. No Code Machine Learning / Deep Learning   https://analyticsindiamag.com/top-12-no-code-machine-learning-platforms-in-2021/
    
    Teachable Machine-https://teachablemachine.withgoogle.com/
    
