@@ -2556,6 +2556,8 @@ determined to be unfair.
    
    153.Multimodal Neurons, The Most Advanced Neural Networks Discovered By OpenAI https://analyticsindiamag.com/inside-multimodal-neurons-the-most-advanced-neural-networks-discovered-by-openai/
    
+   154.TensorGram https://github.com/ksdkamesh99/TensorGram https://www.youtube.com/watch?v=ItDBQB4YFuI
+   
 ***Follow leaders in the field to update yourself in the field***
 
     1.Linkedin
