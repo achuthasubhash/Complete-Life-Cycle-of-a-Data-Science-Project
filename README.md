@@ -1493,6 +1493,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Milano   https://github.com/NVIDIA/Milano
     
+    Dragonfly https://analyticsindiamag.com/guide-to-scalable-and-robust-bayesian-optimization-with-dragonfly/
+    
     Pywedge https://www.analyticsvidhya.com/blog/2021/02/interactive-widget-based-hyperparameter-tuning-and-tracking-in-pywedge/ 
     
     CapsNet Hyperparameter Tuning with Keras https://towardsdatascience.com/scikeras-tutorial-a-multi-input-multi-output-wrapper-for-capsnet-hyperparameter-tuning-with-keras-3127690f7f28
