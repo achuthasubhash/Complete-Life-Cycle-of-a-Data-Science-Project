@@ -2133,7 +2133,7 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    TensorFlow Federated (TFF)  ( facilitate open research and experimentation with Federated Learning)-https://www.tensorflow.org/federated
    
-   TFX is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx  https://github.com/tensorflow/tfx
+   TFX is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx  https://github.com/tensorflow/tfx https://analyticsindiamag.com/guide-to-tensorflow-extendedtfx-end-to-end-platform-for-deploying-production-ml-pipelines/
    
    Federated Learning -https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification
    
@@ -2698,7 +2698,7 @@ https://neptune.ai/blog/best-machine-learning-as-a-service-platforms-mlaas?utm_s
 
 https://codegnan.com/blog/35-best-data-sciecne-tools-for-beginners-to-master/  https://analyticsindiamag.com/free-online-resources-to-learn-automl/
 
-https://analyticsindiamag.com/10-popular-automl-tools-developers-can-use/
+https://analyticsindiamag.com/10-popular-automl-tools-developers-can-use/  https://analyticsindiamag.com/8-best-open-source-tools-for-data-mining/
 
 mlkit-https://firebase.google.com/products/ml
 
