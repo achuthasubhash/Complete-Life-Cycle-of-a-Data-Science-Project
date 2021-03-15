@@ -2844,6 +2844,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
 Dask Dataframe and SQL https://docs.dask.org/en/latest/dataframe-sql.html
 
+Cython,Numba,PyPy
+
 Reducing Pandas memory https://pythonspeed.com/articles/pandas-load-less-data/  https://www.youtube.com/watch?v=HNE0qHJ9A9o
 
 Speed up Scikit-Learn Model Training  https://www.kdnuggets.com/2021/02/speed-up-scikit-learn-model-training.html
