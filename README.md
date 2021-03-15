@@ -218,6 +218,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     Extraction of Objects In Images and Videos Using 5 Lines of Code https://towardsdatascience.com/extraction-of-objects-in-images-and-videos-using-5-lines-of-code-6a9e35677a31
    
+    https://neptune.ai/blog/data-labeling-software?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-data-labeling-software
+    
     23)tensorflow_datasets as tfds  https://www.tensorflow.org/datasets  (import tensorflow_datasets as tfds)
     
     https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
