@@ -666,6 +666,8 @@ anderson teset  use for check any  distribution
      
      Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
      
+     https://github.com/zhuyiche/awesome-anomaly-detection
+     
    k.Sampling techniques
      
      a.biased sampling
