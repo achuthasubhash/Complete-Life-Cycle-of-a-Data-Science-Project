@@ -494,7 +494,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
 
    a.Handle missing value
    
-     Types of missing value 
+     Types of missing value  https://datamuni.com/@atsunorifujita/missing-value-imputation-using-datawig
      
      i.missing completely at random(no correlation b/w missing and observed data) we can delete no disturbance of data distribution
      
