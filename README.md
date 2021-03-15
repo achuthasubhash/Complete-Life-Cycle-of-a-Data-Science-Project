@@ -1209,7 +1209,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         Tree-Transformer https://github.com/yaushian/Tree-Transformer
         
-        Transformers Interpret https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470 https://github.com/cdpierse/transformers-interpret
+        Transformers Interpret https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470 https://github.com/cdpierse/transformers-interpret  https://analyticsindiamag.com/hands-on-guide-to-the-evolved-transformer-on-neural-machine-translation/
+        
+        https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html#.YE7gRy9s-LA.linkedin
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
