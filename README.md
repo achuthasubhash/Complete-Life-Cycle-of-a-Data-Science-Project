@@ -476,6 +476,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     68.DOCANO, an open source text annotation tool  https://github.com/doccano/doccano
     
+    69.https://www.dataquest.io/blog/free-datasets-for-projects/
+    
 ***2.Feature engineering***
 
    Validate your Data (Schema) https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
