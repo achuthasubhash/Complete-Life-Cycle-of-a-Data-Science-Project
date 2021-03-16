@@ -3094,6 +3094,8 @@ https://thecleverprogrammer.com/machine-learning/    https://www.kdnuggets.com/2
 
 https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/?utm_source=linkedin&utm_medium=KJ|link|blackbelt|blogs|44081|0.625
 
+https://www.kdnuggets.com/2021/03/10-amazing-machine-learning-projects-2020.html?utm_content=bufferc38bd&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
 https://data-flair.training/blogs/machine-learning-datasets/#   https://data-flair.training/blogs/machine-learning-project-ideas/  
 
 https://data-flair.training/blogs/artificial-intelligence-ai-tutorial/  
@@ -3188,6 +3190,7 @@ https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/dee
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html
 
+123.SpeechBrain https://speechbrain.github.io/
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
