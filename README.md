@@ -1417,6 +1417,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       fine Tune Your Machine Learning Models To Improve Forecasting Accuracy https://www.kdnuggets.com/2019/01/fine-tune-machine-learning-models-forecasting.html
       
+      add extra features https://towardsdatascience.com/the-demand-sales-forecast-technique-every-data-scientist-should-be-using-to-reduce-error-1c6f25add9cb
+      
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
       https://www.machinelearningplus.com/time-series/time-series-analysis-python/
@@ -1636,6 +1638,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     h20 Wave ML (AutoML for Wave Apps) https://h2oai.github.io/wave/blog/ml-release-0.3.0/
     
     fastapi https://towardsdatascience.com/deploying-ml-models-in-production-with-fastapi-and-celery-7063e539a5db
+    
+    Katana https://github.com/shaz13/katana https://katana-demo.herokuapp.com/redoc  https://katana-demo.herokuapp.com/docs
     
     DS-with-PySimpleGUI  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
@@ -3082,7 +3086,7 @@ https://medium.com/coders-camp/180-data-science-and-machine-learning-projects-wi
 
 https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44195|0.375
 
-https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
+https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392 https://medium.com/coders-camp/96-python-projects-with-source-code-4069eb58beef
 
 https://thecleverprogrammer.com/machine-learning/    https://www.kdnuggets.com/2020/03/20-machine-learning-datasets-project-ideas.html
 
