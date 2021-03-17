@@ -1503,6 +1503,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Milano   https://github.com/NVIDIA/Milano
     
+    baytune https://www.kdnuggets.com/2021/03/automating-machine-learning-model-optimization.html
+    
     Dragonfly https://analyticsindiamag.com/guide-to-scalable-and-robust-bayesian-optimization-with-dragonfly/
     
     Pywedge https://www.analyticsvidhya.com/blog/2021/02/interactive-widget-based-hyperparameter-tuning-and-tracking-in-pywedge/ 
