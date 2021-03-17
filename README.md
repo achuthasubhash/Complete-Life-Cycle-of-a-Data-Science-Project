@@ -2414,7 +2414,7 @@ determined to be unfair.
    
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
-   114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/
+   114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
    
    https://mlops.githubapp.com/   https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape  https://github.com/paiml/practical-mlops-book
    
