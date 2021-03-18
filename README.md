@@ -1196,6 +1196,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
        self attention,Global Attention,Multi-Head Attention,Local Attention (monotonic,predictive)    https://github.com/uzaymacar/attention-mechanisms
      
      9.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
+
+        Build a Transformer in JAX from scratch https://theaisummer.com/jax-transformer/
      
         FastFormers  https://medium.com/ai-in-plain-english/fastformers-233x-faster-transformers-inference-on-cpu-4c0b7a720e1
      
@@ -2579,6 +2581,8 @@ determined to be unfair.
    154.TensorGram https://github.com/ksdkamesh99/TensorGram https://www.youtube.com/watch?v=ItDBQB4YFuI
   
    155.r packages https://upurl.me/vkf3r
+   
+   156.openblender Fuel your ML Engines with Relevant Data to Boost Performance   https://openblender.io/#/welcome
    
 ***Follow leaders in the field to update yourself in the field***
 
