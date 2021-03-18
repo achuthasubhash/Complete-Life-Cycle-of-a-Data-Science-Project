@@ -822,6 +822,8 @@ anderson teset  use for check any  distribution
        least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines 
+       
+       Locally Weighted Linear Regression https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf
 
      2.Classification (output feature in categorical data form)
      
@@ -1778,6 +1780,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
 ***BEST BLOGS TO FOLLOW***
 
     https://www.cybrhome.com/topic/data-science-blogs    
+    
+    AI Summary https://ai-summary.com/
     
     https://www.datasciencecentral.com/profiles/blog/list  https://developer.nvidia.com/blog/?ncid=em-prom-48627
 
