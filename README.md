@@ -1637,7 +1637,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     BentoML https://github.com/bentoml/BentoML
     
-    h20 wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/ https://h2oai.github.io/wave/
+    h20 wave-apps https://github.com/h2oai/wave-apps  https://h2oai.github.io/wave/docs/installation/  https://h2oai.github.io/wave/
     
     h20 Wave ML (AutoML for Wave Apps) https://h2oai.github.io/wave/blog/ml-release-0.3.0/
     
@@ -2422,6 +2422,8 @@ determined to be unfair.
    
    https://olympus.greatlearning.in/courses/12956?_gl=1*ljadx1*_ga*NjMxNjUxNjM2LjE2MDYyMDYzNDM.*_ga_TH52C020P8*MTYxMTIyOTQ0MS40Ny4wLjE2MTEyMjk0NDEuNjA.
    
+   https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-technical-paper
+   
    ClearML https://analyticsindiamag.com/guide-to-clearml-zero-integration-mlops-solution/
    
    115.Code faster https://www.tabnine.com/
@@ -2575,6 +2577,8 @@ determined to be unfair.
    153.Multimodal Neurons, The Most Advanced Neural Networks Discovered By OpenAI https://analyticsindiamag.com/inside-multimodal-neurons-the-most-advanced-neural-networks-discovered-by-openai/
    
    154.TensorGram https://github.com/ksdkamesh99/TensorGram https://www.youtube.com/watch?v=ItDBQB4YFuI
+  
+   155.r packages https://upurl.me/vkf3r
    
 ***Follow leaders in the field to update yourself in the field***
 
