@@ -1483,7 +1483,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Bayesian Optimization Using BoTorch https://analyticsindiamag.com/guide-to-bayesian-optimization-using-botorch/
     
-    Hyperopt,hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
+    Hyperopt hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
     
     hyperband  https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms
     
@@ -2751,6 +2751,8 @@ MLBox https://github.com/AxeldeRomblay/MLBox
 TransmogrifAI https://github.com/salesforce/TransmogrifAI
 
 GenoML (AutoML) for Genomics https://genoml.com/ https://github.com/GenoML
+
+baytune https://www.kdnuggets.com/2021/03/automating-machine-learning-model-optimization.html  https://github.com/MLBazaar/BTB
 
 4. AutoGluon   https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
 
