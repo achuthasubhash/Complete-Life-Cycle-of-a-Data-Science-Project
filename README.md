@@ -2309,6 +2309,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash
    
+   Explainable AI dashboards https://github.com/oegedijk/explainerdashboard https://www.youtube.com/watch?v=ZgypAMRcmw8
+   
    interpret https://github.com/interpretml/interpret   mlxtend's  http://rasbt.github.io/mlxtend/
    
    tcav  https://github.com/tensorflow/tcav       yellowbrick  https://www.scikit-yb.org/en/latest/quickstart.html
@@ -2837,6 +2839,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    lux Python API for Intelligent Visual Data Discovery  https://github.com/lux-org/lux
    
    Dashboard in Less Than 10 Lines of Code  https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b
+   
+   Explainable AI dashboards https://github.com/oegedijk/explainerdashboard  https://www.youtube.com/watch?v=ZgypAMRcmw8
    
    Creating Automated Python Dashboards using Plotly, Datapane, and GitHub Actions https://towardsdatascience.com/creating-automated-python-dashboards-using-plotly-datapane-and-github-actions-ff8aa8b4e3
    
