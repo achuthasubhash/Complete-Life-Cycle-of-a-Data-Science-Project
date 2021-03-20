@@ -1239,6 +1239,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         Acoustic model,Speaker diarisation,apis
         
+        SpeechBrain A PyTorch Powered Speech Toolkit https://speechbrain.github.io/  https://github.com/speechbrain/speechbrain
+        
         Wav2Vec2 https://huggingface.co/transformers/model_doc/wav2vec2.html https://www.youtube.com/watch?v=dJAoK5zK36M&feature=youtu.be
         
      SpeechRecognition
