@@ -1213,6 +1213,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
         
+        DeLighT: Deep and Light-weight Transformer  https://analyticsindiamag.com/complete-guide-to-delight-deep-and-light-weight-transformer/
+        
         Tree-Transformer https://github.com/yaushian/Tree-Transformer
         
         Transformers Interpret https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470 https://github.com/cdpierse/transformers-interpret  https://analyticsindiamag.com/hands-on-guide-to-the-evolved-transformer-on-neural-machine-translation/
