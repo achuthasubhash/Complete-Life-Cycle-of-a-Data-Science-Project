@@ -2430,7 +2430,7 @@ determined to be unfair.
    
    https://olympus.greatlearning.in/courses/12956?_gl=1*ljadx1*_ga*NjMxNjUxNjM2LjE2MDYyMDYzNDM.*_ga_TH52C020P8*MTYxMTIyOTQ0MS40Ny4wLjE2MTEyMjk0NDEuNjA.
    
-   https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-technical-paper
+   https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-technical-paper  https://neptune.ai/blog/end-to-end-mlops-platforms
    
    ClearML https://analyticsindiamag.com/guide-to-clearml-zero-integration-mlops-solution/
    
