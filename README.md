@@ -2432,6 +2432,8 @@ determined to be unfair.
    
    https://docs.microsoft.com/en-us/azure/architecture/example-scenario/mlops/mlops-technical-paper  https://neptune.ai/blog/end-to-end-mlops-platforms
    
+   https://github.com/kelvins/awesome-mlops#hyperparameter-tuning
+   
    ClearML https://analyticsindiamag.com/guide-to-clearml-zero-integration-mlops-solution/
    
    115.Code faster https://www.tabnine.com/
