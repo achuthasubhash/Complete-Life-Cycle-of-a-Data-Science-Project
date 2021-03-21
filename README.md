@@ -1230,6 +1230,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
      10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
+
+        DETR  https://analyticsindiamag.com/how-to-detect-objects-with-detection-transformers/  https://github.com/dddzg/up-detr
      
         https://analyticsindiamag.com/top-ten-bert-alternatives-for-nlu-projects/  https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598
      
@@ -1404,6 +1406,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       15.PyFlux (easy way to compare different models)-https://analyticsindiamag.com/pyflux-guide-python-library-for-time-series-analysis-and-prediction/
       
       16.Orbit , DeepAR ,NeuralProphet(https://github.com/ourownstory/neural_prophet    https://ourownstory.github.io/neural_prophet/model-overview/)
+
+      orbit https://analyticsindiamag.com/hands-on-guide-to-orbit-ubers-python-framework-for-bayesian-forecasting-inference/ https://github.com/uber/orbit
       
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
       
