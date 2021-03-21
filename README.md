@@ -110,6 +110,8 @@ Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeli
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
 
+Machine learning datasets  https://www.datasetlist.com/
+
     https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
 
     1)kaggle-https://www.kaggle.com/datasets , 𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚔𝚊𝚐𝚐𝚕𝚎𝚍𝚊𝚝𝚊𝚜𝚎𝚝𝚜
