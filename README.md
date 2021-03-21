@@ -1623,7 +1623,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     streamlit,plotly jupyterdash,h2o wave,dash 
     
-    streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html
+    streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html  https://www.youtube.com/watch?v=iUgNIFrVejc   https://blog.streamlit.io/introducing-theming/
     
     dash https://github.com/plotly/dash
     
