@@ -264,6 +264,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
     
     https://github.com/niderhoff/nlp-datasets
     
+    600 NLP Datasets and Glory  https://pub.towardsai.net/600-nlp-datasets-and-glory-4b0080bf5ab
+    
     nlp-datasets https://github.com/karthikncode/nlp-datasets
     
     https://analyticsindiamag.com/15-most-important-nlp-datasets/      https://medium.com/ai-in-plain-english/25-free-datasets-for-natural-language-processing-57e407402c60
