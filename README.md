@@ -1377,6 +1377,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       Informer (for Long Sequence Time-Series Forecasting) https://analyticsindiamag.com/informer/ 
       
+      tfcausalimpact https://github.com/WillianFuks/tfcausalimpact
+      
       deepar is global model
       
       pmdarima for Auto ARIMA
