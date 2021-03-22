@@ -1641,6 +1641,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
+    Deepnote https://deepnote.com/  https://www.youtube.com/watch?v=0ppptVxgEI8
+    
     booklet https://booklet.ai/  https://towardsdatascience.com/building-a-covid-19-project-recommendation-system-4607806923b9
     
     https://analyticsindiamag.com/top-8-python-tools-for-app-development/
