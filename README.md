@@ -668,6 +668,8 @@ anderson teset  use for check any  distribution
       
       https://medium.com/towards-artificial-intelligence/outlier-detection-and-treatment-a-beginners-guide-c44af0699754
       
+      https://towardsdatascience.com/two-outlier-detection-techniques-you-should-know-in-2021-1454bef89331
+      
    j.Anomaly
    
      clustering techniques to find it
@@ -2074,6 +2076,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    OpenChat: Open Source Chatting Framework for Generative Models https://analyticsindiamag.com/a-brief-overview-of-openchat-open-source-chatting-framework-for-generative-models/
    
    62. No Code Machine Learning / Deep Learning   https://analyticsindiamag.com/top-12-no-code-machine-learning-platforms-in-2021/
+
+   https://serokell.io/blog/top-no-code-platforms
    
    Teachable Machine-https://teachablemachine.withgoogle.com/
    
