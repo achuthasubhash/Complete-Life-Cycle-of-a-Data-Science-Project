@@ -235,6 +235,8 @@ Machine learning datasets  https://www.datasetlist.com/
     26)https://data.worldbank.org/
    
     27)google open images:https://storage.googleapis.com/openimages/web/download.html
+
+    30 Largest TensorFlow Datasets for Machine Learning  https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
     
     https://cloud.google.com/bigquery/public-data/   https://towardsdatascience.com/bigquery-public-datasets-936e1c50e6bc  
     
