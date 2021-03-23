@@ -2071,7 +2071,7 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson  etc...
    
-   https://github.com/fendouai/Awesome-Chatbot
+   https://github.com/fendouai/Awesome-Chatbot  https://medium.com/nerd-for-tech/make-money-building-a-fast-powerful-chatbot-in-10-minutes-using-nltk-91038e15ab17
    
    https://www.analyticsinsight.net/category/chatbots/
    
