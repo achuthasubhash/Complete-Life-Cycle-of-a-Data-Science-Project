@@ -1010,7 +1010,7 @@ anderson teset  use for check any  distribution
      
        create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
        
-       https://theaisummer.com/cnn-architectures/
+       https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet
      
      2.Localization of object in image
      
