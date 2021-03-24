@@ -1010,7 +1010,7 @@ anderson teset  use for check any  distribution
      
        create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
        
-       https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet
+       https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
      
      2.Localization of object in image
      
@@ -1060,7 +1060,7 @@ anderson teset  use for check any  distribution
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad
      
-     https://github.com/utkuozbulak/pytorch-cnn-visualizations  https://microscope.openai.com/models
+     https://github.com/utkuozbulak/pytorch-cnn-visualizations  https://microscope.openai.com/models  https://github.com/balavenkatesh3322/CV-pretrained-model
      
      Mediapipe for Python https://google.github.io/mediapipe/
      
@@ -1225,6 +1225,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         DeLighT: Deep and Light-weight Transformer  https://analyticsindiamag.com/complete-guide-to-delight-deep-and-light-weight-transformer/
         
+        https://github.com/balavenkatesh3322/NLP-pretrained-model
+        
         Tree-Transformer https://github.com/yaushian/Tree-Transformer
         
         Transformers Interpret https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470 https://github.com/cdpierse/transformers-interpret  https://analyticsindiamag.com/hands-on-guide-to-the-evolved-transformer-on-neural-machine-translation/
@@ -1256,6 +1258,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         SpeechBrain A PyTorch Powered Speech Toolkit https://speechbrain.github.io/  https://github.com/speechbrain/speechbrain
         
         Wav2Vec2 https://huggingface.co/transformers/model_doc/wav2vec2.html https://www.youtube.com/watch?v=dJAoK5zK36M&feature=youtu.be
+        
+        https://github.com/balavenkatesh3322/audio-pretrained-model
         
      SpeechRecognition
      
@@ -1494,6 +1498,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
 ***Hyperparameter tuning***
 
     https://analyticsindiamag.com/top-8-approaches-for-tuning-hyperparameters-of-machine-learning-models/  https://analyticsindiamag.com/top-10-open-source-hyperparameter-optimisation-libraries-for-ml-models/
+    
+    https://github.com/balavenkatesh3322/hyperparameter_tuning
   
     a.GridSearchCV (check every given parameter so take long time)
   
@@ -1613,7 +1619,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     3 main approaches of Saving and Reloading an ML Model-Pickle Approach,Joblib Approach,JSON approach  
     
-    https://www.datacamp.com/community/tutorials/pickle-python-tutorial
+    https://www.datacamp.com/community/tutorials/pickle-python-tutorial  https://github.com/balavenkatesh3322/model_deployment
 
     1.Azure
     
