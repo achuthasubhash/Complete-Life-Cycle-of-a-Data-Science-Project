@@ -2139,6 +2139,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    TensorFlow Hub (trained ready-to-deploy machine learning models in one place) - https://tfhub.dev/
    
+   CrypTFlow: An End-to-end System for Secure TensorFlow Inference  https://github.com/mpc-msri/EzPC  https://pratik-bhatu.medium.com/privacy-preserving-machine-learning-for-healthcare-using-cryptflow-cc6c379fbab7
+   
    TensorBoard.dev - https://tensorboard.dev/
    
    tutorials-https://www.tensorflow.org/tutorials  https://www.tensorflow.org/guide
