@@ -472,7 +472,7 @@ Machine learning datasets  https://www.datasetlist.com/
     
     Pandas Datareader https://pandas-datareader.readthedocs.io/en/latest/  https://www.youtube.com/watch?v=f2BCmQBCwDs
     
-    Get Financial Data Directly into Python https://www.quandl.com/tools/python 
+    Get Financial Data Directly into Python https://www.quandl.com/tools/python   https://medium.com/nerd-for-tech/how-to-get-financial-data-using-python-7a508f25fc39
     
     openml https://www.openml.org/search?type=data
     
