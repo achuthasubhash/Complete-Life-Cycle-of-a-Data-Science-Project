@@ -3252,6 +3252,8 @@ https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/dee
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html
 
+https://sachinruk.github.io/blog/pytorch/pytorch%20lightning/loss%20function/gpu/2021/03/07/CLIP.html
+
 123.SpeechBrain https://speechbrain.github.io/
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
