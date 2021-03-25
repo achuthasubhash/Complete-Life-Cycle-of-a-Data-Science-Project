@@ -2635,6 +2635,8 @@ determined to be unfair.
 ***CPU/GPU/TPU***
  
     1.Google cloab (FREE)  Jupyter Lab for Python, R, Swift from Google Colab with ColabCode  https://www.youtube.com/watch?v=Q35WIqZoUF4
+
+    https://www.analyticsvidhya.com/blog/2021/01/avid-user-of-google-colab-here-are-some-alternatives-of-google-colab-that-you-should-know-about/?utm_source=linkedin&utm_medium=social&utm_campaign=old-blog&utm_content=B&custom=FBI156
     
     GitHub notebooks with Google Colab https://www.youtube.com/watch?v=LmIylxNmA-A&feature=youtu.be  
     
