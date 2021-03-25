@@ -1024,7 +1024,9 @@ anderson teset  use for check any  distribution
        
        https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/  https://analyticsindiamag.com/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/
        
-       PyTorch based low code object detection-https://github.com/alankbi/detecto
+       PyTorch based low code object detection-https://github.com/alankbi/detecto  
+       
+       https://www.kdnuggets.com/2021/03/extraction-objects-images-videos-5-lines-code.html
        
        autogluon 
        
