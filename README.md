@@ -395,6 +395,8 @@ Machine learning datasets  https://www.datasetlist.com/
     55.Academic Torrents,GitHub Datasets,CERN Open Data Portal,Global Health Observatory Data Repository
     
     56.32 Data Sets to Uplift your Skills in Data Science-https://blog.datasciencedojo.com/data-sets-data-science-skills/?utm_content=144243072&utm_medium=social&utm_source=linkedin&hss_channel=lcp-3740012
+
+    https://lionbridge.ai/datasets/the-50-best-free-datasets-for-machine-learning/
     
     57.OpenDaL-https://opendatalibrary.com/
     
