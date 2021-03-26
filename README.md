@@ -1030,6 +1030,8 @@ anderson teset  use for check any  distribution
        
        autogluon 
        
+       GluonCV  https://medium.com/apache-mxnet/start-fitting-cv-models-like-scikit-learn-with-gluoncv-0-10-931ff910a38 
+       
        https://awesomeopensource.com/project/hoya012/deep_learning_object_detection
      
      4.objecttracking  (mean shit and optical flow and kalman filter)
