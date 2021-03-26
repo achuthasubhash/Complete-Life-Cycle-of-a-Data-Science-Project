@@ -328,6 +328,8 @@ Machine learning datasets  https://www.datasetlist.com/
        
     bifrost-   https://datasets.bifrost.ai/
     
+    satellite images https://towardsdatascience.com/finding-satellite-images-for-your-data-science-project-888695361925
+    
     https://public.roboflow.com/
     
     https://www.visualdata.io/discovery        http://www.image-net.org/      https://www.cs.toronto.edu/~kriz/cifar.html  
