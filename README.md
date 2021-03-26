@@ -80,7 +80,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      MechanicalSoup https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/
      
-     Scrape HTML tables https://www.youtube.com/watch?v=6U5xJ3mXRKA&feature=youtu.be 
+     Scrape HTML tables https://www.youtube.com/watch?v=6U5xJ3mXRKA&feature=youtu.be  or pd.read_html
      
      patang (extract product details) https://github.com/tejazz/patang
      
