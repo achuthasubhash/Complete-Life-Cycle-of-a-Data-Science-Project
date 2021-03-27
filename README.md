@@ -87,6 +87,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      lisc https://github.com/lisc-tools/lisc
      
      pandas(read_html)
+     
+     https://www.kdnuggets.com/2021/02/6-web-scraping-tools.html
       
      https://analyticsindiamag.com/complete-learning-path-to-web-scraping-with-all-major-tools/ https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d
      
@@ -1461,7 +1463,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
-      https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+      https://www.machinelearningplus.com/time-series/time-series-analysis-python/  https://www.datasciencecentral.com/profiles/blogs/list-of-time-series-methods-in-one-picture
       
       https://github.com/Apress/hands-on-time-series-analylsis-python
       
@@ -2341,7 +2343,7 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    106.Interpret The ML Model    https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608
 
-   https://christophm.github.io/interpretable-ml-book/
+   https://christophm.github.io/interpretable-ml-book/  https://www.kaggle.com/getting-started/209632
    
    lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/  https://towardsdatascience.com/interpreting-image-classification-model-with-lime-1e7064a2f2e5
    
