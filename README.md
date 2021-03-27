@@ -2637,6 +2637,8 @@ determined to be unfair.
    155.r packages https://upurl.me/vkf3r
    
    156.openblender Fuel your ML Engines with Relevant Data to Boost Performance   https://openblender.io/#/welcome
+
+   157.all Domain-based A.I. Platform for Data Scientists  https://www.cluzters.ai/
    
 ***Follow leaders in the field to update yourself in the field***
 
