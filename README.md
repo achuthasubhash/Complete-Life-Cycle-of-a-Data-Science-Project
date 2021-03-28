@@ -670,6 +670,8 @@ anderson teset  use for check any  distribution
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning)
       
+      PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/
+      
       if outiler present then use robust scaling
       
       alibi-detect https://github.com/SeldonIO/alibi-detect#adversarial-detection   https://docs.seldon.io/projects/alibi-detect/en/latest/
