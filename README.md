@@ -704,9 +704,11 @@ anderson teset  use for check any  distribution
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
+    https://www.analyticsvidhya.com/blog/2021/03/when-to-use-what-plot-a-beginners-guide-to-select-plots-for-visualization/
+    
     https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
     
-    https://datavizproject.com/   https://datavizcatalogue.com/
+    https://datavizproject.com/   https://datavizcatalogue.com/ 
     
     https://attachments.convertkitcdnm.com/232198/ee18f415-1406-4e5c-94f1-49a2c6e3ec4e/Statistics-The-Big-Picture-Poster.pdf
     
@@ -1242,6 +1244,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         https://github.com/balavenkatesh3322/NLP-pretrained-model
         
         Tree-Transformer https://github.com/yaushian/Tree-Transformer
+        
+        Scalable Transformer-based Model  https://analyticsindiamag.com/guide-to-perceiver-a-scalable-transformer-based-model/
         
         Transformers Interpret https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470 https://github.com/cdpierse/transformers-interpret  https://analyticsindiamag.com/hands-on-guide-to-the-evolved-transformer-on-neural-machine-translation/
         
@@ -2536,7 +2540,7 @@ determined to be unfair.
    
    125.roadmap https://github.com/graykode/nlp-roadmap  https://www.theinsaneapp.com/2021/03/roadmap-series.html
    
-   https://www.freecodecamp.org/news/data-science-learning-roadmap/
+   https://www.freecodecamp.org/news/data-science-learning-roadmap/  https://www.kdnuggets.com/2020/12/roadmaps-ai-developer-data-scientist-machine-learning-engineer.html
    
    https://mohammedazeem665.medium.com/plan-to-learn-machine-learning-data-science-in-2021-note-these-assets-from-2020-e84389d94097
    
@@ -2643,6 +2647,8 @@ determined to be unfair.
    156.openblender Fuel your ML Engines with Relevant Data to Boost Performance   https://openblender.io/#/welcome
 
    157.all Domain-based A.I. Platform for Data Scientists  https://www.cluzters.ai/
+   
+   158.2D images to 3D https://analyticsindiamag.com/python-guide-to-neural-body-converting-2d-images-to-3d/
    
 ***Follow leaders in the field to update yourself in the field***
 
@@ -3130,6 +3136,8 @@ AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindi
 https://analyticsindiamag.com/complete-guide-to-autogl-the-latest-automl-framework-for-graph-datasets/
 
 Graph Neural Networks, PySpark, Neural Cellular Automata, FB Prophet, Google Cloud and NLP codes https://github.com/RubensZimbres/Repo-2021
+
+AmpliGraph: A Machine Learning Library For Knowledge Graphs https://analyticsindiamag.com/guide-to-ampligraph-a-machine-learning-library-for-knowledge-graphs/
 
 open-source project for analysis of graphs or networks GrasPy / graspologic  https://graspy.neurodata.io/
 
