@@ -1999,6 +1999,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
      
    https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/  https://huggingface.co/transformers/master/   https://github.com/huggingface/tokenizers
    
+   Fine-tuning pretrained NLP models with Huggingface’s Trainer https://towardsdatascience.com/fine-tuning-pretrained-nlp-models-with-huggingfaces-trainer-6326a4456e7b
+   
    ktrain  https://github.com/amaiya/ktrain
    
    32.multi-task-NLP-https://github.com/hellohaptik/multi-task-NLP
