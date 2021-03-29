@@ -820,6 +820,8 @@ anderson teset  use for check any  distribution
     
     Feature Engineering Tools https://neptune.ai/blog/feature-engineering-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-engineering-tools
     
+    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
+    
     Featuretools: https://github.com/alteryx/featuretools
     AutoFeat: https://github.com/cod3licious/autofeat
     TSFresh: https://github.com/blue-yonder/tsfresh
