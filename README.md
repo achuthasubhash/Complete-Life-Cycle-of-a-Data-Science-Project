@@ -977,6 +977,8 @@ anderson teset  use for check any  distribution
        
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-reinforcement-learning-tutorials-examples-projects-and-courses
        
+       TensorForce: A TensorFlow-based Reinforcement Learning Framework https://analyticsindiamag.com/guide-to-tensorforce-a-tensorflow-based-reinforcement-learning-framework/
+       
        Open AI Gym - https://gym.openai.com/
        
        DeepMind’s MuZero  https://deepmind.com/blog/article/muzero-mastering-go-chess-shogi-and-atari-without-rules?utm_campaign=Learning%20Posts&utm_content=150411901&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323
@@ -1140,6 +1142,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      generative adversarial transformers https://github.com/dorarad/gansformer
      
      LipGAN https://github.com/Rudrabha/LipGAN  Wav2Lip https://github.com/Rudrabha/Wav2Lip
+     
+     BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
    
      Cycle gan,Dcgan,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution
      
@@ -2661,6 +2665,8 @@ determined to be unfair.
    157.all Domain-based A.I. Platform for Data Scientists  https://www.cluzters.ai/
    
    158.2D images to 3D https://analyticsindiamag.com/python-guide-to-neural-body-converting-2d-images-to-3d/
+  
+   159.FEDERATED LEARNING https://blog.openmined.org/federated-learning-types/
    
 ***Follow leaders in the field to update yourself in the field***
 
