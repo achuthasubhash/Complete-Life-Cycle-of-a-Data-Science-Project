@@ -714,7 +714,7 @@ anderson teset  use for check any  distribution
     
     https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
     
-    HiPlot (high dimensional data)-https://github.com/facebookresearch/hiplot
+    HiPlot (high dimensional data)-https://github.com/facebookresearch/hiplot https://levelup.gitconnected.com/learn-hiplot-in-6-mins-facebooks-python-library-for-machine-learning-visualizations-330129d558ac
     
     https://towardsdatascience.com/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658
     
@@ -868,6 +868,8 @@ anderson teset  use for check any  distribution
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html  https://machinelearningmastery.com/clustering-algorithms-with-python/
      
      kmodes https://www.youtube.com/watch?v=8eATPLDJ0NQ
+     
+     https://pub.towardsai.net/fully-explained-birch-clustering-for-outliers-with-python-2ad6243f126b
      
      https://www.kdnuggets.com/2020/12/algorithms-explained-k-means-k-medoids-clustering.html 
      
