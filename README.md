@@ -1092,6 +1092,8 @@ anderson teset  use for check any  distribution
      
      Vision Transformer - Pytorch  https://github.com/lucidrains/vit-pytorch   https://github.com/alohays/awesome-visual-representation-learning-with-transformers 
      
+     T2T-ViT https://analyticsindiamag.com/complete-guide-to-t2t-vit-training-vision-transformers-efficiently-with-minimal-data/ https://github.com/yitu-opensource/T2T-ViT
+     
      Explainability for Vision Transformers https://github.com/jacobgil/vit-explain
      
      https://keras.io/examples/vision/image_classification_with_vision_transformer/
@@ -1132,6 +1134,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      all above 3 models have bidirectional also based on problem statement use bidirectional models
   
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
+
+     https://neptune.ai/blog/generative-adversarial-networks-gan-applications?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-generative-adversarial-networks-gan-applications
 
      generative adversarial transformers https://github.com/dorarad/gansformer
      
@@ -1271,7 +1275,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
        
         speech to text   
         
-        text to speech
+        text to speech  https://towardsdatascience.com/text-to-speech-one-small-step-by-mankind-to-create-lifelike-robots-54e19f843b21
         
         Acoustic model,Speaker diarisation,apis
         
@@ -1464,6 +1468,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       Pastas https://analyticsindiamag.com/guide-to-pastas-a-python-framework-for-hydrogeological-time-series-analysis/ https://github.com/pastas/pastas
       
       stockDL https://github.com/ashishpapanai/stockDL
+      
+      Top 10 Python Tools For Time Series Analysis https://analyticsindiamag.com/top-10-python-tools-for-time-series-analysis/
       
       fine Tune Your Machine Learning Models To Improve Forecasting Accuracy https://www.kdnuggets.com/2019/01/fine-tune-machine-learning-models-forecasting.html
       
@@ -2411,7 +2417,7 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    Responsible AI-https://www.tensorflow.org/resources/responsible-ai
    
-   fairlearn https://github.com/fairlearn/fairlearn
+   fairlearn https://github.com/fairlearn/fairlearn   fairml https://github.com/adebayoj/fairml https://www.datasciencecentral.com/profiles/blogs/fairml-auditing-black-box-predictive-models
    
    cleverhans https://github.com/cleverhans-lab/cleverhans
    
