@@ -1667,6 +1667,10 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html  https://www.youtube.com/watch?v=iUgNIFrVejc   https://blog.streamlit.io/introducing-theming/
     
+    streamlit-ace https://github.com/okld/streamlit-ace  https://www.youtube.com/watch?v=Iv2vt-7AYNQ
+    
+    customize the themes of your Streamlit web apps https://www.youtube.com/watch?v=3xJYP_C4KNE
+    
     dash https://github.com/plotly/dash
     
     plotly https://plotly.com/  https://analyticsindiamag.com/how-to-use-plotly-in-colab/
