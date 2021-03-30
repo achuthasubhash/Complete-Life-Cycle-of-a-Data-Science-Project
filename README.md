@@ -1272,6 +1272,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
 
         DETR  https://analyticsindiamag.com/how-to-detect-objects-with-detection-transformers/  https://github.com/dddzg/up-detr
+        
+        80+ NLP tasks  https://medium.com/innerdoc/80-natural-language-processing-tasks-described-c777bc4974b3
      
         https://analyticsindiamag.com/top-ten-bert-alternatives-for-nlu-projects/  https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598
      
