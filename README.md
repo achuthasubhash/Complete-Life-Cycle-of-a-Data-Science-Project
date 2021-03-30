@@ -915,6 +915,8 @@ anderson teset  use for check any  distribution
          
          Restricted Boltzmann Machines 
          
+         recmetrics library of metrics for evaluating recommender systems   https://github.com/statisticianinstilettos/recmetrics
+         
          Downsize Recommendation Models By 112 Times https://analyticsindiamag.com/explained-facebooks-novel-method-to-downsize-recommendation-models-by-112-times/
          
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
