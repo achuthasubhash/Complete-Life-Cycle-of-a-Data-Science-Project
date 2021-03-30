@@ -706,6 +706,8 @@ anderson teset  use for check any  distribution
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
+    Python Tool For Visualizing and Plotting 2D/3D Scientific Data https://analyticsindiamag.com/guide-to-mayavi-a-python-tool-for-visualizing-and-plotting-2d-3d-scientific-data/
+    
     https://www.analyticsvidhya.com/blog/2021/03/when-to-use-what-plot-a-beginners-guide-to-select-plots-for-visualization/
     
     https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
@@ -1046,6 +1048,8 @@ anderson teset  use for check any  distribution
        
        https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/  https://analyticsindiamag.com/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/
        
+       ResNeSt: A Better ResNet with the Same Costs https://analyticsindiamag.com/guide-to-resnest-a-better-resnet-with-the-same-costs/
+       
        PyTorch based low code object detection-https://github.com/alankbi/detecto  
        
        https://www.kdnuggets.com/2021/03/extraction-objects-images-videos-5-lines-code.html
@@ -1077,6 +1081,8 @@ anderson teset  use for check any  distribution
      https://blog.paperspace.com/how-to-train-scaled-yolov4-object-detection/
      
      albumentations https://github.com/albumentations-team/albumentations
+     
+     HiSD: Image-to-Image translation via Hierarchical Style Disentanglement https://analyticsindiamag.com/hisd-python-implementation-of-image-to-image-translation/
      
      Image Augmentation Pipelines with Tensorflow  https://towardsai.net/p/machine-learning/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2
      
