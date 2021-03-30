@@ -931,7 +931,7 @@ anderson teset  use for check any  distribution
    
    C.Ensemble methods
    
-     1.Stacking models
+     1.Stacking models https://www.analyticsvidhya.com/blog/2021/03/advanced-ensemble-learning-technique-stacking-and-its-variants/?
    
      2.Bagging models
    
@@ -1280,6 +1280,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
      10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,PRADO,PET,BORT,MuRIL
+
+        Feedback Transformers from Facebook AI https://towardsdatascience.com/feedback-transformers-from-facebook-ai-221c5dd09e3f
 
         DETR  https://analyticsindiamag.com/how-to-detect-objects-with-detection-transformers/  https://github.com/dddzg/up-detr
         
@@ -1880,6 +1882,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
     6.analyticsinsight https://www.analyticsinsight.net/category/latest-news/    https://www.analyticsinsight.net/
     
     7.KDnuggets https://www.kdnuggets.com/  https://www.kdnuggets.com/news/index.html   
+    
+    8.Artificial Intelligence Database https://www.wired.com/category/artificial-intelligence/?verso=true
     
     https://machinelearningknowledge.ai/   
     
