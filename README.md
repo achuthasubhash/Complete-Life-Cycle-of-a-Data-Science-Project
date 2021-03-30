@@ -116,6 +116,8 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
 
 Machine learning datasets  https://www.datasetlist.com/
 
+World’s Largest Data Platform https://worlddata.ai/
+
     https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
 
     1)kaggle-https://www.kaggle.com/datasets , 𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚔𝚊𝚐𝚐𝚕𝚎𝚍𝚊𝚝𝚊𝚜𝚎𝚝𝚜
@@ -1519,7 +1521,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
   https://analyticsindiamag.com/ultimate-guide-to-pytorch-optimizers/    https://analyticsindiamag.com/guide-to-tensorflow-keras-optimizers/
   
-  Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation,tree purning
+  Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation,tree purning,DropBlock
+  
+  DropBlock: A New Regularization Technique https://pub.towardsai.net/dropblock-a-new-regularization-technique-e926bbc74adb
   
   Learning rate scheduling,Weight Decay,Gradient clipping
   
