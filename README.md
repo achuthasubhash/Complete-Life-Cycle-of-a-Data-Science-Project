@@ -814,6 +814,8 @@ anderson teset  use for check any  distribution
     
     23.Sequence Feature Selection
 
+    PyImpetus https://github.com/atif-hassan/PyImpetus
+
     Automate your Feature Selection Workflow in one line of Python code https://github.com/AutoViML/featurewiz  https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4
     
     https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/ https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
