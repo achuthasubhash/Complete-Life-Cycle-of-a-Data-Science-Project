@@ -1094,6 +1094,8 @@ anderson teset  use for check any  distribution
      
      CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad
      
+     https://jair-neto.medium.com/a-powerful-method-for-explainability-of-object-detection-algorithms-ace0fe4623e7
+     
      https://github.com/utkuozbulak/pytorch-cnn-visualizations  https://microscope.openai.com/models  https://github.com/balavenkatesh3322/CV-pretrained-model
      
      Mediapipe for Python https://google.github.io/mediapipe/
