@@ -2868,6 +2868,8 @@ AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindi
 
 AutoNeuro   https://autoneuro.challenge-ineuron.in/
 
+ATOM https://towardsdatascience.com/atom-a-python-package-for-fast-exploration-of-machine-learning-pipelines-653956a16e7b https://github.com/tvdboom/ATOM
+
 6. autoviml
 
    𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲  https://github.com/Muhammad4hmed/GML
