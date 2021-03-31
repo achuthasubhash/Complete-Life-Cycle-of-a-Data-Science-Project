@@ -1807,6 +1807,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    https://github.com/amitness/papers-with-video
    
+   papertalk https://papertalk.org/index
+   
    connected papers https://www.connectedpapers.com/
    
    Semantic Scholar searches: https://www.semanticscholar.org/search?q=%22neural%20networks%22&sort=relevance&ae=false 
@@ -2689,6 +2691,8 @@ determined to be unfair.
    157.all Domain-based A.I. Platform for Data Scientists  https://www.cluzters.ai/
    
    158.2D images to 3D https://analyticsindiamag.com/python-guide-to-neural-body-converting-2d-images-to-3d/
+
+   Open3D: An Open Source Modern Library For 3D Data Processing  https://github.com/intel-isl/Open3D
   
    159.FEDERATED LEARNING https://blog.openmined.org/federated-learning-types/
    
@@ -3174,6 +3178,8 @@ https://www.openblender.io/#/welcome
 https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
 
 https://www.kdnuggets.com/2019/09/5-graph-algorithms-data-scientists-know.html   https://towardsdatascience.com/visualizing-networks-in-python-d70f4cbeb259
+
+Pyviz https://towardsdatascience.com/interactive-network-visualization-757af376621
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
