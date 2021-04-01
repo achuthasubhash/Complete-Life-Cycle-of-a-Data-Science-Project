@@ -1290,6 +1290,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         DETR  https://analyticsindiamag.com/how-to-detect-objects-with-detection-transformers/  https://github.com/dddzg/up-detr
         
         80+ NLP tasks  https://medium.com/innerdoc/80-natural-language-processing-tasks-described-c777bc4974b3
+        
+        NLP: Pre-trained Sentiment Analysis https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c
+        
+        https://medium.com/@jatinmandav3/opinion-mining-sometimes-known-as-sentiment-analysis-or-emotion-ai-refers-to-the-use-of-natural-874f369194c0#:~:text=fastText%20is%20a%20library%20for,pretrained%20models%20for%20294%20languages
      
         https://analyticsindiamag.com/top-ten-bert-alternatives-for-nlu-projects/  https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598
      
@@ -1788,6 +1792,8 @@ aimet advanced quantization and compression techniques for trained neural networ
 Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications  https://github.com/Tencent/PocketFlow
 
 leverage of model architecture
+
+Federated Learning  https://www.analyticsvidhya.com/blog/2021/04/federated-learning-for-beginners/
 
 ***Quantization:Use Quantization to reduce size of model***
 
@@ -2991,6 +2997,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 18.dask (parallel comptataion)   https://docs.dask.org/en/latest/   https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f#cid=av01_so-nvsh_en-us
 
 Dask Dataframe and SQL https://docs.dask.org/en/latest/dataframe-sql.html
+
+Dask CUDA
 
 Cython,Numba,PyPy
 
