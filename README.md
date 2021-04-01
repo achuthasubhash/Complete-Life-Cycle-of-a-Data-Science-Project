@@ -1020,6 +1020,8 @@ anderson teset  use for check any  distribution
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
    
+   Model Zoo Discover open source deep learning code and pretrained models https://modelzoo.co/
+   
    Frameworks:Pytorch,Tensorflow,Keras,caffe,theano,MXNet,Matlab,Microsoft Cognitive Toolkit,opacus(Train PyTorch models with Differential Privacy)
    
    https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464  https://docs.deepstack.cc/getting-started/index.html
@@ -2961,6 +2963,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    Lens- Statistical Analysis of Data https://analyticsindiamag.com/hands-on-tutorial-on-lens-python-tool-for-swift-statistical-analysis/ 
    
    Dashboard in Less Than 10 Lines of Code  https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b
+   
+   Rich terminal dashboards https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/
    
    Explainable AI dashboards https://github.com/oegedijk/explainerdashboard  https://www.youtube.com/watch?v=ZgypAMRcmw8
    
