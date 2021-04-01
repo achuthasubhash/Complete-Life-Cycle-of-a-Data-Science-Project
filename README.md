@@ -2908,7 +2908,7 @@ ATOM https://towardsdatascience.com/atom-a-python-package-for-fast-exploration-o
     
     AdaNet is a lightweight TensorFlow-based framework
 
-11. pycaret- https://pycaret.org/  
+11. pycaret- https://pycaret.org/  https://www.kdnuggets.com/2020/08/build-automl-pycaret.html https://www.kdnuggets.com/2020/08/github-best-automl-ever-need.html  https://www.kdnuggets.com/2020/07/5-things-pycaret.html
 
 Machine Learning in Power BI using PyCaret  https://www.kdnuggets.com/2020/05/machine-learning-power-bi-pycaret.html  
 
