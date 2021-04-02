@@ -2211,6 +2211,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    create neural networks with one line of code https://github.com/PraneetNeuro/nnio.l
    
+   AWS SageMaker AutoPilot https://aws.amazon.com/sagemaker/autopilot/
+   
    Machine Learning in JUST ONE LINE OF CODE libra https://github.com/Palashio/libra/ https://www.youtube.com/watch?v=N_T_ljj5vc4 
    
    perceptilabs  https://towardsdatascience.com/easy-model-building-with-perceptilabs-interactive-tensorflowvisualization-gui-834d5bb3c973
