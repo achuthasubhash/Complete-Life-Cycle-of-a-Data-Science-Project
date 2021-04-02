@@ -1024,6 +1024,8 @@ anderson teset  use for check any  distribution
    
    Model Zoo Discover open source deep learning code and pretrained models https://modelzoo.co/
    
+   Sharing the best resources on various machine learning topics https://www.backprop.org/
+   
    Frameworks:Pytorch,Tensorflow,Keras,caffe,theano,MXNet,Matlab,Microsoft Cognitive Toolkit,opacus(Train PyTorch models with Differential Privacy)
    
    https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464  https://docs.deepstack.cc/getting-started/index.html
@@ -2537,6 +2539,16 @@ determined to be unfair.
    114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
 
    https://neptune.ai/blog/8-best-data-science-and-machine-learning-platforms-for-mlops?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-8-best-data-science-and-machine-learning-platforms-for-mlops
+   
+   https://neptune.ai/blog/ml-model-monitoring-best-tools?utm_source=email&utm_medium=newsletter&utm_campaign=blog-march&utm_content=ml-model-monitoring-best-tools
+   
+   https://neptune.ai/blog/end-to-end-mlops-platforms?utm_source=email&utm_medium=newsletter&utm_campaign=blog-march&utm_content=end-to-end-mlops-platforms
+   
+   https://neptune.ai/blog/mlops-at-greensteam-shipping-machine-learning-case-study?utm_source=email&utm_medium=newsletter&utm_campaign=blog-march&utm_content=mlops-at-greensteam-shipping-machine-learning-case-study
+   
+   https://neptune.ai/blog/mlops-10-best-practices?utm_source=email&utm_medium=newsletter&utm_campaign=blog-march&utm_content=mlops-10-best-practices
+   
+   https://neptune.ai/blog/machine-learning-model-management?utm_source=email&utm_medium=newsletter&utm_campaign=blog-march&utm_content=machine-learning-model-management
    
    https://mlops.githubapp.com/   https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape  https://github.com/paiml/practical-mlops-book
    
