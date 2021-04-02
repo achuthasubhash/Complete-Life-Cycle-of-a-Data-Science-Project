@@ -58,6 +58,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       https://developer.twitter.com/en/docs
       
+      pytrends  https://medium.com/nerd-for-tech/scraping-data-from-online-platforms-to-enhance-time-series-forecasts-6eec3c68636d
+      
       Scraping Instagram -instaloader  https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/
       
       Scrape Wikipedia  wikipedia
@@ -2878,7 +2880,7 @@ GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.mediu
 
 auto_ml  https://github.com/ClimbsRocks/auto_ml
 
-EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/
+EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/ https://www.kdnuggets.com/2021/04/easy-automl-python.html
 
 A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
 
