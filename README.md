@@ -2,7 +2,9 @@
 
 ***CREDITS:All corresponding resources***
 
-***MOTIVATION:Motivation to create this repository  to help upcoming aspirants and help to  others in the data science field***
+***MOTIVATION:Motivation to create this repository  to help upcoming aspirants and help to  others in the data science field*** 
+
+https://www.theinsaneapp.com/2021/03/how-to-build-machine-learning-project.html
 
 ***Business understanding*** 
 
@@ -1244,6 +1246,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
        sense2vec,SENT2VEC,Universal sentence encoder
        
      Top2Vec 
+     
+     Topic Modelling https://towardsdatascience.com/april-edition-adventures-in-topic-modelling-7ee9081a48a0
      
      6.using rnn,lstm,gru
      
@@ -2531,6 +2535,8 @@ determined to be unfair.
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
    114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
+
+   https://neptune.ai/blog/8-best-data-science-and-machine-learning-platforms-for-mlops?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-8-best-data-science-and-machine-learning-platforms-for-mlops
    
    https://mlops.githubapp.com/   https://about.mlreef.com/blog/global-mlops-and-ml-tools-landscape  https://github.com/paiml/practical-mlops-book
    
