@@ -923,6 +923,10 @@ anderson teset  use for check any  distribution
          
          Restricted Boltzmann Machines 
          
+         TOROS Buffalo https://github.com/kakao/buffalo
+         
+         PyTorch implementations of deep reinforcement learning algorithms and environments https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
+         
          recmetrics library of metrics for evaluating recommender systems   https://github.com/statisticianinstilettos/recmetrics
          
          Downsize Recommendation Models By 112 Times https://analyticsindiamag.com/explained-facebooks-novel-method-to-downsize-recommendation-models-by-112-times/
@@ -1717,9 +1721,11 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html  https://www.youtube.com/watch?v=iUgNIFrVejc   https://blog.streamlit.io/introducing-theming/
     
+    https://neptune.ai/blog/streamlit-guide-machine-learning?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-streamlit-guide-machine-learning
+    
     streamlit-ace https://github.com/okld/streamlit-ace  https://www.youtube.com/watch?v=Iv2vt-7AYNQ
     
-    customize the themes of your Streamlit web apps https://www.youtube.com/watch?v=3xJYP_C4KNE
+    customize the themes of your Streamlit web apps https://www.youtube.com/watch?v=3xJYP_C4KNE https://github.com/khuyentran1401/Data-science/tree/master/applications/pywebio_examples
     
     dash https://github.com/plotly/dash
     
@@ -1748,6 +1754,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     h20 Wave ML (AutoML for Wave Apps) https://h2oai.github.io/wave/blog/ml-release-0.3.0/
     
     fastapi https://towardsdatascience.com/deploying-ml-models-in-production-with-fastapi-and-celery-7063e539a5db
+    
+    PyWebIO Write Interactive Web App in Script Way Using Python  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e
     
     Katana https://github.com/shaz13/katana https://katana-demo.herokuapp.com/redoc  https://katana-demo.herokuapp.com/docs
     
@@ -2423,7 +2431,7 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html https://analyticsindiamag.com/hands-on-guide-to-interpret-machine-learning-with-shap/
    
-   Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash
+   Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash  https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable.html
    
    Explainable AI dashboards https://github.com/oegedijk/explainerdashboard https://www.youtube.com/watch?v=ZgypAMRcmw8
    
@@ -2891,6 +2899,8 @@ Hugging Face’s AutoNLP https://www.analyticsvidhya.com/blog/2021/03/a-hands-on
 3. autopandas
 
 MLBox https://github.com/AxeldeRomblay/MLBox
+
+MLJAR https://github.com/mljar/mljar-supervised/  https://towardsdatascience.com/binary-classification-with-automated-machine-learning-1a36e78ba50f 
 
 TransmogrifAI https://github.com/salesforce/TransmogrifAI
 
