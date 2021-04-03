@@ -2437,6 +2437,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html https://analyticsindiamag.com/hands-on-guide-to-interpret-machine-learning-with-shap/
    
+   fastshap https://github.com/bgreenwell/fastshap
+   
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash  https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable.html
    
    Explainable AI dashboards https://github.com/oegedijk/explainerdashboard https://www.youtube.com/watch?v=ZgypAMRcmw8
