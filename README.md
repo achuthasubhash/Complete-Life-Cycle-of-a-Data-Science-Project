@@ -1347,6 +1347,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      ecco https://github.com/jalammar/ecco  https://www.eccox.io/   https://www.youtube.com/watch?v=rHrItfNeuh0&feature=youtu.be 
      
+     Language Interpretability Tool (LIT) is an open-source platform for visualization and understanding of NLP models https://pair-code.github.io/lit/
+     
      Language Interpretability Tool https://github.com/pair-code/lit https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html
      
      autonlp  https://analyticsindiamag.com/hands-on-guide-to-using-autonlp-for-automating-sentiment-analysis/
@@ -1680,6 +1682,8 @@ Generally used metrics
     loss-Built-in loss, Custom loss without external parameters,Custom loss with external parameters,Subclassing loss layer
     
     https://analyticsindiamag.com/all-pytorch-loss-function/   https://analyticsindiamag.com/ultimate-guide-to-loss-functions-in-tensorflow-keras-api-with-python-implementation/
+    
+    tensorwatch  Debugging, monitoring and visualization for Python Machine Learning and Data Science https://github.com/microsoft/tensorwatch
 
 Docker and Kubernetes
 
