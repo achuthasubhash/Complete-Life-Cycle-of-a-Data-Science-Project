@@ -569,6 +569,8 @@ World’s Largest Data Platform https://worlddata.ai/
      1.Under Sampling - mostly not prefer because lost of data
      
      2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
+
+     LoRAS: A Better Oversampling Algorithm https://analyticsindiamag.com/hands-on-guide-to-loras-a-better-oversampling-algorithm/  https://github.com/narek-davtyan/LoRAS   
      
      https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
      
