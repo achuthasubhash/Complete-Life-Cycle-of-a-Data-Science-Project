@@ -621,7 +621,8 @@ World’s Largest Data Platform https://worlddata.ai/
      15.Leave-one-out(Loo) encoding
      
      https://towardsdatascience.com/beyond-one-hot-17-ways-of-transforming-categorical-features-into-numeric-features-57f54f199ea4
-
+     
+     https://towardsdatascience.com/how-to-encode-categorical-data-d44dde313131
      
    f.Scaling of data
    
@@ -697,6 +698,8 @@ anderson teset  use for check any  distribution
      Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
      
      https://github.com/zhuyiche/awesome-anomaly-detection
+     
+     https://medium.com/@ODSC/data-sciences-role-in-anomaly-detection-bd976f93d7e3
      
    k.Sampling techniques
      
@@ -821,6 +824,8 @@ anderson teset  use for check any  distribution
     23.Sequence Feature Selection
 
     PyImpetus https://github.com/atif-hassan/PyImpetus
+    
+    https://www.analyticsvidhya.com/blog/2016/12/introduction-to-feature-selection-methods-with-an-example-or-how-to-select-the-right-variables/
 
     Automate your Feature Selection Workflow in one line of Python code https://github.com/AutoViML/featurewiz  https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4
     
@@ -1170,6 +1175,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      3.LSTM (have memory cell,forget gate  etc..)
      
      all above 3 models have bidirectional also based on problem statement use bidirectional models
+     
+     Quasi-Recurrent Neural Network  https://github.com/salesforce/pytorch-qrnn
   
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
 
