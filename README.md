@@ -500,6 +500,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
 ***2.Feature engineering***
 
+   Streamlining Feature Engineering Pipelines with Feature-engine https://towardsdatascience.com/streamlining-feature-engineering-pipelines-with-feature-engine-e781d551f470 https://feature-engine.readthedocs.io/en/latest/#
+
    Validate your Data (Schema) https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
