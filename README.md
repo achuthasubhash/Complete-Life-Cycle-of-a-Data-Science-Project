@@ -858,6 +858,8 @@ anderson teset  use for check any  distribution
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines 
        
        Locally Weighted Linear Regression https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf
+       
+       TuringBot https://www.youtube.com/watch?v=LyKzKvjyIPo
 
      2.Classification (output feature in categorical data form)
      
