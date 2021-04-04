@@ -72,7 +72,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     8.pattern
     
-    9.Octoparse Easy Web Scraping  https://www.octoparse.com/ 
+    9.Octoparse Easy Web Scraping   https://www.octoparse.com/ 
     
      ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
      
@@ -1314,7 +1314,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,ConvBert,Quantized MobileBERT,ALBERT,ARBERT,MARBERTElectra,Transformer-XL,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,PRADO,PET,BORT,MuRIL
+     10.BERT,BART,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,PRADO,PET,BORT,MuRIL
 
         Feedback Transformers from Facebook AI https://towardsdatascience.com/feedback-transformers-from-facebook-ai-221c5dd09e3f
 
