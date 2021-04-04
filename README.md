@@ -1772,7 +1772,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     fastapi https://towardsdatascience.com/deploying-ml-models-in-production-with-fastapi-and-celery-7063e539a5db
     
-    PyWebIO Write Interactive Web App in Script Way Using Python  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e
+    PyWebIO Write Interactive Web App in Script Way Using Python https://www.youtube.com/watch?v=vp1ZNapAy6Y  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e
     
     Katana https://github.com/shaz13/katana https://katana-demo.herokuapp.com/redoc  https://katana-demo.herokuapp.com/docs
     
