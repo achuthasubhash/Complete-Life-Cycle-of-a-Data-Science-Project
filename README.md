@@ -1502,6 +1502,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       16.Orbit , DeepAR ,NeuralProphet(https://github.com/ourownstory/neural_prophet    https://ourownstory.github.io/neural_prophet/model-overview/)
 
+      IBM’s AutoAI automates time series forecasting https://www.ibm.com/blogs/research/2021/03/autoai-time-series/?utm_campaign=Learning%20Posts&utm_content=159454790&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323
+
       orbit https://analyticsindiamag.com/hands-on-guide-to-orbit-ubers-python-framework-for-bayesian-forecasting-inference/ https://github.com/uber/orbit
       
       best article-https://www.analyticsvidhya.com/blog/2018/02/time-series-forecasting-methods/
