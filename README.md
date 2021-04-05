@@ -1582,7 +1582,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
 
   TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Softmax,Swish,Softplus
   
-  Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief
+  Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief,MADGRAD
   
   https://analyticsindiamag.com/ultimate-guide-to-pytorch-optimizers/    https://analyticsindiamag.com/guide-to-tensorflow-keras-optimizers/
   
