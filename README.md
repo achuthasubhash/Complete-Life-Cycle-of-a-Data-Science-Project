@@ -519,6 +519,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Amazon’s New Visual Data Cleaning Tool Can Speed Up Your AI Projects https://medium.com/dataseries/how-amazons-new-visual-data-tool-can-speed-up-your-ai-projects-68e3289382c
    
    Featuretools https://www.featuretools.com/ https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96
+   
+   https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
      
    Remove duplicate data in dataset
 
@@ -847,7 +849,7 @@ anderson teset  use for check any  distribution
     
     https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
     
-    Featuretools: https://github.com/alteryx/featuretools
+    Featuretools: https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
     AutoFeat: https://github.com/cod3licious/autofeat
     TSFresh: https://github.com/blue-yonder/tsfresh
     FeatureSelector: https://github.com/WillKoehrsen/feature-selector
@@ -1063,7 +1065,7 @@ anderson teset  use for check any  distribution
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
      
