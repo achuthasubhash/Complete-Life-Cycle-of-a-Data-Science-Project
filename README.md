@@ -2911,7 +2911,9 @@ mlkit-https://firebase.google.com/products/ml
 
 GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0
 
-2. Tpot
+2. https://github.com/search?q=automl
+
+Tpot
 
 auto_ml  https://github.com/ClimbsRocks/auto_ml
 
