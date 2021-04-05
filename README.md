@@ -1468,9 +1468,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       7.Smoothing (moving average,exponential smoothing)
       
-      8.Facebook prophet (note:expceted date column as ds and target column as y)
+      8.Facebook prophet (note:expceted date column as ds and target column as y) https://thecleverprogrammer.com/2020/12/14/facebook-prophet-model-with-python/
       
-      NeuralProphet Model- https://ourownstory.github.io/neural_prophet/model-overview/
+      NeuralProphet Model- https://ourownstory.github.io/neural_prophet/model-overview/ https://thecleverprogrammer.com/2021/01/28/neuralprophet-model-with-python/
       
       PyTorch Forecasting enables deep learning models for time-series forecasting
       
@@ -3020,6 +3020,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    lux https://medium.com/swlh/automating-exploratory-data-analysis-part-3-d04352b83072 https://pub.towardsai.net/speed-up-eda-with-the-intelligent-lux-37f96542527b
    
    lux Python API for Intelligent Visual Data Discovery  https://github.com/lux-org/lux  https://analyticsindiamag.com/python-guide-to-lux-an-interactive-visual-discovery/
+   
+   Automatic EDA https://thecleverprogrammer.com/2021/02/06/automatic-eda-using-python/
    
    Arena https://github.com/ModelOriented/Arena
    
