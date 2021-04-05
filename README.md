@@ -2770,6 +2770,8 @@ determined to be unfair.
    Open3D: An Open Source Modern Library For 3D Data Processing  https://github.com/intel-isl/Open3D
   
    159.FEDERATED LEARNING https://blog.openmined.org/federated-learning-types/
+
+   160.https://gallery.allennlp.org/  https://prior.allenai.org/projects/gpv
    
 ***Follow leaders in the field to update yourself in the field***
 
