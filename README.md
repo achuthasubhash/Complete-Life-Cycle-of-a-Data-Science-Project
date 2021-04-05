@@ -124,7 +124,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
 
 Machine learning datasets  https://www.datasetlist.com/
 
-World’s Largest Data Platform https://worlddata.ai/
+World’s Largest Data Platform https://worlddata.ai/  
 
     https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
 
@@ -509,6 +509,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Validate your Data (Schema) https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
+   
+   https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
    
    Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
    
@@ -1309,6 +1311,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         Scalable Transformer-based Model  https://analyticsindiamag.com/guide-to-perceiver-a-scalable-transformer-based-model/
         
         Transformers Interpret https://towardsdatascience.com/introducing-transformers-interpret-explainable-ai-for-transformers-890a403a9470 https://github.com/cdpierse/transformers-interpret  https://analyticsindiamag.com/hands-on-guide-to-the-evolved-transformer-on-neural-machine-translation/
+        
+        Novel Interpretable Transformer https://github.com/hila-chefer/Transformer-Explainability  https://analyticsindiamag.com/compute-relevancy-of-transformer-networks-via-novel-interpretable-transformer/
         
         https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html#.YE7gRy9s-LA.linkedin
         
