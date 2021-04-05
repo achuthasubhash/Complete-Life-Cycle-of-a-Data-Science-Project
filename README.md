@@ -1322,6 +1322,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         80+ NLP tasks  https://medium.com/innerdoc/80-natural-language-processing-tasks-described-c777bc4974b3
         
+        Text-to-Image  https://www.datasciencecentral.com/profiles/blogs/summarizing-popular-text-to-image-synthesis-methods-with-python
+        
         NLP: Pre-trained Sentiment Analysis https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c
         
         https://medium.com/@jatinmandav3/opinion-mining-sometimes-known-as-sentiment-analysis-or-emotion-ai-refers-to-the-use-of-natural-874f369194c0#:~:text=fastText%20is%20a%20library%20for,pretrained%20models%20for%20294%20languages
