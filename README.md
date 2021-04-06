@@ -2110,6 +2110,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    ktrain  https://github.com/amaiya/ktrain
    
+   Top 6 Alternatives To Hugging Face https://analyticsindiamag.com/top-6-alternatives-to-hugging-face/
+   
    32.multi-task-NLP-https://github.com/hellohaptik/multi-task-NLP
    
    33.gpt-2 - https://github.com/openai/gpt-2
