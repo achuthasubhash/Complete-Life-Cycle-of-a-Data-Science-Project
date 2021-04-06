@@ -1077,6 +1077,8 @@ anderson teset  use for check any  distribution
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,v-net,TransUNet,EfficientDet,Vision Transformer,deit
        
+       GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
+       
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
        https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/  https://analyticsindiamag.com/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/
