@@ -1744,6 +1744,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     MODEL DEPLOYMENT USING TF SERVING
     
+    Dockerize  https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html
+    
     Model Serving https://neptune.ai/blog/ml-model-serving-best-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-ml-model-serving-best-tools
      
     TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx
@@ -2940,6 +2942,16 @@ EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alt
 A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
 
 adanet https://github.com/tensorflow/adanet
+
+mljar-supervised  https://github.com/mljar/mljar-supervised/
+
+ludwig  https://github.com/ludwig-ai/ludwig
+
+autoweka  https://github.com/automl/autoweka
+
+autokeras https://autokeras.com/
+
+TransmogrifAI  https://github.com/salesforce/TransmogrifAI
 
 Hugging Face’s AutoNLP https://www.analyticsvidhya.com/blog/2021/03/a-hands-on-introduction-to-hugging-faces-autonlp-101/
 
