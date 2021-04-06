@@ -1356,6 +1356,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         Wav2Vec2 https://huggingface.co/transformers/model_doc/wav2vec2.html https://www.youtube.com/watch?v=dJAoK5zK36M&feature=youtu.be
         
+        HuggingFace Transformers ASR  https://github.com/dennisbakhuis/Ecare_Brunch_ASR
+        
         https://github.com/balavenkatesh3322/audio-pretrained-model
         
      SpeechRecognition
