@@ -1638,6 +1638,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     k.model_search https://github.com/google/model_search https://analyticsindiamag.com/hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl/
     
+    Optimize machine learning models https://www.tensorflow.org/model_optimization
+    
     Milano   https://github.com/NVIDIA/Milano
     
     baytune https://www.kdnuggets.com/2021/03/automating-machine-learning-model-optimization.html
@@ -1846,7 +1848,9 @@ Automatic Model Compression (AutoMC) framework for developing smaller and faster
 
 leverage of model architecture
 
-Federated Learning  https://www.analyticsvidhya.com/blog/2021/04/federated-learning-for-beginners/
+Federated Learning  https://www.analyticsvidhya.com/blog/2021/04/federated-learning-for-beginners/  https://www.tensorflow.org/federated
+
+privacy https://github.com/tensorflow/privacy
 
 ***Quantization:Use Quantization to reduce size of model***
 
@@ -2939,6 +2943,8 @@ adanet https://github.com/tensorflow/adanet
 
 Hugging Face’s AutoNLP https://www.analyticsvidhya.com/blog/2021/03/a-hands-on-introduction-to-hugging-faces-autonlp-101/
 
+Automated Text Classification with EvalML https://www.kdnuggets.com/2021/04/automated-text-classification-evalml.html
+
 3. autopandas
 
 MLBox https://github.com/AxeldeRomblay/MLBox
@@ -3331,7 +3337,7 @@ https://www.kdnuggets.com/2021/03/10-amazing-machine-learning-projects-2020.html
 
 https://data-flair.training/blogs/machine-learning-datasets/#   https://data-flair.training/blogs/machine-learning-project-ideas/  
 
-https://data-flair.training/blogs/artificial-intelligence-ai-tutorial/  
+https://data-flair.training/blogs/artificial-intelligence-ai-tutorial/  https://www.theinsaneapp.com/2020/11/data-science-projects-with-source-code.html
 
 https://data-flair.training/blogs/cartoonify-image-opencv-python/  https://data-flair.training/blogs/python-project-calorie-calculator-django/
 
