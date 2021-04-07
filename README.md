@@ -64,7 +64,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       Scraping Instagram -instaloader  https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/
       
-      Scrape Wikipedia  wikipedia
+      Scrape Wikipedia  wikipedia https://www.thepythoncode.com/article/access-wikipedia-python
       
       Web Scraping to Create a CSV File  https://thecleverprogrammer.com/2020/08/08/web-scraping-to-create-csv/
     
@@ -1691,6 +1691,8 @@ Distributed Training with TensorFlow
 
 ***6.Testing model***
 
+Text Robustness Evaluation Platform  https://github.com/textflint/textflint
+
 Generally used metrics
   
      Always check bias variance tradeoff to know how model is performing
@@ -2541,6 +2543,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    fairlearn https://github.com/fairlearn/fairlearn   fairml https://github.com/adebayoj/fairml https://www.datasciencecentral.com/profiles/blogs/fairml-auditing-black-box-predictive-models
    
+   fair  https://medium.com/responsibleml/how-to-easily-check-if-your-ml-model-is-fair-2c173419ae4c
+   
    cleverhans https://github.com/cleverhans-lab/cleverhans
    
    Google Facets https://pair-code.github.io/facets/
@@ -2790,7 +2794,7 @@ determined to be unfair.
    
    154.TensorGram https://github.com/ksdkamesh99/TensorGram https://www.youtube.com/watch?v=ItDBQB4YFuI
   
-   155.r packages https://upurl.me/vkf3r
+   155.r packages https://upurl.me/vkf3r  http://r-bloggers.com/2021/04/15-essential-packages-in-r-for-data-science/
    
    156.openblender Fuel your ML Engines with Relevant Data to Boost Performance   https://openblender.io/#/welcome
 
