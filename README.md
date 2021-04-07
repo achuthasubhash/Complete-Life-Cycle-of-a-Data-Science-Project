@@ -1337,6 +1337,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         https://medium.com/@jatinmandav3/opinion-mining-sometimes-known-as-sentiment-analysis-or-emotion-ai-refers-to-the-use-of-natural-874f369194c0#:~:text=fastText%20is%20a%20library%20for,pretrained%20models%20for%20294%20languages
      
         https://analyticsindiamag.com/top-ten-bert-alternatives-for-nlu-projects/  https://towardsdatascience.com/from-pre-trained-word-embeddings-to-pre-trained-language-models-focus-on-bert-343815627598
+        
+        
+        GPT2 generated Indian Food Recipes https://www.kaggle.com/nulldata/gpt2-generated-indian-food-recipes
      
         http://jalammar.github.io/    http://jalammar.github.io/illustrated-bert/   http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/
         
