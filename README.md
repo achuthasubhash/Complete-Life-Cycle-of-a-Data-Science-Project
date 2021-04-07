@@ -1575,6 +1575,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
    G.Semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
    
+   Barlow Twins: Self-Supervised Learning via Redundancy Reduction  https://analyticsindiamag.com/a-guide-to-barlow-twins-self-supervised-learning-via-redundancy-reduction/ https://github.com/facebookresearch/barlowtwins
+   
    H.Active learning,Multi-Task Learning,Online Learning
    
    I.Transfer learning(Inductive Transfer learning(similar domain,different task),Unsupervised Transfer Learning(different task,different domain but similar enough) ,Transductive Transfer Learning(similar task,different domain))
