@@ -1235,6 +1235,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       5.deep Autoencoder
       
       6.variational autoencoder
+     
+      7.convolutional   autoencoder
       
       https://github.com/zc8340311/RobustAutoencoder
    
@@ -2170,6 +2172,8 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    44.ipython-sql-https://github.com/catherinedevlin/ipython-sql
    
    45.libra-https://github.com/Palashio/libra
+
+   DDSP: Differentiable Digital Signal Processing https://github.com/magenta/ddsp  https://analyticsindiamag.com/guide-to-differentiable-digital-signal-processing-ddsp-library-with-python-code/
    
    46.opencv-https://github.com/opencv/opencv
    
@@ -2607,6 +2611,8 @@ determined to be unfair.
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
    114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
+
+   https://www.kdnuggets.com/2021/03/overview-mlops.html
 
    https://neptune.ai/blog/8-best-data-science-and-machine-learning-platforms-for-mlops?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-8-best-data-science-and-machine-learning-platforms-for-mlops
    
