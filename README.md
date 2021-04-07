@@ -25,6 +25,8 @@ variable
     b.quantitative(discrete,continuous)
     
     https://www.chi2innovations.com/blog/discover-data-blog-series/data-types-101/
+    
+cleanlab https://l7.curtisnorthcutt.com/cleanlab-python-package  https://github.com/cgnorthcutt/cleanlab https://github.com/cgnorthcutt/label-errors https://github.com/cgnorthcutt/rankpruning https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
 
 a.Web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
 
@@ -503,6 +505,8 @@ World’s Largest Data Platform https://worlddata.ai/
     69.https://www.dataquest.io/blog/free-datasets-for-projects/
     
 ***2.Feature engineering***
+
+   Feature-engine https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c  https://feature-engine.readthedocs.io/en/latest/
 
    Streamlining Feature Engineering Pipelines with Feature-engine https://towardsdatascience.com/streamlining-feature-engineering-pipelines-with-feature-engine-e781d551f470 https://feature-engine.readthedocs.io/en/latest/#
 
@@ -1631,6 +1635,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Hyperopt hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
     
+    hypopt  https://github.com/cgnorthcutt/hypopt
+    
     hyperband  https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms
     
     Spearmint  https://github.com/JasperSnoek/spearmint/
@@ -1871,9 +1877,15 @@ Federated Learning  https://www.analyticsvidhya.com/blog/2021/04/federated-learn
 
 privacy https://github.com/tensorflow/privacy
 
-***Quantization:Use Quantization to reduce size of model***
+***Quantization:Use Quantization to reduce size of model***  https://medium.com/qiskit/introducing-qiskit-machine-learning-5f06b6597526
 
 TensorFlow Quantum  https://www.tensorflow.org/quantum
+
+Qiskit Machine Learning  https://github.com/Qiskit/qiskit-machine-learning
+
+Quantum Machine Learning
+
+Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/docs/tutorials/03_quantum_kernel.ipynb
 
 ***8.Mointoring model***
 
@@ -2239,7 +2251,9 @@ TensorFlow Quantum  https://www.tensorflow.org/quantum
    
    62. No Code Machine Learning / Deep Learning   https://analyticsindiamag.com/top-12-no-code-machine-learning-platforms-in-2021/
 
-   https://serokell.io/blog/top-no-code-platforms
+   https://serokell.io/blog/top-no-code-platforms 
+   
+   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer
    
    Teachable Machine-https://teachablemachine.withgoogle.com/
    
