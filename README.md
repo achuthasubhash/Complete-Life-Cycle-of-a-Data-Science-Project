@@ -1062,6 +1062,8 @@ anderson teset  use for check any  distribution
      2.Classification task
    
    2.Convolutional neural network ( use for image data)
+
+      mediapipe https://google.github.io/mediapipe/
    
      1.Classification of image
      
@@ -1102,6 +1104,8 @@ anderson teset  use for check any  distribution
        mmtracking https://github.com/open-mmlab/mmtracking
      
      5.Deepdream,Neural style transfer, Pose estimation 
+
+     Pose estimation by mediapipe library  https://google.github.io/mediapipe/  https://www.youtube.com/watch?v=brwgBf6VB0I
      
      6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet
      
