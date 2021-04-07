@@ -1332,6 +1332,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
 
         DETR  https://analyticsindiamag.com/how-to-detect-objects-with-detection-transformers/  https://github.com/dddzg/up-detr
         
+        DeiT https://analyticsindiamag.com/introducing-deit-data-efficient-image-transformers/ https://github.com/facebookresearch/deit
+        
         80+ NLP tasks  https://medium.com/innerdoc/80-natural-language-processing-tasks-described-c777bc4974b3
         
         Text-to-Image  https://www.datasciencecentral.com/profiles/blogs/summarizing-popular-text-to-image-synthesis-methods-with-python
