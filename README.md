@@ -610,7 +610,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      5.Probability Ratio Encoding
      
-     6.label encoding
+     6.label encoding  or .cat.codes
      
      7.probability ratio encoding
      
