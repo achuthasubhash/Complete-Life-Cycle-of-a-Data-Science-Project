@@ -2186,8 +2186,6 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
    44.ipython-sql-https://github.com/catherinedevlin/ipython-sql
    
    45.libra-https://github.com/Palashio/libra
-
-   DDSP: Differentiable Digital Signal Processing https://github.com/magenta/ddsp  https://analyticsindiamag.com/guide-to-differentiable-digital-signal-processing-ddsp-library-with-python-code/
    
    46.opencv-https://github.com/opencv/opencv
    
@@ -2468,6 +2466,10 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
    liborsa library https://librosa.org/doc/latest/index.html
    
    MAGENTA-https://magenta.tensorflow.org/
+   
+   pydub https://github.com/jiaaro/pydub
+   
+   DDSP: Differentiable Digital Signal Processing https://github.com/magenta/ddsp  https://analyticsindiamag.com/guide-to-differentiable-digital-signal-processing-ddsp-library-with-python-code/
    
    92.Palladium-https://palladium.readthedocs.io/en/latest/
    
