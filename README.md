@@ -3142,6 +3142,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
 18.dask (parallel comptataion)   https://docs.dask.org/en/latest/   https://medium.com/rapids-ai/reading-larger-than-memory-csvs-with-rapids-and-dask-e6e27dfa6c0f#cid=av01_so-nvsh_en-us
 
+pandarallel https://towardsdatascience.com/make-pandas-run-blazingly-fast-3dbcd621f75b
+
 Dask Dataframe and SQL https://docs.dask.org/en/latest/dataframe-sql.html
 
 Dask CUDA
@@ -3493,6 +3495,8 @@ Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners
 https://sachinruk.github.io/blog/pytorch/pytorch%20lightning/loss%20function/gpu/2021/03/07/CLIP.html
 
 123.SpeechBrain https://speechbrain.github.io/
+
+124.Real-Time High-Resolution Background Replacement  https://analyticsindiamag.com/introducing-real-time-high-resolution-background-replacement/  https://github.com/PeterL1n/BackgroundMattingV2
 
 ***I will be so happy that this repository helps you. Thank you for reading.***
 
