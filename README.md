@@ -3174,6 +3174,8 @@ https://docs.rapids.ai/api/cuml/stable/
 
 modin https://www.kdnuggets.com/2021/03/speed-up-pandas-modin.html
 
+Datatable speed up pandas https://www.youtube.com/watch?v=mQi6QIGGJ5U
+
 Snap ML — Speed Up Model Training https://medium.com/ibm-data-ai/snap-ml-speed-up-model-training-2ef36fbbf101
 
 26.memory-profiler (tell memory consumption line by line)  https://pypi.org/project/memory-profiler/
