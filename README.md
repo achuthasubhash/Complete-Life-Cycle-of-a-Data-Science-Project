@@ -1385,6 +1385,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      𝗴𝗧𝗧𝗦 for text to speech conversion , 𝘀𝗽𝗲𝗲𝗰𝗵_𝗿𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻
      
+     Python/Pytorch app for easily synthesising human voices https://github.com/BenAAndrew/Voice-Cloning-App
+     
      Speech-Transformer-tf2.0 https://github.com/xingchensong/Speech-Transformer-tf2.0
      
      The Super Duper NLP Repo  https://notebooks.quantumstat.com/
@@ -1490,6 +1492,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       8.Facebook prophet (note:expceted date column as ds and target column as y) https://thecleverprogrammer.com/2020/12/14/facebook-prophet-model-with-python/
       
       NeuralProphet Model- https://ourownstory.github.io/neural_prophet/model-overview/ https://thecleverprogrammer.com/2021/01/28/neuralprophet-model-with-python/
+      
+      bulbea Deep Learning based Python Library for Stock Market Prediction and Modelling https://github.com/achillesrasquinha/bulbea
       
       PyTorch Forecasting enables deep learning models for time-series forecasting
       
