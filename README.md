@@ -773,7 +773,7 @@ anderson teset  use for check any  distribution
     
     Central Limit Theorem,Bayes Theorem,Confidence Interval,Hypothesis Testing,z test, t test,f test,Confidence Interval,1 tail test, 2 tail test,chisquare test,anova test,A/B testing
   
-***4.Feature selection***
+***4.Feature selection***  https://github.com/solegalli/feature-selection-for-machine-learning
 
     1.Filter methods (correleation,chisquare  test,Ttest,anova test,mutal information,hypothesis test,information gain etc...)
 
