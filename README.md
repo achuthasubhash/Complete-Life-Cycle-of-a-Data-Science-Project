@@ -207,6 +207,8 @@ World’s Largest Data Platform https://worlddata.ai/
     21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
     22)***Label Assist: Model Assisted Pre-Annotation for Computer Vision https://blog.roboflow.com/announcing-label-assist/ https://www.youtube.com/watch?v=919CihTlkZw&feature=youtu.be***
+
+    semi-auto-image-annotation-tool https://github.com/virajmavani/semi-auto-image-annotation-tool
     
     labelimage:- https://github.com/wkentaro/labelme  ,  https://github.com/tzutalin/labelImg 
     
@@ -2046,6 +2048,8 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
    3.Deep learning-https://course.fullstackdeeplearning.com/#course-content
 
    4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
+
+   PYTORCH HUB https://pytorch.org/hub/
    
    https://www.kdnuggets.com/2019/08/pytorch-cheat-sheet-beginners.html  https://www.kdnuggets.com/2019/04/nlp-pytorch.html  https://www.kdnuggets.com/2019/08/9-tips-training-lightning-fast-neural-networks-pytorch.html
    
