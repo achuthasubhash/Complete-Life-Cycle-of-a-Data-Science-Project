@@ -1787,7 +1787,9 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash 
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio
+    
+    Gradio - take input from user  https://gradio.app/getting_started
     
     streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html  https://www.youtube.com/watch?v=iUgNIFrVejc   https://blog.streamlit.io/introducing-theming/
     
@@ -3363,7 +3365,7 @@ https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html
 
 81.HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9
 
-82.Gradio - take input frpm user  https://gradio.app/getting_started
+82.Gradio - take input from user  https://gradio.app/getting_started
 
 83. Mito, an editable spreadsheet inside your Jupyter Notebook. - https://trymito.io/   
 
