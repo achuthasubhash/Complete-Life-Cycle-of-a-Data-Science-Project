@@ -1595,6 +1595,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    H.Active learning,Multi-Task Learning,Online Learning
    
+   Meta Learning  https://github.com/sudharsan13296/Awesome-Meta-Learning
+   
+   Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks" https://github.com/cbfinn/maml
+   
    I.Transfer learning(Inductive Transfer learning(similar domain,different task),Unsupervised Transfer Learning(different task,different domain but similar enough) ,Transductive Transfer Learning(similar task,different domain))
    
    https://github.com/artix41/awesome-transfer-learning
@@ -1642,6 +1646,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     c.Bayesian Optimization 
     
     Bayesian Optimization Using BoTorch https://analyticsindiamag.com/guide-to-bayesian-optimization-using-botorch/
+    
+    hyperparameter optimization https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms
     
     Hyperopt hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
     
