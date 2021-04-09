@@ -1867,6 +1867,8 @@ six different types of methods:
 5) Tensor decomposition
 6) Linear Transformer
 
+https://rachitsingh.com/deep-learning-model-compression/#quantization
+
 model optimization (architecture)
  
 TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
