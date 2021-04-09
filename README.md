@@ -1095,7 +1095,7 @@ anderson teset  use for check any  distribution
        
        PyTorch based low code object detection-https://github.com/alankbi/detecto  
        
-       https://www.kdnuggets.com/2021/03/extraction-objects-images-videos-5-lines-code.html
+       https://www.kdnuggets.com/2021/03/extraction-objects-images-videos-5-lines-code.html    
        
        autogluon 
        
