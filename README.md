@@ -3373,6 +3373,8 @@ AmpliGraph: A Machine Learning Library For Knowledge Graphs https://analyticsind
 
 open-source project for analysis of graphs or networks GrasPy / graspologic  https://graspy.neurodata.io/
 
+Pykg2vec: A Python Library for Knowledge Graph Embedding https://analyticsindiamag.com/pykg2vec/
+
 https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html
 
 81.HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9
