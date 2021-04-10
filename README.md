@@ -1073,7 +1073,7 @@ anderson teset  use for check any  distribution
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,EfficientNetV2,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
      
@@ -1640,8 +1640,12 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     https://github.com/balavenkatesh3322/hyperparameter_tuning
   
     a.GridSearchCV (check every given parameter so take long time)
+    
+    HalvingGridSearch https://towardsdatascience.com/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155
   
     b.RandomizedSearchCV (search randomly narrow down our time)
+    
+    HalvingRandomSearchCV
   
     c.Bayesian Optimization 
     
@@ -2163,9 +2167,11 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
    
    31.huggingface contain almost all nlp pretrained model and all tasks related to nlp field
    
-   https://huggingface.co/models  https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html
+   https://huggingface.co/models  https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html https://huggingface.co/modelsz
      
    https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/  https://huggingface.co/transformers/master/   https://github.com/huggingface/tokenizers
+   
+   Hugging Face pipelines https://towardsdatascience.com/effortless-nlp-using-pre-trained-hugging-face-pipelines-with-just-3-lines-of-code-a4788d95754f
    
    Fine-tuning pretrained NLP models with Huggingface’s Trainer https://towardsdatascience.com/fine-tuning-pretrained-nlp-models-with-huggingfaces-trainer-6326a4456e7b
    
