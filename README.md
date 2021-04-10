@@ -43,6 +43,8 @@ https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-
 https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-hero-38051423256b
 
     1.Beautifulsoup  https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/
+
+      mechanicalsoup   https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/
    
     2.Scrapy
    
@@ -86,17 +88,21 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      ScrapingBee  https://analyticsindiamag.com/scrapingbee-api/
      
-     MechanicalSoup https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/
-     
      Scrape HTML tables https://www.youtube.com/watch?v=6U5xJ3mXRKA&feature=youtu.be  or pd.read_html
      
+     requests-html https://github.com/kennethreitz/requests-html
+     
      newspaper https://github.com/codelucas/newspaper  https://www.youtube.com/watch?v=Hfry5XnISyc
+     
+     newspaper3k: https://newspaper.readthedocs.io  # easily extract text from articles
      
      patang (extract product details) https://github.com/tejazz/patang
      
      lisc https://github.com/lisc-tools/lisc
      
      pandas(read_html)
+     
+     wget,curl
      
      https://www.kdnuggets.com/2021/02/6-web-scraping-tools.html
       
@@ -727,7 +733,7 @@ anderson teset  use for check any  distribution
   
     Explore the dataset by using  python or microsoft excel or tableau or powerbi, etc...
     
-    Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,etc...)
+    Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
     
@@ -1258,7 +1264,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
-     Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp,VnCoreNLP,fasttext  libraries
+     Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp,VnCoreNLP,fasttext,Langid,PyCLD3,Guesslang  libraries
      
      clean-text  https://github.com/jfilter/clean-text https://www.youtube.com/watch?v=i2TjAgga1YU
      
@@ -1504,6 +1510,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       PyTorch Forecasting enables deep learning models for time-series forecasting
       
       hmmlearn https://github.com/ushareng/StockPricePredictionUsingHMM_Byte/blob/master/StockPricePredictionUsingHMM.ipynb
+      
+      pyramid-arima https://github.com/tgsmith61591/pyramid
+      
+      pyflux: time series library: https://github.com/RJT1990/pyflux
       
       stumpy https://github.com/TDAmeritrade/stumpy
       
@@ -2308,6 +2318,8 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
    Knime https://www.knime.com/
    
    Accord.net http://accord-framework.net/
+   
+   DeepDev  https://realmichaelye.github.io/DeepDev/deepdev.tech%20-%20Landing%20Page/ https://github.com/realmichaelye/DeepDev
    
    H2O Driverless AI https://www.h2o.ai/products/h2o-driverless-ai/
    
@@ -3186,7 +3198,7 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
-pandas chunksize,Modin , Vaex , Dask,cuDF,mars,ray,rapids,joblib,snorkel   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandas chunksize,Modin , Vaex , Dask,cuDF,mars,ray,rapids,joblib,snorkel,Pyarrow,Fastparquet,dampr   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
