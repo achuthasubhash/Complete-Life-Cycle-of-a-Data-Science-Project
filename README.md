@@ -56,6 +56,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     webbot https://pypi.org/project/webbot/
     
+    gazpacho https://github.com/maxhumber/gazpacho
+    
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
 
       Scrape Twitter for Tweets https://github.com/taspinar/twitterscraper
