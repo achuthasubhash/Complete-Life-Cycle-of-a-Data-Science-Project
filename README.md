@@ -2902,7 +2902,7 @@ applications of data science in many industry
 
    https://reconshell.com/top-ai-and-machine-learning-blogs-curated-for-ai-enthusiasts/
 
-   1.https://ai.facebook.com/   https://ai.facebook.com/blog/  
+   1.https://ai.facebook.com/   https://ai.facebook.com/blog/   
     
    2.https://ai.googleblog.com/
     
@@ -2912,13 +2912,15 @@ applications of data science in many industry
     
    5.https://www.malongtech.com/en/research.html
    
-   6.https://blogs.nvidia.com/blog/tag/artificial-intelligence/
+   6.https://blogs.nvidia.com/blog/tag/artificial-intelligence/  https://blogs.nvidia.com/
    
    https://ai.googleblog.com/2021/01/google-research-looking-back-at-2020.html?m=1
    
    7.https://blog.tensorflow.org/  
    
    8.https://pytorch.org/blog/  
+
+   9.https://distill.pub/
    
    kdnuggets.com  
    
