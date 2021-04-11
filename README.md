@@ -3552,6 +3552,8 @@ https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/dee
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html https://www.kdnuggets.com/2021/03/multilingual-clip--huggingface-pytorch-lightning.html
 
+StyleCLIP: Text Driven Image Manipulation  https://analyticsindiamag.com/guide-to-styleclip-text-driven-image-manipulation/
+
 https://sachinruk.github.io/blog/pytorch/pytorch%20lightning/loss%20function/gpu/2021/03/07/CLIP.html
 
 123.SpeechBrain https://speechbrain.github.io/
