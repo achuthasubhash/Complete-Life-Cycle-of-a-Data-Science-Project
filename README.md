@@ -60,6 +60,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
 
+      twitterscraper https://www.youtube.com/watch?v=MpIi4HtCiVk
+
       Scrape Twitter for Tweets https://github.com/taspinar/twitterscraper
       
       HAR File Web Scraper https://stevesie.com/har-file-web-scraper https://www.youtube.com/watch?v=LcqVDfueb8g
@@ -911,6 +913,8 @@ anderson teset  use for check any  distribution
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
         Machine Learning – it’s all about assumptions  https://www.kdnuggets.com/2021/02/machine-learning-assumptions.html
+        
+        GPBoost: A Library To Combine Tree-Boosting With Gaussian Process And Mixed-Effects Models https://analyticsindiamag.com/guide-to-gpboost-a-machine-learning-library-to-combine-tree-boosting/
    
    B.Unsupervised learning(no label(target) data)
    
@@ -2096,6 +2100,8 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
    PYTORCH Lightning  https://pytorchlightning.ai/community#projects   https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2
    
    lightning-flash  https://github.com/PyTorchLightning/lightning-flash  https://pytorch-lightning.medium.com/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
+   
+   Lightning Bolts collection of well established, SOTA models and components  https://github.com/PyTorchLightning/lightning-bolts
    
    Sharded: A New Technique To Double The Size Of PyTorch Models https://towardsdatascience.com/sharded-a-new-technique-to-double-the-size-of-pytorch-models-3af057466dba
    
