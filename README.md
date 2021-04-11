@@ -1125,6 +1125,8 @@ anderson teset  use for check any  distribution
 
      Pose estimation by mediapipe library  https://google.github.io/mediapipe/  https://www.youtube.com/watch?v=brwgBf6VB0I
      
+     posemodule https://www.youtube.com/watch?v=5kaX3ta398w
+     
      6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet
      
      openpose wrnchai  densepose
