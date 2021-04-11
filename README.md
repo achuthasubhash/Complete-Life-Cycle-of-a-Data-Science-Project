@@ -352,6 +352,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
      70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
      
+     data https://storage.googleapis.com/openimages/web/visualizer/index.html?c=%2Fm%2F04yqq2&r=false&set=train&type=segmentation&utm_campaign=Weekly%20Machine%20Learning%20news&utm_medium=email&utm_source=Revue%20newsletter
+     
     VisualData https://www.visualdata.io/discovery
        
     bifrost-   https://datasets.bifrost.ai/
