@@ -2994,7 +2994,7 @@ applications of data science in many industry
 
 7.driven data-https://www.drivendata.org/
 
-8.dockship-https://dockship.io/
+8.dockship-https://dockship.io/Runway AI
 
 9.SIGNATE Competition- https://signate.jp/about?rf=competition_about
 
@@ -3030,7 +3030,11 @@ https://codegnan.com/blog/35-best-data-sciecne-tools-for-beginners-to-master/  h
 
 https://analyticsindiamag.com/10-popular-automl-tools-developers-can-use/  https://analyticsindiamag.com/8-best-open-source-tools-for-data-mining/
 
-mlkit-https://firebase.google.com/products/ml
+mlkit-https://firebase.google.com/products/ml      runway https://runwayml.com/    fritz https://www.fritz.ai/
+
+obviously https://www.obviously.ai/        createml  https://developer.apple.com/machine-learning/create-ml/  makeml https://makeml.app/
+ 
+superannotate https://superannotate.com/       https://rapidminer.com/        https://monkeylearn.com/monkeylearn-studio/      https://nanonets.com/
 
 GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0
 
