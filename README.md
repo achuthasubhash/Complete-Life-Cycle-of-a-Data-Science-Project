@@ -2732,6 +2732,8 @@ determined to be unfair.
    
    Tensorflow Extended https://www.tensorflow.org/tfx  Tensorflow Transform  https://www.tensorflow.org/tfx/transform/get_started 
    
+   https://aniruddha-choudhury49.medium.com/mlops-kubeflow-with-tensorflow-tfx-pipelines-seamlessly-and-at-scale-92b432bd39b0
+   
    Serving Models https://www.tensorflow.org/tfx/guide/serving
    
    Tensorflow Data Validation https://www.tensorflow.org/tfx/data_validation/get_started TensorFlow Model Analysis https://www.tensorflow.org/tfx/model_analysis/get_started
