@@ -134,7 +134,7 @@ d.Databases
   
 Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeling/docs?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200503-Data-Labeling
 
-e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/
+e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/  https://medium.com/swlh/where-to-find-awesome-machine-learning-datasets-6bb909a3f350
 
 Machine learning datasets  https://www.datasetlist.com/
 
@@ -1909,6 +1909,8 @@ six different types of methods:
 5) Tensor decomposition
 6) Linear Transformer
 
+ibm new tool https://www.zdnet.com/article/ibms-new-tool-lets-developers-add-quantum-computing-power-to-machine-learning/
+
 https://rachitsingh.com/deep-learning-model-compression/#quantization
 
 model optimization (architecture)
@@ -2872,7 +2874,7 @@ determined to be unfair.
    
    154.TensorGram https://github.com/ksdkamesh99/TensorGram https://www.youtube.com/watch?v=ItDBQB4YFuI
   
-   155.r packages https://upurl.me/vkf3r  http://r-bloggers.com/2021/04/15-essential-packages-in-r-for-data-science/
+   155.r packages https://upurl.me/vkf3r  http://r-bloggers.com/2021/04/15-essential-packages-in-r-for-data-science/  https://www.ubuntupit.com/best-r-machine-learning-packages/
    
    156.openblender Fuel your ML Engines with Relevant Data to Boost Performance   https://openblender.io/#/welcome
 
