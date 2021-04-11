@@ -741,6 +741,8 @@ anderson teset  use for check any  distribution
     
     Python Tool For Visualizing and Plotting 2D/3D Scientific Data https://analyticsindiamag.com/guide-to-mayavi-a-python-tool-for-visualizing-and-plotting-2d-3d-scientific-data/
     
+    7 Techniques to Visualize Geospatial Data https://www.kdnuggets.com/2017/10/7-techniques-visualize-geospatial-data.html
+    
     https://www.analyticsvidhya.com/blog/2021/03/when-to-use-what-plot-a-beginners-guide-to-select-plots-for-visualization/
     
     https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
@@ -3189,6 +3191,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 pandarallel https://towardsdatascience.com/make-pandas-run-blazingly-fast-3dbcd621f75b
 
 Dask Dataframe and SQL https://docs.dask.org/en/latest/dataframe-sql.html
+
+Swiftapply  – Automatically efficient pandas apply operations https://www.kdnuggets.com/2018/04/swiftapply-automatically-efficient-pandas-apply-operations.html
 
 Dask CUDA
 
