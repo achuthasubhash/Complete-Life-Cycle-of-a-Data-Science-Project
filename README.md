@@ -61,6 +61,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
 
       Scrape Twitter for Tweets https://github.com/taspinar/twitterscraper
+      
+      HAR File Web Scraper https://stevesie.com/har-file-web-scraper https://www.youtube.com/watch?v=LcqVDfueb8g
     
       https://analyticsindiamag.com/complete-tutorial-on-twint-twitter-scraping-without-twitters-api/
       
