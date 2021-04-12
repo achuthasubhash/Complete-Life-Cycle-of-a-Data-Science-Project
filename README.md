@@ -524,7 +524,11 @@ World’s Largest Data Platform https://worlddata.ai/
     
 ***2.Feature engineering***
 
+   https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
+
    Feature-engine https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c  https://feature-engine.readthedocs.io/en/latest/
+   
+   Categorical Encoding https://github.com/scikit-learn-contrib/category_encoders
 
    Streamlining Feature Engineering Pipelines with Feature-engine https://towardsdatascience.com/streamlining-feature-engineering-pipelines-with-feature-engine-e781d551f470 https://feature-engine.readthedocs.io/en/latest/#
 
