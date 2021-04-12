@@ -102,6 +102,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      newspaper3k: https://newspaper.readthedocs.io  # easily extract text from articles
      
+     newscatcher https://github.com/kotartemiy/newscatcher https://www.youtube.com/watch?v=pHzOuizZq4I
+     
      patang (extract product details) https://github.com/tejazz/patang
      
      lisc https://github.com/lisc-tools/lisc
