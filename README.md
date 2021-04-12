@@ -1109,9 +1109,9 @@ anderson teset  use for check any  distribution
      
      3.Object detection and object segmentation 
      
-       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
+       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,YoloV5,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,v-net,TransUNet,EfficientDet,Vision Transformer,deit
+       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets,v-net,TransUNet,EfficientDet,Vision Transformer,deit
        
        GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
        
