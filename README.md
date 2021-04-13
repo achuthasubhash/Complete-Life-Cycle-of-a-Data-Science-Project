@@ -3050,7 +3050,9 @@ GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.mediu
 
 2. https://github.com/search?q=automl
 
-Tpot
+Tpot 
+
+GML  https://github.com/Muhammad4hmed/GML
 
 auto_ml  https://github.com/ClimbsRocks/auto_ml
 
