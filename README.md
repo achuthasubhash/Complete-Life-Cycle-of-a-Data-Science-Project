@@ -138,6 +138,8 @@ Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeli
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/  https://medium.com/swlh/where-to-find-awesome-machine-learning-datasets-6bb909a3f350
 
+10 BEST DATA COLLECTION TOOLS FOR EFFECTIVE RESULTS https://www.analyticsinsight.net/10-best-data-collection-tools-for-effective-results/
+
 Machine learning datasets  https://www.datasetlist.com/
 
 World’s Largest Data Platform https://worlddata.ai/  
@@ -1300,7 +1302,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
           
           i)word2vec( cbow,skipgram)
           
-          ii)glove
+          ii)glove        https://medium.com/spark-nlp/1-line-to-glove-word-embeddings-with-nlu-in-python-baed152fff4d
           
           iiI)fasttext
         
@@ -1691,7 +1693,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Hyperopt hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
     
-    hypopt  https://github.com/cgnorthcutt/hypopt
+    hypopt  https://github.com/cgnorthcutt/hypopt https://medium.com/mlearning-ai/automatic-hyperparameter-optimization-6a1692c2ebee
     
     hyperband  https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms
     
