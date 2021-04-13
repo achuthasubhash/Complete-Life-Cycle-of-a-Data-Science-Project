@@ -3429,7 +3429,7 @@ open-source project for analysis of graphs or networks GrasPy / graspologic  htt
 
 Pykg2vec: A Python Library for Knowledge Graph Embedding https://analyticsindiamag.com/pykg2vec/
 
-https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html
+https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html    https://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html
 
 81.HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9
 
