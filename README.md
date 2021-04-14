@@ -1511,7 +1511,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       models 
       
-      1.arma,Arima , auto arima ,seasonal arima
+      1.arma,Arima , auto arima(pmd arima) ,seasonal arima
       
       2.Autoregressive
       
@@ -1547,7 +1547,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       tfcausalimpact https://github.com/WillianFuks/tfcausalimpact
       
-      deepar is global model
+      deepar is global model https://www.youtube.com/watch?v=xcbj0RE3kfI&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=14
       
       pmdarima for Auto ARIMA
       
@@ -1559,7 +1559,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       9.Holts winter,Holts linear trend
       
-      10.Auto_Timeseries by auto-ts   
+      10.Auto_Timeseries by auto-ts    https://www.youtube.com/watch?v=URUiVD37fns&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=24 tell best model for data
       
       AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/  https://github.com/AutoViML/Auto_TS
       
