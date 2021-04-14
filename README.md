@@ -1920,6 +1920,9 @@ six different types of methods:
 4) Parameter sharing
 5) Tensor decomposition
 6) Linear Transformer
+7) Selective attention
+8) Low-rank factorisation
+9) 3LC https://research.google/pubs/pub47962/
 
 ibm new tool https://www.zdnet.com/article/ibms-new-tool-lets-developers-add-quantum-computing-power-to-machine-learning/
 
