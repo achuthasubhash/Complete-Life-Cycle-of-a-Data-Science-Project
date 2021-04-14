@@ -454,6 +454,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     https://www.kdnuggets.com/2019/09/scikit-learn-synthetic-dataset.html
     
+    Synthetic Data Vault  https://analyticsindiamag.com/guide-to-synthetic-data-vault-an-ecosystem-of-synthetic-data-generation-libraries/ https://github.com/sdv-dev/SDV
+    
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
     
     62.Google Analytics cost data import https://segmentstream.com/google-analytics?utm_source=twitter&utm_medium=cpc&utm_campaign=ga_costs_import_en&utm_content=guide
