@@ -3060,6 +3060,8 @@ GML  https://github.com/Muhammad4hmed/GML
 
 auto_ml  https://github.com/ClimbsRocks/auto_ml
 
+LightAutoML  https://github.com/sberbank-ai-lab/LightAutoML https://lightautoml.readthedocs.io/en/latest/ https://towardsdatascience.com/lightautoml-preset-usage-tutorial-2cce7da6f936
+
 EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/ https://www.kdnuggets.com/2021/04/easy-automl-python.html
 
 A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
