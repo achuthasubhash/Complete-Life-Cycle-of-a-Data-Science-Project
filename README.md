@@ -1292,6 +1292,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      clean-text  https://github.com/jfilter/clean-text https://www.youtube.com/watch?v=i2TjAgga1YU
      
+     indicnlp https://indicnlp.ai4bharat.org/samanantar/
+     
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
      1.bag of words
