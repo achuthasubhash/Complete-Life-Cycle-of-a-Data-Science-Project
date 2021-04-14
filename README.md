@@ -312,7 +312,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     36)bigquery public dataset ,Google Public Data Explorer
     
-    https://cloud.google.com/public-datasets
+    https://cloud.google.com/public-datasets        https://guides.library.cmu.edu/machine-learning/datasets
     
     37)inbuilt library data eg:iris dataset,mnist dataset,etc...
     
@@ -354,7 +354,9 @@ World’s Largest Data Platform https://worlddata.ai/
     
     50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
     
-     70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
+    70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
+    
+    VisualData Discovery https://www.visualdata.io/discovery
      
      data https://storage.googleapis.com/openimages/web/visualizer/index.html?c=%2Fm%2F04yqq2&r=false&set=train&type=segmentation&utm_campaign=Weekly%20Machine%20Learning%20news&utm_medium=email&utm_source=Revue%20newsletter
      
