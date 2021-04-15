@@ -1577,6 +1577,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       GluonTS , PytorchTS   https://analyticsindiamag.com/gluonts-pytorchts-for-time-series-forecasting/
       
+      stocker https://medium.datadriveninvestor.com/forecasting-stock-prices-using-stocker-66503c26307a
+      
       11.Temporal Convolutional Neural
       
       12.Atspy For Automating The Time-Series Forecasting-https://analyticsindiamag.com/hands-on-guide-to-atspy-for-automating-the-time-series-forecasting/
@@ -1845,9 +1847,11 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny
     
     Gradio - take input from user  https://gradio.app/getting_started
+    
+    Netlify  https://www.analyticsvidhya.com/blog/2021/04/easily-deploy-your-machine-learning-model-into-a-web-app-netlify/
     
     streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html  https://www.youtube.com/watch?v=iUgNIFrVejc   https://blog.streamlit.io/introducing-theming/
     
