@@ -1233,6 +1233,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      2.GRU
      
      3.LSTM (have memory cell,forget gate  etc..)
+
+     Train an LSTM Model ~30x Faster Using PyTorch with GPU https://towardsdatascience.com/how-to-train-an-lstm-model-30x-faster-using-pytorch-with-gpu-e6bcd3134c86
      
      all above 3 models have bidirectional also based on problem statement use bidirectional models
      
@@ -2003,6 +2005,8 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
    code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
    
    Summarise Research Papers  - https://www.semanticscholar.org/
+   
+Structure Your Data Science Projects https://towardsdatascience.com/structure-your-data-science-projects-6c6c8653c16a   
 
 ***programming language for data science is Python,R,Julia,Java,Scala,JAVA SCRIPT(Tensorflow.js)*** 
 
