@@ -548,6 +548,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Easy to use Python library of customized functions for cleaning and analyzing data  https://github.com/akanz1/klib
    
+   PyOD https://pyod.readthedocs.io/en/latest/ https://github.com/yzhao062/pyod/blob/development/docs/index.rst  https://towardsdatascience.com/how-to-detect-outliers-with-python-pyod-aa7147359e4b
+   
    Amazon’s New Visual Data Cleaning Tool Can Speed Up Your AI Projects https://medium.com/dataseries/how-amazons-new-visual-data-tool-can-speed-up-your-ai-projects-68e3289382c
    
    Featuretools https://www.featuretools.com/ https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96
@@ -1754,6 +1756,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      5.Holdout cross-validation
      
      6.Repeated cross-validation
+     
+     7.Leave P out 
   
 Tensorboard,Neptune to visualization of model performance
 
