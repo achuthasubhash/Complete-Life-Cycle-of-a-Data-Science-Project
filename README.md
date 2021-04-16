@@ -1756,14 +1756,20 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      2.Kfoldcv
      
      3.Stratfied cross validation
+
+     Stratified K-folds  
      
      4.Time Series cross-validation
      
      5.Holdout cross-validation
      
      6.Repeated cross-validation
+
+     Repeated K-folds
      
      7.Leave P out 
+    
+     8.Time Series cross-validation
   
 Tensorboard,Neptune to visualization of model performance
 
