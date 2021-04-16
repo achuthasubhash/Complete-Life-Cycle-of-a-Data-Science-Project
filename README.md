@@ -3105,6 +3105,8 @@ autoweka  https://github.com/automl/autoweka
 
 autokeras https://autokeras.com/
 
+adanet https://github.com/tensorflow/adanet
+
 TransmogrifAI  https://github.com/salesforce/TransmogrifAI
 
 Hugging Face’s AutoNLP https://www.analyticsvidhya.com/blog/2021/03/a-hands-on-introduction-to-hugging-faces-autonlp-101/
@@ -3115,6 +3117,8 @@ Automated Text Classification with EvalML https://www.kdnuggets.com/2021/04/auto
 
 MLBox https://github.com/AxeldeRomblay/MLBox
 
+quick_ml  https://pypi.org/project/quick-ml/
+
 MLJAR https://github.com/mljar/mljar-supervised/  https://towardsdatascience.com/binary-classification-with-automated-machine-learning-1a36e78ba50f 
 
 TransmogrifAI https://github.com/salesforce/TransmogrifAI
@@ -3123,7 +3127,7 @@ GenoML (AutoML) for Genomics https://genoml.com/ https://github.com/GenoML
 
 baytune https://www.kdnuggets.com/2021/03/automating-machine-learning-model-optimization.html  https://github.com/MLBazaar/BTB
 
-4. AutoGluon   https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
+4. AutoGluon  AutoML for Text, Image, and Tabular Data  https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
