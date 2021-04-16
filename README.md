@@ -940,6 +940,8 @@ anderson teset  use for check any  distribution
      
      kmodes https://www.youtube.com/watch?v=8eATPLDJ0NQ
      
+     CLARANS Clustering Algorithm https://analyticsindiamag.com/comprehensive-guide-to-clarans-clustering-algorithm/
+     
      https://pub.towardsai.net/fully-explained-birch-clustering-for-outliers-with-python-2ad6243f126b
      
      https://www.kdnuggets.com/2020/12/algorithms-explained-k-means-k-medoids-clustering.html 
@@ -1832,6 +1834,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     3.Amazon Web Services
     
     4.Google cloud platform
+    
+    5.ngrok https://www.youtube.com/watch?v=AkEnjJ5yWV0
     
     Deploy a Machine Learning Model for Free https://www.freecodecamp.org/news/deploy-your-machine-learning-models-for-free/
     
