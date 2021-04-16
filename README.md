@@ -1573,7 +1573,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/  https://github.com/AutoViML/Auto_TS
       
-      AutoTS  https://github.com/winedarksea/AutoTS
+      Automated Time Series Forecasting https://github.com/winedarksea/AutoTS
       
       Forecasting with H2O AutoML https://github.com/business-science/modeltime.h2o/
       
