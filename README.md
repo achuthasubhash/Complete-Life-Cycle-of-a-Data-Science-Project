@@ -3081,7 +3081,7 @@ superannotate https://superannotate.com/       https://rapidminer.com/        ht
 
 GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0
 
-2. https://github.com/search?q=automl
+2. https://github.com/search?q=automl  https://www.kdnuggets.com/2016/03/automated-data-science.html  https://www.kdnuggets.com/software/automated-data-science.html
 
 Tpot 
 
