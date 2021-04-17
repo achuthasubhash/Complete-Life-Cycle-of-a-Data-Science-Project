@@ -3083,7 +3083,7 @@ GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.mediu
 
 2. https://github.com/search?q=automl  https://www.kdnuggets.com/2016/03/automated-data-science.html  https://www.kdnuggets.com/software/automated-data-science.html
 
-Tpot 
+Tpot https://github.com/EpistasisLab/tpot
 
 GML  https://github.com/Muhammad4hmed/GML
 
