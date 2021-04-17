@@ -1667,7 +1667,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    101 Machine Learning Algorithms for Data Science with Cheat Sheets https://blog-datasciencedojo-com.cdn.ampproject.org/c/s/blog.datasciencedojo.com/machine-learning-algorithms/amp/
 
-  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Softmax,Swish,Softplus
+  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,GELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Softmax,Swish,Softplus
   
   Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief,MADGRAD
   
