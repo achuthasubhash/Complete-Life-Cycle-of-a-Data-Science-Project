@@ -1645,6 +1645,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
           
       https://analyticsindiamag.com/top-time-series-deep-learning-methods/
       
+      book https://otexts.com/fpp2/
+      
    G.Semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
    
    Barlow Twins: Self-Supervised Learning via Redundancy Reduction  https://analyticsindiamag.com/a-guide-to-barlow-twins-self-supervised-learning-via-redundancy-reduction/ https://github.com/facebookresearch/barlowtwins
