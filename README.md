@@ -555,6 +555,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Featuretools https://www.featuretools.com/ https://towardsdatascience.com/why-automated-feature-engineering-will-change-the-way-you-do-machine-learning-5c15bf188b96
    
    https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
+   
+   feast Feature Store for Machine Learning https://github.com/feast-dev/feast https://www.youtube.com/watch?v=ZeJdr0nZ9PA
      
    Remove duplicate data in dataset
 
