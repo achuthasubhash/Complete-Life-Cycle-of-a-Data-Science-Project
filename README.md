@@ -1179,6 +1179,8 @@ anderson teset  use for check any  distribution
      
      Tools to Design or Visualize Architecture of Neural Network https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
      
+     quiver Interactive convnet features visualization for Keras https://github.com/keplr-io/quiver
+     
      https://jair-neto.medium.com/a-powerful-method-for-explainability-of-object-detection-algorithms-ace0fe4623e7
      
      https://github.com/utkuozbulak/pytorch-cnn-visualizations  https://microscope.openai.com/models  https://github.com/balavenkatesh3322/CV-pretrained-model
