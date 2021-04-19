@@ -3267,6 +3267,8 @@ Swiftapply  – Automatically efficient pandas apply operations https://www.kd
 
 Dask CUDA
 
+Numba https://github.com/numba/numba https://www.youtube.com/watch?v=3O-Pvnrbsu0
+
 Cython,Numba,PyPy
 
 Reducing Pandas memory https://pythonspeed.com/articles/pandas-load-less-data/  https://www.youtube.com/watch?v=HNE0qHJ9A9o
