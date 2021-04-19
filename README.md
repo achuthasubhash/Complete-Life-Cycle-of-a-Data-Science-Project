@@ -1159,6 +1159,8 @@ anderson teset  use for check any  distribution
      
      openpose wrnchai  densepose
      
+     https://medium.com/beyondminds/an-overview-of-human-pose-estimation-with-deep-learning-d49eb656739b
+     
      3D POSE ESTIMATION
      
      3D Image Classification https://keras.io/examples/vision/3D_image_classification/
