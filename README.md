@@ -1717,6 +1717,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     hypopt  https://github.com/cgnorthcutt/hypopt https://medium.com/mlearning-ai/automatic-hyperparameter-optimization-6a1692c2ebee
     
+    OCTIS https://github.com/mind-lab/octis
+    
     hyperband  https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms
     
     Spearmint  https://github.com/JasperSnoek/spearmint/
