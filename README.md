@@ -1107,6 +1107,8 @@ anderson teset  use for check any  distribution
    
    https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464  https://docs.deepstack.cc/getting-started/index.html
    
+   Binarized Neural Network memory size is reduced, and bitwise operations improve the power efficiency https://neptune.ai/blog/binarized-neural-network-bnn-and-its-implementation-in-ml
+   
    1.Multilayer perceptron(MLP)
    
      1.Regression task
