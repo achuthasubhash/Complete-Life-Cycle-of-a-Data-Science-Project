@@ -1661,6 +1661,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    Meta Learning  https://github.com/sudharsan13296/Awesome-Meta-Learning
    
+   Reptile (OpenAI’s Latest Meta-Learning Algorithm) https://github.com/openai/supervised-reptile  https://analyticsindiamag.com/reptile-openais-latest-meta-learning-algorithm/ 
+   
    Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks" https://github.com/cbfinn/maml
    
    I.Transfer learning(Inductive Transfer learning(similar domain,different task),Unsupervised Transfer Learning(different task,different domain but similar enough) ,Transductive Transfer Learning(similar task,different domain))
