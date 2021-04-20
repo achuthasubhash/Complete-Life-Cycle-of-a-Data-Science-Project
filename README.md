@@ -112,6 +112,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      wget,curl
      
+     10-best-web-scraping-tools  https://www.scraperapi.com/blog/the-10-best-web-scraping-tools/
+     
      https://www.kdnuggets.com/2021/02/6-web-scraping-tools.html
       
      https://analyticsindiamag.com/complete-learning-path-to-web-scraping-with-all-major-tools/ https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d
@@ -816,6 +818,8 @@ anderson teset  use for check any  distribution
     3.Embedded method (lasso,ridge regression,elasticnet,tree based etc...)
     
     DropConstantFeatures  DropDuplicateFeatures    DropCorrelatedFeatures  
+    
+    step forward feature selection https://www.kdnuggets.com/2018/06/step-forward-feature-selection-python.html
   
     4.Feature Importance
   
