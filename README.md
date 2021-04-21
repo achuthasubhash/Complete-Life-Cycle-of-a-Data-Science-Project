@@ -226,7 +226,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
     21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
-    22)***Label Assist: Model Assisted Pre-Annotation for Computer Vision https://blog.roboflow.com/announcing-label-assist/ https://www.youtube.com/watch?v=919CihTlkZw&feature=youtu.be***
+    22) https://neptune.ai/blog/annotation-tool-comparison-deep-learning-data-annotation?utm_source=linkedin&utm_medium=post&utm_campaign=blog-annotation-tool-comparison-deep-learning-data-annotation
+    ***Label Assist: Model Assisted Pre-Annotation for Computer Vision https://blog.roboflow.com/announcing-label-assist/ https://www.youtube.com/watch?v=919CihTlkZw&feature=youtu.be***
 
     semi-auto-image-annotation-tool https://github.com/virajmavani/semi-auto-image-annotation-tool
     
@@ -2992,6 +2993,8 @@ determined to be unfair.
    159.FEDERATED LEARNING https://blog.openmined.org/federated-learning-types/
 
    160.https://gallery.allennlp.org/  https://prior.allenai.org/projects/gpv
+  
+   161.NVIDIA Unveils 50+ New, Updated AI Tools and Trainings for Developers https://www.hpcwire.com/off-the-wire/nvidia-unveils-50-new-updated-ai-tools-and-trainings-for-developers/
    
 ***Follow leaders in the field to update yourself in the field***
 
