@@ -2400,6 +2400,28 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    igel  https://github.com/nidhaloff/igel
    
+   BRYTER https://bryter.com
+
+   Ushur https://ushur.com
+ 
+   Accern https://accern.com
+
+   Signzy https://signzy.com
+ 
+   Runway https://runwayml.com
+ 
+   Fritz AI https://www.fritz.ai
+    
+   BigML, Inc https://bigml.com
+
+   MyDataModels https://lnkd.in/eejjDbM
+
+   MonkeyLearn https://monkeylearn.com
+
+   Levity https://levity.ai
+ 
+   Nanonets https://nanonets.com
+   
    obviously  https://www.obviously.ai/
    
    machine learning straight from Microsoft Excel https://venturebeat.com/2020/12/30/you-dont-code-do-machine-learning-straight-from-microsoft-excel/
