@@ -1052,6 +1052,8 @@ anderson teset  use for check any  distribution
       
       https://simoninithomas.github.io/deep-rl-course/
       
+      AUTORL: AUTOML FOR RL https://www.automl.org/blog-autorl/
+      
        Environments-OpenAI Gym, DeepMind Lab, Unity ML-Agents
        
        https://data-flair.training/news/python-libraries-for-reinforcement-learning/
@@ -1158,6 +1160,8 @@ anderson teset  use for check any  distribution
        mmtracking https://github.com/open-mmlab/mmtracking
      
      5.Deepdream,Neural style transfer, Pose estimation 
+
+     Machine Learning for Art https://ml4a.net/#
 
      Pose estimation by mediapipe library  https://google.github.io/mediapipe/  https://www.youtube.com/watch?v=brwgBf6VB0I
      
@@ -3164,6 +3168,8 @@ ATOM https://towardsdatascience.com/atom-a-python-package-for-fast-exploration-o
    𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲  https://github.com/Muhammad4hmed/GML
    
    CodeLess  https://pypi.org/project/codeless/  https://github.com/porky5191/codeless_demo_project
+   
+    AUTORL: AUTOML FOR RL https://www.automl.org/blog-autorl/
 
 7. autoViz
 
