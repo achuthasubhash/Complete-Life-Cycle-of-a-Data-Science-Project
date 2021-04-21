@@ -1125,7 +1125,7 @@ anderson teset  use for check any  distribution
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,EfficientNetV2,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,,Efficient,EfficientNetV2,EfficientDet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
      
@@ -1144,6 +1144,8 @@ anderson teset  use for check any  distribution
        https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/  https://analyticsindiamag.com/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/
        
        ResNeSt: A Better ResNet with the Same Costs https://analyticsindiamag.com/guide-to-resnest-a-better-resnet-with-the-same-costs/
+       
+       PAN: Pyramid Attention Network for Semantic Segmentation  https://medium.com/mlearning-ai/review-pan-pyramid-attention-network-for-semantic-segmentation-semantic-segmentation-8d94101ba24a
        
        PyTorch based low code object detection-https://github.com/alankbi/detecto  
        
@@ -1572,6 +1574,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       pyflux: time series library: https://github.com/RJT1990/pyflux
       
       stumpy https://github.com/TDAmeritrade/stumpy
+      
+      Giotto-Time Time-Series Forecasting Python Library https://github.com/giotto-ai/giotto-time https://analyticsindiamag.com/guide-to-giotto-time-a-time-series-forecasting-python-library/
       
       Informer (for Long Sequence Time-Series Forecasting) https://analyticsindiamag.com/informer/ 
       
@@ -3338,6 +3342,8 @@ Snap ML — Speed Up Model Training https://medium.com/ibm-data-ai/snap-ml-speed
 26.memory-profiler (tell memory consumption line by line)  https://pypi.org/project/memory-profiler/
 
 Cython A Speed-Up Tool for your Python Function  https://towardsdatascience.com/cython-a-speed-up-tool-for-your-python-function-9bab64364bfd
+
+PyPy Run Your Python Code as Fast as C       https://towardsdatascience.com/run-your-python-code-as-fast-as-c-4ae49935a826
 
 Python Tricks for Keeping Track of Your Data  https://towardsdatascience.com/python-tricks-for-keeping-track-of-your-data-aef3dc817a4e
 
