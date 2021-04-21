@@ -714,6 +714,8 @@ anderson teset  use for check any  distribution
            g.log(1+x) Transformation
            
            h.johnson
+           
+           i.power transformations  https://towardsdatascience.com/when-and-how-to-use-power-transform-in-machine-learning-2c6ad75fb72e
         
    g.Remove low variance feature by using VarianceThreshold
    
@@ -1112,6 +1114,8 @@ anderson teset  use for check any  distribution
    https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464  https://docs.deepstack.cc/getting-started/index.html
    
    Binarized Neural Network memory size is reduced, and bitwise operations improve the power efficiency https://neptune.ai/blog/binarized-neural-network-bnn-and-its-implementation-in-ml
+   
+   scikit-neuralnetwork https://towardsdatascience.com/the-simplest-way-to-train-a-neural-network-in-python-17613fa97958
    
    1.Multilayer perceptron(MLP)
    
@@ -3317,7 +3321,7 @@ Swiftapply  – Automatically efficient pandas apply operations https://www.kd
 
 Dask CUDA
 
-Numba https://github.com/numba/numba https://www.youtube.com/watch?v=3O-Pvnrbsu0
+Numba https://github.com/numba/numba https://www.youtube.com/watch?v=3O-Pvnrbsu0  https://www.analyticsvidhya.com/blog/2021/04/numba-for-data-science-make-your-py-code-run-1000x-faster/
 
 Cython,Numba,PyPy
 
