@@ -76,6 +76,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       Scrape Wikipedia  wikipedia https://www.thepythoncode.com/article/access-wikipedia-python
       
+      Download Wikipedia https://www.wikidata.org/wiki/Wikidata:Main_Page https://www.youtube.com/watch?v=hC1rY4lRY0s
+      
       Web Scraping to Create a CSV File  https://thecleverprogrammer.com/2020/08/08/web-scraping-to-create-csv/
     
     7.urllib
