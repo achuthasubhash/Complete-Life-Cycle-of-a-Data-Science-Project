@@ -353,6 +353,8 @@ World’s Largest Data Platform https://worlddata.ai/
     42.30 largest tensorflow datasets-https://lionbridge.ai/datasets/tensorflow-datasets-machine-learning/
     
     43. coco dataset-https://cocodataset.org/#home
+
+    Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
     
     Google Open images-https://opensource.google/projects/open-images-dataset  https://storage.googleapis.com/openimages/web/index.html
     
@@ -459,6 +461,8 @@ World’s Largest Data Platform https://worlddata.ai/
     Synthetic data library https://github.com/finos/datahub https://github.com/agmmnn/awesome-blender https://opendata.blender.org/ https://www.youtube.com/watch?v=eZwOeBkLL8E
     
     https://www.kdnuggets.com/2019/09/scikit-learn-synthetic-dataset.html
+    
+    Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
     
     Synthetic Data Vault  https://analyticsindiamag.com/guide-to-synthetic-data-vault-an-ecosystem-of-synthetic-data-generation-libraries/ https://github.com/sdv-dev/SDV
     
@@ -951,6 +955,8 @@ anderson teset  use for check any  distribution
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html  https://machinelearningmastery.com/clustering-algorithms-with-python/
      
      kmodes https://www.youtube.com/watch?v=8eATPLDJ0NQ
+     
+     Agglomerative Hierarchical Clustering Using AGNES Algorithm https://analyticsindiamag.com/perform-agglomerative-hierarchical-clustering-using-agnes-algorithm/
      
      CLARANS Clustering Algorithm https://analyticsindiamag.com/comprehensive-guide-to-clarans-clustering-algorithm/
      
