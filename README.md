@@ -52,7 +52,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
    
     4.Request to access data 
     
-    5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper
+    5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper https://www.youtube.com/watch?v=9BQ353Yu1D0
     
     webbot https://pypi.org/project/webbot/
     
@@ -1146,7 +1146,7 @@ anderson teset  use for check any  distribution
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,YoloV5,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit
+       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit
        
        GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
        
@@ -1892,7 +1892,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Model Serving https://neptune.ai/blog/ml-model-serving-best-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-ml-model-serving-best-tools
      
-    TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx
+    TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx  https://theaisummer.com/tfx/?utm_content=163294295&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42461735
     
     torchblaze https://github.com/MLH-Fellowship/torchblaze https://mlh-fellowship.github.io/torchblaze/
     
@@ -2010,6 +2010,10 @@ Automatic Model Compression (AutoMC) framework for developing smaller and faster
 leverage of model architecture
 
 Federated Learning  https://www.analyticsvidhya.com/blog/2021/04/federated-learning-for-beginners/  https://www.tensorflow.org/federated
+
+plato scalable federated learning research framework https://github.com/TL-System/plato 
+
+FedNLP: A Research Platform for Federated Learning in Natural Language Processing https://github.com/FedML-AI/FedNLP
 
 privacy https://github.com/tensorflow/privacy
 
@@ -2393,7 +2397,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    62. No Code Machine Learning / Deep Learning   https://analyticsindiamag.com/top-12-no-code-machine-learning-platforms-in-2021/
 
-   https://serokell.io/blog/top-no-code-platforms 
+   https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
    Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer
    
@@ -2995,6 +2999,10 @@ determined to be unfair.
    160.https://gallery.allennlp.org/  https://prior.allenai.org/projects/gpv
   
    161.NVIDIA Unveils 50+ New, Updated AI Tools and Trainings for Developers https://www.hpcwire.com/off-the-wire/nvidia-unveils-50-new-updated-ai-tools-and-trainings-for-developers/
+   
+   162.Best Workflow and Pipeline Orchestration Tools  https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-workflow-and-pipeline-orchestration-tools
+   
+   163.dataprep   Automation in Data Science https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-automation-in-data-science/
    
 ***Follow leaders in the field to update yourself in the field***
 
