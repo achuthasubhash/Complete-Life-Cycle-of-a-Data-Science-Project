@@ -779,6 +779,8 @@ anderson teset  use for check any  distribution
     
     7 Techniques to Visualize Geospatial Data https://www.kdnuggets.com/2017/10/7-techniques-visualize-geospatial-data.html
     
+    data to viz  https://www.data-to-viz.com/ 
+    
     https://www.analyticsvidhya.com/blog/2021/03/when-to-use-what-plot-a-beginners-guide-to-select-plots-for-visualization/
     
     https://towardsdatascience.com/8-free-tools-to-make-interactive-data-visualizations-in-2021-no-coding-required-2b2c6c564b5b
@@ -1920,6 +1922,10 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     customize the themes of your Streamlit web apps https://www.youtube.com/watch?v=3xJYP_C4KNE https://github.com/khuyentran1401/Data-science/tree/master/applications/pywebio_examples
     
     dash https://github.com/plotly/dash
+    
+    opyrator https://github.com/ml-tooling/opyrator
+    
+    PyWebIO https://github.com/wang0618/PyWebIO https://www.youtube.com/watch?v=sqR154NkwZk
     
     plotly https://plotly.com/  https://analyticsindiamag.com/how-to-use-plotly-in-colab/
     
