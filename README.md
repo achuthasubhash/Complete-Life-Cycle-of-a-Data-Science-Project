@@ -1209,7 +1209,7 @@ anderson teset  use for check any  distribution
      
      https://blog.paperspace.com/how-to-train-scaled-yolov4-object-detection/
      
-     albumentations https://github.com/albumentations-team/albumentations
+     albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
      
      HiSD: Image-to-Image translation via Hierarchical Style Disentanglement https://analyticsindiamag.com/hisd-python-implementation-of-image-to-image-translation/
      
