@@ -850,6 +850,10 @@ anderson teset  use for check any  distribution
        f.Linear Regression
        
        g.xgboost
+       
+       h.Pearson correlation
+       
+       Forward selection,Chi-square,Logit (Logistic Regression model)
   
     5.curse of dimensionality (as dimension increases performance decreases)
   
