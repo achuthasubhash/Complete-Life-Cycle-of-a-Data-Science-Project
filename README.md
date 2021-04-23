@@ -3299,6 +3299,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    
    Explainable AI dashboards https://github.com/oegedijk/explainerdashboard  https://www.youtube.com/watch?v=ZgypAMRcmw8
    
+   Machine Learning Model Dashboard https://towardsdatascience.com/machine-learning-model-dashboard-4544daa50848
+   
    Creating Automated Python Dashboards using Plotly, Datapane, and GitHub Actions https://towardsdatascience.com/creating-automated-python-dashboards-using-plotly-datapane-and-github-actions-ff8aa8b4e3
    
    interactive dashboards https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9
