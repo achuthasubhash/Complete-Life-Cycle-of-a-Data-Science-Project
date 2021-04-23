@@ -360,6 +360,8 @@ World’s Largest Data Platform https://worlddata.ai/
 
     Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
     
+    Unity Launches Synthetic Image Datasets https://www.marktechpost.com/2021/04/23/unity-launches-synthetic-image-datasets-to-train-ai-and-computer-vision-models-faster/
+    
     Google Open images-https://opensource.google/projects/open-images-dataset  https://storage.googleapis.com/openimages/web/index.html
     
     50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
