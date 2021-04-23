@@ -52,7 +52,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
    
     4.Request to access data 
     
-    5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper https://www.youtube.com/watch?v=9BQ353Yu1D0
+    5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper https://www.youtube.com/watch?v=9BQ353Yu1D0 https://www.analyticsvidhya.com/blog/2021/04/automate-web-scraping-using-python-autoscraper-library/
     
     webbot https://pypi.org/project/webbot/
     
@@ -2996,6 +2996,8 @@ determined to be unfair.
    154.TensorGram https://github.com/ksdkamesh99/TensorGram https://www.youtube.com/watch?v=ItDBQB4YFuI
   
    155.r packages https://upurl.me/vkf3r  http://r-bloggers.com/2021/04/15-essential-packages-in-r-for-data-science/  https://www.ubuntupit.com/best-r-machine-learning-packages/
+
+   analyticsvidhya.com/blog/2021/04/top-10-r-packages-for-data-science-you-must-know-in-2021/
    
    156.openblender Fuel your ML Engines with Relevant Data to Boost Performance   https://openblender.io/#/welcome
 
