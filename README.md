@@ -227,6 +227,7 @@ World’s Largest Data Platform https://worlddata.ai/
     21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
     22) https://neptune.ai/blog/annotation-tool-comparison-deep-learning-data-annotation?utm_source=linkedin&utm_medium=post&utm_campaign=blog-annotation-tool-comparison-deep-learning-data-annotation
+    
     ***Label Assist: Model Assisted Pre-Annotation for Computer Vision https://blog.roboflow.com/announcing-label-assist/ https://www.youtube.com/watch?v=919CihTlkZw&feature=youtu.be***
 
     semi-auto-image-annotation-tool https://github.com/virajmavani/semi-auto-image-annotation-tool
