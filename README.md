@@ -1527,6 +1527,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       here handling missing data different 
       
+      Time Series Decomposition In Python  trend, seasonality, and noise https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2
+      
       generally used  to impute data in Time Series
       
       1.ffill
