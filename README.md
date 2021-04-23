@@ -339,6 +339,8 @@ World’s Largest Data Platform https://worlddata.ai/
     https://www.who.int/data/gho ,https://data.unicef.org/open-data/ ,http://data.un.org/ ,https://data.oecd.org/ ,https://data.worldbank.org/  
     
     39.Awesome Public Dataset- https://github.com/awesomedata/awesome-public-datasets
+
+    Get OpenML’s Dataset in One Line of Code https://mathdatasimplified.com/2021/04/23/fetch_openml-get-openmls-dataset-in-one-line-of-code/
     
     https://github.com/the-pudding/data
     
@@ -963,6 +965,8 @@ anderson teset  use for check any  distribution
      1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,plsr,pcr,autoencoders,kpca,lsa,Factor Analysis,
    
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html  https://machinelearningmastery.com/clustering-algorithms-with-python/
+
+     https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
      
      kmodes https://www.youtube.com/watch?v=8eATPLDJ0NQ
      
