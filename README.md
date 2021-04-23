@@ -538,6 +538,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     69.https://www.dataquest.io/blog/free-datasets-for-projects/
     
+    70.audio set https://research.google.com/audioset/
+    
 ***2.Feature engineering***
 
    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
@@ -1042,7 +1044,7 @@ anderson teset  use for check any  distribution
      
      Shapley value of players (models) in weighted voting games  https://github.com/benedekrozemberczki/shapley
    
-   D.Reinforcement learning
+   D.Reinforcement learning  https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
    
       2 types a)model free   b)model based
    
@@ -2813,7 +2815,9 @@ determined to be unfair.
    
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
-   114.MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
+   114.https://neptune.ai/blog/machine-learning-model-management
+   
+   MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
 
    https://www.kdnuggets.com/2021/03/overview-mlops.html
 
