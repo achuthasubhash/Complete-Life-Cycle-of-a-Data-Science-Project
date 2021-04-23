@@ -560,6 +560,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
    
+   dabl https://ms-bharti.medium.com/jump-start-your-supervised-learning-task-with-dabl-e479323e81fe
+   
    Easy to use Python library of customized functions for cleaning and analyzing data  https://github.com/akanz1/klib
    
    PyOD https://pyod.readthedocs.io/en/latest/ https://github.com/yzhao062/pyod/blob/development/docs/index.rst  https://towardsdatascience.com/how-to-detect-outliers-with-python-pyod-aa7147359e4b
@@ -1162,6 +1164,8 @@ anderson teset  use for check any  distribution
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit
        
        GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
+       
+       3d object detection https://omdena.com/blog/3d-object-detection/?utm_source=linkedin&utm_medium=organic&utm_campaign=blog&utm_term=google-analytics
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
@@ -3024,6 +3028,8 @@ determined to be unfair.
    162.Best Workflow and Pipeline Orchestration Tools  https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-workflow-and-pipeline-orchestration-tools
    
    163.dataprep   Automation in Data Science https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-automation-in-data-science/
+   
+   164.notes Data Science & Machine Learning  https://chrisalbon.com/
    
 ***Follow leaders in the field to update yourself in the field***
 
