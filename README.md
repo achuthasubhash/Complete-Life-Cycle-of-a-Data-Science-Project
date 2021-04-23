@@ -1925,8 +1925,6 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     opyrator https://github.com/ml-tooling/opyrator
     
-    PyWebIO https://github.com/wang0618/PyWebIO https://www.youtube.com/watch?v=sqR154NkwZk
-    
     plotly https://plotly.com/  https://analyticsindiamag.com/how-to-use-plotly-in-colab/
     
     Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
