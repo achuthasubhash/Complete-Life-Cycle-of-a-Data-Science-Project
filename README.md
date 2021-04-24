@@ -1354,6 +1354,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      indicnlp https://indicnlp.ai4bharat.org/samanantar/
      
+     Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7
+     
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
      1.bag of words
