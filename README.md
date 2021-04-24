@@ -1171,6 +1171,8 @@ anderson teset  use for check any  distribution
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit
        
+       MMDetection https://analyticsindiamag.com/guide-to-mmdetection-an-object-detection-python-toolbox/
+       
        GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
        
        3d object detection https://omdena.com/blog/3d-object-detection/?utm_source=linkedin&utm_medium=organic&utm_campaign=blog&utm_term=google-analytics
