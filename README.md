@@ -546,6 +546,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
 ***2.Feature engineering***
 
+   Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
+
    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
 
    Feature-engine https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c  https://feature-engine.readthedocs.io/en/latest/
