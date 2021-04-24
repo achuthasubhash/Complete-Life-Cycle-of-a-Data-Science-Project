@@ -2426,7 +2426,9 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://github.com/fendouai/Awesome-Chatbot  https://medium.com/nerd-for-tech/make-money-building-a-fast-powerful-chatbot-in-10-minutes-using-nltk-91038e15ab17
    
-   https://www.analyticsinsight.net/category/chatbots/
+   https://www.analyticsinsight.net/category/chatbots/ https://www.promaticsindia.com/blog/here-are-the-most-popular-chatbot-development-frameworks/
+   
+   https://neptune.ai/blog/building-machine-learning-chatbots-platforms-and-applications?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-building-machine-learning-chatbots-platforms-and-applications
    
    https://blog.ubisend.com/optimise-chatbots/chatbot-training-data
    
