@@ -362,6 +362,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Unity Launches Synthetic Image Datasets https://www.marktechpost.com/2021/04/23/unity-launches-synthetic-image-datasets-to-train-ai-and-computer-vision-models-faster/
     
+    Generate Your Own Dataset using GAN https://www.analyticsvidhya.com/blog/2021/04/generate-your-own-dataset-using-gan/
+    
     Google Open images-https://opensource.google/projects/open-images-dataset  https://storage.googleapis.com/openimages/web/index.html
     
     50+ Object Detection Datasets-https://medium.com/towards-artificial-intelligence/50-object-detection-datasets-from-different-industry-domains-1a53342ae13d
@@ -790,6 +792,8 @@ anderson teset  use for check any  distribution
     7 Techniques to Visualize Geospatial Data https://www.kdnuggets.com/2017/10/7-techniques-visualize-geospatial-data.html
     
     data to viz  https://www.data-to-viz.com/ 
+    
+    Top 10 Data Visualization Tools https://www.analyticsvidhya.com/blog/2021/04/top-10-data-visualization-tools/
     
     https://www.analyticsvidhya.com/blog/2021/03/when-to-use-what-plot-a-beginners-guide-to-select-plots-for-visualization/
     
