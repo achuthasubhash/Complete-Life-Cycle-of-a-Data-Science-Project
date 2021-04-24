@@ -1961,6 +1961,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     https://analyticsindiamag.com/top-8-python-tools-for-app-development/
     
+    Voila This library can turn your Jupyter notebooks into standalone web apps that can be deployed to any cloud platform.  https://voila.readthedocs.io/en/stable/
+    
     H2O.ai https://www.h2o.ai/blog/data-to-production-ready-models-to-business-apps-in-just-a-few-steps/ 
     
     PyQt and Tkinter , PySimpleGUI are GUI programming in Python  https://github.com/tirthajyoti/DS-with-PySimpleGUI
@@ -1990,6 +1992,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     Bamboolib https://medium.com/ai-in-plain-english/bamboolib-a-data-warriors-weapon-9f734f4c2553
    
     web application(dash)- https://dash.plotly.com/
+    
+    Kivy /Kivymd creating an android app 
     
     https://towardsdatascience.com/pycaret-2-1-is-here-whats-new-4aae6a7f636a
     
@@ -3054,6 +3058,8 @@ determined to be unfair.
     1.Google cloab (FREE)  Jupyter Lab for Python, R, Swift from Google Colab with ColabCode  https://www.youtube.com/watch?v=Q35WIqZoUF4
 
     https://www.analyticsvidhya.com/blog/2021/01/avid-user-of-google-colab-here-are-some-alternatives-of-google-colab-that-you-should-know-about/?utm_source=linkedin&utm_medium=social&utm_campaign=old-blog&utm_content=B&custom=FBI156
+    
+    ColabCode This is an amazing extension to the already available resource, Google Colab  https://github.com/abhi1thakur/colabcode
     
     GitHub notebooks with Google Colab https://www.youtube.com/watch?v=LmIylxNmA-A&feature=youtu.be  
     
