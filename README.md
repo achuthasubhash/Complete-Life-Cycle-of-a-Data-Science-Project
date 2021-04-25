@@ -793,6 +793,8 @@ anderson teset  use for check any  distribution
     
     data to viz  https://www.data-to-viz.com/ 
     
+    Interactive plots directly with pandas https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426
+    
     Top 10 Data Visualization Tools https://www.analyticsvidhya.com/blog/2021/04/top-10-data-visualization-tools/
     
     https://www.analyticsvidhya.com/blog/2021/03/when-to-use-what-plot-a-beginners-guide-to-select-plots-for-visualization/
@@ -1363,6 +1365,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      indicnlp https://indicnlp.ai4bharat.org/samanantar/
      
      Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7
+     
+     beautiful Wordclouds in Python  https://towardsdatascience.com/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
