@@ -579,6 +579,8 @@ World’s Largest Data Platform https://worlddata.ai/
    https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
    
    feast Feature Store for Machine Learning https://github.com/feast-dev/feast https://www.youtube.com/watch?v=ZeJdr0nZ9PA
+   
+   Automated Feature Selection: Featurewiz
      
    Remove duplicate data in dataset
 
@@ -942,6 +944,8 @@ anderson teset  use for check any  distribution
   
   Machine Learning Playground  https://ml-playground.com/
   
+  visual introduction to machine learning http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+  
   Neural Network  https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46672&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false 
    
    A.Supervised learning (have label data)
@@ -1297,6 +1301,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      2.GRU
      
      3.LSTM (have memory cell,forget gate  etc..)
+
+     Depth Gated RNNs,Clockwork RNNs
 
      Train an LSTM Model ~30x Faster Using PyTorch with GPU https://towardsdatascience.com/how-to-train-an-lstm-model-30x-faster-using-pytorch-with-gpu-e6bcd3134c86
      
@@ -1788,6 +1794,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     hyperband  https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms
     
     Spearmint  https://github.com/JasperSnoek/spearmint/
+    
+    Vizier
     
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
@@ -2456,6 +2464,10 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    FlashML https://www.flash-ml.com/
    
+   JADBio’s https://www.jadbio.com/
+   
+   JOHN SNOW LABS https://www.johnsnowlabs.com/models-training-and-active-learning-in-john-snow-labs-annotation-lab/
+   
    igel  https://github.com/nidhaloff/igel
    
    BRYTER https://bryter.com
@@ -2850,6 +2862,8 @@ determined to be unfair.
    MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
 
    https://www.kdnuggets.com/2021/03/overview-mlops.html
+   
+   omegaml https://github.com/omegaml/omegaml
 
    https://neptune.ai/blog/8-best-data-science-and-machine-learning-platforms-for-mlops?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-8-best-data-science-and-machine-learning-platforms-for-mlops
    
@@ -2883,7 +2897,7 @@ determined to be unfair.
    
    labml https://ramith.fyi/tracking-your-ml-experiments-without-sending-data-to-the-cloud/
    
-   MLOps  https://github.com/microsoft/MLOps https://mlops.githubapp.com/ https://huyenchip.com/2020/12/30/mlops-v2.html
+   MLOps  https://github.com/microsoft/MLOps https://mlops.githubapp.com/ https://huyenchip.com/2020/12/30/mlops-v2.html https://github.com/paiml/practical-mlops-book
    
    DevOps  https://github.com/collections/devops-tools
    
@@ -3151,6 +3165,8 @@ applications of data science in many industry
 
 1.Kaggle-https://www.kaggle.com/
 
+kaggle-solutions  https://github.com/faridrashidi/kaggle-solutions
+
 2.hackerearth-https://www.hackerearth.com/challenges/
 
 3.machinehack-https://www.machinehack.com/
@@ -3207,13 +3223,19 @@ superannotate https://superannotate.com/       https://rapidminer.com/        ht
 
 GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0
 
-2. https://github.com/search?q=automl  https://www.kdnuggets.com/2016/03/automated-data-science.html  https://www.kdnuggets.com/software/automated-data-science.html
+2.Automated model architecture search tools (e.g. darts, enas)
+
+ https://github.com/search?q=automl  https://www.kdnuggets.com/2016/03/automated-data-science.html  https://www.kdnuggets.com/software/automated-data-science.html
 
 Tpot https://github.com/EpistasisLab/tpot
+
+featurewiz, boruta_py 
 
 GML  https://github.com/Muhammad4hmed/GML
 
 auto_ml  https://github.com/ClimbsRocks/auto_ml
+
+pywedge  https://github.com/taknev83/pywedge https://towardsdatascience.com/automated-interactive-package-for-eda-modeling-and-hyperparameter-tuning-in-a-few-lines-of-228c561fa63c
 
 LightAutoML  https://github.com/sberbank-ai-lab/LightAutoML https://lightautoml.readthedocs.io/en/latest/ https://towardsdatascience.com/lightautoml-preset-usage-tutorial-2cce7da6f936
 
@@ -3257,7 +3279,7 @@ baytune https://www.kdnuggets.com/2021/03/automating-machine-learning-model-opti
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
-5. autosklearn,autokeras,LightAutoML  (https://github.com/sberbank-ai-lab/LightAutoML)
+5. autosklearn,autokeras,LightAutoML,xcessiv  (https://github.com/sberbank-ai-lab/LightAutoML)
 
 AutoNeuro   https://autoneuro.challenge-ineuron.in/
 
@@ -3327,7 +3349,9 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    
    Facets https://github.com/PAIR-code/facets https://towardsdatascience.com/visualize-your-data-with-facets-d11b085409bc
    
-   Datapane makes it simple to build shareable reports from Python https://github.com/datapane/datapane https://towardsdatascience.com/datapanes-new-features-create-a-beautiful-dashboard-in-python-in-a-few-lines-of-code-a3c44523292b
+   pywedge  https://github.com/taknev83/pywedge https://towardsdatascience.com/automated-interactive-package-for-eda-modeling-and-hyperparameter-tuning-in-a-few-lines-of-228c561fa63c
+   
+   Datapane makes it simple to build shareable reports from Python https://github.com/datapane/datapane https://towardsdatascience.com/datapanes-new-features-create-a-beautiful-dashboard-in-python-in-a-few-lines-of-code-a3c44523292b  https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8
    
    lux https://medium.com/swlh/automating-exploratory-data-analysis-part-3-d04352b83072 https://pub.towardsai.net/speed-up-eda-with-the-intelligent-lux-37f96542527b
    
