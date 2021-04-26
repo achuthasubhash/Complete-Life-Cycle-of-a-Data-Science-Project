@@ -946,6 +946,8 @@ anderson teset  use for check any  distribution
   
   visual introduction to machine learning http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
   
+  draw a dataset from inside jupyter https://pypi.org/project/drawdata/ https://www.youtube.com/watch?v=b0rsDPQ3bjg
+  
   Neural Network  https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46672&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false 
    
    A.Supervised learning (have label data)
@@ -1180,6 +1182,8 @@ anderson teset  use for check any  distribution
        MMDetection https://analyticsindiamag.com/guide-to-mmdetection-an-object-detection-python-toolbox/
        
        GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
+       
+       AdelaiDet  open source toolbox for multiple instance-level detection and recognition tasks  https://github.com/aim-uofa/AdelaiDet
        
        3d object detection https://omdena.com/blog/3d-object-detection/?utm_source=linkedin&utm_medium=organic&utm_campaign=blog&utm_term=google-analytics
        
@@ -1700,6 +1704,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       Pastas https://analyticsindiamag.com/guide-to-pastas-a-python-framework-for-hydrogeological-time-series-analysis/ https://github.com/pastas/pastas
       
       stockDL https://github.com/ashishpapanai/stockDL
+      
+      decompsition https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2
       
       Top 10 Python Tools For Time Series Analysis https://analyticsindiamag.com/top-10-python-tools-for-time-series-analysis/
       
@@ -2594,6 +2600,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://github.com/kabartay/OpenUnivCourses
    
+   Open ML University  https://curriculum.openmlu.com/
+   
    https://www.kdnuggets.com/2018/11/10-free-must-see-courses-machine-learning-data-science.html  
    
    https://www.kdnuggets.com/2018/12/10-more-free-must-see-courses-machine-learning-data-science.html
@@ -3267,7 +3275,7 @@ Automated Text Classification with EvalML https://www.kdnuggets.com/2021/04/auto
 
 MLBox https://github.com/AxeldeRomblay/MLBox
 
-quick_ml  https://pypi.org/project/quick-ml/
+quick_ml  https://pypi.org/project/quick-ml/ https://www.quickml.info/
 
 MLJAR https://github.com/mljar/mljar-supervised/  https://towardsdatascience.com/binary-classification-with-automated-machine-learning-1a36e78ba50f 
 
@@ -3458,6 +3466,8 @@ https://docs.rapids.ai/api/cuml/stable/
 modin https://www.kdnuggets.com/2021/03/speed-up-pandas-modin.html
 
 Datatable speed up pandas https://www.youtube.com/watch?v=mQi6QIGGJ5U
+
+Process large datasets without running out of memory https://pythonspeed.com/memory/?utm_medium=email&utm_source=topic+optin&utm_campaign=awareness&utm_content=20210426+data+ai+nl&mkt_tok=MTA3LUZNUy0wNzAAAAF8rA-uJucI5nYkInNB60OO8SozgyRZZ2ptfW-Dt-5HR3I0ysFHju2OYpeK_JZRtxcnmHGSefwL-1zg9Be3zse6zZVklh3zcWYSCxLRvJqd5LfAJMaF
 
 Snap ML — Speed Up Model Training https://medium.com/ibm-data-ai/snap-ml-speed-up-model-training-2ef36fbbf101
 
