@@ -3044,6 +3044,8 @@ determined to be unfair.
    154.TensorGram https://github.com/ksdkamesh99/TensorGram https://www.youtube.com/watch?v=ItDBQB4YFuI
   
    155.r packages https://upurl.me/vkf3r  http://r-bloggers.com/2021/04/15-essential-packages-in-r-for-data-science/  https://www.ubuntupit.com/best-r-machine-learning-packages/
+   
+   https://bluemind1988.medium.com/explore-r-libraries-for-end-to-end-data-science-projects-b4d0af3a9f5c
 
    analyticsvidhya.com/blog/2021/04/top-10-r-packages-for-data-science-you-must-know-in-2021/
    
