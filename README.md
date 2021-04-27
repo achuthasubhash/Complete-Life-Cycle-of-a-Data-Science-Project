@@ -138,6 +138,8 @@ d.Databases
   
   sql in  python https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e
   
+  PyMongo https://analyticsindiamag.com/guide-to-pymongo-a-python-wrapper-for-mongodb/
+  
 Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeling/docs?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200503-Data-Labeling
 
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/  https://medium.com/swlh/where-to-find-awesome-machine-learning-datasets-6bb909a3f350
@@ -2868,10 +2870,12 @@ determined to be unfair.
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
    114.https://neptune.ai/blog/machine-learning-model-management
+
+   Best Workflow and Pipeline Orchestration Tools https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-workflow-and-pipeline-orchestration-tools
    
    MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
 
-   https://www.kdnuggets.com/2021/03/overview-mlops.html
+   https://www.kdnuggets.com/2021/03/overview-mlops.html https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281
    
    omegaml https://github.com/omegaml/omegaml
 
