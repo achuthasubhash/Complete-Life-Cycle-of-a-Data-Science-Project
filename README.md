@@ -1805,6 +1805,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Spearmint  https://github.com/JasperSnoek/spearmint/
     
+    NeuPy http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html#id24
+    
     Vizier
     
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
