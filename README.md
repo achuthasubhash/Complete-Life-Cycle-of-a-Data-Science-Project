@@ -1382,6 +1382,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      beautiful Wordclouds in Python  https://towardsdatascience.com/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5
      
+     quantumstat  https://index.quantumstat.com/
+     
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
      1.bag of words
