@@ -1191,6 +1191,8 @@ anderson teset  use for check any  distribution
        
        3d object detection https://omdena.com/blog/3d-object-detection/?utm_source=linkedin&utm_medium=organic&utm_campaign=blog&utm_term=google-analytics
        
+       PyMAF https://analyticsindiamag.com/guide-to-pymaf-pyramidal-mesh-alignment-feedback/
+       
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
        
        https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/  https://analyticsindiamag.com/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/
@@ -2388,7 +2390,9 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    38.gym-https://github.com/openai/gym
    
-   39.Super Duper NLP Repo-https://notebooks.quantumstat.com/  https://models.quantumstat.com/  https://miro.com/app/board/o9J_kqndLls=/ https://datasets.quantumstat.com/  
+   39.Super Duper NLP Repo-https://notebooks.quantumstat.com/  https://models.quantumstat.com/  https://miro.com/app/board/o9J_kqndLls=/ https://datasets.quantumstat.com/ 
+
+   https://index.quantumstat.com/
    
    https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter
    
