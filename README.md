@@ -1737,9 +1737,13 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    Barlow Twins: Self-Supervised Learning via Redundancy Reduction  https://analyticsindiamag.com/a-guide-to-barlow-twins-self-supervised-learning-via-redundancy-reduction/ https://github.com/facebookresearch/barlowtwins
    
+   skweak: A Python Toolkit For Applying Weak Supervision To NLP Tasks https://analyticsindiamag.com/meet-skweak-a-python-toolkit-for-applying-weak-supervision-to-nlp-tasks/
+   
    H.Active learning,Multi-Task Learning,Online Learning
    
    Meta Learning  https://github.com/sudharsan13296/Awesome-Meta-Learning
+   
+   Avalanche: A Python Library for Continual Learning https://analyticsindiamag.com/avalanche-a-python-library-for-continual-learning/
    
    Reptile (OpenAI’s Latest Meta-Learning Algorithm) https://github.com/openai/supervised-reptile  https://analyticsindiamag.com/reptile-openais-latest-meta-learning-algorithm/ 
    
