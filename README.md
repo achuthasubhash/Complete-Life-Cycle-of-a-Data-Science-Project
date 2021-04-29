@@ -2766,6 +2766,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash  https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable.html
    
+   Explainable AI https://ex.pegg.io/
+   
    Explainable AI dashboards https://github.com/oegedijk/explainerdashboard https://www.youtube.com/watch?v=ZgypAMRcmw8
    
    interpret https://github.com/interpretml/interpret   mlxtend's  http://rasbt.github.io/mlxtend/
