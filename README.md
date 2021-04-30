@@ -1743,6 +1743,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    H.Active learning,Multi-Task Learning,Online Learning
    
+   Active Learning Frameworks https://towardsdatascience.com/a-summary-of-active-learning-frameworks-3165159baae9
+   
    Meta Learning  https://github.com/sudharsan13296/Awesome-Meta-Learning
    
    Avalanche: A Python Library for Continual Learning https://analyticsindiamag.com/avalanche-a-python-library-for-continual-learning/
@@ -3261,7 +3263,9 @@ GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.mediu
 
 Tpot https://github.com/EpistasisLab/tpot
 
-featurewiz, boruta_py 
+mljar-supervised  https://github.com/mljar/mljar-supervised
+
+featurewiz, boruta_py ,AutoWeka,Auto-Sklearn,AutoGluon
 
 GML  https://github.com/Muhammad4hmed/GML
 
