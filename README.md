@@ -155,6 +155,8 @@ World’s Largest Data Platform https://worlddata.ai/
     1)kaggle-https://www.kaggle.com/datasets , 𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚔𝚊𝚐𝚐𝚕𝚎𝚍𝚊𝚝𝚊𝚜𝚎𝚝𝚜
     
     Downloading Kaggle datasets directly into Google Colab -https://towardsdatascience.com/downloading-kaggle-datasets-directly-into-google-colab-c8f0f407d73a
+    
+    How to Download Kaggle Datasets using Jupyter Notebook https://www.analyticsvidhya.com/blog/2021/04/how-to-download-kaggle-datasets-using-jupyter-notebook/
    
     2)https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
     
@@ -2873,7 +2875,9 @@ determined to be unfair.
    
    An ethics checklist for data scientists  https://deon.drivendata.org/
    
-   112.MONAI Framework For Medical Imaging Research https://analyticsindiamag.com/monai-datatsets-managers/
+   112.https://analyticsindiamag.com/top-6-ai-powered-drug-discovery-tools-in-2021/
+   
+   MONAI Framework For Medical Imaging Research https://analyticsindiamag.com/monai-datatsets-managers/
    
    torchio https://github.com/fepegar/torchio https://analyticsindiamag.com/torchio-3d-medical-imaging/
    
