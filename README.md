@@ -3359,6 +3359,8 @@ automated feature engineering  https://github.com/alteryx/featuretools  https://
 
 Featuretools https://www.featuretools.com/
 
+Automate your ML Pipelines with EvalML https://analyticsindiamag.com/automate-your-ml-pipelines-with-evalml/
+
 AutoML toolkit   https://github.com/microsoft/nni
 
 LightAutoML LAMA - automatic model creation framework https://github.com/sberbank-ai-lab/LightAutoML https://analyticsindiamag.com/hands-on-python-guide-to-lama-an-automatic-ml-model-creation-framework/
