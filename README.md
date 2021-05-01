@@ -478,6 +478,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Synthetic Data Vault  https://analyticsindiamag.com/guide-to-synthetic-data-vault-an-ecosystem-of-synthetic-data-generation-libraries/ https://github.com/sdv-dev/SDV
     
+    Create Your own Image Dataset using Opencv https://www.analyticsvidhya.com/blog/2021/05/create-your-own-image-dataset-using-opencv-in-machine-learning/
+    
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
     
     62.Google Analytics cost data import https://segmentstream.com/google-analytics?utm_source=twitter&utm_medium=cpc&utm_campaign=ga_costs_import_en&utm_content=guide
@@ -3387,7 +3389,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
    Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep
    
-   Dataprep https://towardsdatascience.com/dataprep-eda-accelerate-your-eda-eb845a4088bc
+   Dataprep https://towardsdatascience.com/dataprep-eda-accelerate-your-eda-eb845a4088bc https://www.analyticsvidhya.com/blog/2021/05/dataprep-library-perform-eda-faster/
    
    explainerdashboard  https://towardsdatascience.com/the-quickest-way-to-build-dashboards-for-machine-learning-models-ec769825070d
    
