@@ -1247,6 +1247,8 @@ anderson teset  use for check any  distribution
      
      HiSD: Image-to-Image translation via Hierarchical Style Disentanglement https://analyticsindiamag.com/hisd-python-implementation-of-image-to-image-translation/
      
+     Zooming Slow-Mo https://analyticsindiamag.com/guide-to-zooming-slow-mo-one-stage-space-time-video-super-resolution/
+     
      Image Augmentation Pipelines with Tensorflow  https://towardsai.net/p/machine-learning/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2
      
      TensorFlow2.0-Examples  https://github.com/YunYang1994/TensorFlow2.0-Examples
