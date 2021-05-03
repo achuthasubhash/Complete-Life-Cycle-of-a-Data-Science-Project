@@ -3203,6 +3203,8 @@ applications of data science in many industry
    
 ***online competitions:***
 
+Top 25 Machine Learning Hackathons  https://medium.com/analytics-vidhya/top-25-machine-learning-hackathons-its-here-now-for-anyone-to-move-to-data-science-a93deb2a198a
+
 1.Kaggle-https://www.kaggle.com/
 
 kaggle-solutions  https://github.com/faridrashidi/kaggle-solutions
