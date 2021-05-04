@@ -53,6 +53,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     4.Request to access data 
     
     5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper https://www.youtube.com/watch?v=9BQ353Yu1D0 https://www.analyticsvidhya.com/blog/2021/04/automate-web-scraping-using-python-autoscraper-library/
+
+    Scrap Images From E-Commerce Website Using AutoScraper https://www.analyticsvidhya.com/blog/2021/05/scrap-images-from-e-commerce-website-using-autoscraper-library/
     
     webbot https://pypi.org/project/webbot/
     
@@ -1395,6 +1397,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      indicnlp https://indicnlp.ai4bharat.org/samanantar/
      
      Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7
+     
+     https://github.com/jasonwei20/eda_nlp  https://github.com/dsfsi/textaugment https://github.com/QData/TextAttack https://github.com/makcedward/nlpaug
      
      beautiful Wordclouds in Python  https://towardsdatascience.com/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5
      
@@ -2905,7 +2909,7 @@ determined to be unfair.
    
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
-   114.https://neptune.ai/blog/machine-learning-model-management
+   114.https://neptune.ai/blog/machine-learning-model-management   https://analyticsindiamag.com/top-mlops-tools-github-repos/
 
    Best Workflow and Pipeline Orchestration Tools https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-workflow-and-pipeline-orchestration-tools
    
@@ -3259,7 +3263,7 @@ https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-s
 
 H2O Driverless AI https://www.h2o.ai/products/h2o-driverless-ai/
 
-H2O Flow - Web Based Machine Learning Development https://docs.h2o.ai/h2o/latest-stable/h2o-docs/flow.html
+H2O Flow - Web Based Machine Learning Development https://docs.h2o.ai/h2o/latest-stable/h2o-docs/flow.html https://www.analyticsvidhya.com/blog/2021/05/a-step-by-step-guide-to-automl-with-h2o-flow/
 
 https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet
 
@@ -3436,6 +3440,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    Machine Learning Model Dashboard https://towardsdatascience.com/machine-learning-model-dashboard-4544daa50848
    
    Creating Automated Python Dashboards using Plotly, Datapane, and GitHub Actions https://towardsdatascience.com/creating-automated-python-dashboards-using-plotly-datapane-and-github-actions-ff8aa8b4e3
+   
+   atoti Python library to quickly build BI analytics dashboards https://docs.atoti.io/latest/tutorial/tutorial.html
    
    interactive dashboards https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9
    
