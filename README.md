@@ -481,6 +481,8 @@ World’s Largest Data Platform https://worlddata.ai/
     Create Your own Image Dataset using Opencv https://www.analyticsvidhya.com/blog/2021/05/create-your-own-image-dataset-using-opencv-in-machine-learning/
     
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
+
+    Tagalog is our state-of-the-art solution for data management and labeling in Natural Language Processing  https://www.tagalog.ai/tagalog/
     
     62.Google Analytics cost data import https://segmentstream.com/google-analytics?utm_source=twitter&utm_medium=cpc&utm_campaign=ga_costs_import_en&utm_content=guide
     
@@ -1329,6 +1331,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
 
      https://neptune.ai/blog/generative-adversarial-networks-gan-applications?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-generative-adversarial-networks-gan-applications
+     
+     https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 
      generative adversarial transformers https://github.com/dorarad/gansformer
      
@@ -1983,9 +1987,11 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html  https://www.youtube.com/watch?v=iUgNIFrVejc   https://blog.streamlit.io/introducing-theming/
     
+    https://github.com/jrieke/best-of-streamlit
+    
     https://neptune.ai/blog/streamlit-guide-machine-learning?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-streamlit-guide-machine-learning
     
-    streamlit-ace https://github.com/okld/streamlit-ace  https://www.youtube.com/watch?v=Iv2vt-7AYNQ
+    streamlit-ace https://github.com/okld/streamlit-ace  https://www.youtube.com/watch?v=Iv2vt-7AYNQ 
     
     customize the themes of your Streamlit web apps https://www.youtube.com/watch?v=3xJYP_C4KNE https://github.com/khuyentran1401/Data-science/tree/master/applications/pywebio_examples
     
