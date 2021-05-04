@@ -596,6 +596,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
      Types of missing value  https://datamuni.com/@atsunorifujita/missing-value-imputation-using-datawig
      
+     Handling Missing Values in Pandas https://pub.towardsai.net/handling-missing-values-in-pandas-f87cec928937
+     
      i.missing completely at random(no correlation b/w missing and observed data) we can delete no disturbance of data distribution
      
      ii.missing at random (randomness in missing data, missing value have correlation by data) we can't delete because disturbance of data distribution
