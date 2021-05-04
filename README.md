@@ -1193,6 +1193,8 @@ anderson teset  use for check any  distribution
        
        GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
        
+       D2Go Brings Detectron2 To Mobile  https://analyticsindiamag.com/facebooks-d2go-brings-detectron2-to-mobile/
+       
        AdelaiDet  open source toolbox for multiple instance-level detection and recognition tasks  https://github.com/aim-uofa/AdelaiDet
        
        3d object detection https://omdena.com/blog/3d-object-detection/?utm_source=linkedin&utm_medium=organic&utm_campaign=blog&utm_term=google-analytics
