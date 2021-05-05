@@ -963,6 +963,8 @@ anderson teset  use for check any  distribution
   human-learn  https://towardsdatascience.com/human-learn-create-rules-by-drawing-on-the-dataset-bcbca229f00
   
   Neural Network  https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46672&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false 
+  
+  compose generate labels for supervised learning https://github.com/alteryx/compose  https://analyticsindiamag.com/guide-to-prediction-engineering-with-compose/
    
    A.Supervised learning (have label data)
    
@@ -2980,6 +2982,9 @@ determined to be unfair.
    ray https://docs.ray.io/en/master/serve/  https://github.com/ray-project/ray 
    
    https://medium.com/distributed-computing-with-ray/ray-mlflow-taking-distributed-machine-learning-applications-to-production-103f5505cb88
+
+
+   118. Feature Stores https://neptune.ai/blog/feature-stores-components-of-a-data-science-factory-guide?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-stores-components-of-a-data-science-factory-guide
 
    118.algorithm to use by problem https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-deep-learning-algorithm-to-use-by-problem
    
