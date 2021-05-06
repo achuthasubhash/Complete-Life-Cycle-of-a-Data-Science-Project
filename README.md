@@ -1404,7 +1404,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      indicnlp https://indicnlp.ai4bharat.org/samanantar/
      
-     Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7
+     Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7 https://amitness.com/2020/05/data-augmentation-for-nlp/
+     
+     Tagalog is our state-of-the-art solution for data management and labeling in Natural Language Processing https://www.tagalog.ai/tagalog/
      
      https://github.com/jasonwei20/eda_nlp  https://github.com/dsfsi/textaugment https://github.com/QData/TextAttack https://github.com/makcedward/nlpaug
      
@@ -2018,6 +2020,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     customize the themes of your Streamlit web apps https://www.youtube.com/watch?v=3xJYP_C4KNE https://github.com/khuyentran1401/Data-science/tree/master/applications/pywebio_examples
     
     dash https://github.com/plotly/dash
+    
+    panel-highcharts https://awesome-panel.org/  https://github.com/marcskovmadsen/panel-highcharts https://github.com/holoviz/panel https://github.com/holoviz/panel
     
     opyrator https://github.com/ml-tooling/opyrator
     
@@ -3705,7 +3709,7 @@ Pyviz https://towardsdatascience.com/interactive-network-visualization-757af3766
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
-https://analyticsindiamag.com/complete-guide-to-autogl-the-latest-automl-framework-for-graph-datasets/
+https://analyticsindiamag.com/complete-guide-to-autogl-the-latest-automl-framework-for-graph-datasets/ http://mn.cs.tsinghua.edu.cn/AutoGL/
 
 Graph Neural Networks, PySpark, Neural Cellular Automata, FB Prophet, Google Cloud and NLP codes https://github.com/RubensZimbres/Repo-2021
 
