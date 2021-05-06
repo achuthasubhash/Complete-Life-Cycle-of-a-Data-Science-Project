@@ -836,6 +836,8 @@ anderson teset  use for check any  distribution
     distributions(discerte,continous)
     
     data distributions-normal distribution,Standard Normal Distribution,Student's t-Distribution,Bernoulli Distribution,Binomial Distribution,Poisson Distribution,Uniform Distribution,F Distribution,Covariance and Correlation
+    
+    Pingouin  statistical package https://pingouin-stats.org/index.html https://www.youtube.com/watch?v=zqi51Wu5qC0 
   
     Types of Statistics  
     
@@ -1401,6 +1403,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7
      
      https://github.com/jasonwei20/eda_nlp  https://github.com/dsfsi/textaugment https://github.com/QData/TextAttack https://github.com/makcedward/nlpaug
+     
+     doccano text annotation tool https://github.com/doccano/doccano https://www.youtube.com/watch?v=vT-GE_jssPk
      
      beautiful Wordclouds in Python  https://towardsdatascience.com/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5
      
@@ -3131,6 +3135,8 @@ determined to be unfair.
    163.dataprep   Automation in Data Science https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-automation-in-data-science/
    
    164.notes Data Science & Machine Learning  https://chrisalbon.com/
+   
+   165.black uncompromising Python code formatter https://github.com/psf/black
    
 ***Follow leaders in the field to update yourself in the field***
 
