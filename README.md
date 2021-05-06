@@ -743,7 +743,7 @@ anderson teset  use for check any  distribution
         
            e.Exponential Transdormation
         
-           f.BoxCOx Transformation
+           f.BoxCOx and Yeo-Johnson Transformation
         
            g.log(1+x) Transformation
            
