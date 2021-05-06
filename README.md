@@ -1771,6 +1771,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    10 Self-Supervised Learning Frameworks & Libraries To Use In 2021 analyticsindiamag.com/10-self-supervised-learning-frameworks-libraries-to-use-in-2021/
    
+   8 Resources To Learn Self-Supervised Learning In 2021 https://analyticsindiamag.com/top-8-resources-to-learn-self-supervised-learning-in-2021/
+   
    Barlow Twins: Self-Supervised Learning via Redundancy Reduction  https://analyticsindiamag.com/a-guide-to-barlow-twins-self-supervised-learning-via-redundancy-reduction/ https://github.com/facebookresearch/barlowtwins
    
    skweak: A Python Toolkit For Applying Weak Supervision To NLP Tasks https://analyticsindiamag.com/meet-skweak-a-python-toolkit-for-applying-weak-supervision-to-nlp-tasks/
@@ -3147,6 +3149,8 @@ determined to be unfair.
    164.notes Data Science & Machine Learning  https://chrisalbon.com/
    
    165.black uncompromising Python code formatter https://github.com/psf/black
+   
+   166.Feature stores  https://www.kdnuggets.com/2021/05/feature-stores-how-avoid-feeling-every-day-is-groundhog-day.html https://neptune.ai/blog/feature-stores-components-of-a-data-science-factory-guide?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-stores-components-of-a-data-science-factory-guide
    
 ***Follow leaders in the field to update yourself in the field***
 
