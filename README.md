@@ -1763,6 +1763,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
    G.Semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
    
+   10 Self-Supervised Learning Frameworks & Libraries To Use In 2021 analyticsindiamag.com/10-self-supervised-learning-frameworks-libraries-to-use-in-2021/
+   
    Barlow Twins: Self-Supervised Learning via Redundancy Reduction  https://analyticsindiamag.com/a-guide-to-barlow-twins-self-supervised-learning-via-redundancy-reduction/ https://github.com/facebookresearch/barlowtwins
    
    skweak: A Python Toolkit For Applying Weak Supervision To NLP Tasks https://analyticsindiamag.com/meet-skweak-a-python-toolkit-for-applying-weak-supervision-to-nlp-tasks/
