@@ -153,6 +153,8 @@ Machine learning datasets  https://www.datasetlist.com/
 World’s Largest Data Platform https://worlddata.ai/  
 
     https://sebastianraschka.com/blog/2021/ml-dl-datasets.html  https://enoumen.com/2021/04/23/data-sciences-datasets-data-visualization-data-analytics-big-data-data-lakes/
+    
+    https://serokell.io/blog/best-machine-learning-datasets https://medium.com/@ODSC/25-excellent-machine-learning-open-datasets-940ca2124dfc 
 
     1)kaggle-https://www.kaggle.com/datasets , 𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚔𝚊𝚐𝚐𝚕𝚎𝚍𝚊𝚝𝚊𝚜𝚎𝚝𝚜
     
@@ -1198,6 +1200,8 @@ anderson teset  use for check any  distribution
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net)
        
        MMDetection https://analyticsindiamag.com/guide-to-mmdetection-an-object-detection-python-toolbox/
+       
+       SSL Framework For Object Detection https://analyticsindiamag.com/googles-stac-ssl-framework-for-object-detection/ 
        
        GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
        
