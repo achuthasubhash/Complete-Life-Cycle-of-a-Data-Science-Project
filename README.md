@@ -480,6 +480,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
     
+    Synthetic Data Generation Using Gaussian Mixture Model https://deepnote.com/@chanakya-vivek-kapoor/Synthetic-Data-Generation-QaaTRs73T2iCb0amHFbwpQ
+    
     Synthetic Data Vault  https://analyticsindiamag.com/guide-to-synthetic-data-vault-an-ecosystem-of-synthetic-data-generation-libraries/ https://github.com/sdv-dev/SDV
     
     Create Your own Image Dataset using Opencv https://www.analyticsvidhya.com/blog/2021/05/create-your-own-image-dataset-using-opencv-in-machine-learning/
@@ -3151,6 +3153,10 @@ determined to be unfair.
    165.black uncompromising Python code formatter https://github.com/psf/black
    
    166.Feature stores  https://www.kdnuggets.com/2021/05/feature-stores-how-avoid-feeling-every-day-is-groundhog-day.html https://neptune.ai/blog/feature-stores-components-of-a-data-science-factory-guide?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-stores-components-of-a-data-science-factory-guide
+  
+   167.Code and Notebook Versioning for ML Teams https://neptune.ai/blog/code-and-notebook-versioning-for-ml-teams-guide?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-code-and-notebook-versioning-for-ml-teams-guide
+
+   10 tools that can serve as a great alternative to the different parts of ClearML https://neptune.ai/blog/clear-ml-alternatives?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-clear-ml-alternatives
    
 ***Follow leaders in the field to update yourself in the field***
 
@@ -3413,6 +3419,10 @@ automated feature engineering  https://github.com/alteryx/featuretools  https://
 Featuretools https://www.featuretools.com/
 
 Automate your ML Pipelines with EvalML https://analyticsindiamag.com/automate-your-ml-pipelines-with-evalml/
+
+Aethos — A Data Science Library to Automate your Workflow https://towardsdatascience.com/aethos-a-data-science-library-to-automate-workflow-17cd76b073a4
+
+AutoAI — Automating the AI Workflow to Build & Deploy Machine Learning model  https://medium.com/geekculture/autoai-automating-the-ai-workflow-to-build-deploy-machine-learning-model-bb2b727cda28
 
 AutoML toolkit   https://github.com/microsoft/nni
 
