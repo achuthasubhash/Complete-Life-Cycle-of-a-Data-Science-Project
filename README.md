@@ -656,6 +656,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
 
+     Balancing data sets with Crucio ADASYN  https://medium.com/softplus-publication/balancing-data-sets-with-crucio-adasyn-79f04ff0779d
+
      LoRAS: A Better Oversampling Algorithm https://analyticsindiamag.com/hands-on-guide-to-loras-a-better-oversampling-algorithm/  https://github.com/narek-davtyan/LoRAS   
      
      https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
@@ -1993,7 +1995,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     MODEL DEPLOYMENT USING TF SERVING
     
-    Dockerize  https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html
+    Dockerize  https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html  https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1
     
     Model Serving https://neptune.ai/blog/ml-model-serving-best-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-ml-model-serving-best-tools
      
@@ -3521,6 +3523,8 @@ Swiftapply  – Automatically efficient pandas apply operations https://www.kd
 Dask CUDA
 
 Numba https://github.com/numba/numba https://www.youtube.com/watch?v=3O-Pvnrbsu0  https://www.analyticsvidhya.com/blog/2021/04/numba-for-data-science-make-your-py-code-run-1000x-faster/
+
+Arrow https://towardsdatascience.com/how-fast-is-reading-parquet-file-with-arrow-vs-csv-with-pandas-2f8095722e94
 
 Cython,Numba,PyPy
 
