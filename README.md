@@ -1707,6 +1707,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/  https://github.com/AutoViML/Auto_TS
       
+      pytsal  low-code open-source python framework for Time Series analysis,visualization,forecasting along with AutoTS  https://github.com/KrishnanSG/pytsal
+      
       Automated Time Series Forecasting https://github.com/winedarksea/AutoTS
       
       Forecasting with H2O AutoML https://github.com/business-science/modeltime.h2o/
@@ -2073,7 +2075,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     FastAPI + Uvicorn https://www.kdnuggets.com/2021/04/deploy-machine-learning-models-to-web.html
     
-    PyWebIO Write Interactive Web App in Script Way Using Python https://www.youtube.com/watch?v=vp1ZNapAy6Y  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e
+    PyWebIO Write Interactive Web App in Script Way Using Python https://www.youtube.com/watch?v=vp1ZNapAy6Y  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e  https://github.com/tirthajyoti/PyWebIO
     
     Katana https://github.com/shaz13/katana https://katana-demo.herokuapp.com/redoc  https://katana-demo.herokuapp.com/docs
     
