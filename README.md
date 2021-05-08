@@ -807,7 +807,9 @@ anderson teset  use for check any  distribution
 
 ***3.Exploratory Data Analysis(eda)***
   
-    Explore the dataset by using  python or microsoft excel or tableau or powerbi, etc...
+    Explore the dataset by using  python or microsoft excel or tableau or powerbi,atoti, etc...
+    
+    atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo
     
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
     
@@ -1193,7 +1195,7 @@ anderson teset  use for check any  distribution
    
    2.Convolutional neural network ( use for image data)
 
-      mediapipe https://google.github.io/mediapipe/
+      mediapipe https://google.github.io/mediapipe/ 
    
      1.Classification of image
      
