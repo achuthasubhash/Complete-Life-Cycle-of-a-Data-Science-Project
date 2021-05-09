@@ -246,6 +246,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     labeller https://www.labellerr.com/
     
+    prodigy Radically efficient machine teaching An annotation tool powered by active learning  https://prodi.gy/
+    
     Labelbox-https://labelbox.com/
     
     Playment-https://playment.io/
@@ -1420,7 +1422,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      indicnlp https://indicnlp.ai4bharat.org/samanantar/
      
-     Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7 https://amitness.com/2020/05/data-augmentation-for-nlp/
+     Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7 https://amitness.com/2020/05/data-augmentation-for-nlp/ https://github.com/makcedward/nlpaug
      
      Tagalog is our state-of-the-art solution for data management and labeling in Natural Language Processing https://www.tagalog.ai/tagalog/
      
