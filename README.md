@@ -235,6 +235,8 @@ World’s Largest Data Platform https://worlddata.ai/
     21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
     22) https://neptune.ai/blog/annotation-tool-comparison-deep-learning-data-annotation?utm_source=linkedin&utm_medium=post&utm_campaign=blog-annotation-tool-comparison-deep-learning-data-annotation
+
+    https://foobar167.medium.com/open-source-free-software-for-image-segmentation-and-labeling-4b0332049878
     
     ***Label Assist: Model Assisted Pre-Annotation for Computer Vision https://blog.roboflow.com/announcing-label-assist/ https://www.youtube.com/watch?v=919CihTlkZw&feature=youtu.be***
     
@@ -1215,7 +1217,7 @@ anderson teset  use for check any  distribution
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,YoloV5,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net)
+       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net)
        
        MMDetection https://analyticsindiamag.com/guide-to-mmdetection-an-object-detection-python-toolbox/
        
@@ -1554,6 +1556,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         SpeechBrain A PyTorch Powered Speech Toolkit https://speechbrain.github.io/  https://github.com/speechbrain/speechbrain
         
         Wav2Vec2 https://huggingface.co/transformers/model_doc/wav2vec2.html https://www.youtube.com/watch?v=dJAoK5zK36M&feature=youtu.be
+        
+        SincNet is a neural architecture for efficiently processing raw audio samples https://github.com/mravanelli/SincNet
         
         HuggingFace Transformers ASR  https://github.com/dennisbakhuis/Ecare_Brunch_ASR
         
