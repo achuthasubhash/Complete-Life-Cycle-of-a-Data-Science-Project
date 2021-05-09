@@ -1179,7 +1179,7 @@ anderson teset  use for check any  distribution
    Semi-Supervised Learning-small amount of labeled data with a large amount of unlabeled data during training
    
    
-   E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data)
+   E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data) https://www.kdnuggets.com/2019/11/designing-neural-networks.html
    
    Model Zoo Discover open source deep learning code and pretrained models https://modelzoo.co/
    
