@@ -603,6 +603,8 @@ World’s Largest Data Platform https://worlddata.ai/
    feast Feature Store for Machine Learning https://github.com/feast-dev/feast https://www.youtube.com/watch?v=ZeJdr0nZ9PA
    
    Automated Feature Selection: Featurewiz
+   
+   Feature Engineering of DateTime Variables for Data Science, Machine Learning https://www.kdnuggets.com/2021/04/feature-engineering-datetime-variables-data-science-machine-learning.html
      
    Remove duplicate data in dataset
 
@@ -2007,6 +2009,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Deploy a Machine Learning Model for Free https://www.freecodecamp.org/news/deploy-your-machine-learning-models-for-free/
     
+    mlpack is a fast, flexible machine learning library suitable for both data science prototyping and deployment https://numfocus.org/project/mlpack  https://github.com/mlpack/mlpack
+    
     MODEL DEPLOYMENT USING TF SERVING
     
     Dockerize  https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html  https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1
@@ -2127,6 +2131,8 @@ six different types of methods:
 9) 3LC https://research.google/pubs/pub47962/
 
 ibm new tool https://www.zdnet.com/article/ibms-new-tool-lets-developers-add-quantum-computing-power-to-machine-learning/
+
+qiskit-machine-learning https://github.com/Qiskit/qiskit-machine-learning https://qiskit.org/documentation/machine-learning/stubs/qiskit_machine_learning.neural_networks.SamplingNeuralNetwork.html
 
 https://rachitsingh.com/deep-learning-model-compression/#quantization
 
