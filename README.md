@@ -370,6 +370,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     43. coco dataset-https://cocodataset.org/#home
 
+    flickr-downloader https://github.com/renatoviolin/flickr-downloader/
+
     Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
     
     Unity Launches Synthetic Image Datasets https://www.marktechpost.com/2021/04/23/unity-launches-synthetic-image-datasets-to-train-ai-and-computer-vision-models-faster/
@@ -2104,6 +2106,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 ***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite  https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android-beta/#0  https://tfhub.dev/s?deployment-format=lite  https://www.tensorflow.org/lite/examples https://www.tensorflow.org/lite/microcontrollers
 https://www.tensorflow.org/lite/models
 
+TF Micro and SensiML https://blog.tensorflow.org/2021/05/building-tinyml-application-with-tf-micro-and-sensiml.html
+
 six different types of methods:
 1) Pruning
 2) Quantization
@@ -2518,7 +2522,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    60.reinforcement learning by using  PyTorch-https://github.com/SforAiDl/genrl
    
-   61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson  etc...
+   61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson,Parrot  etc...
    
    https://github.com/fendouai/Awesome-Chatbot  https://medium.com/nerd-for-tech/make-money-building-a-fast-powerful-chatbot-in-10-minutes-using-nltk-91038e15ab17
    
