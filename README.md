@@ -827,7 +827,7 @@ anderson teset  use for check any  distribution
     
     Interactive plots directly with pandas https://towardsdatascience.com/get-interactive-plots-directly-with-pandas-13a311ebf426
     
-    Top 10 Data Visualization Tools https://www.analyticsvidhya.com/blog/2021/04/top-10-data-visualization-tools/
+    Top 10 Data Visualization Tools https://www.analyticsvidhya.com/blog/2021/04/top-10-data-visualization-tools/  https://www.xenonstack.com/blog/data-visualization-tools/
     
     https://www.analyticsvidhya.com/blog/2021/03/when-to-use-what-plot-a-beginners-guide-to-select-plots-for-visualization/
     
@@ -2302,7 +2302,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://towardsdatascience.com/data-science-tools-f16ecd91c95d        https://mathdatasimplified.com/  https://github.com/neomatrix369/awesome-ai-ml-dl
    
-   https://amitness.com/
+   https://amitness.com/   https://postsyoumighthavemissed.com/search/
  
    1.paperswithcode-https://paperswithcode.com/methods  https://www.paperswithcode.com/datasets   
    
