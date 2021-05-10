@@ -2338,6 +2338,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    lightning-flash  https://github.com/PyTorchLightning/lightning-flash  https://pytorch-lightning.medium.com/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
    
+   torchflare https://github.com/Atharva-Phatak/torchflare
+   
    Lightning Bolts collection of well established, SOTA models and components  https://github.com/PyTorchLightning/lightning-bolts
    
    Sharded: A New Technique To Double The Size Of PyTorch Models https://towardsdatascience.com/sharded-a-new-technique-to-double-the-size-of-pytorch-models-3af057466dba
