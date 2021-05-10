@@ -1799,6 +1799,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    10 Self-Supervised Learning Frameworks & Libraries To Use In 2021 analyticsindiamag.com/10-self-supervised-learning-frameworks-libraries-to-use-in-2021/
    
+   Self-Supervised Learning https://github.com/jason718/awesome-self-supervised-learning
+   
    8 Resources To Learn Self-Supervised Learning In 2021 https://analyticsindiamag.com/top-8-resources-to-learn-self-supervised-learning-in-2021/
    
    Barlow Twins: Self-Supervised Learning via Redundancy Reduction  https://analyticsindiamag.com/a-guide-to-barlow-twins-self-supervised-learning-via-redundancy-reduction/ https://github.com/facebookresearch/barlowtwins
@@ -3216,7 +3218,9 @@ determined to be unfair.
 
     https://www.analyticsvidhya.com/blog/2021/01/avid-user-of-google-colab-here-are-some-alternatives-of-google-colab-that-you-should-know-about/?utm_source=linkedin&utm_medium=social&utm_campaign=old-blog&utm_content=B&custom=FBI156
     
-    ColabCode This is an amazing extension to the already available resource, Google Colab  https://github.com/abhi1thakur/colabcode
+    https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8
+    
+    ColabCode This is an amazing extension to the already available resource, Google Colab  https://github.com/abhi1thakur/colabcode 
     
     GitHub notebooks with Google Colab https://www.youtube.com/watch?v=LmIylxNmA-A&feature=youtu.be  
     
