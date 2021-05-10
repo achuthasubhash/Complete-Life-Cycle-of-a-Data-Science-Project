@@ -1207,7 +1207,7 @@ anderson teset  use for check any  distribution
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
      
@@ -1217,7 +1217,7 @@ anderson teset  use for check any  distribution
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,YoloV5,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net)
+       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO
        
        MMDetection https://analyticsindiamag.com/guide-to-mmdetection-an-object-detection-python-toolbox/
        
@@ -1334,7 +1334,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      AutoML  https://github.com/dataloop-ai/AutoML
      
-     Object Detection with 10 lines of code-https://www.datasciencecentral.com/profiles/blogs/object-detection-with-10-lines-of-code
+     Object Detection with 10 lines of code-https://www.datasciencecentral.com/profiles/blogs/object-detection-with-10-lines-of-code  https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
      
      OneNet-https://analyticsindiamag.com/onenet/
      
@@ -2026,6 +2026,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx  https://theaisummer.com/tfx/?utm_content=163294295&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42461735
     
     torchblaze https://github.com/MLH-Fellowship/torchblaze https://mlh-fellowship.github.io/torchblaze/
+    
+    ML Aide Manage Machine Learning Lifecycle  https://mlaide.com/home https://medium.com/ml-aide/manage-machine-learning-lifecycle-with-ml-aide-dfe7710cbe53
     
     Models visualization using Tensorboard,netron, TensorBoard.dev
 
