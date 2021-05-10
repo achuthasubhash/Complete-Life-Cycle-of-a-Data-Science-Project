@@ -580,6 +580,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Automated feature engineering https://medium.com/ibm-data-ai/automated-feature-engineering-for-relational-data-with-autoai-3612fafe9f89
    
+   Automatic Feature Engineering Using AutoFeat https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/
+   
    Categorical Encoding https://github.com/scikit-learn-contrib/category_encoders
 
    Streamlining Feature Engineering Pipelines with Feature-engine https://towardsdatascience.com/streamlining-feature-engineering-pipelines-with-feature-engine-e781d551f470 https://feature-engine.readthedocs.io/en/latest/#
@@ -1871,7 +1873,11 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Hyperopt hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
     
+    HpBandSter https://github.com/automl/HpBandSter
+    
     hypopt  https://github.com/cgnorthcutt/hypopt https://medium.com/mlearning-ai/automatic-hyperparameter-optimization-6a1692c2ebee
+    
+    HiPlot https://analyticsindiamag.com/this-new-tool-helps-developers-in-effective-hyperparameter-tuning/
     
     OCTIS https://github.com/mind-lab/octis
     
