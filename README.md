@@ -1195,6 +1195,8 @@ anderson teset  use for check any  distribution
    
    scikit-neuralnetwork https://towardsdatascience.com/the-simplest-way-to-train-a-neural-network-in-python-17613fa97958
    
+   NVIDIA’s Kaolin: A 3D Deep Learning Library https://analyticsindiamag.com/nvidias-kaolin-3d-deep-learning-library/ https://github.com/NVIDIAGameWorks/kaolin
+   
    1.Multilayer perceptron(MLP)
    
      1.Regression task
