@@ -2053,6 +2053,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     customize the themes of your Streamlit web apps https://www.youtube.com/watch?v=3xJYP_C4KNE https://github.com/khuyentran1401/Data-science/tree/master/applications/pywebio_examples
     
+    colab_everything Python library to run streamlit, flask, fastapi, etc on google colab  https://github.com/Ankur-singh/colab_everything/
+    
     dash https://github.com/plotly/dash
     
     panel-highcharts https://awesome-panel.org/  https://github.com/marcskovmadsen/panel-highcharts https://github.com/holoviz/panel https://github.com/holoviz/panel
@@ -3209,6 +3211,8 @@ determined to be unfair.
     ColabCode This is an amazing extension to the already available resource, Google Colab  https://github.com/abhi1thakur/colabcode
     
     GitHub notebooks with Google Colab https://www.youtube.com/watch?v=LmIylxNmA-A&feature=youtu.be  
+    
+    colab_everything Python library to run streamlit, flask, fastapi, etc on google colab  https://github.com/Ankur-singh/colab_everything/
     
     2.Kaggle kernel(read terms and conditions before use) (FREE)
     
