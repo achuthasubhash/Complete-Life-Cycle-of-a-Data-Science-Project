@@ -1426,6 +1426,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Nltk,spacy,genism,textblob,inltk,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp,VnCoreNLP,fasttext,Langid,PyCLD3,Guesslang  libraries
      
+     jiant is an NLP toolkit https://github.com/nyu-mll/jiant
+     
      clean-text  https://github.com/jfilter/clean-text https://www.youtube.com/watch?v=i2TjAgga1YU
      
      indicnlp https://indicnlp.ai4bharat.org/samanantar/
@@ -1822,6 +1824,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks" https://github.com/cbfinn/maml
    
    I.Transfer learning(Inductive Transfer learning(similar domain,different task),Unsupervised Transfer Learning(different task,different domain but similar enough) ,Transductive Transfer Learning(similar task,different domain))
+   
+   Transfer Learning Using TensorFlow Keras https://analyticsindiamag.com/transfer-learning-using-tensorflow-keras/
    
    https://github.com/artix41/awesome-transfer-learning
    
