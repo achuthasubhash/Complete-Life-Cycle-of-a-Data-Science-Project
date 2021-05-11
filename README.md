@@ -723,6 +723,8 @@ World’s Largest Data Platform https://worlddata.ai/
      14.Rare label encoding
      
      15.Leave-one-out(Loo) encoding
+    
+     16.hash encoding
 
      Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding
      
