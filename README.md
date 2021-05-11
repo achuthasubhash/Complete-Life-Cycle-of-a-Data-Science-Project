@@ -789,7 +789,7 @@ anderson teset  use for check any  distribution
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning)
       
-      PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/
+      PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/ 
       
       if outiler present then use robust scaling
       
@@ -3530,6 +3530,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    
    Dashboard in Less Than 10 Lines of Code  https://towardsdatascience.com/build-dashboards-in-less-than-10-lines-of-code-835e9abeae4b
    
+   Plotly Express Interprete data through interactive visualization https://pub.towardsai.net/matplotlib-is-dead-long-life-to-plotly-express-e1671dce0d18
+   
    Rich terminal dashboards https://www.willmcgugan.com/blog/tech/post/building-rich-terminal-dashboards/
    
    Explainable AI dashboards https://github.com/oegedijk/explainerdashboard  https://www.youtube.com/watch?v=ZgypAMRcmw8
@@ -3636,7 +3638,7 @@ Python Tricks for Keeping Track of Your Data  https://towardsdatascience.com/pyt
 
 27.numexpr (incerease speed of execution of numpy)  https://github.com/pydata/numexpr
 
-pypolars instead of  pandas (beating-pandas-performance)  https://www.youtube.com/watch?v=1-O_KnLZEso
+pypolars instead of  pandas (beating-pandas-performance)  https://www.youtube.com/watch?v=1-O_KnLZEso https://towardsdatascience.com/3x-times-faster-pandas-with-pypolars-7550e605805e
 
 50X speed up your Pandas apply function https://github.com/jmcarpenter2/swifter
 
