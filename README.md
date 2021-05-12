@@ -124,6 +124,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html
      
+     https://www.octoparse.com/ https://github.com/tirthajyoti/pydbgen https://www.mozenda.com/ https://www.mockaroo.com/ https://lionbridge.ai/ https://www.mturk.com/ https://appen.com/
+     
 b.Web Crawling
 
   https://python.libhunt.com/scrapy-alternatives
@@ -147,6 +149,8 @@ Cloud AI Data labeling service  https://cloud.google.com/ai-platform/data-labeli
 e.Online resources -   ultimate resource  https://datasetsearch.research.google.com/  https://medium.com/swlh/where-to-find-awesome-machine-learning-datasets-6bb909a3f350
 
 10 BEST DATA COLLECTION TOOLS FOR EFFECTIVE RESULTS https://www.analyticsinsight.net/10-best-data-collection-tools-for-effective-results/
+
+https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/ https://research.google/tools/datasets/
 
 Machine learning datasets  https://www.datasetlist.com/
 
@@ -1843,7 +1847,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
 
   TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,GELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Softmax,Swish,Softplus
   
-  Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief,MADGRAD
+  Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief,MADGRAD,Nero
   
   https://analyticsindiamag.com/ultimate-guide-to-pytorch-optimizers/    https://analyticsindiamag.com/guide-to-tensorflow-keras-optimizers/
   
