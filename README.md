@@ -2999,6 +2999,8 @@ determined to be unfair.
    
    MLflow vs Kubeflow vs Neptune  https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlflow-vs-kubeflow-vs-neptune-differences
    
+   mlflow https://towardsdatascience.com/get-started-with-mlops-fd7062cab018
+   
    MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
 
    https://www.kdnuggets.com/2021/03/overview-mlops.html https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281
