@@ -1214,6 +1214,10 @@ anderson teset  use for check any  distribution
    2.Convolutional neural network ( use for image data)
 
       mediapipe https://google.github.io/mediapipe/ 
+      
+      glasses High-quality Neural Networks for Computer Vision  https://github.com/FrancescoSaverioZuppichini/glasses
+      
+      IceVision https://airctic.com/0.8.0/
    
      1.Classification of image
      
