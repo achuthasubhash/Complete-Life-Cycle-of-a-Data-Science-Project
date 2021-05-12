@@ -1436,7 +1436,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      indicnlp https://indicnlp.ai4bharat.org/samanantar/
      
-     Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7 https://amitness.com/2020/05/data-augmentation-for-nlp/ https://github.com/makcedward/nlpaug
+     Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7 https://amitness.com/2020/05/data-augmentation-for-nlp/ https://github.com/makcedward/nlpaug https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28
      
      Tagalog is our state-of-the-art solution for data management and labeling in Natural Language Processing https://www.tagalog.ai/tagalog/
      
@@ -2199,6 +2199,8 @@ Qiskit Machine Learning  https://github.com/Qiskit/qiskit-machine-learning
 Quantum Machine Learning
 
 Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/docs/tutorials/03_quantum_kernel.ipynb
+
+IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Quantum,Rigetti’s Forest,Xanadu’s Pennylane
 
 ***8.Mointoring model***
 
