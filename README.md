@@ -1901,6 +1901,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Vizier
     
+    NatureInspiredSearchCV https://github.com/timzatko/Sklearn-Nature-Inspired-Algorithms
+    
     d.Sequential Model Based Optimization(Tuning a scikit-learn estimator with skopt)
 
     e.Optuna  https://analyticsindiamag.com/hands-on-python-guide-to-optuna-a-new-hyperparameter-optimization-tool/
