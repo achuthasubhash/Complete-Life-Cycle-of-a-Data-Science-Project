@@ -252,6 +252,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     labelimage:- https://github.com/wkentaro/labelme  ,  https://github.com/tzutalin/labelImg 
     
+    labelCloud  lightweight tool for labeling 3D bounding boxes in point clouds https://github.com/ch-sa/labelCloud
+    
     labeller https://www.labellerr.com/
     
     prodigy Radically efficient machine teaching An annotation tool powered by active learning  https://prodi.gy/
