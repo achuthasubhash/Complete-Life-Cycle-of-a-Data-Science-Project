@@ -56,6 +56,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
 
     Scrap Images From E-Commerce Website Using AutoScraper https://www.analyticsvidhya.com/blog/2021/05/scrap-images-from-e-commerce-website-using-autoscraper-library/
     
+    FiftyOne Now easier to download and evaluate  https://towardsdatascience.com/googles-open-images-now-easier-to-download-and-evaluate-with-fiftyone-615ce0482c02
+    
     webbot https://pypi.org/project/webbot/
     
     gazpacho https://github.com/maxhumber/gazpacho
@@ -3193,6 +3195,8 @@ determined to be unfair.
    153.Multimodal Neurons, The Most Advanced Neural Networks Discovered By OpenAI https://analyticsindiamag.com/inside-multimodal-neurons-the-most-advanced-neural-networks-discovered-by-openai/
    
    154.TensorGram https://github.com/ksdkamesh99/TensorGram https://www.youtube.com/watch?v=ItDBQB4YFuI
+
+       knockknock https://towardsdatascience.com/how-to-get-notified-when-your-model-is-done-training-with-knockknock-483a0475f82c
   
    155.r packages https://upurl.me/vkf3r  http://r-bloggers.com/2021/04/15-essential-packages-in-r-for-data-science/  https://www.ubuntupit.com/best-r-machine-learning-packages/
    
