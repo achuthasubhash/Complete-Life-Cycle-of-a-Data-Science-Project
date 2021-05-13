@@ -2059,6 +2059,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Dockerize  https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html  https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1
     
+    LyftLearn: ML Model Training Infrastructure built on Kubernetes https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb
+    
     Model Serving https://neptune.ai/blog/ml-model-serving-best-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-ml-model-serving-best-tools
      
     TensorFlow Extended (TFX) is an end-to-end platform for deploying production ML pipelines https://www.tensorflow.org/tfx  https://theaisummer.com/tfx/?utm_content=163294295&utm_medium=social&utm_source=linkedin&hss_channel=lcp-42461735
