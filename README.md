@@ -3208,6 +3208,8 @@ determined to be unfair.
 
    analyticsvidhya.com/blog/2021/04/top-10-r-packages-for-data-science-you-must-know-in-2021/
    
+   156.Top Julia Libraries for Machine Learning https://www.analyticsvidhya.com/blog/2021/05/top-julia-machine-learning-libraries/
+   
    156.openblender Fuel your ML Engines with Relevant Data to Boost Performance   https://openblender.io/#/welcome
 
    157.all Domain-based A.I. Platform for Data Scientists  https://www.cluzters.ai/
