@@ -1107,6 +1107,8 @@ anderson teset  use for check any  distribution
    C.Ensemble methods
    
      1.Stacking models https://www.analyticsvidhya.com/blog/2021/03/advanced-ensemble-learning-technique-stacking-and-its-variants/?
+
+       vecstack https://github.com/vecxoz/vecstack
    
      2.Bagging models
    
