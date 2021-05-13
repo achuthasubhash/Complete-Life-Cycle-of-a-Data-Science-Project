@@ -1719,6 +1719,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       pyflux: time series library: https://github.com/RJT1990/pyflux
       
+      LinkedIn open-sources Greykite, a library for time series forecasting  https://github.com/linkedin/greykite/stargazers
+      
       stumpy https://github.com/TDAmeritrade/stumpy
       
       Giotto-Time Time-Series Forecasting Python Library https://github.com/giotto-ai/giotto-time https://analyticsindiamag.com/guide-to-giotto-time-a-time-series-forecasting-python-library/
