@@ -2238,6 +2238,8 @@ IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Qua
    
    https://github.com/amitness/papers-with-video
    
+   Datasets on arXiv https://medium.com/paperswithcode/datasets-on-arxiv-1a5a8f7bd104
+   
    papertalk https://papertalk.org/index
    
    connected papers https://www.connectedpapers.com/
