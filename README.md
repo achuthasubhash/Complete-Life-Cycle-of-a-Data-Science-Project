@@ -1925,7 +1925,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
     f.Genetic Algorithms
     
-    g.Keras tuner
+    g.Keras tuner (Random Search Keras Tuner,HyperBand Keras Tuner,Bayesian Optimization Keras Tuner ) https://sukanyabag.medium.com/automated-hyperparameter-tuning-with-keras-tuner-and-tensorflow-2-0-31ec83f08a62
     
     h.Scikit-Optimize
     
