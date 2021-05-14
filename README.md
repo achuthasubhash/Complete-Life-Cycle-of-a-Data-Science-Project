@@ -1213,6 +1213,8 @@ anderson teset  use for check any  distribution
    
    https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464  https://docs.deepstack.cc/getting-started/index.html
    
+   fastest way to build, debug, and interpret neural networks https://www.perceptilabs.com/
+   
    Binarized Neural Network memory size is reduced, and bitwise operations improve the power efficiency https://neptune.ai/blog/binarized-neural-network-bnn-and-its-implementation-in-ml
    
    scikit-neuralnetwork https://towardsdatascience.com/the-simplest-way-to-train-a-neural-network-in-python-17613fa97958
