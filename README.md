@@ -2610,7 +2610,9 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    Ludwig https://github.com/ludwig-ai/ludwig 
    
-   WEKA - https://www.cs.waikato.ac.nz/ml/weka/
+   WEKA - https://www.cs.waikato.ac.nz/ml/weka/  autoweka
+   
+   Create ML https://developer.apple.com/documentation/createml
    
    Monk_Gui-https://github.com/Tessellate-Imaging/Monk_Gui
    
