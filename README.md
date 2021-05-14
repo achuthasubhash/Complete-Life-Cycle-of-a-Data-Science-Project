@@ -500,6 +500,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     https://www.kdnuggets.com/2019/09/scikit-learn-synthetic-dataset.html
     
+    Fully Synthetic Data,Partially Synthetic Data ,Hybrid Synthetic Data https://towardsdatascience.com/synthetic-data-key-benefits-types-generation-methods-and-challenges-11b0ad304b55
+    
     Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
     
     Synthetic Data Generation Using Gaussian Mixture Model https://deepnote.com/@chanakya-vivek-kapoor/Synthetic-Data-Generation-QaaTRs73T2iCb0amHFbwpQ
