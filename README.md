@@ -602,6 +602,8 @@ World’s Largest Data Platform https://worlddata.ai/
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
    
+   data leaning library https://www.analyticsvidhya.com/blog/2021/05/data-cleaning-libraries-in-python-a-gentle-introduction/
+   
    https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
    
    Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
