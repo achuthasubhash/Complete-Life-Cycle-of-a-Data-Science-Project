@@ -1729,6 +1729,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       pyflux: time series library: https://github.com/RJT1990/pyflux
       
+      greykite A flexible, intuitive and fast forecasting library https://github.com/linkedin/greykite
+      
       LinkedIn open-sources Greykite, a library for time series forecasting  https://github.com/linkedin/greykite/stargazers
       
       stumpy https://github.com/TDAmeritrade/stumpy
@@ -2143,7 +2145,9 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     fastapi https://towardsdatascience.com/deploying-ml-models-in-production-with-fastapi-and-celery-7063e539a5db
     
-    FastAPI + Uvicorn https://www.kdnuggets.com/2021/04/deploy-machine-learning-models-to-web.html
+    FastAPI + Uvicorn https://www.kdnuggets.com/2021/04/deploy-machine-learning-models-to-web.html  
+    
+    FastAPI based template https://github.com/99sbr/fastapi-template
     
     PyWebIO Write Interactive Web App in Script Way Using Python https://www.youtube.com/watch?v=vp1ZNapAy6Y  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e  https://github.com/tirthajyoti/PyWebIO
     
