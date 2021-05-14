@@ -156,7 +156,7 @@ https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-d
 
 Machine learning datasets  https://www.datasetlist.com/
 
-https://guides.library.cmu.edu/az.php https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets https://registry.opendata.aws/ https://paperswithcode.com/datasets https://datasets.quantumstat.com/ 
+https://guides.library.cmu.edu/az.php https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets https://registry.opendata.aws/ https://paperswithcode.com/datasets https://datasets.quantumstat.com/  https://www.quandl.com/ http://dataportals.org/ https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public  https://www.reddit.com/r/datasets/
 
 World’s Largest Data Platform https://worlddata.ai/  
 
