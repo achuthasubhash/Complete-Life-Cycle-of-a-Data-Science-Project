@@ -162,7 +162,7 @@ World’s Largest Data Platform https://worlddata.ai/
 
     https://sebastianraschka.com/blog/2021/ml-dl-datasets.html  https://enoumen.com/2021/04/23/data-sciences-datasets-data-visualization-data-analytics-big-data-data-lakes/
     
-    https://serokell.io/blog/best-machine-learning-datasets https://medium.com/@ODSC/25-excellent-machine-learning-open-datasets-940ca2124dfc 
+    https://serokell.io/blog/best-machine-learning-datasets https://medium.com/@ODSC/25-excellent-machine-learning-open-datasets-940ca2124dfc  
 
     1)kaggle-https://www.kaggle.com/datasets , 𝚙𝚒𝚙 𝚒𝚗𝚜𝚝𝚊𝚕𝚕 𝚔𝚊𝚐𝚐𝚕𝚎𝚍𝚊𝚝𝚊𝚜𝚎𝚝𝚜
     
