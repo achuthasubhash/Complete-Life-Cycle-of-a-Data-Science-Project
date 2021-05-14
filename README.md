@@ -80,6 +80,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       Scrape Wikipedia  wikipedia https://www.thepythoncode.com/article/access-wikipedia-python
       
+      patang - Scrape Product details from eCommerce Sites with Puppeteer and DOM String  https://www.youtube.com/watch?v=3sgxRmyOuXs
+      
       Download Wikipedia https://www.wikidata.org/wiki/Wikidata:Main_Page https://www.youtube.com/watch?v=hC1rY4lRY0s https://towardsdatascience.com/an-efficient-way-to-read-data-from-the-web-directly-into-python-a526a0b4f4cb
       
       Web Scraping to Create a CSV File  https://thecleverprogrammer.com/2020/08/08/web-scraping-to-create-csv/
@@ -156,7 +158,7 @@ https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-d
 
 Machine learning datasets  https://www.datasetlist.com/
 
-https://guides.library.cmu.edu/az.php https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets https://registry.opendata.aws/ https://paperswithcode.com/datasets https://datasets.quantumstat.com/  https://www.quandl.com/ http://dataportals.org/ https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public  https://www.reddit.com/r/datasets/
+https://guides.library.cmu.edu/az.php https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets https://registry.opendata.aws/ https://paperswithcode.com/datasets https://datasets.quantumstat.com/  https://www.quandl.com/ http://dataportals.org/ https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public  https://www.reddit.com/r/datasets/  https://ourworldindata.org/ https://data.worldbank.org/ https://data.world/
 
 World’s Largest Data Platform https://worlddata.ai/  
 
@@ -2086,6 +2088,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     Netlify  https://www.analyticsvidhya.com/blog/2021/04/easily-deploy-your-machine-learning-model-into-a-web-app-netlify/
     
     streamlit https://www.kdnuggets.com/2019/10/write-web-apps-using-simple-python-data-scientists.html  https://www.youtube.com/watch?v=iUgNIFrVejc   https://blog.streamlit.io/introducing-theming/
+    
+    Streamlit Flask App from Colab using remoteit and ngrok https://www.youtube.com/watch?v=O2enoygZwl4
     
     https://github.com/jrieke/best-of-streamlit
     
