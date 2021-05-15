@@ -246,6 +246,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
     22) https://neptune.ai/blog/annotation-tool-comparison-deep-learning-data-annotation?utm_source=linkedin&utm_medium=post&utm_campaign=blog-annotation-tool-comparison-deep-learning-data-annotation
 
+    Diffgram,Label Studio ,CVAT,SuperAnnotate,Datasaur https://anthony-sarkis.medium.com/the-5-best-ai-data-annotation-platforms-for-machine-learning-2021-ec17c15142f3
+
     https://foobar167.medium.com/open-source-free-software-for-image-segmentation-and-labeling-4b0332049878
     
     ***Label Assist: Model Assisted Pre-Annotation for Computer Vision https://blog.roboflow.com/announcing-label-assist/ https://www.youtube.com/watch?v=919CihTlkZw&feature=youtu.be***
@@ -1047,6 +1049,8 @@ anderson teset  use for check any  distribution
      2.Clustering :https://scikit-learn.org/stable/modules/clustering.html  https://machinelearningmastery.com/clustering-algorithms-with-python/
 
      https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
+     
+     RFM Segmentation in E-Commerce https://towardsdatascience.com/rfm-segmentation-in-e-commerce-e0209ce8fcf6
      
      kmodes https://www.youtube.com/watch?v=8eATPLDJ0NQ
      
