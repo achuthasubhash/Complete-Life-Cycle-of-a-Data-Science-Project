@@ -1591,6 +1591,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         Acoustic model,Speaker diarisation,apis
         
+        Microsoft IceCAPS is an Open Source Framework for Conversational Modeling https://pub.towardsai.net/microsoft-icecaps-is-an-open-source-framework-for-conversational-modeling-4f78492ca685
+        
         assemblyai https://www.assemblyai.com/
         
         SpeechBrain A PyTorch Powered Speech Toolkit https://speechbrain.github.io/  https://github.com/speechbrain/speechbrain
@@ -1732,6 +1734,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       pyramid-arima https://github.com/tgsmith61591/pyramid
       
       pyflux: time series library: https://github.com/RJT1990/pyflux
+      
+      orbit https://eng.uber.com/orbit/ 
       
       greykite A flexible, intuitive and fast forecasting library https://github.com/linkedin/greykite
       
