@@ -3482,7 +3482,9 @@ GenoML (AutoML) for Genomics https://genoml.com/ https://github.com/GenoML
 
 baytune https://www.kdnuggets.com/2021/03/automating-machine-learning-model-optimization.html  https://github.com/MLBazaar/BTB
 
-4. AutoGluon  AutoML for Text, Image, and Tabular Data  https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
+adanet https://github.com/tensorflow/adanet
+
+4.AutoGluon  AutoML for Text, Image, and Tabular Data  https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
