@@ -823,9 +823,11 @@ anderson teset  use for check any  distribution
    
      clustering techniques to find it
      
-     Isolation Forest(for Big Data),dbscan
+     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders
      
      Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
+     
+     divided into three types:Point/Global Anomalies,Collective Anomalies,Contextual Anomalies https://towardsdatascience.com/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995
      
      https://github.com/zhuyiche/awesome-anomaly-detection
      
