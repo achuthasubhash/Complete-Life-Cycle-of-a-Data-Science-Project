@@ -1735,6 +1735,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       PyTorch Forecasting enables deep learning models for time-series forecasting
       
+      Transformer Networks to build a Forecasting model https://towardsdatascience.com/how-to-use-transformer-networks-to-build-a-forecasting-model-297f9270e630
+      
       hmmlearn https://github.com/ushareng/StockPricePredictionUsingHMM_Byte/blob/master/StockPricePredictionUsingHMM.ipynb
       
       pyramid-arima https://github.com/tgsmith61591/pyramid
