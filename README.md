@@ -144,6 +144,8 @@ d.Databases
 
   sql,sql lite,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase,oracle db
   
+  sql https://mode.com/sql-tutorial/  https://www.w3schools.com/sql/
+  
   sql in  python https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e
   
   PyMongo https://analyticsindiamag.com/guide-to-pymongo-a-python-wrapper-for-mongodb/
