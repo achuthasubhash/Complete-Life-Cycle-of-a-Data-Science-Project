@@ -674,6 +674,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      14.MICE Imputation
      
+     15.interpolation
+     
      Extrapolation and Interpolation
      
      Imputation using K-NN
