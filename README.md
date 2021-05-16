@@ -841,7 +841,7 @@ anderson teset  use for check any  distribution
 
 ***3.Exploratory Data Analysis(eda)***
   
-    Explore the dataset by using  python or microsoft excel or tableau or powerbi,atoti, etc...
+    Explore the dataset by using  python or microsoft Excel,Power BI,Tableau,SAS Business Intelligence and Analytics Tool,QlikView,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
     
     atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo
     
