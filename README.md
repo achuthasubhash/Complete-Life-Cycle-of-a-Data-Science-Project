@@ -1006,7 +1006,7 @@ anderson teset  use for check any  distribution
   
   Machine Learning Playground  https://ml-playground.com/
   
-  visual introduction to machine learning http://www.r2d3.us/visual-intro-to-machine-learning-part-1/
+  visual introduction to machine learning http://www.r2d3.us/visual-intro-to-machine-learning-part-1/  
   
   draw a dataset from inside jupyter https://pypi.org/project/drawdata/ https://www.youtube.com/watch?v=b0rsDPQ3bjg
   
@@ -1213,7 +1213,7 @@ anderson teset  use for check any  distribution
    Semi-Supervised Learning-small amount of labeled data with a large amount of unlabeled data during training
    
    
-   Machine Learning with Graphs http://web.stanford.edu/class/cs224w/
+   Machine Learning with Graphs http://web.stanford.edu/class/cs224w/  
    
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data) https://www.kdnuggets.com/2019/11/designing-neural-networks.html
@@ -3128,6 +3128,8 @@ determined to be unfair.
 
 
    118. Feature Stores https://neptune.ai/blog/feature-stores-components-of-a-data-science-factory-guide?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-stores-components-of-a-data-science-factory-guide
+ 
+   Top 10 Leading Machine Learning Feature Stores  https://www.pye.ai/2021/05/14/top-10-machine-learning-feature-store-systems/
 
    118.algorithm to use by problem https://www.datasciencecentral.com/profiles/blogs/which-machine-learning-deep-learning-algorithm-to-use-by-problem
    
@@ -3286,6 +3288,7 @@ determined to be unfair.
    167.Code and Notebook Versioning for ML Teams https://neptune.ai/blog/code-and-notebook-versioning-for-ml-teams-guide?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-code-and-notebook-versioning-for-ml-teams-guide
 
    10 tools that can serve as a great alternative to the different parts of ClearML https://neptune.ai/blog/clear-ml-alternatives?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-clear-ml-alternatives
+   
    
 ***Follow leaders in the field to update yourself in the field***
 
