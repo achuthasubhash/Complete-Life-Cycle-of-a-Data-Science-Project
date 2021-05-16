@@ -1225,6 +1225,8 @@ anderson teset  use for check any  distribution
    
    fastest way to build, debug, and interpret neural networks https://www.perceptilabs.com/
    
+   Nengo: A New Neural Network Building and Deployment Tool https://pub.towardsai.net/nengo-a-new-neural-network-building-and-deployment-tool-66677c65fa19
+   
    Binarized Neural Network memory size is reduced, and bitwise operations improve the power efficiency https://neptune.ai/blog/binarized-neural-network-bnn-and-its-implementation-in-ml
    
    scikit-neuralnetwork https://towardsdatascience.com/the-simplest-way-to-train-a-neural-network-in-python-17613fa97958
