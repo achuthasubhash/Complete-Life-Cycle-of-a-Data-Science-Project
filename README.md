@@ -1213,6 +1213,9 @@ anderson teset  use for check any  distribution
    Semi-Supervised Learning-small amount of labeled data with a large amount of unlabeled data during training
    
    
+   Machine Learning with Graphs http://web.stanford.edu/class/cs224w/
+   
+   
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data) https://www.kdnuggets.com/2019/11/designing-neural-networks.html
    
    Model Zoo Discover open source deep learning code and pretrained models https://modelzoo.co/
@@ -1575,6 +1578,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         Text-to-Image  https://www.datasciencecentral.com/profiles/blogs/summarizing-popular-text-to-image-synthesis-methods-with-python
         
         NLP: Pre-trained Sentiment Analysis https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c
+        
+        10 Popular Keyword Extraction Algorithms in Natural Language Processing https://prakhar-mishra.medium.com/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c
         
         https://medium.com/@jatinmandav3/opinion-mining-sometimes-known-as-sentiment-analysis-or-emotion-ai-refers-to-the-use-of-natural-874f369194c0#:~:text=fastText%20is%20a%20library%20for,pretrained%20models%20for%20294%20languages
      
