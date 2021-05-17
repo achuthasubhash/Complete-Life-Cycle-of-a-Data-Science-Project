@@ -1012,6 +1012,8 @@ anderson teset  use for check any  distribution
   
   Choose the Right Machine Learning Algorithm for Your Application  https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9
   
+  interactive tools https://github.com/Machine-Learning-Tokyo/Interactive_Tools
+  
   Machine Learning Playground  https://ml-playground.com/
   
   visual introduction to machine learning http://www.r2d3.us/visual-intro-to-machine-learning-part-1/  
