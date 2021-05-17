@@ -3489,7 +3489,7 @@ A machine learning tool for automated prediction engineering https://github.com/
 
 adanet https://github.com/tensorflow/adanet
 
-mljar-supervised  https://github.com/mljar/mljar-supervised/
+mljar-supervised  https://github.com/mljar/mljar-supervised/  https://www.kdnuggets.com/2021/05/binary-classification-automated-machine-learning.html
 
 ludwig  https://github.com/ludwig-ai/ludwig
 
