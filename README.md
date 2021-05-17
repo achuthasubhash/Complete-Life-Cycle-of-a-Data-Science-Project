@@ -598,6 +598,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Automated feature engineering https://medium.com/ibm-data-ai/automated-feature-engineering-for-relational-data-with-autoai-3612fafe9f89
    
+   Automatic Feature Engineering Using Featurewiz https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4
+   
    Automatic Feature Engineering Using AutoFeat https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/
    
    Categorical Encoding https://github.com/scikit-learn-contrib/category_encoders
