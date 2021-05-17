@@ -614,6 +614,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
    
+   Take the Pain Out of Data Cleaning for Machine Learning  https://towardsdatascience.com/take-the-pain-out-of-data-cleaning-for-machine-learning-20a646a277fd
+   
    dabl https://ms-bharti.medium.com/jump-start-your-supervised-learning-task-with-dabl-e479323e81fe
    
    Easy to use Python library of customized functions for cleaning and analyzing data  https://github.com/akanz1/klib
@@ -1007,6 +1009,8 @@ anderson teset  use for check any  distribution
 ***6.Model selection***
 
   Machine learning
+  
+  Choose the Right Machine Learning Algorithm for Your Application  https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9
   
   Machine Learning Playground  https://ml-playground.com/
   
@@ -1426,7 +1430,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
    
-     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN
+     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Wasserstein GAN(improve image generation)
      
      https://www.analyticsvidhya.com/blog/2021/05/progressive-growing-gan-progan/
      
@@ -3101,7 +3105,7 @@ determined to be unfair.
    
    116.Pytest for Data Scientists https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c
    
-   117.https://www.pye.ai/2021/03/19/machine-learning-model-management-what-why-and-how/
+   117.https://www.pye.ai/2021/03/19/machine-learning-model-management-what-why-and-how/  https://www.ambiata.com/blog/2020-12-07-mlops-tools/
    
    mlflow https://mlflow.org/docs/latest/index.html  https://github.com/amesar/mlflow-examples
    
