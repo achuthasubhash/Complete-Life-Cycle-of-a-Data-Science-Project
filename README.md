@@ -1331,6 +1331,8 @@ Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲�
      
      openpose wrnchai  densepose
      
+     Pose Estimation using OpenCV https://www.analyticsvidhya.com/blog/2021/05/pose-estimation-using-opencv/
+     
      https://medium.com/beyondminds/an-overview-of-human-pose-estimation-with-deep-learning-d49eb656739b
      
      3D POSE ESTIMATION
@@ -3080,6 +3082,8 @@ determined to be unfair.
    mlflow https://towardsdatascience.com/get-started-with-mlops-fd7062cab018
    
    MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
+   
+   Easy MLOps with PyCaret + MLflow https://www.kdnuggets.com/2021/05/easy-mlops-pycaret-mlflow.html
 
    https://www.kdnuggets.com/2021/03/overview-mlops.html https://medium.com/prosus-ai-tech-blog/towards-mlops-technical-capabilities-of-a-machine-learning-platform-61f504e3e281
    
