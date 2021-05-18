@@ -1064,7 +1064,11 @@ anderson teset  use for check any  distribution
    
      1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,plsr,pcr,autoencoders,kpca,lsa,Factor Analysis,
    
-     2.Clustering :https://scikit-learn.org/stable/modules/clustering.html  https://machinelearningmastery.com/clustering-algorithms-with-python/
+     2.Clustering : Centroid-based Model ,Density-based Model ,Distribution-based Model,Connectivity-based model
+     
+     https://www.mygreatlearning.com/blog/unsupervised-machine-learning/?highlight=unsupervised%20machine%20learning&utm_source=GLA&utm_medium=Blog&utm_campaign=1-16th%20May
+     
+     https://scikit-learn.org/stable/modules/clustering.html  https://machinelearningmastery.com/clustering-algorithms-with-python/
 
      https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
      
