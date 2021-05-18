@@ -915,11 +915,11 @@ anderson teset  use for check any  distribution
   
 ***4.Feature selection***  https://github.com/solegalli/feature-selection-for-machine-learning
 
-    1.Filter methods (correleation,chisquare  test,Ttest,anova test,mutal information,hypothesis test,information gain etc...)
+    1.Filter methods (correleation,chisquare  test,Ttest,vif,anova test,mutal information,hypothesis test,information gain etc...)
 
-    2.Wrapper methods (recursive feature eliminiation,boruta,forward selection,backwaed elimination,stepwise selection etc...)
+    2.Wrapper methods (recursive feature eliminiation,boruta,forward feature selection,backwaed feature elimination,exhaustic feature selection,stepwise selection etc...)
 
-    3.Embedded method (lasso,ridge regression,elasticnet,tree based etc...)
+    3.Embedded method (lasso regression,ridge regression,elasticnet regression,tree based etc...)
     
     DropConstantFeatures  DropDuplicateFeatures    DropCorrelatedFeatures  
     
