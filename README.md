@@ -610,6 +610,8 @@ World’s Largest Data Platform https://worlddata.ai/
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
    
+   openrefine A free, open source, powerful tool for working with messy data  https://openrefine.org/#
+   
    data leaning library https://www.analyticsvidhya.com/blog/2021/05/data-cleaning-libraries-in-python-a-gentle-introduction/
    
    https://machinelearningmastery.com/basic-data-cleaning-for-machine-learning/
