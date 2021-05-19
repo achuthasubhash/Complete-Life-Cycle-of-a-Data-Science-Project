@@ -2111,7 +2111,7 @@ https://towardsdatascience.com/deploy-machine-learning-app-built-using-streamlit
 
 simplest way to serve your ML models on Kubernetes  https://towardsdatascience.com/the-simplest-way-to-serve-your-ml-models-on-kubernetes-5323a380bf9f
 
-***7.deployment***
+***7.deployment***  https://github.com/piyushpathak03/Model-Deployment
 
     Platform as a Service (PaaS),Infrastructure as a Service (IaaS),SaaS (Software as a Service)
     
