@@ -634,6 +634,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
    
+   AutoFeat https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/   https://github.com/cod3licious/autofeat
+   
    feast Feature Store for Machine Learning https://github.com/feast-dev/feast https://www.youtube.com/watch?v=ZeJdr0nZ9PA
    
    Automated Feature Selection: Featurewiz
@@ -919,6 +921,8 @@ anderson teset  use for check any  distribution
   
 ***4.Feature selection***  https://github.com/solegalli/feature-selection-for-machine-learning
 
+    FeatureSelector https://github.com/WillKoehrsen/feature-selector
+
     1.Filter methods (correleation,chisquare  test,Ttest,vif,anova test,mutal information,hypothesis test,information gain etc...)
 
     2.Wrapper methods (recursive feature eliminiation,boruta,forward feature selection,backwaed feature elimination,exhaustic feature selection,stepwise selection etc...)
@@ -1046,7 +1050,7 @@ anderson teset  use for check any  distribution
        
        least square method,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,
        
-       elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines 
+       elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature)
        
        Locally Weighted Linear Regression https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf
        
@@ -3100,6 +3104,8 @@ determined to be unfair.
    Best Workflow and Pipeline Orchestration Tools https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-workflow-and-pipeline-orchestration-tools
    
    MLflow vs Kubeflow vs Neptune  https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlflow-vs-kubeflow-vs-neptune-differences
+   
+   15 Best Tools for Tracking Machine Learning Experiments https://neptune.ai/blog/best-ml-experiment-tracking-tools
    
    mlflow https://towardsdatascience.com/get-started-with-mlops-fd7062cab018
    
