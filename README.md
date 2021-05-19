@@ -1292,6 +1292,8 @@ anderson teset  use for check any  distribution
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,
 Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,
+
+      Getting Started With Object Detection Using TensorFlow https://analyticsindiamag.com/object-detection-using-tensorflow/
        
        MLP   MLP solution for Vision, from Google AI  https://github.com/lucidrains/mlp-mixer-pytorch
        
