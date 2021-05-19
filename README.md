@@ -655,12 +655,18 @@ World’s Largest Data Platform https://worlddata.ai/
      ii.missing at random (randomness in missing data, missing value have correlation by data) we can't delete because disturbance of data distribution
      
      iii.missing not at random  (there is reason for missing value and directly related to value)
+     
+     Univariate,Multivariate  https://medium.com/fintechexplained/what-are-imputers-in-data-science-b72f8308322b
    
      1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion
      
      2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode
      
      3.apply classifier algorithm to predict missing value
+     
+     Using Algorithms that support missing values
+     
+     Imputation using Deep Learning Library — Datawig  https://github.com/awslabs/datawig
      
      4.Iterative imputer,knn imputer, multivariate imputation
      
@@ -2992,6 +2998,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    interpret https://github.com/interpretml/interpret   mlxtend's  http://rasbt.github.io/mlxtend/
    
+   DiCE Generate Diverse Counterfactual Explanations for any machine learning model. https://github.com/interpretml/DiCE
+   
    tcav  https://github.com/tensorflow/tcav       yellowbrick  https://www.scikit-yb.org/en/latest/quickstart.html
    
    Language Interpretability Tool https://github.com/pair-code/lit https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html
@@ -3658,6 +3666,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    lux Python API for Intelligent Visual Data Discovery  https://github.com/lux-org/lux  https://analyticsindiamag.com/python-guide-to-lux-an-interactive-visual-discovery/
    
    Automatic EDA https://thecleverprogrammer.com/2021/02/06/automatic-eda-using-python/
+   
+   Automated Interactive Package for EDA, Modeling, and Hyperparameter Tuning in a few lines of Python Code https://towardsdatascience.com/automated-interactive-package-for-eda-modeling-and-hyperparameter-tuning-in-a-few-lines-of-228c561fa63c
    
    Arena https://github.com/ModelOriented/Arena
    
