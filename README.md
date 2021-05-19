@@ -1066,6 +1066,8 @@ anderson teset  use for check any  distribution
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
+        4 Useful techniques avoid overfitting in decision trees https://towardsdatascience.com/4-useful-techniques-that-can-mitigate-overfitting-in-decision-trees-87380098bd3c
+        
         Machine Learning – it’s all about assumptions  https://www.kdnuggets.com/2021/02/machine-learning-assumptions.html
         
         GPBoost: A Library To Combine Tree-Boosting With Gaussian Process And Mixed-Effects Models https://analyticsindiamag.com/guide-to-gpboost-a-machine-learning-library-to-combine-tree-boosting/
