@@ -1274,7 +1274,7 @@ anderson teset  use for check any  distribution
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
      
@@ -1408,6 +1408,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Object Detection with 10 lines of code-https://www.datasciencecentral.com/profiles/blogs/object-detection-with-10-lines-of-code  https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606
      
+     Detecto https://github.com/alankbi/detecto https://medium.com/analytics-vidhya/computer-vision-in-healthcare-detection-of-fractures-3313fe6452fc
+     
      OneNet-https://analyticsindiamag.com/onenet/
      
      Norfair https://github.com/tryolabs/norfair
@@ -1437,6 +1439,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
 
      https://neptune.ai/blog/generative-adversarial-networks-gan-applications?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-generative-adversarial-networks-gan-applications
+     
+     Diffusion Models Beat GANs on Image Synthesis https://paperswithcode.com/paper/diffusion-models-beat-gans-on-image-synthesis?from=n9
      
      https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 
