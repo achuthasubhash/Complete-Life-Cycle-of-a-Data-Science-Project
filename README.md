@@ -705,6 +705,8 @@ World’s Largest Data Platform https://worlddata.ai/
      2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
      
      https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/
+     
+     tools Imb-learn,SMOTE-Variants,Regression-ReSampling  https://towardsdatascience.com/tools-to-handle-class-imbalance-bff20c3bf099
 
      Balancing data sets with Crucio ADASYN  https://medium.com/softplus-publication/balancing-data-sets-with-crucio-adasyn-79f04ff0779d
 
@@ -2510,7 +2512,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR  pytesseract, pyzbar, and pyocr,OCR With Detectron2
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
@@ -2697,6 +2699,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    Ludwig https://github.com/ludwig-ai/ludwig 
    
    WEKA - https://www.cs.waikato.ac.nz/ml/weka/  autoweka
+   
+   Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
    Create ML https://developer.apple.com/documentation/createml
    
@@ -3505,6 +3509,8 @@ superannotate https://superannotate.com/       https://rapidminer.com/        ht
 
 GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0
 
+Vertex AI, one platform, every ML tool you need  https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-launches-vertex-ai-unified-platform-for-mlops?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=FY21-Q2-Google-Cloud-Blog&utm_content=vertex-ai-blog
+
 2.Automated model architecture search tools (e.g. darts, enas)
 
  https://github.com/search?q=automl  https://www.kdnuggets.com/2016/03/automated-data-science.html  https://www.kdnuggets.com/software/automated-data-science.html
@@ -3780,6 +3786,8 @@ sklearn 100x Faster https://www.kdnuggets.com/2019/09/train-sklearn-100x-faster.
 JAX  Autograd and XLA, facilitating high-performance machine learning research https://github.com/google/jax
 
 Numba (optimise performance of numpy and high performance  python compiler)  http://numba.pydata.org/
+
+Pyston project open sources its faster Python https://www.infoworld.com/article/3618169/pyston-project-open-sources-its-faster-python.html
 
 28.pandarallel  (simple and efficient tool to parallelize your pandas computation on all your CPUs) https://pypi.org/project/pandarallel/
 
