@@ -134,6 +134,8 @@ b.Web Crawling
 
   https://python.libhunt.com/scrapy-alternatives
   
+Flat Data https://octo.github.com/projects/flat-data
+  
 b.3rd party API'S 
 
 c.creating own data  (manual collection eg:google docx,servey,etc...) primary data
@@ -1588,7 +1590,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,PRADO,PET,BORT,MuRIL
+     10.BERT,BART,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,PRADO,PET,BORT,MuRIL,Multitask Unified Model
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
 
@@ -1628,6 +1630,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         Acoustic model,Speaker diarisation,apis
         
         Microsoft IceCAPS is an Open Source Framework for Conversational Modeling https://pub.towardsai.net/microsoft-icecaps-is-an-open-source-framework-for-conversational-modeling-4f78492ca685
+        
+        LaMDA: our breakthrough conversation technology https://www.blog.google/technology/ai/lamda
         
         assemblyai https://www.assemblyai.com/
         
@@ -2013,6 +2017,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Auto-PyTorch https://github.com/automl/Auto-PyTorch
     
+    l.SMAC https://www.automl.org/automated-algorithm-design/algorithm-configuration/smac/  https://towardsdatascience.com/automl-for-fast-hyperparameters-tuning-with-smac-4d70b1399ce6
+    
     https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3 
     
     https://mlwhiz.com/blog/2020/02/22/hyperspark/?utm_campaign=100x-faster-hyperparameter-search-framework-with-pyspark&utm_medium=social_link&utm_source=missinglettr
@@ -2284,6 +2290,8 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
 
 IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Quantum,Rigetti’s Forest,Xanadu’s Pennylane
 
+***On-Device Machine Learning***  https://developers.google.com/learn/topics/on-device-ml
+
 ***8.Mointoring model***
 
 ***CI CD pipeline used-  circleci , jenkins***
@@ -2307,6 +2315,8 @@ IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Qua
    papertalk https://papertalk.org/index
    
    connected papers https://www.connectedpapers.com/
+   
+   Stanford AI Lab Papers and Talks at ICLR 2021 https://ramseyelbasheer.io/2021/05/03/stanford-ai-lab-papers-and-talks-at-iclr-2021/
    
    Semantic Scholar searches: https://www.semanticscholar.org/search?q=%22neural%20networks%22&sort=relevance&ae=false 
    
