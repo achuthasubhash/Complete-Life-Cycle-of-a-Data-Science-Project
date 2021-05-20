@@ -1977,7 +1977,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
     a.GridSearchCV (check every given parameter so take long time)
     
-    HalvingGridSearch https://towardsdatascience.com/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155
+    HalvingGridSearch https://towardsdatascience.com/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155 https://towardsdatascience.com/faster-hyperparameter-tuning-with-scikit-learn-71aa76d06f12
   
     b.RandomizedSearchCV (search randomly narrow down our time)
     
@@ -3135,6 +3135,8 @@ determined to be unfair.
    mlflow https://towardsdatascience.com/get-started-with-mlops-fd7062cab018
    
    MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
+   
+   ML-Model-CI https://github.com/cap-ntu/ML-Model-CI
    
    Easy MLOps with PyCaret + MLflow https://www.kdnuggets.com/2021/05/easy-mlops-pycaret-mlflow.html
 
