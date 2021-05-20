@@ -1204,7 +1204,7 @@ anderson teset  use for check any  distribution
       
       7.XCS
       
-      8.genetic algorithm,sarsa
+      8.genetic algorithm,sarsa,natural policy gradient
       
       https://simoninithomas.github.io/deep-rl-course/
       
@@ -1294,7 +1294,7 @@ anderson teset  use for check any  distribution
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
      
