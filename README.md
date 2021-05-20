@@ -2069,7 +2069,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
      8.Time Series cross-validation
   
-Tensorboard,Neptune to visualization of model performance
+Tensorboard,Neptune,TensorFlow Profiler to visualization of model performance
 
 Distributed Training with TensorFlow 
 
@@ -2254,6 +2254,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 ***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite  https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android-beta/#0  https://tfhub.dev/s?deployment-format=lite  https://www.tensorflow.org/lite/examples https://www.tensorflow.org/lite/microcontrollers
 https://www.tensorflow.org/lite/models
 
+coral https://coral.ai/docs/edgetpu/models-intro/
+
 TF Micro and SensiML https://blog.tensorflow.org/2021/05/building-tinyml-application-with-tf-micro-and-sensiml.html
 
 six different types of methods:
@@ -2263,6 +2265,7 @@ six different types of methods:
    — Reduce Float16
    — Hybrid Quantization
    — Integer Quantization
+   -dynamic range quantization
    2. During-Training Quantization
    3. Post-Training Pruning
    4. Post-Training Clustering
