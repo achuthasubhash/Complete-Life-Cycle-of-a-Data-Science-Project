@@ -1303,7 +1303,9 @@ anderson teset  use for check any  distribution
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,
 Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,
 
-      Getting Started With Object Detection Using TensorFlow https://analyticsindiamag.com/object-detection-using-tensorflow/
+       Getting Started With Object Detection Using TensorFlow https://analyticsindiamag.com/object-detection-using-tensorflow/
+      
+       Instance Segmentation using Mask-RCNN with PixelLib and Python https://www.youtube.com/watch?v=i_-ud01wFhc
        
        MLP   MLP solution for Vision, from Google AI  https://github.com/lucidrains/mlp-mixer-pytorch
        
@@ -3517,7 +3519,7 @@ superannotate https://superannotate.com/       https://rapidminer.com/        ht
 
 GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.medium.com/how-i-cracked-the-gcp-professional-ml-engineer-certification-in-8-days-f341cf0bc5a0
 
-Vertex AI, one platform, every ML tool you need  https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-launches-vertex-ai-unified-platform-for-mlops?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=FY21-Q2-Google-Cloud-Blog&utm_content=vertex-ai-blog
+Vertex AI, one platform, every ML tool you need  https://cloud.google.com/vertex-ai
 
 2.Automated model architecture search tools (e.g. darts, enas)
 
