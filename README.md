@@ -847,7 +847,7 @@ anderson teset  use for check any  distribution
    
      clustering techniques to find it
      
-     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders
+     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn
      
      Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
      
@@ -2227,7 +2227,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     FastAPI + Uvicorn https://www.kdnuggets.com/2021/04/deploy-machine-learning-models-to-web.html  
     
-    FastAPI based template https://github.com/99sbr/fastapi-template
+    FastAPI based template https://github.com/99sbr/fastapi-template  fastapi-log 0.0.3 https://pypi.org/project/fastapi-log/
     
     PyWebIO Write Interactive Web App in Script Way Using Python https://www.youtube.com/watch?v=vp1ZNapAy6Y  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e  https://github.com/tirthajyoti/PyWebIO
     
@@ -3376,7 +3376,7 @@ determined to be unfair.
 
     https://www.analyticsvidhya.com/blog/2021/01/avid-user-of-google-colab-here-are-some-alternatives-of-google-colab-that-you-should-know-about/?utm_source=linkedin&utm_medium=social&utm_campaign=old-blog&utm_content=B&custom=FBI156
     
-    https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8
+    https://towardsdatascience.com/use-colab-more-efficiently-with-these-hacks-fc89ef1162d8 https://www.analyticsvidhya.com/blog/2021/05/10-colab-tips-and-hacks-for-efficient-use-of-it/
     
     ColabCode This is an amazing extension to the already available resource, Google Colab  https://github.com/abhi1thakur/colabcode 
     
@@ -3546,7 +3546,7 @@ pywedge  https://github.com/taknev83/pywedge https://towardsdatascience.com/auto
 
 LightAutoML  https://github.com/sberbank-ai-lab/LightAutoML https://lightautoml.readthedocs.io/en/latest/ https://towardsdatascience.com/lightautoml-preset-usage-tutorial-2cce7da6f936
 
-EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/ https://www.kdnuggets.com/2021/04/easy-automl-python.html https://www.youtube.com/watch?v=uuYEQqrExBQ
+EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/ https://www.kdnuggets.com/2021/04/easy-automl-python.html https://www.youtube.com/watch?v=uuYEQqrExBQ https://www.analyticsvidhya.com/blog/2021/05/machine-learning-automation-using-evalml-library/
 
 A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
 
