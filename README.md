@@ -166,6 +166,8 @@ https://guides.library.cmu.edu/az.php https://docs.microsoft.com/en-us/azure/azu
 
 World’s Largest Data Platform https://worlddata.ai/  
 
+    Awesome list of datasets in 100+ categories https://www.kdnuggets.com/2021/05/awesome-list-datasets.html
+
     https://sebastianraschka.com/blog/2021/ml-dl-datasets.html  https://enoumen.com/2021/04/23/data-sciences-datasets-data-visualization-data-analytics-big-data-data-lakes/
     
     https://serokell.io/blog/best-machine-learning-datasets https://medium.com/@ODSC/25-excellent-machine-learning-open-datasets-940ca2124dfc  
@@ -1306,6 +1308,8 @@ anderson teset  use for check any  distribution
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,
 Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,
+
+       Video Understanding https://towardsdatascience.com/video-understanding-made-simple-with-pytorch-video-and-lightning-flash-c7d65583c37e
 
        Getting Started With Object Detection Using TensorFlow https://analyticsindiamag.com/object-detection-using-tensorflow/
       
