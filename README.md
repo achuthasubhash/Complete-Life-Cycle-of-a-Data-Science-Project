@@ -1049,6 +1049,10 @@ anderson teset  use for check any  distribution
   Neural Network  https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.46672&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false 
   
   Microscope https://microscope.openai.com/models https://www.youtube.com/watch?v=y0-ISRhL4Ks
+  
+  Ptpython  Autocompletion, Autosuggestion, Docstring https://github.com/prompt-toolkit/ptpython  https://towardsdatascience.com/ptpython-a-better-python-repl-6e21df1eb648
+  
+  3 Tools to Track and Visualize the Execution of your Python Code https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
    
    A.Supervised learning (have label data)
    
