@@ -96,7 +96,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      Diffbot  https://analyticsindiamag.com/diffbot/
      
-     Trustpilot
+     Trustpilot,webhose,scrapingbot
      
      lxml  https://lxml.de/index.html#introduction
      
@@ -2723,6 +2723,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    Create ML https://developer.apple.com/documentation/createml
    
+   APAflow https://apaflow.com/?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity0b527
+   
    Monk_Gui-https://github.com/Tessellate-Imaging/Monk_Gui
    
    FlashML https://www.flash-ml.com/
@@ -3177,6 +3179,8 @@ determined to be unfair.
    117.https://www.pye.ai/2021/03/19/machine-learning-model-management-what-why-and-how/  https://www.ambiata.com/blog/2020-12-07-mlops-tools/
    
    mlflow https://mlflow.org/docs/latest/index.html  https://github.com/amesar/mlflow-examples
+   
+   MLFlow by pycaret https://pycaret.org/mlflow/?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity2c1c2
    
    labml https://ramith.fyi/tracking-your-ml-experiments-without-sending-data-to-the-cloud/
    
