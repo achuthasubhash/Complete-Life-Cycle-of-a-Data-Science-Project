@@ -398,6 +398,10 @@ World’s Largest Data Platform https://worlddata.ai/
 
     Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
     
+    Synthetic structured data generators https://github.com/ydataai/ydata-synthetic
+    
+    Generating synthetic tabular data with GANs,Synthetic Time-Series Data by A GAN approach
+    
     Unity Launches Synthetic Image Datasets https://www.marktechpost.com/2021/04/23/unity-launches-synthetic-image-datasets-to-train-ai-and-computer-vision-models-faster/
     
     Generate Your Own Dataset using GAN https://www.analyticsvidhya.com/blog/2021/04/generate-your-own-dataset-using-gan/
@@ -2996,6 +3000,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    106.Interpret The ML Model    https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608
 
    https://christophm.github.io/interpretable-ml-book/  https://www.kaggle.com/getting-started/209632
+   
+   tf-explain https://github.com/sicara/tf-explain
    
    lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/  https://towardsdatascience.com/interpreting-image-classification-model-with-lime-1e7064a2f2e5
    
