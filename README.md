@@ -3182,6 +3182,8 @@ determined to be unfair.
    
    MLOps  https://github.com/microsoft/MLOps https://mlops.githubapp.com/ https://huyenchip.com/2020/12/30/mlops-v2.html https://github.com/paiml/practical-mlops-book
    
+   7 Best Resources To Learn MLOps In 2021 https://analyticsindiamag.com/7-best-resources-to-learn-mlops-in-2021/
+   
    DevOps  https://github.com/collections/devops-tools
    
    airflow https://github.com/apache/airflow
