@@ -644,7 +644,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Feature Engineering of DateTime Variables for Data Science, Machine Learning https://www.kdnuggets.com/2021/04/feature-engineering-datetime-variables-data-science-machine-learning.html
      
-   Remove duplicate data in dataset
+   Remove duplicate data in dataset,Data validity check
 
    a.Handle missing value
    
