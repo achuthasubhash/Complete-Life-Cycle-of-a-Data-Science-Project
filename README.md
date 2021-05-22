@@ -1484,7 +1484,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
    
-     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Wasserstein GAN(improve image generation)
+     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Wasserstein GAN(improve image generation),ChromaGan
      
      https://www.analyticsvidhya.com/blog/2021/05/progressive-growing-gan-progan/
      
@@ -1789,7 +1789,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       2.Autoregressive
       
-      3.Moving average,Exponential Moving average,Exponential Smoothing
+      3.Moving average,Exponential Moving average,Exponential Smoothing,Simple average, Holt’s linear trend method, Holt’s Winter seasonal method
       
       4.Lstm(neural network)
       
@@ -1835,7 +1835,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       pmdarima for Auto ARIMA
       
-      GluonTS
+      GluonTS https://github.com/awslabs/gluon-ts
       
       sktime — a unified time-series framework for Scikit-Learn
       
