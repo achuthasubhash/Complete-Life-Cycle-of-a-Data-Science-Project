@@ -1288,6 +1288,8 @@ anderson teset  use for check any  distribution
    
    NVIDIA’s Kaolin: A 3D Deep Learning Library https://analyticsindiamag.com/nvidias-kaolin-3d-deep-learning-library/ https://github.com/NVIDIAGameWorks/kaolin
    
+   PySyft is a Python library for secure and private Deep Learning https://github.com/OpenMined/PySyft
+   
    1.Multilayer perceptron(MLP)
    
      1.Regression task
