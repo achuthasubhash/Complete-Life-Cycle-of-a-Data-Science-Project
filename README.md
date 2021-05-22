@@ -3582,7 +3582,7 @@ ludwig  https://github.com/ludwig-ai/ludwig
 
 autoweka  https://github.com/automl/autoweka
 
-autokeras https://autokeras.com/
+autokeras https://autokeras.com/  autoSklearn  https://automl.github.io/auto-sklearn/master/
 
 adanet https://github.com/tensorflow/adanet
 
