@@ -803,11 +803,9 @@ World’s Largest Data Platform https://worlddata.ai/
    Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
 performance if not distributed then use below methods to bring it guassian distribution
 
-normal test for check normal distribution 
+normal test,Histogram,Q-Q plot,KDE plot,Skewness and Kurtosis for check normal distribution 
 
 anderson teset  use for check any  distribution 
-     
-           a.Guassian Transformation
         
            b.Logarithmic Transformation
         
