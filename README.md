@@ -599,6 +599,8 @@ World’s Largest Data Platform https://worlddata.ai/
 ***2.Feature engineering***
 
    Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
+   
+   OpenPyXL: A Python Module For Excel https://analyticsindiamag.com/guide-to-openpyxl-a-python-module-for-excel/
 
    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
 
@@ -1975,7 +1977,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
   DropBlock: A New Regularization Technique https://pub.towardsai.net/dropblock-a-new-regularization-technique-e926bbc74adb
   
-  Learning rate scheduling,Weight Decay,Gradient clipping
+  Learning rate scheduling  (Learning rate finder),Weight Decay,Gradient clipping
   
   Different Normalization Layers - https://towardsdatascience.com/different-normalization-layers-in-deep-learning-1a7214ff71d6
   
