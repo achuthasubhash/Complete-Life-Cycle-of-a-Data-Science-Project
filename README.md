@@ -1811,7 +1811,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       bulbea Deep Learning based Python Library for Stock Market Prediction and Modelling https://github.com/achillesrasquinha/bulbea
       
-      PyTorch Forecasting enables deep learning models for time-series forecasting
+      PyTorch Forecasting enables deep learning models for time-series forecasting  pytorch-ts https://github.com/zalandoresearch/pytorch-ts
       
       Transformer Networks to build a Forecasting model https://towardsdatascience.com/how-to-use-transformer-networks-to-build-a-forecasting-model-297f9270e630
       
@@ -2298,6 +2298,8 @@ six different types of methods:
 7) Selective attention
 8) Low-rank factorisation
 9) 3LC https://research.google/pubs/pub47962/
+10) brevitas https://github.com/Xilinx/brevitas/
+11) aimet https://github.com/quic/aimet
 
 ibm new tool https://www.zdnet.com/article/ibms-new-tool-lets-developers-add-quantum-computing-power-to-machine-learning/
 
@@ -2506,6 +2508,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    PYTORCH - https://pytorch.org/  https://pytorch.org/ecosystem/  https://pytorch.org/tutorials/ https://pytorch.org/docs/stable/index.html https://github.com/pytorch/pytorch
    
    PYTORCH Lightning  https://pytorchlightning.ai/community#projects   https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2
+   
+   ort Accelerate PyTorch models with ONNX Runtime https://github.com/pytorch/ort
    
    lightning-flash  https://github.com/PyTorchLightning/lightning-flash  https://pytorch-lightning.medium.com/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
    
@@ -3584,6 +3588,8 @@ mljar-supervised  https://github.com/mljar/mljar-supervised/  https://www.kdnugg
 
 ludwig  https://github.com/ludwig-ai/ludwig
 
+carefree-learn is a minimal Automatic Machine Learning (AutoML) solution for tabular datasets based on PyTorch https://carefree0910.me/carefree-learn-doc/
+
 autoweka  https://github.com/automl/autoweka
 
 autokeras https://autokeras.com/  autoSklearn  https://automl.github.io/auto-sklearn/master/
@@ -3963,7 +3969,7 @@ https://www.openblender.io/#/welcome
 
 79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
-80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis
+80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms
 
 https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
 
