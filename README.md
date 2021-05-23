@@ -642,6 +642,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
    
+   Feature Selection using Genetic Algorithm https://github.com/kaushalshetty/FeatureSelectionGA
+   
    AutoFeat https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/   https://github.com/cod3licious/autofeat
    
    feast Feature Store for Machine Learning https://github.com/feast-dev/feast https://www.youtube.com/watch?v=ZeJdr0nZ9PA
@@ -779,6 +781,8 @@ World’s Largest Data Platform https://worlddata.ai/
      17.dummy encoding
 
      Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding
+     
+     Improve ML Model Performance by Combining Categorical Features https://towardsdatascience.com/improve-ml-model-performance-by-combining-categorical-features-a23efbb6a215
      
      https://towardsdatascience.com/beyond-one-hot-17-ways-of-transforming-categorical-features-into-numeric-features-57f54f199ea4
      
@@ -1094,7 +1098,7 @@ anderson teset  use for check any  distribution
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kpca,lsa,Factor Analysis,
+     1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping 
    
      2.Clustering : Centroid-based Model ,Density-based Model ,Distribution-based Model,Connectivity-based model
      
@@ -1371,7 +1375,7 @@ Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲�
      
      posemodule https://www.youtube.com/watch?v=5kaX3ta398w   Pose Tracking  https://www.youtube.com/watch?v=0JU3kpYytuQ&t=1650s
      
-     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet 
+     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js 
      
      openpose wrnchai  densepose
      
@@ -1792,6 +1796,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       2.Autoregressive
       
       3.Moving average,Exponential Moving average,Exponential Smoothing,Simple average, Holt’s linear trend method, Holt’s Winter seasonal method
+      
+      11 Classical Time Series Forecasting Methods in Python https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
       4.Lstm(neural network)
       
