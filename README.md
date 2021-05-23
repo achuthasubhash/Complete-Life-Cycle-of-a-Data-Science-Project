@@ -722,6 +722,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/
      
+      ensmble based -Bagging Based techniques, Boosting-Based techniques,Adaptive Boosting- Ada Boost techniques,Gradient Tree Boosting,XG Boost 
+     
      tools Imb-learn,SMOTE-Variants,Regression-ReSampling  https://towardsdatascience.com/tools-to-handle-class-imbalance-bff20c3bf099
 
      Balancing data sets with Crucio ADASYN  https://medium.com/softplus-publication/balancing-data-sets-with-crucio-adasyn-79f04ff0779d
