@@ -85,6 +85,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       Download Wikipedia https://www.wikidata.org/wiki/Wikidata:Main_Page https://www.youtube.com/watch?v=hC1rY4lRY0s https://towardsdatascience.com/an-efficient-way-to-read-data-from-the-web-directly-into-python-a526a0b4f4cb
       
       Web Scraping to Create a CSV File  https://thecleverprogrammer.com/2020/08/08/web-scraping-to-create-csv/
+      
+      Amazon Web Scraper, Amazon Auto Scraper
     
     7.urllib
     
@@ -839,9 +841,9 @@ anderson teset  use for check any  distribution
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,IQR,TensorFlow_Data_Validation
+      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,IQR,TensorFlow_Data_Validation,Scatterplot
       
-      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering
+      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning)
       
@@ -885,7 +887,7 @@ anderson teset  use for check any  distribution
     
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
     
-    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,Word Clouds,HoloViz
+    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs
     
     Python Tool For Visualizing and Plotting 2D/3D Scientific Data https://analyticsindiamag.com/guide-to-mayavi-a-python-tool-for-visualizing-and-plotting-2d-3d-scientific-data/
     
@@ -1161,6 +1163,8 @@ anderson teset  use for check any  distribution
          k.suprise baseline model
          
          l.Tf-Rec https://github.com/Praful932/Tf-Rec
+         
+         m.Deep Learning Recommendation Models https://www.kdnuggets.com/2021/04/deep-learning-recommendation-models-dlrm-deep-dive.html
          
          Restricted Boltzmann Machines 
          
