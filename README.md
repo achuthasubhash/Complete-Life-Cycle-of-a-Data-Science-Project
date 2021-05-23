@@ -1094,7 +1094,7 @@ anderson teset  use for check any  distribution
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,plsr,pcr,autoencoders,kpca,lsa,Factor Analysis,
+     1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kpca,lsa,Factor Analysis,
    
      2.Clustering : Centroid-based Model ,Density-based Model ,Distribution-based Model,Connectivity-based model
      
@@ -2386,6 +2386,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 ***programming language for data science is Python,R,Julia,Java,Scala,JAVA SCRIPT(Tensorflow.js)*** 
 
    IDE:jupyter notebook,spyder,pycharm,visual studio
+   
+   4 Tools for Reproducible Jupyter Notebooks https://towardsdatascience.com/4-tools-for-reproducible-jupyter-notebooks-d7423721bd04
 
 ***BEST ONLINE COURSES***
 
