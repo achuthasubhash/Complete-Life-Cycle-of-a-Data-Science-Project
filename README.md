@@ -1067,6 +1067,8 @@ anderson teset  use for check any  distribution
   Ptpython  Autocompletion, Autosuggestion, Docstring https://github.com/prompt-toolkit/ptpython  https://towardsdatascience.com/ptpython-a-better-python-repl-6e21df1eb648
   
   3 Tools to Track and Visualize the Execution of your Python Code https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
+  
+  ML Code memory Consuming  https://towardsdatascience.com/how-much-memory-is-your-ml-code-consuming-98df64074c8f
    
    A.Supervised learning (have label data)
    
@@ -1201,6 +1203,8 @@ anderson teset  use for check any  distribution
       agent,environment,policy(On-Policy vs Off-Policy),reward function,value function,state,action,episode,actor-critic
    
       agent apply action to environment get corresponding reward so that it learn environment
+      
+      How to get started with Reinforcement Learning https://gordicaleksa.medium.com/how-to-get-started-with-reinforcement-learning-rl-4922fafeaf8c
       
       1.Q-Learning
       
