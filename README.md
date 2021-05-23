@@ -1371,7 +1371,7 @@ Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲�
      
      posemodule https://www.youtube.com/watch?v=5kaX3ta398w   Pose Tracking  https://www.youtube.com/watch?v=0JU3kpYytuQ&t=1650s
      
-     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet
+     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet 
      
      openpose wrnchai  densepose
      
@@ -1967,17 +1967,20 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    101 Machine Learning Algorithms for Data Science with Cheat Sheets https://blog-datasciencedojo-com.cdn.ampproject.org/c/s/blog.datasciencedojo.com/machine-learning-algorithms/amp/
 
-  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,GELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Softmax,Swish,Softplus
+  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,GELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Softmax,Swish,Softplus,Mish
   
-  Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with momentum,Adagrad,RMSProp,Adam,AdaBelief,MADGRAD,Nero
+  Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with   momentum,Adagrad,RMSProp,AMSGrad,Adam,AdaBelief,MADGRAD,Nero
   
   https://analyticsindiamag.com/ultimate-guide-to-pytorch-optimizers/    https://analyticsindiamag.com/guide-to-tensorflow-keras-optimizers/
   
-  Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation,tree purning,DropBlock
+  Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation,Layer Normalization,Group Normalization,tree purning,DropBlock,DropConnect
+
   
   DropBlock: A New Regularization Technique https://pub.towardsai.net/dropblock-a-new-regularization-technique-e926bbc74adb
   
-  Learning rate scheduling  (Learning rate finder),Weight Decay,Gradient clipping
+  Learning rate scheduling  (Learning rate finder),Weight Decay,Gradient clipping,Cyclic Learning Rate
+
+  weight initialization  Normal Distribution,initialized to the same value,Xavier Initialization,He Norm Initialization,
   
   Different Normalization Layers - https://towardsdatascience.com/different-normalization-layers-in-deep-learning-1a7214ff71d6
   
@@ -2500,6 +2503,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
 
    PYTORCH HUB https://pytorch.org/hub/
+   
+   5.https://papers.labml.ai/papers/daily  https://42papers.com/
    
    https://www.kdnuggets.com/2019/08/pytorch-cheat-sheet-beginners.html  https://www.kdnuggets.com/2019/04/nlp-pytorch.html  https://www.kdnuggets.com/2019/08/9-tips-training-lightning-fast-neural-networks-pytorch.html
    
