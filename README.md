@@ -764,7 +764,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      2.Count Or Frequency Encoding
      
-     3.Target Guided Ordinal Encoding
+     3.Target Guided Ordinal Encoding,Ordinal Encoding
      
      4.Mean Encoding
      
@@ -793,6 +793,8 @@ World’s Largest Data Platform https://worlddata.ai/
      16.hash encoding
      
      17.dummy encoding
+     
+     18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder
 
      Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding
      
