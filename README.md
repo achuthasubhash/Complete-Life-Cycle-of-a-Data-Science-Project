@@ -242,6 +242,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Statistics Canada https://www.statcan.gc.ca/eng/start  https://towardsdatascience.com/how-to-collect-data-from-statistics-canada-using-python-db8a81ce6475
     
+    Deep Image Search AI-based image search engine https://github.com/TechyNilesh/DeepImageSearch
+    
     https://www.datasciencecentral.com/profiles/blogs/big-data-sets-available-for-free
    
     19)Quandl :- https://www.quandl.com  stock data
@@ -602,9 +604,11 @@ World’s Largest Data Platform https://worlddata.ai/
 
    Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
    
-   Mito Generating Python By Editing Spreadsheet  https://www.youtube.com/watch?v=yy3-C39ra6s
+   Mito Generating Python By Editing Spreadsheet  https://www.youtube.com/watch?v=yy3-C39ra6s https://trymito.io/?source=twitter1
    
    OpenPyXL: A Python Module For Excel https://analyticsindiamag.com/guide-to-openpyxl-a-python-module-for-excel/
+   
+   Visual Programming (Orange) https://orange.biolab.si/
 
    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
 
@@ -889,6 +893,8 @@ anderson teset  use for check any  distribution
     
     atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo
     
+    Integrating Tableau With Python https://analyticsindiamag.com/tabpy/  Qlib https://analyticsindiamag.com/qlib/
+    
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs
@@ -1052,7 +1058,9 @@ anderson teset  use for check any  distribution
   
   Choose the Right Machine Learning Algorithm for Your Application  https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9
   
-  interactive tools https://github.com/Machine-Learning-Tokyo/Interactive_Tools
+  interactive tools https://github.com/Machine-Learning-Tokyo/Interactive_Tools 
+  
+  HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9 
   
   Machine Learning Playground  https://ml-playground.com/
   
@@ -1077,6 +1085,10 @@ anderson teset  use for check any  distribution
   ML Code memory Consuming  https://towardsdatascience.com/how-much-memory-is-your-ml-code-consuming-98df64074c8f
   
   PyGrid Privacy-preserving, Decentralized Data Science https://github.com/OpenMined/PyGrid/ 
+  
+  Best and Worst Cases of Machine-Learning Models https://medium.com/towards-artificial-intelligence/best-and-worst-cases-of-machine-learning-models-part-1-36cdb9296611
+
+https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
    
    A.Supervised learning (have label data)
    
@@ -1107,6 +1119,9 @@ anderson teset  use for check any  distribution
         Machine Learning – it’s all about assumptions  https://www.kdnuggets.com/2021/02/machine-learning-assumptions.html
         
         GPBoost: A Library To Combine Tree-Boosting With Gaussian Process And Mixed-Effects Models https://analyticsindiamag.com/guide-to-gpboost-a-machine-learning-library-to-combine-tree-boosting/
+        
+        
+        Data and Concept Drift  https://evidentlyai.com/blog/machine-learning-monitoring-data-and-concept-drift
    
    B.Unsupervised learning(no label(target) data)
    
@@ -2090,6 +2105,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     l.SMAC https://www.automl.org/automated-algorithm-design/algorithm-configuration/smac/  https://towardsdatascience.com/automl-for-fast-hyperparameters-tuning-with-smac-4d70b1399ce6
     
+    m.faster Hyper Parameter Tuning(sklearn-nature-inspired-algorithms) https://pypi.org/project/sklearn-nature-inspired-algorithms/
+    
     https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3 
     
     https://mlwhiz.com/blog/2020/02/22/hyperspark/?utm_campaign=100x-faster-hyperparameter-search-framework-with-pyspark&utm_medium=social_link&utm_source=missinglettr
@@ -2210,7 +2227,9 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django
+    
+    Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
     panel high-level app and dashboarding solution for Python https://github.com/holoviz/panel
     
@@ -2277,6 +2296,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     Katana https://github.com/shaz13/katana https://katana-demo.herokuapp.com/redoc  https://katana-demo.herokuapp.com/docs
     
     DS-with-PySimpleGUI  https://github.com/tirthajyoti/DS-with-PySimpleGUI
+    
+    tkinter to deploy machine learning model-https://analyticsindiamag.com/complete-tutorial-on-tkinter-to-deploy-machine-learning-model/
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/  https://www.gradio.app/
     
@@ -2578,7 +2599,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR  pytesseract, pyzbar, and pyocr,OCR With Detectron2
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
@@ -3223,8 +3244,6 @@ determined to be unfair.
    
    115.Code faster https://www.tabnine.com/
    
-   116.Pytest for Data Scientists https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c
-   
    117.https://www.pye.ai/2021/03/19/machine-learning-model-management-what-why-and-how/  https://www.ambiata.com/blog/2020-12-07-mlops-tools/
    
    mlflow https://mlflow.org/docs/latest/index.html  https://github.com/amesar/mlflow-examples
@@ -3302,6 +3321,8 @@ determined to be unfair.
    
    Model debugging tools  Manifold https://eng.uber.com/manifold/
    
+   Pytest for Data Scientists https://towardsdatascience.com/4-lessor-known-yet-awesome-tips-for-pytest-2117d8a62d9c
+   
    Icecream   https://towardsdatascience.com/stop-using-print-to-debug-in-python-use-icecream-instead-79e17b963fcc
    
    Experiment tracking tools WandB  https://wandb.ai/site
@@ -3372,8 +3393,6 @@ determined to be unfair.
    
    147. AI Habitat: A Platform For Embodied AI Research https://analyticsindiamag.com/hands-on-guide-to-ai-habitat-a-platform-for-embodied-ai-research/
    
-   148.mito Python 10x faster by editing a spreadsheet https://docs.trymito.io/ https://trymito.io/
-   
    149.onnx  https://medium.com/towards-artificial-intelligence/onnx-for-model-interoperability-faster-inference-8709375db9bf
    
    150.Speeding up Python code with Nim https://medium.com/statch/speeding-up-python-code-with-nim-ec205a8a5d9c
@@ -3411,8 +3430,6 @@ determined to be unfair.
    161.NVIDIA Unveils 50+ New, Updated AI Tools and Trainings for Developers https://www.hpcwire.com/off-the-wire/nvidia-unveils-50-new-updated-ai-tools-and-trainings-for-developers/
    
    162.Best Workflow and Pipeline Orchestration Tools  https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-workflow-and-pipeline-orchestration-tools
-   
-   163.dataprep   Automation in Data Science https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-automation-in-data-science/
    
    164.notes Data Science & Machine Learning  https://chrisalbon.com/
    
@@ -3805,7 +3822,7 @@ Numba https://github.com/numba/numba https://www.youtube.com/watch?v=3O-Pvnrbsu0
 
 Arrow https://towardsdatascience.com/how-fast-is-reading-parquet-file-with-arrow-vs-csv-with-pandas-2f8095722e94
 
-Cython,Numba,PyPy
+Cython,Numba,PyPy,ray,loky,Dask,p_tqdm (aka Pathos + tqdm)
 
 Reducing Pandas memory https://pythonspeed.com/articles/pandas-load-less-data/  https://www.youtube.com/watch?v=HNE0qHJ9A9o
 
@@ -3824,10 +3841,6 @@ pandas chunksize,Modin , Vaex , Dask,cuDF,mars,ray,rapids,joblib,snorkel,Pyarrow
    data-preparation-tools - https://improvado.io/blog/data-preparation-tools
 
 20.Dora library is another data analysis library designed to simplify exploratory data analysis. https://pypi.org/project/Dora/
-
-21.FastAPI is a modern, fast (high-performance), web framework for building APIs. https://fastapi.tiangolo.com/
-
-22.faster Hyper Parameter Tuning(sklearn-nature-inspired-algorithms) https://pypi.org/project/sklearn-nature-inspired-algorithms/
 
 23.FlashText (A library faster than Regular Expressions for NLP tasks)  https://pypi.org/project/flashtext/
 
@@ -3932,8 +3945,6 @@ https://analyticsindiamag.com/microsoft-releases-latest-version-of-deepspeed-its
 
 51.4-pandas-tricks-https://towardsdatascience.com/4-pandas-tricks-that-most-people-dont-know-86a70a007993
 
-52.tkinter to deploy machine learning model-https://analyticsindiamag.com/complete-tutorial-on-tkinter-to-deploy-machine-learning-model/
-
 53.autoplotter is a python package for GUI based exploratory data analysis-https://github.com/ersaurabhverma/autoplotter
 
 54.3 NLP Interpretability Tools For Debugging Language Models-https://www.topbots.com/nlp-interpretability-tools/
@@ -4020,12 +4031,6 @@ Pykg2vec: A Python Library for Knowledge Graph Embedding https://analyticsindiam
 
 https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html    https://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html
 
-81.HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9
-
-82.Gradio - take input from user  https://gradio.app/getting_started
-
-83. Mito, an editable spreadsheet inside your Jupyter Notebook. - https://trymito.io/   
-
 84.Google Introduces Document AI (DocAI) https://www.marktechpost.com/2020/11/05/google-introduces-document-ai-docai-platform-for-automated-document-processing/
 
 85.100 Machine Learning Projects-https://amankharwal.medium.com/100-machine-learning-projects-aff22b22dd6e
@@ -4035,8 +4040,6 @@ https://www.kdnuggets.com/2019/05/60-useful-graph-visualization-libraries.html  
 87.Opacus: A high-speed library for training PyTorch models-https://ai.facebook.com/blog/introducing-opacus-a-high-speed-library-for-training-pytorch-models-with-differential-privacy
 
 88.lazynlp https://github.com/chiphuyen/lazynlp
-
-89.yfinance  to get finance data 
 
 90.Pseudo-Labeling (deal with small datasets)https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af
 
@@ -4085,8 +4088,6 @@ https://www.aiquotient.app/projects  https://www.aiquotient.app/  https://www.ml
 
 https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
 
-92. Visual Programming (Orange) https://orange.biolab.si/
-
 93.The Linux Command Handbook-https://www.freecodecamp.org/news/the-linux-commands-handbook/ 
 
 94.130 Machine Learning Projects Solved and Explained-https://medium.com/the-innovation/130-machine-learning-projects-solved-and-explained-605d188fb392
@@ -4105,8 +4106,6 @@ https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
 
 101.johnsnowlabs- https://nlp.johnsnowlabs.com/  https://nlp.johnsnowlabs.com/docs/en/quickstart  https://nlp.johnsnowlabs.com/docs/en/licensed_release_notes
 
-103.Edit a spreadsheet Generate Python  https://trymito.io/?source=twitter1
-
 104.Clarifai-https://www.clarifai.com/  https://analyticsindiamag.com/clarifai/
 
 105.rapidly build and deploy machine learning models https://analyticsindiamag.com/top-10-datarobot-alternatives-one-must-know/
@@ -4121,8 +4120,6 @@ https://medium.com/coders-camp/20-machine-learning-projects-on-nlp-582effe73b9c
 
 110.machine-learning-roadmap-2020   https://whimsical.com/machine-learning-roadmap-2020-CA7f3ykvXpnJ9Az32vYXva 
 
-111.Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
-
 112.freecodecamp - https://www.freecodecamp.org/learn
 
 113.image_to_string (pytesseract) 
@@ -4131,19 +4128,11 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 114.NLP Pipelines in a single line of code https://medium.com/analytics-vidhya/nlp-pipelines-in-a-single-line-of-code-500b3266ac7b
 
-115.Best and Worst Cases of Machine-Learning Models https://medium.com/towards-artificial-intelligence/best-and-worst-cases-of-machine-learning-models-part-1-36cdb9296611
-
-https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
-
 116.aitextgen #for ai text generation
 
 117.http://introtodeeplearning.com/  http://cs231n.stanford.edu/   http://web.stanford.edu/class/cs224n/index.html#schedule  https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A  https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A    https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP  https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5
 
 117.https://data-flair.training/blogs/data-science-tutorials-home
-
-118.Integrating Tableau With Python https://analyticsindiamag.com/tabpy/
-
-Qlib https://analyticsindiamag.com/qlib/
 
 119.Pystiche - Create Your Artistic Image Using Pystiche  https://analyticsindiamag.com/pystiche/    https://pystiche.readthedocs.io/en/latest/index.html
 
