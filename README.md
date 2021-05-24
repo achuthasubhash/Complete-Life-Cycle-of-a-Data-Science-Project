@@ -2111,6 +2111,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     m.faster Hyper Parameter Tuning(sklearn-nature-inspired-algorithms) https://pypi.org/project/sklearn-nature-inspired-algorithms/
     
+    n.talos Neural network and hyperparameter optimization using Talos https://www.analyticsvidhya.com/blog/2021/05/neural-network-and-hyperparameter-optimization-using-talos/
+    
     https://towardsdatascience.com/10-hyperparameter-optimization-frameworks-8bc87bc8b7e3 
     
     https://mlwhiz.com/blog/2020/02/22/hyperspark/?utm_campaign=100x-faster-hyperparameter-search-framework-with-pyspark&utm_medium=social_link&utm_source=missinglettr
@@ -2360,6 +2362,8 @@ https://rachitsingh.com/deep-learning-model-compression/#quantization
 model optimization (architecture)
  
 TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
+
+tflite-support TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices https://github.com/tensorflow/tflite-support
 
 Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/performance/post_training_quantization
 
