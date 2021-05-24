@@ -1762,6 +1762,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      https://www.kdnuggets.com/2020/05/best-nlp-deep-learning-course-free.html   https://analyticsindiamag.com/flair-hands-on-guide-to-robust-nlp-framework-built-upon-pytorch/
      
      https://medium.com/modern-nlp/nlp-metablog-a-blog-of-blogs-693e3a8f1e0c
+     
+     summarization https://github.com/hyunwoongko/summarizers ctrl-sum  https://github.com/salesforce/ctrl-sum
    
    classification,clustering,recommender systems,topic modelling,sentiment analysis,semantic analysis,summarization,machine translation,conversational interface,named entity recognition
    
