@@ -602,6 +602,8 @@ World’s Largest Data Platform https://worlddata.ai/
 
    Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
    
+   Mito Generating Python By Editing Spreadsheet  https://www.youtube.com/watch?v=yy3-C39ra6s
+   
    OpenPyXL: A Python Module For Excel https://analyticsindiamag.com/guide-to-openpyxl-a-python-module-for-excel/
 
    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
