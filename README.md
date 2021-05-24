@@ -622,6 +622,8 @@ World’s Largest Data Platform https://worlddata.ai/
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
    
+   DataPrep  https://dataprep.ai/ https://github.com/sfu-db/dataprep https://towardsdatascience.com/dataprep-v0-3-0-has-been-released-be49b1be0e72
+   
    openrefine A free, open source, powerful tool for working with messy data  https://openrefine.org/#
    
    data leaning library https://www.analyticsvidhya.com/blog/2021/05/data-cleaning-libraries-in-python-a-gentle-introduction/
@@ -1071,6 +1073,8 @@ anderson teset  use for check any  distribution
   3 Tools to Track and Visualize the Execution of your Python Code https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
   
   ML Code memory Consuming  https://towardsdatascience.com/how-much-memory-is-your-ml-code-consuming-98df64074c8f
+  
+  PyGrid Privacy-preserving, Decentralized Data Science https://github.com/OpenMined/PyGrid/ 
    
    A.Supervised learning (have label data)
    
@@ -1295,8 +1299,8 @@ anderson teset  use for check any  distribution
    Nengo: A New Neural Network Building and Deployment Tool https://pub.towardsai.net/nengo-a-new-neural-network-building-and-deployment-tool-66677c65fa19
    
    Binarized Neural Network memory size is reduced, and bitwise operations improve the power efficiency https://neptune.ai/blog/binarized-neural-network-bnn-and-its-implementation-in-ml
-   
-   scikit-neuralnetwork https://towardsdatascience.com/the-simplest-way-to-train-a-neural-network-in-python-17613fa97958
+    
+   scikit-neuralnetwork https://towardsdatascience.com/the-simplest-way-to-train-a-neural-network-in-python-17613fa97958 https://github.com/aigamedev/scikit-neuralnetwork
    
    NVIDIA’s Kaolin: A 3D Deep Learning Library https://analyticsindiamag.com/nvidias-kaolin-3d-deep-learning-library/ https://github.com/NVIDIAGameWorks/kaolin
    
