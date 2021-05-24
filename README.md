@@ -1968,6 +1968,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    self-training meta-estimator for semi-supervised learning
    
+   skweak: A Python Toolkit For Applying Weak Supervision To NLP Tasks https://analyticsindiamag.com/meet-skweak-a-python-toolkit-for-applying-weak-supervision-to-nlp-tasks/
+   
    10 Self-Supervised Learning Frameworks & Libraries To Use In 2021 analyticsindiamag.com/10-self-supervised-learning-frameworks-libraries-to-use-in-2021/
    
    Self-Supervised Learning https://github.com/jason718/awesome-self-supervised-learning
@@ -2556,6 +2558,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    https://www.kdnuggets.com/2019/08/pytorch-cheat-sheet-beginners.html  https://www.kdnuggets.com/2019/04/nlp-pytorch.html  https://www.kdnuggets.com/2019/08/9-tips-training-lightning-fast-neural-networks-pytorch.html
    
    PyTorch Lightning-https://github.com/PyTorchLightning/pytorch-lightning    https://www.kdnuggets.com/2020/11/deploy-pytorch-lightning-models-production.html
+   
+   https://pytorch-lightning.medium.com/lightning-flash-0-3-new-tasks-visualization-tools-data-pipeline-and-flash-registry-api-1e236ba9530
    
    PYTORCH - https://pytorch.org/  https://pytorch.org/ecosystem/  https://pytorch.org/tutorials/ https://pytorch.org/docs/stable/index.html https://github.com/pytorch/pytorch
    
