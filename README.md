@@ -604,18 +604,6 @@ World’s Largest Data Platform https://worlddata.ai/
     
 ***2.Feature engineering***
 
-   Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
-   
-   Mito Generating Python By Editing Spreadsheet  https://www.youtube.com/watch?v=yy3-C39ra6s https://trymito.io/?source=twitter1
-   
-   Automate Pivot Table with Python https://towardsdatascience.com/automate-excel-with-python-pivot-table-899eab993966
-   
-   OpenPyXL: A Python Module For Excel https://analyticsindiamag.com/guide-to-openpyxl-a-python-module-for-excel/
-   
-   causal interactive dashboards and beautiful visuals https://www.causal.app/,
-   
-   Visual Programming (Orange) https://orange.biolab.si/
-
    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
 
    Feature-engine https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c  https://feature-engine.readthedocs.io/en/latest/ https://github.com/solegalli/feature_engine https://www.datasciencecentral.com/profiles/blogs/feature-engine-python-package-for-feature-engineering
@@ -907,6 +895,17 @@ anderson teset  use for check any  distribution
   
     Explore the dataset by using  python or microsoft Excel,Power BI,Tableau,SAS Business Intelligence and Analytics Tool,QlikView,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
     
+   Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
+   
+   Mito Generating Python By Editing Spreadsheet  https://www.youtube.com/watch?v=yy3-C39ra6s https://trymito.io/?source=twitter1
+   
+   Automate Pivot Table with Python https://towardsdatascience.com/automate-excel-with-python-pivot-table-899eab993966
+   
+   OpenPyXL: A Python Module For Excel https://analyticsindiamag.com/guide-to-openpyxl-a-python-module-for-excel/
+   
+   causal interactive dashboards and beautiful visuals https://www.causal.app/,
+   
+   Visual Programming (Orange) https://orange.biolab.si/
     atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo
     
     Integrating Tableau With Python https://analyticsindiamag.com/tabpy/  Qlib https://analyticsindiamag.com/qlib/
