@@ -718,6 +718,10 @@ World’s Largest Data Platform https://worlddata.ai/
      
      16.bfill / ffill
      
+     17.Adding a variable to capture NAN
+     
+     18.replace NAN with a new category
+     
      https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
      
      https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
