@@ -826,6 +826,8 @@ World’s Largest Data Platform https://worlddata.ai/
        
        6.maximum absolute scaling
        
+       7.Power Transformer Scaler
+       
        https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/?utm_source=linkedin&utm_medium=KJ|link|high-performance-blog|blogs|44204|0.375
       
    Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
@@ -1446,7 +1448,8 @@ Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲�
      
      unadversarial  https://github.com/microsoft/unadversarial/ https://analyticsindiamag.com/microsoft-research-unadversarial/
      
-     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad
+     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,saliency_map_guided,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad,PytorchRevelio,Feature Visualizer, Guided Gradients, grad_cam
+
      
      Tools to Design or Visualize Architecture of Neural Network https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
      
@@ -1600,6 +1603,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Automate your Text Processing workflow in a single line of Python Code https://towardsdatascience.com/automate-your-text-processing-workflow-in-a-single-line-of-python-code-e276755e45de
      
      quantumstat  https://index.quantumstat.com/
+     
+     Dynaboard: Moving beyond accuracy to holistic model evaluation in NLP https://ai.facebook.com/blog/dynaboard-moving-beyond-accuracy-to-holistic-model-evaluation-in-nlp/
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
@@ -2206,6 +2211,10 @@ https://towardsdatascience.com/deploy-machine-learning-app-built-using-streamlit
 simplest way to serve your ML models on Kubernetes  https://towardsdatascience.com/the-simplest-way-to-serve-your-ml-models-on-kubernetes-5323a380bf9f
 
 ***7.deployment***  https://github.com/piyushpathak03/Model-Deployment
+
+    Continuously Monitor the Behaviour of Deployed Models  https://se-ml.github.io/best_practices/04-monitor_models_prod/
+    
+    Automate Model Deployment https://se-ml.github.io/best_practices/04-auto_model_packaging/
 
     Platform as a Service (PaaS),Infrastructure as a Service (IaaS),SaaS (Software as a Service)
     
@@ -4037,7 +4046,7 @@ https://www.openblender.io/#/welcome
 
 79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
-80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms
+80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms,dgl ease deep learning on graph,
 
 https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
 
