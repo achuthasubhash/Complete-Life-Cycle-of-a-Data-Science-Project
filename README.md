@@ -728,6 +728,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      15.autoimpute-https://github.com/kearnz/autoimpute
      
+     16.bfill / ffill
+     
      https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
      
      https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
@@ -1353,7 +1355,7 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit, FNet, and gMLP models 
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
      
@@ -2384,7 +2386,7 @@ model optimization (architecture)
  
 TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
 
- AI Engine for Edge Devices https://github.com/johnolafenwa/deepstack
+AI Engine for Edge Devices https://github.com/johnolafenwa/deepstack  TensorFlow Lite Samples on Unity https://github.com/asus4/tf-lite-unity-sample
 
 tflite-support TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices https://github.com/tensorflow/tflite-support
 
