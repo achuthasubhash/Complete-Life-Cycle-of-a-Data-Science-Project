@@ -682,7 +682,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Univariate,Multivariate  https://medium.com/fintechexplained/what-are-imputers-in-data-science-b72f8308322b
    
-     1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion
+     1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion and listwise
      
      2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode
      
