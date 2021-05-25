@@ -1358,7 +1358,7 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit, FNet, and gMLP models 
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit, FNet,gMLP models 
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
      
@@ -2217,7 +2217,9 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
 ***7.deployment***  https://github.com/piyushpathak03/Model-Deployment
 
-    Continuously Monitor the Behaviour of Deployed Models  https://se-ml.github.io/best_practices/04-monitor_models_prod/
+    Continuously Monitor the Behaviour of Deployed Models  https://se-ml.github.io/best_practices/04-monitor_models_prod/ 
+    
+    Model Monitoring https://www.kdnuggets.com/2021/03/machine-learning-model-monitoring-checklist.html
     
     Automate Model Deployment https://se-ml.github.io/best_practices/04-auto_model_packaging/
 
