@@ -618,7 +618,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Automated feature engineering https://medium.com/ibm-data-ai/automated-feature-engineering-for-relational-data-with-autoai-3612fafe9f89
    
-   Automatic Feature Engineering Using Featurewiz https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4
+   Automatic Feature Engineering Using Featurewiz https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4 https://github.com/AutoViML/featurewiz
    
    Automatic Feature Engineering Using AutoFeat https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/
    
@@ -1965,6 +1965,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       https://analyticsindiamag.com/top-time-series-deep-learning-methods/
       
       book https://otexts.com/fpp2/
+      
+   deep_autoviml Build tensorflow keras model pipelines in a single line of code https://github.com/AutoViML/deep_autoviml
       
    G.Semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
    
@@ -3686,7 +3688,7 @@ AutoNeuro   https://autoneuro.challenge-ineuron.in/
 
 ATOM https://towardsdatascience.com/atom-a-python-package-for-fast-exploration-of-machine-learning-pipelines-653956a16e7b https://github.com/tvdboom/ATOM
 
-6. autoviml
+6. autoviml  https://github.com/AutoViML/Auto_ViML
 
    𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲  https://github.com/Muhammad4hmed/GML
    
