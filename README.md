@@ -608,6 +608,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Mito Generating Python By Editing Spreadsheet  https://www.youtube.com/watch?v=yy3-C39ra6s https://trymito.io/?source=twitter1
    
+   Automate Pivot Table with Python https://towardsdatascience.com/automate-excel-with-python-pivot-table-899eab993966
+   
    OpenPyXL: A Python Module For Excel https://analyticsindiamag.com/guide-to-openpyxl-a-python-module-for-excel/
    
    causal interactive dashboards and beautiful visuals https://www.causal.app/,
@@ -679,6 +681,8 @@ World’s Largest Data Platform https://worlddata.ai/
      ii.missing at random (randomness in missing data, missing value have correlation by data) we can't delete because disturbance of data distribution
      
      iii.missing not at random  (there is reason for missing value and directly related to value)
+     
+     Identify Missingness Types With Missingno  https://towardsdev.com/how-to-identify-missingness-types-with-missingno-61cfe0449ad9
      
      Univariate,Multivariate  https://medium.com/fintechexplained/what-are-imputers-in-data-science-b72f8308322b
    
@@ -2370,6 +2374,8 @@ https://rachitsingh.com/deep-learning-model-compression/#quantization
 model optimization (architecture)
  
 TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
+
+ AI Engine for Edge Devices https://github.com/johnolafenwa/deepstack
 
 tflite-support TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices https://github.com/tensorflow/tflite-support
 
