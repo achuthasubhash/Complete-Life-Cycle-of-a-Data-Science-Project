@@ -3694,7 +3694,7 @@ quick_ml  https://pypi.org/project/quick-ml/ https://www.quickml.info/
 
 MLJAR https://github.com/mljar/mljar-supervised/  https://towardsdatascience.com/binary-classification-with-automated-machine-learning-1a36e78ba50f 
 
-TransmogrifAI https://github.com/salesforce/TransmogrifAI
+TransmogrifAI https://github.com/salesforce/TransmogrifAI  darwin http://drwn.anu.edu.au/
 
 GenoML (AutoML) for Genomics https://genoml.com/ https://github.com/GenoML
 
@@ -3778,7 +3778,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA 
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts
    
   QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
