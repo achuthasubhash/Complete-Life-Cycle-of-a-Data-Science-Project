@@ -2707,6 +2707,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    Fine-tuning pretrained NLP models with Huggingface’s Trainer https://towardsdatascience.com/fine-tuning-pretrained-nlp-models-with-huggingfaces-trainer-6326a4456e7b
    
+   Mixing Hugging Face Models with Gradio 2.0  https://gradio.app/blog/using-huggingface-models https://huggingface.co/blog/gradio
+   
    ktrain  https://github.com/amaiya/ktrain
    
    Top 6 Alternatives To Hugging Face https://analyticsindiamag.com/top-6-alternatives-to-hugging-face/
@@ -2817,15 +2819,13 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer
    
-   Teachable Machine-https://teachablemachine.withgoogle.com/
+   Teachable Machine-https://teachablemachine.withgoogle.com/  Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
    Microsoft Lobe -https://lobe.ai/
    
    Ludwig https://github.com/ludwig-ai/ludwig 
    
-   WEKA - https://www.cs.waikato.ac.nz/ml/weka/  autoweka
-   
-   Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
+   WEKA - https://www.cs.waikato.ac.nz/ml/weka/  autoweka 
    
    Create ML https://developer.apple.com/documentation/createml
    
