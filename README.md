@@ -861,11 +861,11 @@ anderson teset  use for check any  distribution
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,IQR,TensorFlow_Data_Validation,Scatterplot
+      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,Scatterplot
       
       Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification
       
-      outiler treatment: mean/median/random imputation,drop,discretization (binning)
+      outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group
       
       PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/ 
       
@@ -3118,7 +3118,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    106.Interpret The ML Model    https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608
 
-   https://christophm.github.io/interpretable-ml-book/  https://www.kaggle.com/getting-started/209632
+   https://christophm.github.io/interpretable-ml-book/  https://www.kaggle.com/getting-started/209632  https://ex.pegg.io/
    
    tf-explain https://github.com/sicara/tf-explain
    
