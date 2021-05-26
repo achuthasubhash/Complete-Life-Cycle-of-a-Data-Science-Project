@@ -518,7 +518,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Fully Synthetic Data,Partially Synthetic Data ,Hybrid Synthetic Data https://towardsdatascience.com/synthetic-data-key-benefits-types-generation-methods-and-challenges-11b0ad304b55
     
-    Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
+    Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/  https://dockship.io/articles/607847e461373d1b994cc2dc/create-synthetic-images-using-opencv-(python)
     
     Synthetic Data Generation Using Gaussian Mixture Model https://deepnote.com/@chanakya-vivek-kapoor/Synthetic-Data-Generation-QaaTRs73T2iCb0amHFbwpQ
     
@@ -903,17 +903,20 @@ anderson teset  use for check any  distribution
   
     Explore the dataset by using  python or microsoft Excel,Power BI,Tableau,SAS Business Intelligence and Analytics Tool,QlikView,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
     
-   Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
+    Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
+    
+    Power BI In Jupyter Notebooks https://github.com/microsoft/powerbi-jupyter  https://analyticsindiamag.com/microsoft-releases-power-bi-in-jupyter-notebooks/
    
-   Mito Generating Python By Editing Spreadsheet  https://www.youtube.com/watch?v=yy3-C39ra6s https://trymito.io/?source=twitter1
+    Mito Generating Python By Editing Spreadsheet  https://www.youtube.com/watch?v=yy3-C39ra6s https://trymito.io/?source=twitter1
    
-   Automate Pivot Table with Python https://towardsdatascience.com/automate-excel-with-python-pivot-table-899eab993966
+    Automate Pivot Table with Python https://towardsdatascience.com/automate-excel-with-python-pivot-table-899eab993966
+    
+    OpenPyXL: A Python Module For Excel https://analyticsindiamag.com/guide-to-openpyxl-a-python-module-for-excel/
    
-   OpenPyXL: A Python Module For Excel https://analyticsindiamag.com/guide-to-openpyxl-a-python-module-for-excel/
+    causal interactive dashboards and beautiful visuals https://www.causal.app/,
    
-   causal interactive dashboards and beautiful visuals https://www.causal.app/,
+    Visual Programming (Orange) https://orange.biolab.si/
    
-   Visual Programming (Orange) https://orange.biolab.si/
     atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo
     
     Integrating Tableau With Python https://analyticsindiamag.com/tabpy/  Qlib https://analyticsindiamag.com/qlib/
@@ -2001,6 +2004,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    10 Self-Supervised Learning Frameworks & Libraries To Use In 2021 analyticsindiamag.com/10-self-supervised-learning-frameworks-libraries-to-use-in-2021/
    
    Self-Supervised Learning https://github.com/jason718/awesome-self-supervised-learning
+   
+   Weak Supervision: The Art Of Training ML Models From Noisy Data https://analyticsindiamag.com/weak-supervision-the-art-of-training-ml-models-from-noisy-data/
    
    8 Resources To Learn Self-Supervised Learning In 2021 https://analyticsindiamag.com/top-8-resources-to-learn-self-supervised-learning-in-2021/
    
