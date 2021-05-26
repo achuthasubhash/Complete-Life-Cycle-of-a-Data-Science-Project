@@ -602,6 +602,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     70.audio set https://research.google.com/audioset/
     
+    71.FlatData Flat explores how to make it easy to work with data in git and GitHub https://octo.github.com/projects/flat-data?utm_campaign=Data_Elixir&utm_source=Data_Elixir_337
+    
 ***2.Feature engineering***
 
    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
@@ -609,6 +611,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Feature-engine https://trainindata.medium.com/feature-engine-a-new-open-source-python-package-for-feature-engineering-29a0ab88ea7c  https://feature-engine.readthedocs.io/en/latest/ https://github.com/solegalli/feature_engine https://www.datasciencecentral.com/profiles/blogs/feature-engine-python-package-for-feature-engineering
    
    Automated feature engineering https://medium.com/ibm-data-ai/automated-feature-engineering-for-relational-data-with-autoai-3612fafe9f89
+   
+   Automated Data Wrangling https://catalyst.coop/2021/05/23/automated-data-wrangling/
    
    Automatic Feature Engineering Using Featurewiz https://towardsdatascience.com/automate-your-feature-selection-workflow-in-one-line-of-python-code-3d4f23b7e2c4 https://github.com/AutoViML/featurewiz
    
@@ -1728,6 +1732,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         Microsoft IceCAPS is an Open Source Framework for Conversational Modeling https://pub.towardsai.net/microsoft-icecaps-is-an-open-source-framework-for-conversational-modeling-4f78492ca685
         
+        State-of-the-art Approaches to Building Open-Domain Conversational Agents https://www.topbots.com/conversational-ai-open-domain-chatbots/?utm_source=twitter&utm_medium=company_post&utm_campaign=conversational_open_domain_chatbots
+        
         LaMDA: our breakthrough conversation technology https://www.blog.google/technology/ai/lamda
         
         assemblyai https://www.assemblyai.com/
@@ -2058,6 +2064,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     https://analyticsindiamag.com/top-8-approaches-for-tuning-hyperparameters-of-machine-learning-models/  https://analyticsindiamag.com/top-10-open-source-hyperparameter-optimisation-libraries-for-ml-models/
     
     https://github.com/balavenkatesh3322/hyperparameter_tuning
+    
+    manual search
   
     a.GridSearchCV (check every given parameter so take long time)
     
@@ -2067,7 +2075,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization 
+    c.Bayesian Optimization , bayes search
     
     Bayesian Optimization Using BoTorch https://analyticsindiamag.com/guide-to-bayesian-optimization-using-botorch/
     
@@ -3866,7 +3874,7 @@ Numba https://github.com/numba/numba https://www.youtube.com/watch?v=3O-Pvnrbsu0
 
 Arrow https://towardsdatascience.com/how-fast-is-reading-parquet-file-with-arrow-vs-csv-with-pandas-2f8095722e94
 
-Cython,Numba,PyPy,ray,loky,Dask,p_tqdm (aka Pathos + tqdm)
+Cython,Numba,PyPy,ray,loky,Dask,p_tqdm (aka Pathos + tqdm),modin,connectorx
 
 Reducing Pandas memory https://pythonspeed.com/articles/pandas-load-less-data/  https://www.youtube.com/watch?v=HNE0qHJ9A9o
 
