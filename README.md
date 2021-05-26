@@ -2076,12 +2076,14 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingGridSearch https://towardsdatascience.com/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155 https://towardsdatascience.com/faster-hyperparameter-tuning-with-scikit-learn-71aa76d06f12
   
-    b.RandomizedSearchCV (search randomly narrow down our time)
+    b.RandomizedSearchCV (search randomly narrow down our time) with Scikit-learn, Scikit-Optimize,Hyperopt
     
     HalvingRandomSearchCV
   
     c.Bayesian Optimization , bayes search
     
+    Bayesian search with Gaussian processes,bayesian search with Random Forests,Bayesian search with GBMs
+
     Bayesian Optimization Using BoTorch https://analyticsindiamag.com/guide-to-bayesian-optimization-using-botorch/
     
     hyperparameter optimization https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms
