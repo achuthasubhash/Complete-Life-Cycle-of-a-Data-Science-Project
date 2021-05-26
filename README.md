@@ -1527,6 +1527,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      3.LSTM (have memory cell,forget gate  etc..)
 
      Depth Gated RNNs,Clockwork RNNs
+     
+     4.Information Discrimination Units (IDU) https://github.com/hjeun/idu
 
      Train an LSTM Model ~30x Faster Using PyTorch with GPU https://towardsdatascience.com/how-to-train-an-lstm-model-30x-faster-using-pytorch-with-gpu-e6bcd3134c86
      
@@ -3318,6 +3320,8 @@ determined to be unfair.
    kubeflow https://github.com/kubeflow/kubeflow
    
    kubernetes  https://github.com/kubernetes/kubernetes
+   
+   Metaflow https://metaflow.org/  https://github.com/Netflix/metaflow
    
    pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
    
