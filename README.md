@@ -656,7 +656,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
    feast Feature Store for Machine Learning https://github.com/feast-dev/feast https://www.youtube.com/watch?v=ZeJdr0nZ9PA
    
-   Automated Feature Selection: Featurewiz
+   Automated Feature Selection: Featurewiz  https://github.com/AutoViML/featurewiz
    
    Feature Engineering of DateTime Variables for Data Science, Machine Learning https://www.kdnuggets.com/2021/04/feature-engineering-datetime-variables-data-science-machine-learning.html
      
@@ -3745,17 +3745,13 @@ AutoNeuro   https://autoneuro.challenge-ineuron.in/
 
 ATOM https://towardsdatascience.com/atom-a-python-package-for-fast-exploration-of-machine-learning-pipelines-653956a16e7b https://github.com/tvdboom/ATOM
 
-6. autoviml  https://github.com/AutoViML/Auto_ViML
+6. autoviml  https://github.com/AutoViML/Auto_ViML  deep_autoviml https://github.com/AutoViML/deep_autoviml
 
    𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲  https://github.com/Muhammad4hmed/GML
    
    CodeLess  https://pypi.org/project/codeless/  https://github.com/porky5191/codeless_demo_project
    
     AUTORL: AUTOML FOR RL https://www.automl.org/blog-autorl/
-
-7. autoViz
-
-8. hyperopt
 
 8. sweetviz (EDA purpose)  - https://pypi.org/project/sweetviz/ https://www.kdnuggets.com/2021/03/know-your-data-much-faster-sweetviz-python-library.html
 
