@@ -2274,6 +2274,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Dockerize  https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html  https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1
     
+    Create ML model inside the docker container https://dev.to/niteshthapliyal/create-ml-model-inside-the-docker-container-3b23
+    
     LyftLearn: ML Model Training Infrastructure built on Kubernetes https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb
     
     Model Serving https://neptune.ai/blog/ml-model-serving-best-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-ml-model-serving-best-tools
@@ -2425,6 +2427,8 @@ tflite-support TFLite Support is a toolkit that helps users to develop ML and de
 Post-training Quantization in TensorFlow Lite  https://www.tensorflow.org/lite/performance/post_training_quantization
 
 pruning 
+
+Custom Text Classification on Android using TensorFlow Lite https://www.analyticsvidhya.com/blog/2021/05/custom-text-classification-on-android-using-tensorflow-lite/
 
 aimet advanced quantization and compression techniques for trained neural network models  https://github.com/quic/aimet   https://github.com/quic/aimet-model-zoo
 
