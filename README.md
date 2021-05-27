@@ -903,6 +903,8 @@ anderson teset  use for check any  distribution
   
     Explore the dataset by using  python or microsoft Excel,Power BI,Tableau,SAS Business Intelligence and Analytics Tool,QlikView,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
     
+    Switching from Spreadsheets to Neptune.ai https://neptune.ai/blog/switching-from-spreadsheets-to-neptune-ai
+    
     Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
     
     Power BI In Jupyter Notebooks https://github.com/microsoft/powerbi-jupyter  https://analyticsindiamag.com/microsoft-releases-power-bi-in-jupyter-notebooks/
@@ -1365,9 +1367,13 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
    
      1.Classification of image
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit, FNet,gMLP models 
+       albumentations https://github.com/albumentations-team/albumentations
+     
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit, FNet,gMLP models,nfnet
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
+       
+       timm https://pypi.org/project/timm/  https://github.com/rwightman/pytorch-image-models
      
      2.Localization of object in image
      
@@ -1377,6 +1383,8 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,
 Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,
+
+       mmdetection https://github.com/open-mmlab/mmdetection  
 
        Video Understanding https://towardsdatascience.com/video-understanding-made-simple-with-pytorch-video-and-lightning-flash-c7d65583c37e
 
@@ -1401,6 +1409,8 @@ Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲�
        PyMAF https://analyticsindiamag.com/guide-to-pymaf-pyramidal-mesh-alignment-feedback/
        
        3 kind of object segmentation are available semantic segmentation,instance segmentation,panoptic segmentation
+       
+       segmentation_models  https://github.com/qubvel/segmentation_models
        
        https://analyticsindiamag.com/guide-to-panoptic-segmentation-a-semantic-instance-segmentation-approach/  https://analyticsindiamag.com/semantic-vs-instance-vs-panoptic-which-image-segmentation-technique-to-choose/
        
