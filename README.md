@@ -1620,7 +1620,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      https://github.com/jasonwei20/eda_nlp  https://github.com/dsfsi/textaugment https://github.com/QData/TextAttack https://github.com/makcedward/nlpaug
      
-     doccano text annotation tool https://github.com/doccano/doccano https://www.youtube.com/watch?v=vT-GE_jssPk
+     doccano text annotation tool https://github.com/doccano/doccano https://www.youtube.com/watch?v=vT-GE_jssPk https://github.com/doccano/auto-labeling-pipeline   https://github.com/doccano/doccano-client https://doccano.herokuapp.com/
      
      beautiful Wordclouds in Python  https://towardsdatascience.com/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5
      
