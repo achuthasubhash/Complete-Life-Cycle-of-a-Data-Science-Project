@@ -1937,6 +1937,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       Forecasting with H2O AutoML https://github.com/business-science/modeltime.h2o/
       
+      MiniRocket: Fast(er) and Accurate Time Series Classification https://towardsdatascience.com/minirocket-fast-er-and-accurate-time-series-classification-cdacca2dcbfa
+      
       modeltime https://github.com/business-science/modeltime
       
       GluonTS , PytorchTS   https://analyticsindiamag.com/gluonts-pytorchts-for-time-series-forecasting/
@@ -2850,7 +2852,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
    https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
-   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer
+   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench
    
    Teachable Machine-https://teachablemachine.withgoogle.com/  Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
