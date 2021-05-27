@@ -1376,7 +1376,7 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,YoloV5,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,
-Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit
+Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,
 
        Video Understanding https://towardsdatascience.com/video-understanding-made-simple-with-pytorch-video-and-lightning-flash-c7d65583c37e
 
@@ -3799,7 +3799,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
 15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts
+   Automating EDA using Pandas Profiling, Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data
    
   QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
