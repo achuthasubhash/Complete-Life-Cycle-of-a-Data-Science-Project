@@ -2328,7 +2328,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     plotly https://plotly.com/  https://analyticsindiamag.com/how-to-use-plotly-in-colab/
     
-    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
+    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
     Deepnote https://deepnote.com/  https://www.youtube.com/watch?v=0ppptVxgEI8
     
@@ -2463,6 +2463,8 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
 IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Quantum,Rigetti’s Forest,Xanadu’s Pennylane
 
 ***On-Device Machine Learning***  https://developers.google.com/learn/topics/on-device-ml
+
+ Core ML for iOS, Tensorflow lite for Android, ML.NET for Windows and ML Kit
 
 ***8.Mointoring model***
 
