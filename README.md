@@ -2384,6 +2384,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     high-level app and dashboarding solution(Panel)-https://panel.holoviz.org/
     
+    MaaS Build ML Models As A Service  https://www.analyticsvidhya.com/blog/2021/05/maas-build-ml-models-as-a-service/
+    
     https://github.com/gradio-app/gradio
     
 ***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite  https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android-beta/#0  https://tfhub.dev/s?deployment-format=lite  https://www.tensorflow.org/lite/examples https://www.tensorflow.org/lite/microcontrollers
@@ -3517,6 +3519,8 @@ determined to be unfair.
    167.Code and Notebook Versioning for ML Teams https://neptune.ai/blog/code-and-notebook-versioning-for-ml-teams-guide?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-code-and-notebook-versioning-for-ml-teams-guide
 
    10 tools that can serve as a great alternative to the different parts of ClearML https://neptune.ai/blog/clear-ml-alternatives?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-clear-ml-alternatives
+   
+   168.3 Tools to Track and Visualize the Execution of your Python Code https://towardsdatascience.com/3-tools-to-track-and-visualize-the-execution-of-your-python-code-666a153e435e
    
    
 ***Follow leaders in the field to update yourself in the field***
