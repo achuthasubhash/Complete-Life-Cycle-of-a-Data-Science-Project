@@ -625,6 +625,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Validate your Data (Schema) https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
+  
+   Cleaner Data Analysis with Pandas Using Pipes https://towardsdatascience.com/cleaner-data-analysis-with-pandas-using-pipes-4d73770fbf3c
    
    DataPrep  https://dataprep.ai/ https://github.com/sfu-db/dataprep https://towardsdatascience.com/dataprep-v0-3-0-has-been-released-be49b1be0e72
    
