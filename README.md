@@ -3963,6 +3963,8 @@ Pyston project open sources its faster Python https://www.infoworld.com/article/
 
 28.pandarallel  (simple and efficient tool to parallelize your pandas computation on all your CPUs) https://pypi.org/project/pandarallel/
 
+   Pandarallel, Pandarallel’s parallel_apply()
+
 29.PDFTableExtract(by PyPDF2)  https://github.com/ashima/pdf-table-extract
 
    Camelot-https://towardsdatascience.com/extracting-tabular-data-from-pdfs-made-easy-with-camelot-80c13967cc88
