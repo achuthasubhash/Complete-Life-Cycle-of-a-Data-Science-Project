@@ -989,7 +989,7 @@ anderson teset  use for check any  distribution
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector
 
-    1.Filter methods (correleation,chisquare  test,Ttest,vif,anova test,mutal information,hypothesis test,information gain etc...)
+    1.Filter methods (correleation,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain etc...)
 
     2.Wrapper methods (recursive feature eliminiation,boruta,forward feature selection,backwaed feature elimination,exhaustic feature selection,stepwise selection etc...)
 
@@ -1386,7 +1386,7 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,YoloV5,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,
-Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,
+Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,AugFPN
 
        mmdetection https://github.com/open-mmlab/mmdetection  
 
