@@ -3236,7 +3236,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    How to easily check if your Machine Learning model is fair (dalex) https://www.kdnuggets.com/2020/12/machine-learning-model-fair.html
    
-   LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym
+   LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System
    
    https://analyticsindiamag.com/guide-to-ai-fairness-360-an-open-source-toolkit-for-detection-and-mitigation-of-bias-in-ml-models/
    
