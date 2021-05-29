@@ -2422,6 +2422,8 @@ ibm new tool https://www.zdnet.com/article/ibms-new-tool-lets-developers-add-qua
 
 qiskit-machine-learning https://github.com/Qiskit/qiskit-machine-learning https://qiskit.org/documentation/machine-learning/stubs/qiskit_machine_learning.neural_networks.SamplingNeuralNetwork.html
 
+compressors https://github.com/elephantmipt/compressors
+
 https://rachitsingh.com/deep-learning-model-compression/#quantization
 
 model optimization (architecture)
