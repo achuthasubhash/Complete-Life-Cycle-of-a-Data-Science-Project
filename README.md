@@ -2142,6 +2142,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     j.Keras Hyperparameter Tuning with aisaratuners Library https://aisaradeepwadi.medium.com/advance-keras-hyperparameter-tuning-with-aisaratuners-library-78c488ab4d6a
     
+    storm-tuner https://github.com/ben-arnao/StoRM https://medium.com/geekculture/finding-best-hyper-parameters-for-deep-learning-model-4df7a17546c2
+    
     k.model_search https://github.com/google/model_search https://analyticsindiamag.com/hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl/
     
     Optimize machine learning models https://www.tensorflow.org/model_optimization
@@ -3757,7 +3759,7 @@ AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindi
 
 5. autosklearn,autokeras,LightAutoML,xcessiv,kerastuner  (https://github.com/sberbank-ai-lab/LightAutoML)
 
-Keras Tuner- Decide Number of Hidden Layers And Neuron In Neural Network
+Keras Tuner or storm-tuner - Decide Number of Hidden Layers And Neuron In Neural Network
 
 AutoNeuro   https://autoneuro.challenge-ineuron.in/
 
