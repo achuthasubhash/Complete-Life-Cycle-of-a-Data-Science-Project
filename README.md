@@ -146,7 +146,7 @@ d.Databases
 
   Databases are 2 kind sequel  and no sequel database
 
-  sql,sql lite,mysql,mongodb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase,oracle db
+  sql,sql lite,mysql,mongodb,montydb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase,oracle db
   
   sql https://mode.com/sql-tutorial/  https://www.w3schools.com/sql/
   
@@ -869,7 +869,7 @@ anderson teset  use for check any  distribution
       
       Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification
       
-      outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group
+      outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power)
       
       PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/ 
       
