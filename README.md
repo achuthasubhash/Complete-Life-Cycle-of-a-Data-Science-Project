@@ -1710,7 +1710,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,PRADO,PET,BORT,MuRIL,Multitask Unified Model
+     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,PRADO,PET,BORT,MuRIL,Multitask Unified Model
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
 
@@ -2876,7 +2876,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    Create ML https://developer.apple.com/documentation/createml
    
-   APAflow https://apaflow.com/?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity0b527
+   APAflow https://apaflow.com/?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity0b527 https://apaflow.com/
    
    Monk_Gui-https://github.com/Tessellate-Imaging/Monk_Gui
    
