@@ -1710,7 +1710,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,PRADO,PET,BORT,MuRIL,Multitask Unified Model
+     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,PRADO,PET,BORT,MuRIL,Multitask Unified Model
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
 
@@ -2123,6 +2123,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     NeuPy http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html#id24
     
     Vizier
+    
+    ConfigSpace https://automl.github.io/ConfigSpace/master/ https://towardsdatascience.com/tuning-xgboost-with-xgboost-writing-your-own-hyper-parameters-optimization-engine-a593498b5fba
     
     NatureInspiredSearchCV https://github.com/timzatko/Sklearn-Nature-Inspired-Algorithms
     
