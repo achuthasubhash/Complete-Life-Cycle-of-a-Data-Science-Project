@@ -1389,6 +1389,8 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
 Libra_R-CNN,detr facebook,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,AugFPN
 
        mmdetection https://github.com/open-mmlab/mmdetection  
+       
+       Image Generation Using TensorFlow Keras https://analyticsindiamag.com/getting-started-image-generation-tensorflow-keras/
 
        Video Understanding https://towardsdatascience.com/video-understanding-made-simple-with-pytorch-video-and-lightning-flash-c7d65583c37e
 
@@ -1907,7 +1909,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       orbit https://eng.uber.com/orbit/ 
       
-      greykite A flexible, intuitive and fast forecasting library https://github.com/linkedin/greykite
+      greykite A flexible, intuitive and fast forecasting library https://github.com/linkedin/greykite https://www.analyticsvidhya.com/blog/2021/05/greykite-time-series-forecasting-in-python/
       
       LinkedIn open-sources Greykite, a library for time series forecasting  https://github.com/linkedin/greykite/stargazers
       
