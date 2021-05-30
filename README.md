@@ -658,7 +658,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
    feast Feature Store for Machine Learning https://github.com/feast-dev/feast https://www.youtube.com/watch?v=ZeJdr0nZ9PA
    
-   Automated Feature Selection: Featurewiz  https://github.com/AutoViML/featurewiz
+   Automated Feature Selection: Featurewiz  https://github.com/AutoViML/featurewiz https://towardsdatascience.com/featurewiz-fast-way-to-select-the-best-features-in-a-data-9c861178602e
    
    Feature Engineering of DateTime Variables for Data Science, Machine Learning https://www.kdnuggets.com/2021/04/feature-engineering-datetime-variables-data-science-machine-learning.html
      
@@ -1120,7 +1120,11 @@ anderson teset  use for check any  distribution
   
   Best and Worst Cases of Machine-Learning Models https://medium.com/towards-artificial-intelligence/best-and-worst-cases-of-machine-learning-models-part-1-36cdb9296611
 
-https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
+  https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCpQdY
+  
+  skater Machine Learning Model Interpretation https://towardsdatascience.com/machine-learning-model-interpretation-47b4bc29d17f
+  
+  Speedml Speeding up Machine Learning  https://towardsdatascience.com/speedml-speeding-up-machine-learning-5dccbf21effd
    
    A.Supervised learning (have label data)
    
@@ -1354,6 +1358,12 @@ https://www.youtube.com/watch?v=mlumJPFvooQ&list=PLZoTAELRMXVM0zN0cgJrfT6TK2ypCp
    NVIDIA’s Kaolin: A 3D Deep Learning Library https://analyticsindiamag.com/nvidias-kaolin-3d-deep-learning-library/ https://github.com/NVIDIAGameWorks/kaolin
    
    PySyft is a Python library for secure and private Deep Learning https://github.com/OpenMined/PySyft
+   
+   keras-vis Visualizing Learning of a Deep Neural Network https://towardsdatascience.com/deep-learning-model-visualization-6cf6290dc981
+   
+   Deep Replay Visualizing Learning of a Deep Neural Network https://towardsdatascience.com/visualizing-learning-of-a-deep-neural-network-b05f1711651c
+   
+   keras-visualizer  Visualizing Keras Models https://towardsdatascience.com/visualizing-keras-models-4d0063c8805e
    
    1.Multilayer perceptron(MLP)
    
@@ -2110,7 +2120,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Hyperopt hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
     
-    HpBandSter https://github.com/automl/HpBandSter
+    HpBandSter https://github.com/automl/HpBandSter  hpsklearn https://medium.com/mlearning-ai/automatic-hyperparameter-optimization-6a1692c2ebee
     
     hypopt  https://github.com/cgnorthcutt/hypopt https://medium.com/mlearning-ai/automatic-hyperparameter-optimization-6a1692c2ebee
     
@@ -2136,11 +2146,13 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
     f.Genetic Algorithms
     
-    g.Keras tuner (Random Search Keras Tuner,HyperBand Keras Tuner,Bayesian Optimization Keras Tuner ) https://sukanyabag.medium.com/automated-hyperparameter-tuning-with-keras-tuner-and-tensorflow-2-0-31ec83f08a62
+    g.Keras tuner (Random Search Keras Tuner,HyperBand Keras Tuner,Bayesian Optimization Keras Tuner,Hyperas  ) https://sukanyabag.medium.com/automated-hyperparameter-tuning-with-keras-tuner-and-tensorflow-2-0-31ec83f08a62
     
     Keras Hyperparameter Tuning with aisaratuners Library https://aisaradeepwadi.medium.com/advance-keras-hyperparameter-tuning-with-aisaratuners-library-78c488ab4d6a
     
     storm-tuner https://github.com/ben-arnao/StoRM https://medium.com/geekculture/finding-best-hyper-parameters-for-deep-learning-model-4df7a17546c2
+    
+    Hyperas  https://towardsdatascience.com/automating-hyperparameter-tuning-of-keras-model-4fe69b8dedee
     
     h.Scikit-Optimize
     
@@ -3740,6 +3752,8 @@ TransmogrifAI  https://github.com/salesforce/TransmogrifAI
 Hugging Face’s AutoNLP https://www.analyticsvidhya.com/blog/2021/03/a-hands-on-introduction-to-hugging-faces-autonlp-101/
 
 Automated Text Classification with EvalML https://www.kdnuggets.com/2021/04/automated-text-classification-evalml.html
+ 
+Pywedge A complete package for EDA, Data Preprocessing and Modelling https://towardsdatascience.com/pywedge-a-complete-package-for-eda-data-preprocessing-and-modelling-32171702a1e0
 
 3. autopandas
 
@@ -3769,7 +3783,9 @@ AutoNeuro   https://autoneuro.challenge-ineuron.in/
 
 ATOM https://towardsdatascience.com/atom-a-python-package-for-fast-exploration-of-machine-learning-pipelines-653956a16e7b https://github.com/tvdboom/ATOM
 
-6. autoviml  https://github.com/AutoViML/Auto_ViML  deep_autoviml https://github.com/AutoViML/deep_autoviml
+6. autoviml  https://github.com/AutoViML/Auto_ViML  https://towardsdatascience.com/autoviml-automating-machine-learning-4792fee6ae1e
+
+   deep_autoviml https://github.com/AutoViML/deep_autoviml
 
    𝗮𝘂𝘁𝗼𝗺𝗮𝘁𝗲 𝗺𝗼𝘀𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲  https://github.com/Muhammad4hmed/GML
    
