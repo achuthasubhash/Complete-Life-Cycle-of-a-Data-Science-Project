@@ -2706,7 +2706,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
