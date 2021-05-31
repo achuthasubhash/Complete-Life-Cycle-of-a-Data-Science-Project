@@ -62,6 +62,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     gazpacho https://github.com/maxhumber/gazpacho
     
+    
+    
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
 
       twitterscraper https://www.youtube.com/watch?v=MpIi4HtCiVk
@@ -1734,7 +1736,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,PRADO,PET,BORT,MuRIL,Multitask Unified Model
+     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
 
@@ -2496,7 +2498,7 @@ Quantum Kernels  https://github.com/Qiskit/qiskit-machine-learning/blob/master/d
 
 IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Quantum,Rigetti’s Forest,Xanadu’s Pennylane
 
-***On-Device Machine Learning***  https://developers.google.com/learn/topics/on-device-ml
+***On-Device Machine Learning***  https://developers.google.com/learn/topics/on-device-ml  https://www.tensorflow.org/lite/guide/model_maker
 
  Core ML for iOS, Tensorflow lite for Android, ML.NET for Windows and ML Kit
 
