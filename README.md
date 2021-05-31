@@ -742,7 +742,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.Under Sampling - mostly not prefer because lost of data
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
      
      https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/
      
