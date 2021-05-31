@@ -96,6 +96,10 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
      ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
      
+     Apify https://apify.com/
+     
+     obsei https://github.com/lalitpagaria/obsei
+     
      Diffbot  https://analyticsindiamag.com/diffbot/
      
      Trustpilot,webhose,scrapingbot
