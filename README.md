@@ -768,6 +768,11 @@ World’s Largest Data Platform https://worlddata.ai/
    
    d.Format data
    
+   d.Discretize
+     a.Equall width binning
+     b.Equal frequency binning
+     c.K-means Binning
+   
    e.Handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
    
      1.One Hot Encoding
@@ -994,6 +999,8 @@ anderson teset  use for check any  distribution
     2.Wrapper methods (recursive feature eliminiation,boruta,forward feature selection,backwaed feature elimination,exhaustic feature selection,stepwise selection etc...)
 
     3.Embedded method (lasso regression,ridge regression,elasticnet regression,tree based etc...)
+    
+    4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition)
     
     DropConstantFeatures  DropDuplicateFeatures    DropCorrelatedFeatures  
     
