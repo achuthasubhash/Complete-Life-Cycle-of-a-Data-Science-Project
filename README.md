@@ -763,6 +763,8 @@ World’s Largest Data Platform https://worlddata.ai/
      5.Weighted Neural Network
      
      6.MESA https://analyticsindiamag.com/guide-to-mesa-boost-ensemble-imbalanced-learning-with-meta-sampler/
+     
+     7.choose metric roc,f1,etc...
        
      https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/  https://www.kdnuggets.com/2020/01/5-most-useful-techniques-handle-imbalanced-datasets.html
      
@@ -841,7 +843,7 @@ World’s Largest Data Platform https://worlddata.ai/
        
        https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/?utm_source=linkedin&utm_medium=KJ|link|high-performance-blog|blogs|44204|0.375
       
-   Q-Q plot or Shapiro-Wilk Normality Test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
+   Q-Q plot or Shapiro-Wilk Normality Test or lilliefors test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
 performance if not distributed then use below methods to bring it guassian distribution
 
 normal test,Histogram,Q-Q plot,KDE plot,Skewness and Kurtosis for check normal distribution 
