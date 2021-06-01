@@ -636,6 +636,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    DataPrep  https://dataprep.ai/ https://github.com/sfu-db/dataprep https://towardsdatascience.com/dataprep-v0-3-0-has-been-released-be49b1be0e72
    
+   ATOM https://github.com/tvdboom/ATOM  https://towardsdatascience.com/how-to-test-multiple-machine-learning-pipelines-with-just-a-few-lines-of-python-1a16cb4686d
+   
    openrefine A free, open source, powerful tool for working with messy data  https://openrefine.org/#
    
    data leaning library https://www.analyticsvidhya.com/blog/2021/05/data-cleaning-libraries-in-python-a-gentle-introduction/
@@ -3730,6 +3732,8 @@ Vertex AI, one platform, every ML tool you need  https://cloud.google.com/vertex
  https://github.com/search?q=automl  https://www.kdnuggets.com/2016/03/automated-data-science.html  https://www.kdnuggets.com/software/automated-data-science.html
 
 Tpot https://github.com/EpistasisLab/tpot
+
+ATOM https://github.com/tvdboom/ATOM  https://towardsdatascience.com/how-to-test-multiple-machine-learning-pipelines-with-just-a-few-lines-of-python-1a16cb4686d
 
 mljar-supervised  https://github.com/mljar/mljar-supervised
 
