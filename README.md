@@ -702,7 +702,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      5.apply unsupervised 
      
-     6.Random Sample Imputation
+     6.Random Imputation
      
      7.Adding a variable to capture NAN(missing term)
      
@@ -720,7 +720,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      14.MICE Imputation
      
-     15.interpolation
+     15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/
      
      Extrapolation and Interpolation
      
@@ -779,9 +779,11 @@ World’s Largest Data Platform https://worlddata.ai/
    d.Format data
    
    d.Discretize
-     a.Equall width binning
+     a.Equal width binning
      b.Equal frequency binning
      c.K-means Binning
+     d.Discretization by Decision Trees
+     e.ChiMerge
    
    e.Handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
    
@@ -869,6 +871,8 @@ anderson teset  use for check any  distribution
            h.johnson
            
            i.power transformations  https://towardsdatascience.com/when-and-how-to-use-power-transform-in-machine-learning-2c6ad75fb72e
+           
+           g.Quantile Transformation
         
    g.Remove low variance feature by using VarianceThreshold
    
@@ -2892,7 +2896,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    OpenChat: Open Source Chatting Framework for Generative Models https://analyticsindiamag.com/a-brief-overview-of-openchat-open-source-chatting-framework-for-generative-models/
    
-   62. No Code Machine Learning / Deep Learning   https://analyticsindiamag.com/top-12-no-code-machine-learning-platforms-in-2021/
+   62. No Code Machine Learning / Deep Learning   https://analyticsindiamag.com/top-12-no-code-machine-learning-platforms-in-2021/  https://www.pye.ai/2021/06/01/2021-list-of-top-data-science-platforms-end-to-end-machine-learning/
 
    https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
