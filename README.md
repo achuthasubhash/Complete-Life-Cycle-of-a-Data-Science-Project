@@ -138,6 +138,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      https://www.octoparse.com/ https://github.com/tirthajyoti/pydbgen https://www.mozenda.com/ https://www.mockaroo.com/ https://lionbridge.ai/ https://www.mturk.com/ https://appen.com/
      
+     11.GoogleImageCrawler
+     
 b.Web Crawling
 
   https://python.libhunt.com/scrapy-alternatives
