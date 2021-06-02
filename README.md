@@ -926,6 +926,8 @@ anderson teset  use for check any  distribution
   
     Explore the dataset by using  python or microsoft Excel,Atoti,Power BI,Tableau,SAS Business Intelligence and Analytics Tool,QlikView,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
     
+    atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo
+    
     Switching from Spreadsheets to Neptune.ai https://neptune.ai/blog/switching-from-spreadsheets-to-neptune-ai
     
     Data Analysis using excel https://www.excel-easy.com/data-analysis.html https://www.educba.com/data-analysis-tool-in-excel/ https://www.youtube.com/watch?v=OOWAk2aLEfk
@@ -941,8 +943,6 @@ anderson teset  use for check any  distribution
     causal interactive dashboards and beautiful visuals https://www.causal.app/,
    
     Visual Programming (Orange) https://orange.biolab.si/
-   
-    atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo
     
     Integrating Tableau With Python https://analyticsindiamag.com/tabpy/  Qlib https://analyticsindiamag.com/qlib/
     
