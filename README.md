@@ -534,6 +534,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Create Your own Image Dataset using Opencv https://www.analyticsvidhya.com/blog/2021/05/create-your-own-image-dataset-using-opencv-in-machine-learning/
     
+    ydata-synthetic https://github.com/ydataai/ydata-synthetic
+    
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
 
     Tagalog is our state-of-the-art solution for data management and labeling in Natural Language Processing  https://www.tagalog.ai/tagalog/
