@@ -1600,6 +1600,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
      Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Wasserstein GAN(improve image generation),ChromaGan
      
+     diffusion https://github.com/openai/guided-diffusion
+     
      https://www.analyticsvidhya.com/blog/2021/05/progressive-growing-gan-progan/
      
      5 Alternatives To Deep Nostalgia https://analyticsindiamag.com/top-5-alternatives-to-deep-nostalgia/
