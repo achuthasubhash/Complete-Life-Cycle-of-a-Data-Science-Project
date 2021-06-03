@@ -676,6 +676,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    feast Feature Store for Machine Learning https://github.com/feast-dev/feast https://www.youtube.com/watch?v=ZeJdr0nZ9PA
    
+   FeatureTools,AutoFeat,TsFresh,Cognito,OneBM,ExploreKit,PyFeat
+   
    Automated Feature Selection: Featurewiz  https://github.com/AutoViML/featurewiz https://towardsdatascience.com/featurewiz-fast-way-to-select-the-best-features-in-a-data-9c861178602e
    
    Feature Engineering of DateTime Variables for Data Science, Machine Learning https://www.kdnuggets.com/2021/04/feature-engineering-datetime-variables-data-science-machine-learning.html
