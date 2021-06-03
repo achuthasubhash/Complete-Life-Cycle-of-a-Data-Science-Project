@@ -67,6 +67,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
 
       twitterscraper https://www.youtube.com/watch?v=MpIi4HtCiVk
+      
+      GetOldTweets3
 
       Scrape Twitter for Tweets https://github.com/taspinar/twitterscraper
       
@@ -641,6 +643,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Cleaner Data Analysis with Pandas Using Pipes https://towardsdatascience.com/cleaner-data-analysis-with-pandas-using-pipes-4d73770fbf3c
    
    DataPrep  https://dataprep.ai/ https://github.com/sfu-db/dataprep https://towardsdatascience.com/dataprep-v0-3-0-has-been-released-be49b1be0e72
+   
+   cleantext https://www.youtube.com/watch?v=i2TjAgga1YU&feature=youtu.be
    
    ATOM https://github.com/tvdboom/ATOM  https://towardsdatascience.com/how-to-test-multiple-machine-learning-pipelines-with-just-a-few-lines-of-python-1a16cb4686d
    
@@ -1401,6 +1405,8 @@ anderson teset  use for check any  distribution
      2.Classification task
    
    2.Convolutional neural network ( use for image data)
+   
+     Best MLOps Tools for Your Computer Vision Project Pipeline https://neptune.ai/blog/best-mlops-tools-for-computer-vision-project?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-mlops-tools-for-computer-vision-project
 
       mediapipe https://google.github.io/mediapipe/ 
       
@@ -1581,6 +1587,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      3.LSTM (have memory cell,forget gate  etc..)
 
      Depth Gated RNNs,Clockwork RNNs
+     
+     𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗹 𝗖𝗼𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸  better than LSTM/GRU https://github.com/ashishpatel26/tcn-keras-Examples
      
      4.Information Discrimination Units (IDU) https://github.com/hjeun/idu
 
@@ -1881,7 +1889,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    classification,clustering,recommender systems,topic modelling,sentiment analysis,semantic analysis,summarization,machine translation,conversational interface,named entity recognition
    
-   F.Time Series 
+   F.Time Series  Hands-On Guide To Atspy For Automating The Time-Series Forecasting https://github.com/Apress/hands-on-time-series-analylsis-python
    
       here data split is different (train,test,validate)
       
