@@ -1764,7 +1764,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model
+     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,simpleT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
 
@@ -1831,7 +1831,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      lang-identification   Google Compact Language Detector,FastText
      
-     𝗴𝗧𝗧𝗦 for text to speech conversion , 𝘀𝗽𝗲𝗲𝗰𝗵_𝗿𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻
+     𝗴𝗧𝗧𝗦 for text to speech conversion , 𝘀𝗽𝗲𝗲𝗰𝗵_𝗿𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻,TTS
      
      Python/Pytorch app for easily synthesising human voices https://github.com/BenAAndrew/Voice-Cloning-App
      
@@ -2390,7 +2390,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     plotly https://plotly.com/  https://analyticsindiamag.com/how-to-use-plotly-in-colab/
     
-    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
+    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUI https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
     Deepnote https://deepnote.com/  https://www.youtube.com/watch?v=0ppptVxgEI8
     
@@ -3989,8 +3989,8 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
-pandas chunksize,Modin ,Vaex,Dask,PyPolars,Polars,cuDF,mars,ray,rapids,joblib,snorkel,Pyarrow,Fastparquet,dampr,
-pandarallel ,numexpr,ipython parallel   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandas chunksize,Modin ,Vaex,ray,Dask,PyPolars,Polars,cuDF,mars,ray,rapids,joblib,snorkel,Pyarrow,Fastparquet,dampr,
+pandarallel ,numba, numexpr,ipython parallel   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
