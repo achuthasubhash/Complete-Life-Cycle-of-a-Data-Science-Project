@@ -1428,7 +1428,7 @@ anderson teset  use for check any  distribution
      
      3.Object detection and object segmentation 
      
-       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,yolo v4,scaled yolov4,YOLOR,YoloV5,YOLOS,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
+       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,SlimYOLOv3,yolo v4,scaled yolov4,YOLOR,YoloV5,YOLOS,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,Libra_R-CNN,detr facebook,mdetr,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,AugFPN,mlsd
 
@@ -1444,7 +1444,7 @@ anderson teset  use for check any  distribution
        
        MLP   MLP solution for Vision, from Google AI  https://github.com/lucidrains/mlp-mixer-pytorch
        
-       MMDetection https://analyticsindiamag.com/guide-to-mmdetection-an-object-detection-python-toolbox/
+       MMDetection https://analyticsindiamag.com/guide-to-mmdetection-an-object-detection-python-toolbox/  mediapipe  https://github.com/google/mediapipe
        
        SSL Framework For Object Detection https://analyticsindiamag.com/googles-stac-ssl-framework-for-object-detection/ 
        
@@ -1764,7 +1764,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,simpleT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model
+     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,simpleT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
 
