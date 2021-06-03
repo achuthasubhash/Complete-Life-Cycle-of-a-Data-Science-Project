@@ -62,7 +62,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     gazpacho https://github.com/maxhumber/gazpacho
     
-    
+    html_scraper_streamlit_app https://www.youtube.com/watch?v=6U5xJ3mXRKA&feature=youtu.be
     
     6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
 
@@ -138,7 +138,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      https://www.octoparse.com/ https://github.com/tirthajyoti/pydbgen https://www.mozenda.com/ https://www.mockaroo.com/ https://lionbridge.ai/ https://www.mturk.com/ https://appen.com/
      
-     11.GoogleImageCrawler
+     11.GoogleImageCrawler,google_images_download,bing_image
      
 b.Web Crawling
 
@@ -262,7 +262,9 @@ World’s Largest Data Platform https://worlddata.ai/
    
     21)AcedemicTorrents :- https://lnkd.in/g-Ur9Xy
    
-    22) https://neptune.ai/blog/annotation-tool-comparison-deep-learning-data-annotation?utm_source=linkedin&utm_medium=post&utm_campaign=blog-annotation-tool-comparison-deep-learning-data-annotation
+    22) Automates Image Annotation for Deep Learning Models https://medium.com/towards-artificial-intelligence/improving-data-labeling-efficiency-with-auto-labeling-uncertainty-estimates-and-active-learning-5848272365be
+    
+    https://neptune.ai/blog/annotation-tool-comparison-deep-learning-data-annotation?utm_source=linkedin&utm_medium=post&utm_campaign=blog-annotation-tool-comparison-deep-learning-data-annotation
 
     Diffgram,Label Studio ,CVAT,SuperAnnotate,Datasaur https://anthony-sarkis.medium.com/the-5-best-ai-data-annotation-platforms-for-machine-learning-2021-ec17c15142f3
 
@@ -1424,7 +1426,7 @@ anderson teset  use for check any  distribution
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,Libra_R-CNN,detr facebook,mdetr,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,AugFPN,mlsd
 
-       mmdetection https://github.com/open-mmlab/mmdetection  
+       mmdetection https://github.com/open-mmlab/mmdetection    imageai.Detection ObjectDetection
        
        Image Generation Using TensorFlow Keras https://analyticsindiamag.com/getting-started-image-generation-tensorflow-keras/
 
@@ -1660,9 +1662,13 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Augmenting Data For NLP Tasks  https://towardsdatascience.com/tips-tricks-augmenting-data-for-nlp-tasks-983e33ad55a7 https://amitness.com/2020/05/data-augmentation-for-nlp/ https://github.com/makcedward/nlpaug https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28
      
+     NLP Data Augmenting  https://lnkd.in/eHa2cH6
+     
      Tagalog is our state-of-the-art solution for data management and labeling in Natural Language Processing https://www.tagalog.ai/tagalog/
      
      https://github.com/jasonwei20/eda_nlp  https://github.com/dsfsi/textaugment https://github.com/QData/TextAttack https://github.com/makcedward/nlpaug
+     
+     nlp_profiler https://analyticsindiamag.com/complete-guide-on-nlp-profiler-python-tool-for-profiling-of-textual-dataset/
      
      doccano text annotation tool https://github.com/doccano/doccano https://www.youtube.com/watch?v=vT-GE_jssPk https://github.com/doccano/auto-labeling-pipeline   https://github.com/doccano/doccano-client https://doccano.herokuapp.com/
      
@@ -3749,6 +3755,8 @@ ATOM https://github.com/tvdboom/ATOM  https://towardsdatascience.com/how-to-test
 
 mljar-supervised  https://github.com/mljar/mljar-supervised
 
+libra end-to-end machine learning process in just one line of code  https://github.com/Palashio/libra 
+
 featurewiz, boruta_py ,AutoWeka,Auto-Sklearn,AutoGluon
 
 GML  https://github.com/Muhammad4hmed/GML
@@ -3973,7 +3981,8 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
-pandas chunksize,Modin ,Vaex,Dask,PyPolars,Polars,cuDF,mars,ray,rapids,joblib,snorkel,Pyarrow,Fastparquet,dampr   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandas chunksize,Modin ,Vaex,Dask,PyPolars,Polars,cuDF,mars,ray,rapids,joblib,snorkel,Pyarrow,Fastparquet,dampr,
+pandarallel ,numexpr,ipython parallel   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
