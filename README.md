@@ -2690,7 +2690,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
    4.pytorch deep learning-https://atcold.github.io/pytorch-Deep-Learning/
 
-   PYTORCH HUB https://pytorch.org/hub/
+   PYTORCH HUB https://pytorch.org/hub/ https://pytorch.org/hub/research-models 
    
    5.https://papers.labml.ai/papers/daily  https://42papers.com/
    
