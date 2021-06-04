@@ -1494,7 +1494,7 @@ anderson teset  use for check any  distribution
      
      posemodule https://www.youtube.com/watch?v=5kaX3ta398w   Pose Tracking  https://www.youtube.com/watch?v=0JU3kpYytuQ&t=1650s
      
-     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js 
+     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,tfpose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js 
      
      openpose wrnchai  densepose
      
