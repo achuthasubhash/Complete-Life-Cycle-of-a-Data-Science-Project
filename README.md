@@ -1430,7 +1430,7 @@ anderson teset  use for check any  distribution
      
      3.Object detection and object segmentation 
      
-       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,SlimYOLOv3,yolo v4,scaled yolov4,YOLOR,YoloV5,YOLOS,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
+       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,SlimYOLOv3,yolo v4,PP-YOLO,scaled yolov4,YOLOR,YoloV5,YOLOS,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,Libra_R-CNN,detr facebook,mdetr,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,AugFPN,mlsd
 
@@ -2197,6 +2197,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     storm-tuner https://github.com/ben-arnao/StoRM https://medium.com/geekculture/finding-best-hyper-parameters-for-deep-learning-model-4df7a17546c2
     
     Hyperas  https://towardsdatascience.com/automating-hyperparameter-tuning-of-keras-model-4fe69b8dedee
+    
+    Deep AutoViML https://github.com/AutoViML/deep_autoviml
     
     h.Scikit-Optimize
     
