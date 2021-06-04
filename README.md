@@ -590,7 +590,9 @@ World’s Largest Data Platform https://worlddata.ai/
     
     67.yfinance for finance data using     https://github.com/ranaroussi/yfinance  https://medium.com/towards-artificial-intelligence/algorithmic-trading-with-python-and-machine-learning-part-1-47c56706c182
     
-    import fix_yahoo_finance as yf
+    import fix_yahoo_finance as yf       
+    
+    financeapi https://towardsdatascience.com/pull-and-analyze-financial-data-using-a-simple-python-package-83e47759c4a7
     
     Investing.com pip install investpy ,Kite by Zerodha pip install kiteconnect,quandl  pip install quandl
     
@@ -681,6 +683,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Automated Feature Selection: Featurewiz  https://github.com/AutoViML/featurewiz https://towardsdatascience.com/featurewiz-fast-way-to-select-the-best-features-in-a-data-9c861178602e
    
    Feature Engineering of DateTime Variables for Data Science, Machine Learning https://www.kdnuggets.com/2021/04/feature-engineering-datetime-variables-data-science-machine-learning.html
+   
+   NeatText a simple NLP package for cleaning textual data and text preprocessing https://github.com/Jcharis/neattext
      
    Remove duplicate data in dataset,Data validity check
 
@@ -1158,6 +1162,8 @@ anderson teset  use for check any  distribution
   skater Machine Learning Model Interpretation https://towardsdatascience.com/machine-learning-model-interpretation-47b4bc29d17f
   
   Speedml Speeding up Machine Learning  https://towardsdatascience.com/speedml-speeding-up-machine-learning-5dccbf21effd
+  
+  pdpipe  https://github.com/pdpipe/pdpipe     pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
    
    A.Supervised learning (have label data)
    
@@ -1420,7 +1426,7 @@ anderson teset  use for check any  distribution
      
        albumentations https://github.com/albumentations-team/albumentations
      
-       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit, FNet,gMLP models,nfnet
+       create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit,DynamicViT, FNet,gMLP models,nfnet
        
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
        
@@ -1601,6 +1607,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Quasi-Recurrent Neural Network  https://github.com/salesforce/pytorch-qrnn
   
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
+   
+     gan lab https://poloclub.github.io/ganlab/
 
      https://neptune.ai/blog/generative-adversarial-networks-gan-applications?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-generative-adversarial-networks-gan-applications
      
@@ -1614,7 +1622,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
    
-     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Wasserstein GAN(improve image generation),ChromaGan
+     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Wasserstein GAN(improve image generation),ChromaGan,GANsformers
      
      diffusion https://github.com/openai/guided-diffusion
      
@@ -2049,6 +2057,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       decompsition https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2
       
+      Bayesian Diffusion Modeling  https://www.topbots.com/bayesian-diffusion-modeling/
+      
       Top 10 Python Tools For Time Series Analysis https://analyticsindiamag.com/top-10-python-tools-for-time-series-analysis/
       
       fine Tune Your Machine Learning Models To Improve Forecasting Accuracy https://www.kdnuggets.com/2019/01/fine-tune-machine-learning-models-forecasting.html
@@ -2079,7 +2089,11 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    Self-Supervised Learning https://github.com/jason718/awesome-self-supervised-learning
    
+   Self-supervised Video Object Segmentation https://charigyang.github.io/motiongroup/
+   
    Weak Supervision: The Art Of Training ML Models From Noisy Data https://analyticsindiamag.com/weak-supervision-the-art-of-training-ml-models-from-noisy-data/
+   
+   snorkel and skweak, are there other libraries to explore for weak supervision in NLP
    
    8 Resources To Learn Self-Supervised Learning In 2021 https://analyticsindiamag.com/top-8-resources-to-learn-self-supervised-learning-in-2021/
    
@@ -2512,6 +2526,8 @@ leverage of model architecture
 
 Federated Learning  https://www.analyticsvidhya.com/blog/2021/04/federated-learning-for-beginners/  https://www.tensorflow.org/federated
 
+Federated Learning with FEDn  https://github.com/scaleoutsystems/fedn
+
 plato scalable federated learning research framework https://github.com/TL-System/plato 
 
 FedNLP: A Research Platform for Federated Learning in Natural Language Processing https://github.com/FedML-AI/FedNLP
@@ -2697,6 +2713,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    5.https://papers.labml.ai/papers/daily  https://42papers.com/
    
    https://www.kdnuggets.com/2019/08/pytorch-cheat-sheet-beginners.html  https://www.kdnuggets.com/2019/04/nlp-pytorch.html  https://www.kdnuggets.com/2019/08/9-tips-training-lightning-fast-neural-networks-pytorch.html
+   
+   fairscale PyTorch extensions for high performance and large scale training  https://github.com/facebookresearch/fairscale
    
    PyTorch Lightning-https://github.com/PyTorchLightning/pytorch-lightning    https://www.kdnuggets.com/2020/11/deploy-pytorch-lightning-models-production.html
    
