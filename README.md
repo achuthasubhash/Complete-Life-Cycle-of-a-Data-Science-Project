@@ -2408,7 +2408,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     panel-highcharts https://awesome-panel.org/  https://github.com/marcskovmadsen/panel-highcharts https://github.com/holoviz/panel https://github.com/holoviz/panel
     
-    opyrator https://github.com/ml-tooling/opyrator
+    opyrator Turns your machine learning code into microservices with web API, interactive GUI, and more  https://github.com/ml-tooling/opyrator
     
     plotly https://plotly.com/  https://analyticsindiamag.com/how-to-use-plotly-in-colab/
     
