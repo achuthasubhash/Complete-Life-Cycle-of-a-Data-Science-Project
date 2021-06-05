@@ -1026,13 +1026,15 @@ anderson teset  use for check any  distribution
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector
 
-    1.Filter methods (correleation,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain etc...)
+    1.Filter methods (correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain etc...)
 
-    2.Wrapper methods (recursive feature eliminiation,boruta,forward feature selection,backwaed feature elimination,exhaustic feature selection,stepwise selection etc...)
+    2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backwaed feature elimination,exhaustic feature selection,stepwise selection etc...)
 
     3.Embedded method (lasso regression,ridge regression,elasticnet regression,tree based etc...)
     
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition)
+    
+    5.Feature creation
     
     DropConstantFeatures  DropDuplicateFeatures    DropCorrelatedFeatures  
     
