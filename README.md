@@ -4334,7 +4334,7 @@ https://sachinruk.github.io/blog/pytorch/pytorch%20lightning/loss%20function/gpu
 
 124.Real-Time High-Resolution Background Replacement  https://analyticsindiamag.com/introducing-real-time-high-resolution-background-replacement/  https://github.com/PeterL1n/BackgroundMattingV2
 
-***I will be so happy that this repository helps you. Thank you for reading.***
+***If you like my work. please buy me a coffee it motivate me   ->     https://www.buymeacoffee.com/achuthasubhash?new=1 ***
 
 
                                                         HAPPY LEARNING
