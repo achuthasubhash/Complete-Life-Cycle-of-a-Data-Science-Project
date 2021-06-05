@@ -6,6 +6,8 @@
 
 https://www.theinsaneapp.com/2021/03/how-to-build-machine-learning-project.html
 
+****  If you like my work. please buy me a coffee it motivate me   ->     https://www.buymeacoffee.com/achuthasubhash?new=1 ****
+
 ***Business understanding*** 
 
 ***1.Data collection***
