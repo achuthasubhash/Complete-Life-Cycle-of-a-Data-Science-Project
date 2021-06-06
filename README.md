@@ -70,6 +70,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
 
       twitterscraper https://www.youtube.com/watch?v=MpIi4HtCiVk
       
+      Scweet A simple and unlimited twitter scraper  https://github.com/Altimis/Scweet
+      
       GetOldTweets3
 
       Scrape Twitter for Tweets https://github.com/taspinar/twitterscraper
@@ -688,7 +690,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
    NeatText a simple NLP package for cleaning textual data and text preprocessing https://github.com/Jcharis/neattext
      
-   Remove duplicate data in dataset,Data validity check
+   Remove duplicate data in dataset,Data validity check,Contaminated Data,Inconsistent Data,Invalid Data,
 
    a.Handle missing value
    
@@ -778,7 +780,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
      
-     3.class_weight give more importance(weight) to that small class
+     3.class_weight give more importance(weight) to that small class ( Cost-Sensitive Algorithms)
      
      4.use Stratified kfold to keep the ratio of classess constantly
      
@@ -1421,6 +1423,8 @@ anderson teset  use for check any  distribution
      Best MLOps Tools for Your Computer Vision Project Pipeline https://neptune.ai/blog/best-mlops-tools-for-computer-vision-project?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-mlops-tools-for-computer-vision-project
 
       mediapipe https://google.github.io/mediapipe/ 
+      
+      all openmmlab https://github.com/open-mmlab  mmdetection,mmsegmentation,mmediting,mmdetection3d,mmaction2,mmocr,mmpose,etc...
       
       glasses High-quality Neural Networks for Computer Vision  https://github.com/FrancescoSaverioZuppichini/glasses
       
@@ -2348,7 +2352,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     2.Heroku
     
-    3.Amazon Web Services
+    3.Amazon Web Services   Everything AWS  https://app.polymersearch.com/discover/aws
     
     4.Google cloud platform
     
@@ -2448,7 +2452,11 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     DS-with-PySimpleGUI  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
+    pywinauto Windows GUI Automation with Python
+    
     tkinter to deploy machine learning model-https://analyticsindiamag.com/complete-tutorial-on-tkinter-to-deploy-machine-learning-model/
+    
+    Tkinter-Designer Create Beautiful Tkinter GUIs by Drag and Drop https://github.com/ParthJadhav/Tkinter-Designer
     
     Web-Based GUI (Gradio)- https://analyticsindiamag.com/guide-to-gradio-create-web-based-gui-applications-for-machine-learning/  https://www.gradio.app/
     
@@ -2565,6 +2573,10 @@ IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Qua
    2.better readability
    
 ***BIG DATA: hadoop,apache spark***
+
+***project structure***
+
+   data science project structure  https://towardsdatascience.com/automate-your-data-science-project-structure-in-three-easy-steps-277c92328d24
 
 ***research paper***-https://arxiv.org/ ,https://arxiv.org/list/cs.LG/recent,  https://www.kaggle.com/Cornell-University/arxiv
 
@@ -3819,6 +3831,8 @@ autokeras https://autokeras.com/  autoSklearn  https://automl.github.io/auto-skl
 
 adanet https://github.com/tensorflow/adanet
 
+AlphaPy Automated Machine Learning  https://github.com/ScottfreeLLC/AlphaPy  
+
 TransmogrifAI  https://github.com/salesforce/TransmogrifAI
 
 Hugging Face’s AutoNLP https://www.analyticsvidhya.com/blog/2021/03/a-hands-on-introduction-to-hugging-faces-autonlp-101/
@@ -4193,7 +4207,7 @@ https://www.openblender.io/#/welcome
 
 79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
-80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms,dgl ease deep learning on graph,
+80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms,dgl ease deep learning on graph,Graph4nlp
 
 https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
 
