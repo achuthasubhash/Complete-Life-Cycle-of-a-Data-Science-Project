@@ -662,6 +662,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Speed Up Data Cleaning and Exploratory Data Analysis in Python with klib  https://github.com/akanz1/klib https://towardsdatascience.com/speed-up-your-data-cleaning-and-preprocessing-with-klib-97191d320f80
    
+   missingno https://github.com/ResidentMario/missingno
+   
    Take the Pain Out of Data Cleaning for Machine Learning  https://towardsdatascience.com/take-the-pain-out-of-data-cleaning-for-machine-learning-20a646a277fd
    
    dabl https://ms-bharti.medium.com/jump-start-your-supervised-learning-task-with-dabl-e479323e81fe
@@ -1207,6 +1209,8 @@ anderson teset  use for check any  distribution
    B.Unsupervised learning(no label(target) data)
    
      1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping 
+     
+     t-SNE Effectively https://distill.pub/2016/misread-tsne/
    
      2.Clustering : Centroid-based Model ,Density-based Model ,Distribution-based Model,Connectivity-based model
      
@@ -1782,7 +1786,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,simpleT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
+     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5simpleT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
 
@@ -1980,6 +1984,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       orbit https://eng.uber.com/orbit/ 
       
       greykite A flexible, intuitive and fast forecasting library https://github.com/linkedin/greykite https://www.analyticsvidhya.com/blog/2021/05/greykite-time-series-forecasting-in-python/
+      
+      Silverkite
       
       LinkedIn open-sources Greykite, a library for time series forecasting  https://github.com/linkedin/greykite/stargazers
       
@@ -2292,6 +2298,8 @@ Generally used metrics
   
      Always check bias variance tradeoff to know how model is performing
      
+     Locust Performance Testing ML Serving APIs With Locust https://www.analyticsvidhya.com/blog/2021/06/performance-testing-ml-serving-apis-with-locust/
+     
      Model can be overfitting(low bias,high variance),underfitting(high bias,high variance),good fit(low bias,low variance)
      
      https://scikit-learn.org/stable/modules/model_evaluation.html   https://scikit-learn.org/stable/modules/classes.html#module-sklearn.linear_model
@@ -2365,6 +2373,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     MODEL DEPLOYMENT USING TF SERVING
     
     Dockerize  https://www.kdnuggets.com/2021/04/dockerize-any-machine-learning-application.html  https://pub.towardsai.net/how-to-dockerize-your-data-science-project-a-quick-guide-b6fa2d6a8ba1
+    
+    bodywork-core MLOps tool for deploying machine learning projects to Kubernetes https://github.com/bodywork-ml/bodywork-core
     
     Create ML model inside the docker container https://dev.to/niteshthapliyal/create-ml-model-inside-the-docker-container-3b23
     
@@ -2780,7 +2790,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py,Spark OCR
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py,Spark OCR,mmocr
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
@@ -3986,6 +3996,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    featurewiz(Select the best features from your data set fast with a single line of code) - https://github.com/AutoViML/featurewiz
    
    explainerdashboard https://medium.com/analytics-vidhya/explainer-dashboard-build-interactive-dashboards-for-machine-learning-models-fda63e0eab9
+   
+   interpret Dashboards for Interpreting & Comparing Machine Learning Models https://hmix13.medium.com/dashboards-for-interpreting-comparing-machine-learning-models-ffcfb4c05152
    
    https://www.kdnuggets.com/2019/07/10-simple-hacks-speed-data-analysis-python.html
    
