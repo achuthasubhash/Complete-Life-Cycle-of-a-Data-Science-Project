@@ -1172,6 +1172,8 @@ anderson teset  use for check any  distribution
   Speedml Speeding up Machine Learning  https://towardsdatascience.com/speedml-speeding-up-machine-learning-5dccbf21effd
   
   pdpipe  https://github.com/pdpipe/pdpipe     pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
+  
+  PHOTONAI A high level Python API for designing and optimizing machine learning pipelines  https://www.photon-ai.com/
    
    A.Supervised learning (have label data)
    
