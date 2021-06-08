@@ -154,7 +154,11 @@ Flat Data https://octo.github.com/projects/flat-data
   
 b.3rd party API'S 
 
+22 APIs every data scientist should learn https://www.springboard.com/library/data-science/top-apis-for-data-scientists/
+
 c.creating own data  (manual collection eg:google docx,servey,etc...) primary data
+
+d.etl  awesome ETL https://github.com/pawl/awesome-etl#python
 
 d.Databases
 
@@ -768,7 +772,9 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.Under Sampling - mostly not prefer because lost of data
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE    https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models
+
+     https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
      
      https://www.analyticsvidhya.com/blog/2017/03/imbalanced-data-classification/
      
@@ -875,6 +881,8 @@ World’s Largest Data Platform https://worlddata.ai/
 performance if not distributed then use below methods to bring it guassian distribution
 
 normal test,Histogram,Q-Q plot,KDE plot,Skewness and Kurtosis for check normal distribution 
+
+Fitter Library Finding the Best Distribution that Fits Your Data  https://towardsdatascience.com/finding-the-best-distribution-that-fits-your-data-using-pythons-fitter-library-319a5a0972e9
 
 anderson teset  use for check any  distribution 
         
@@ -1028,7 +1036,7 @@ anderson teset  use for check any  distribution
   
 ***4.Feature selection***  https://github.com/solegalli/feature-selection-for-machine-learning
 
-    FeatureSelector https://github.com/WillKoehrsen/feature-selector
+    FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
     1.Filter methods (correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain etc...)
 
@@ -1039,6 +1047,8 @@ anderson teset  use for check any  distribution
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition)
     
     5.Feature creation
+    
+    feature selection  https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c
     
     DropConstantFeatures  DropDuplicateFeatures    DropCorrelatedFeatures  
     
@@ -1532,6 +1542,8 @@ anderson teset  use for check any  distribution
      
      albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
      
+     Augmentor Image augmentation library in Python for machine learning  https://github.com/mdbloice/Augmentor
+     
      HiSD: Image-to-Image translation via Hierarchical Style Disentanglement https://analyticsindiamag.com/hisd-python-implementation-of-image-to-image-translation/
      
      Zooming Slow-Mo https://analyticsindiamag.com/guide-to-zooming-slow-mo-one-stage-space-time-video-super-resolution/
@@ -1788,7 +1800,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5simpleT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
+     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
 
@@ -2021,6 +2033,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       Forecasting with H2O AutoML https://github.com/business-science/modeltime.h2o/
       
+      Forecasting Stock Prices Using Stocker  https://medium.com/mlearning-ai/forecasting-stock-prices-using-stocker-7d2ac15966f5
+      
       MiniRocket: Fast(er) and Accurate Time Series Classification https://towardsdatascience.com/minirocket-fast-er-and-accurate-time-series-classification-cdacca2dcbfa
       
       modeltime https://github.com/business-science/modeltime
@@ -2106,6 +2120,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    Self-Supervised Learning https://github.com/jason718/awesome-self-supervised-learning
    
    Self-supervised Video Object Segmentation https://charigyang.github.io/motiongroup/
+   
+   lightly A python library for self-supervised learning on images https://github.com/lightly-ai/lightly
    
    Weak Supervision: The Art Of Training ML Models From Noisy Data https://analyticsindiamag.com/weak-supervision-the-art-of-training-ml-models-from-noisy-data/
    
@@ -2219,6 +2235,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     e.Optuna  https://analyticsindiamag.com/hands-on-python-guide-to-optuna-a-new-hyperparameter-optimization-tool/
   
     f.Genetic Algorithms
+    
+    darwin-mendel Genetic Algorithm for Hyper-Parameter Tuning https://manishagrawal-datascience.medium.com/genetic-algorithm-for-hyper-parameter-tuning-1ca29b201c08
     
     g.Keras tuner (Random Search Keras Tuner,HyperBand Keras Tuner,Bayesian Optimization Keras Tuner,Hyperas  ) https://sukanyabag.medium.com/automated-hyperparameter-tuning-with-keras-tuner-and-tensorflow-2-0-31ec83f08a62
     
@@ -2428,7 +2446,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     plotly https://plotly.com/  https://analyticsindiamag.com/how-to-use-plotly-in-colab/
     
-    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUI https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
+    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUI  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
     Deepnote https://deepnote.com/  https://www.youtube.com/watch?v=0ppptVxgEI8
     
@@ -2519,6 +2537,8 @@ six different types of methods:
 9) 3LC https://research.google/pubs/pub47962/
 10) brevitas https://github.com/Xilinx/brevitas/
 11) aimet https://github.com/quic/aimet
+
+Distillation library  KD_Lib https://github.com/SforAiDl/KD_Lib
 
 ibm new tool https://www.zdnet.com/article/ibms-new-tool-lets-developers-add-quantum-computing-power-to-machine-learning/
 
@@ -2712,13 +2732,13 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
 ***BEST RESOURCES***
 
-   https://amitness.com/toolbox/      https://github.com/khuyentran1401/Data-science   https://github.com/ml-tooling/best-of-ml-python
+   https://amitness.com/toolbox/     https://khuyentran1401.github.io/Data-science/  https://github.com/ml-tooling/best-of-ml-python
    
    https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks   http://dfkoz.com/ai-data-landscape/   https://landscape.lfai.foundation/
    
    https://towardsdatascience.com/data-science-tools-f16ecd91c95d        https://mathdatasimplified.com/  https://github.com/neomatrix369/awesome-ai-ml-dl
    
-   https://amitness.com/   https://postsyoumighthavemissed.com/search/
+   https://amitness.com/   https://postsyoumighthavemissed.com/search/           
  
    1.paperswithcode-https://paperswithcode.com/methods  https://www.paperswithcode.com/datasets   
    
@@ -2756,7 +2776,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    lightning-flash  https://github.com/PyTorchLightning/lightning-flash  https://pytorch-lightning.medium.com/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
    
-   torchflare https://github.com/Atharva-Phatak/torchflare
+   torchflare easy-to-use PyTorch Framework   https://github.com/Atharva-Phatak/torchflare
    
    Lightning Bolts collection of well established, SOTA models and components  https://github.com/PyTorchLightning/lightning-bolts
    
@@ -3067,6 +3087,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    TensorFlow Graphics - https://www.tensorflow.org/graphics    Lattice-https://www.tensorflow.org/lattice
    
    TensorFlow Probability-https://www.tensorflow.org/probability   TensorFlow Privacy- tensorflow-privacy
+   
+   https://developers.google.com/learn/topics/on-device-ml https://www.tensorflow.org/lite/guide/model_maker https://tfhub.dev/ https://www.tensorflow.org/cloud
    
    63.Data Science in the Cloud-Amazon SageMaker,Amazon Lex,Amazon Rekognition,Azure Machine Learning (Azure ML) Services,Azure Service Bot framework,Google Cloud AutoML
    
@@ -4031,7 +4053,7 @@ Numba https://github.com/numba/numba https://www.youtube.com/watch?v=3O-Pvnrbsu0
 
 Arrow https://towardsdatascience.com/how-fast-is-reading-parquet-file-with-arrow-vs-csv-with-pandas-2f8095722e94
 
-Cython,Numba,PyPy,ray,loky,Dask,p_tqdm (aka Pathos + tqdm),modin,connectorx
+Cython,Numba,PyPy,ray,loky,Dask,p_tqdm (aka Pathos + tqdm),modin,connectorx,cudf, cuML
 
 Reducing Pandas memory https://pythonspeed.com/articles/pandas-load-less-data/  https://www.youtube.com/watch?v=HNE0qHJ9A9o
 
