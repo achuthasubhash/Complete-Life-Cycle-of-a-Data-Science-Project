@@ -1184,6 +1184,10 @@ anderson teset  use for check any  distribution
   pdpipe  https://github.com/pdpipe/pdpipe     pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
   
   PHOTONAI A high level Python API for designing and optimizing machine learning pipelines  https://www.photon-ai.com/
+  
+  Machine Learning in Tableau with PyCaret  https://towardsdatascience.com/machine-learning-in-tableau-with-pycaret-166ffac9b22e
+  
+  TabNet balances explainability and model performance on tabular data https://towardsdatascience.com/tabnet-e1b979907694
    
    A.Supervised learning (have label data)
    
@@ -1803,6 +1807,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
+        
+        gpt3 https://www.producthunt.com/posts/100-resources-on-gpt-3
 
         Feedback Transformers from Facebook AI https://towardsdatascience.com/feedback-transformers-from-facebook-ai-221c5dd09e3f
 
@@ -2284,6 +2290,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     https://mlwhiz.com/blog/2020/02/22/hyperspark/?utm_campaign=100x-faster-hyperparameter-search-framework-with-pyspark&utm_medium=social_link&utm_source=missinglettr
     
+    DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective https://github.com/microsoft/DeepSpeed
+    
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
      1.Loocv
@@ -2445,6 +2453,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     opyrator Turns your machine learning code into microservices with web API, interactive GUI, and more  https://github.com/ml-tooling/opyrator
     
     plotly https://plotly.com/  https://analyticsindiamag.com/how-to-use-plotly-in-colab/
+    
+    Creating a Machine Learning App with Power BI and PyCaret
     
     Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUI  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
