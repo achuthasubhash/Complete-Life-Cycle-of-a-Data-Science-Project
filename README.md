@@ -930,7 +930,7 @@ anderson teset  use for check any  distribution
       
       https://towardsdatascience.com/two-outlier-detection-techniques-you-should-know-in-2021-1454bef89331
       
-   j.Anomaly
+   j.Anomaly  anomaly-detection-resources https://github.com/yzhao062/anomaly-detection-resources
    
      clustering techniques to find it
      
@@ -954,9 +954,9 @@ anderson teset  use for check any  distribution
 
 ***3.Exploratory Data Analysis(eda)***
   
-    Explore the dataset by using  python or microsoft Excel,Atoti,Power BI,Tableau,SAS Business Intelligence and Analytics Tool,QlikView,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
+    Explore the dataset by using  python or microsoft Excel,Atoti,Power BI,Datapane’s,Tableau,TabPy,SAS Business Intelligence and Analytics Tool,QlikView,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
     
-    atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo
+    atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo   Datapane’s Create a Beautiful Dashboard in Python in a Few Lines of Code https://towardsdatascience.com/datapanes-new-features-create-a-beautiful-dashboard-in-python-in-a-few-lines-of-code-a3c44523292b
     
     Switching from Spreadsheets to Neptune.ai https://neptune.ai/blog/switching-from-spreadsheets-to-neptune-ai
     
@@ -1373,6 +1373,8 @@ anderson teset  use for check any  distribution
        https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-reinforcement-learning-tutorials-examples-projects-and-courses
        
        TensorForce: A TensorFlow-based Reinforcement Learning Framework https://analyticsindiamag.com/guide-to-tensorforce-a-tensorflow-based-reinforcement-learning-framework/
+      
+       Decision Transformer: Reinforcement Learning via Sequence Modeling https://github.com/kzl/decision-transformer
        
        Open AI Gym - https://gym.openai.com/
        
@@ -1804,7 +1806,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
+     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J ,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
         
@@ -2292,6 +2294,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective https://github.com/microsoft/DeepSpeed
     
+    o.shap-hypetune https://github.com/cerlymarco/shap-hypetune https://towardsdatascience.com/shap-for-feature-selection-and-hyperparameter-tuning-a330ec0ea104
+    
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
      1.Loocv
@@ -2504,6 +2508,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
    
     web application(dash)- https://dash.plotly.com/
     
+    Pyramid web framework https://trypyramid.com/documentation.html
+    
     Kivy /Kivymd creating an android app 
     
     https://towardsdatascience.com/pycaret-2-1-is-here-whats-new-4aae6a7f636a
@@ -2561,6 +2567,8 @@ https://rachitsingh.com/deep-learning-model-compression/#quantization
 model optimization (architecture)
  
 TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
+
+pennylane Python library for differentiable programming of quantum computers https://github.com/PennyLaneAI/pennylane
 
 AI Engine for Edge Devices https://github.com/johnolafenwa/deepstack  TensorFlow Lite Samples on Unity https://github.com/asus4/tf-lite-unity-sample
 
@@ -2822,7 +2830,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py,Spark OCR,mmocr
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
