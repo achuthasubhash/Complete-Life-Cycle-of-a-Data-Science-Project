@@ -1294,6 +1294,8 @@ anderson teset  use for check any  distribution
          
          TOROS Buffalo https://github.com/kakao/buffalo
          
+         recommenders-https://github.com/microsoft/recommenders
+         
          PyTorch implementations of deep reinforcement learning algorithms and environments https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
          
          recmetrics library of metrics for evaluating recommender systems   https://github.com/statisticianinstilettos/recmetrics
@@ -1823,6 +1825,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         Text-to-Image  https://www.datasciencecentral.com/profiles/blogs/summarizing-popular-text-to-image-synthesis-methods-with-python
         
         NLP: Pre-trained Sentiment Analysis https://medium.com/@b.terryjack/nlp-pre-trained-sentiment-analysis-1eb52a9d742c
+        
+        Awesome-NLP-Resources -https://github.com/Robofied/Awesome-NLP-Resources  https://shivanandroy.com/awesome-nlp-resources/   https://github.com/keon/awesome-nlp
         
         10 Popular Keyword Extraction Algorithms in Natural Language Processing https://prakhar-mishra.medium.com/10-popular-keyword-extraction-algorithms-in-natural-language-processing-8975ada5750c
         
@@ -2658,7 +2662,7 @@ IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Qua
    
 Structure Your Data Science Projects https://towardsdatascience.com/structure-your-data-science-projects-6c6c8653c16a   
 
-***programming language for data science is Python,R,Julia,Java,Scala,JAVA SCRIPT(Tensorflow.js)*** 
+***programming language for data science is Python,R,Julia,Java,Scala,JAVA SCRIPT(Tensorflow.js),etc...*** 
 
    IDE:jupyter notebook,spyder,pycharm,visual studio
    
@@ -2696,7 +2700,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
     
     8.The AI Guy -https://www.youtube.com/channel/UCrydcKaojc44XnuXrfhlV8Q 
     
-    9.Unfold Data Science-https://www.youtube.com/channel/UCh8IuVJvRdporrHi-I9H7Vw
+    9.Unfold Data Science-https://www.youtube.com/channel/UCh8IuVJvRdporrHi-I9H7Vw  etc...
 
 ***BEST BLOGS TO FOLLOW***
 
@@ -2750,7 +2754,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
 ***BEST RESOURCES***
 
-   https://amitness.com/toolbox/     https://khuyentran1401.github.io/Data-science/  https://github.com/ml-tooling/best-of-ml-python
+   https://amitness.com/toolbox/     https://khuyentran1401.github.io/Data-science/   https://github.com/ml-tooling/best-of-ml-python
    
    https://github.com/ml-tooling/best-of-ml-python#machine-learning-frameworks   http://dfkoz.com/ai-data-landscape/   https://landscape.lfai.foundation/
    
@@ -2790,7 +2794,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    PYTORCH Lightning  https://pytorchlightning.ai/community#projects   https://seannaren.medium.com/introducing-pytorch-lightning-sharded-train-sota-models-with-half-the-memory-7bcc8b4484f2
    
-   ort Accelerate PyTorch models with ONNX Runtime https://github.com/pytorch/ort
+   ort  Accelerate PyTorch models with ONNX Runtime https://github.com/pytorch/ort
    
    lightning-flash  https://github.com/PyTorchLightning/lightning-flash  https://pytorch-lightning.medium.com/introducing-lightning-flash-the-fastest-way-to-get-started-with-deep-learning-202f196b3b98
    
@@ -2874,10 +2878,6 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    24.interview-question-data-science-https://github.com/iNeuronai/interview-question-data-science-
    
-   25.recommenders-https://github.com/microsoft/recommenders
-   
-   26.Awesome-NLP-Resources -https://github.com/Robofied/Awesome-NLP-Resources  https://shivanandroy.com/awesome-nlp-resources/   https://github.com/keon/awesome-nlp
-   
    27.Tool for visualizing attention in the Transformer model-https://github.com/jessevig/bertviz
    
    28.TransCoder-https://github.com/facebookresearch/TransCoder
@@ -2914,17 +2914,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://github.com/UniversalDataTool/universal-data-tool  http://www.robots.ox.ac.uk/~vgg/software/via/
    
-   35.Data augmentation for NLP-https://github.com/makcedward/nlpaug
-   
    36.awesome Data Science-https://github.com/academic/awesome-datascience
-   
-   37.mlops-https://github.com/visenger/awesome-mlops  
-   
-   https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective
-   
-   https://ml-ops.org/content/mlops-principles
-   
-   38.gym-https://github.com/openai/gym
    
    39.Super Duper NLP Repo-https://notebooks.quantumstat.com/  https://models.quantumstat.com/  https://miro.com/app/board/o9J_kqndLls=/ https://datasets.quantumstat.com/ 
 
@@ -2935,10 +2925,6 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    40.papers summarizing the advances in the field-https://github.com/eugeneyan/ml-surveys
    
    41.deep-translator-https://github.com/nidhaloff/deep-translator
-   
-   42.detext-https://github.com/linkedin/detext
-   
-   43.nlpaug-https://github.com/makcedward/nlpaug
    
    44.ipython-sql-https://github.com/catherinedevlin/ipython-sql
    
@@ -2982,17 +2968,9 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    54.TCN-https://github.com/philipperemy/keras-tcn
    
-   55.deeplearning-models-https://github.com/rasbt/deeplearning-models
-   
    56.earthengine-py-notebooks-https://github.com/giswqs/earthengine-py-notebooks
    
-   57.NLP-progress -https://github.com/sebastianruder/NLP-progress
-   
    58.numerical-linear-algebra -https://github.com/fastai/numerical-linear-algebra
-   
-   59.Super Duper NLP Repo- https://notebooks.quantumstat.com/
-   
-   60.reinforcement learning by using  PyTorch-https://github.com/SforAiDl/genrl
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson,Parrot  etc...
    
@@ -3111,8 +3089,6 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    63.Data Science in the Cloud-Amazon SageMaker,Amazon Lex,Amazon Rekognition,Azure Machine Learning (Azure ML) Services,Azure Service Bot framework,Google Cloud AutoML
    
    64.platforms to build and deploy ML models -Uber has Michelangelo,Google has TFX,Databricks has MLFlow,Amazon Web Services (AWS) has Sagemaker
-   
-   65.Time Complexity Of Machine Learning Models -https://www.thekerneltrip.com/machine/learning/computational-complexity-learning-algorithms/
   
    66.ML from scratch-https://dafriedman97.github.io/mlbook/content/introduction.html   
    
@@ -3127,12 +3103,6 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    67.turn-on visual training for most popular ML algorithms https://github.com/lucko515/ml_tutor  https://pypi.org/project/ml-tutor/
    
    68.mlcourse.ai is a free online- https://mlcourse.ai/
-   
-   69.using pretrained model provided by tfhub- https://tfhub.dev/
-   
-   70.Deep-Learning-with-PyTorch- https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
-   
-   71.MIT 6.S191 Introduction to Deep Learning-http://introtodeeplearning.com/
    
    72.R for Data Science-https://r4ds.had.co.nz/ ,Fundamentals of Data Visualization-https://clauswilke.com/dataviz/
    
@@ -3154,7 +3124,6 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://www.tensorflow.org/graphics
    
-   Multilingual Representations for Indian Languages https://tfhub.dev/google/MuRIL/1
    
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
    
@@ -3193,13 +3162,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    http://d2l.ai/index.html            https://www.kdnuggets.com/2020/09/best-free-data-science-ebooks-2020-update.html
     
    https://www.youtube.com/playlist?app=desktop&list=PLypiXJdtIca5ElZMWHl4HMeyle2AzUgVB   https://mit6874.github.io/
-   
-   76.Code for Research Papers-https://chrome.google.com/webstore/detail/find-code-for-research-pa/aikkeehnlfpamidigaffhfmgbkdeheil
-   
-   77.Natural Language Processing 365- https://ryanong.co.uk/natural-language-processing-365/
-   
-   78.Top Computer Vision Google Colab Notebooks- https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks
-   
+
    79.For practice -https://www.confetti.ai/exams
    
    80.Yellowbrick-https://towardsdatascience.com/introduction-to-yellowbrick-a-python-library-to-explain-the-prediction-of-your-machine-learning-d63ecee10ecc
@@ -3240,21 +3203,13 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    AI Expert Roadmap-https://i.am.ai/roadmap/#data-science-roadmap
    
-   85.FastAPI-https://fastapi.tiangolo.com/deployment/deta/
-   
    86.Yann LeCun’s Deep Learning Course at CDS-https://cds.nyu.edu/deep-learning/ https://atcold.github.io/pytorch-Deep-Learning/  
    
    https://atcold.github.io/pytorch-Deep-Learning/
    
    https://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml
-    
-   87.Four Important Computer Vision Annotation Tools  https://heartbeat.fritz.ai/4-important-computer-vision-annotation-tools-you-need-to-know-in-2020-9f964931ed7
    
    88.Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/
-   
-   89.for low code object detection (detecto)- https://github.com/alankbi/detecto
-   
-   90.1 line for hundreds of NLP models and algorithms- https://github.com/JohnSnowLabs/nlu
    
    91.AudioFeaturizer when deal with audio data- https://pypi.org/project/AudioFeaturizer/
    
@@ -3267,8 +3222,6 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    DDSP: Differentiable Digital Signal Processing https://github.com/magenta/ddsp  https://analyticsindiamag.com/guide-to-differentiable-digital-signal-processing-ddsp-library-with-python-code/
    
    92.Palladium-https://palladium.readthedocs.io/en/latest/
-   
-   93.KNIME-https://www.knime.com/
    
    94.Facebook Open Sourced New Frameworks to Advance Deep Learning Research https://www.kdnuggets.com/2020/11/facebook-open-source-frameworks-advance-deep-learning-research.html
    
@@ -3283,8 +3236,6 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    99.High-Performance Jupyter Notebook - BlazingSQL Notebooks https://blazingsql.com/notebooks
    
    jupyter-tabnine https://github.com/wenmin-wu/jupyter-tabnine
-   
-   100.CV-pretrained-model-   https://github.com/balavenkatesh3322/CV-pretrained-modelCV-pretrained-model-
    
    101.Kubeflow  Machine Learning Toolkit for Kubernetes https://www.kubeflow.org/
    
@@ -3630,10 +3581,6 @@ determined to be unfair.
    
    149.onnx  https://medium.com/towards-artificial-intelligence/onnx-for-model-interoperability-faster-inference-8709375db9bf
    
-   150.Speeding up Python code with Nim https://medium.com/statch/speeding-up-python-code-with-nim-ec205a8a5d9c
-   
-   151.Top 10 Free Resources To Learn R  https://analyticsindiamag.com/top-10-free-resources-to-learn-r/
-   
    152.Best ML Frameworks & Extensions for Scikit-learn https://neptune.ai/blog/the-best-ml-framework-extensions-for-scikit-learn?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-the-best-ml-framework-extensions-for-scikit-learn
    
    153.Multimodal Neurons, The Most Advanced Neural Networks Discovered By OpenAI https://analyticsindiamag.com/inside-multimodal-neurons-the-most-advanced-neural-networks-discovered-by-openai/
@@ -3641,8 +3588,14 @@ determined to be unfair.
    154.TensorGram https://github.com/ksdkamesh99/TensorGram https://www.youtube.com/watch?v=ItDBQB4YFuI
 
        knockknock https://towardsdatascience.com/how-to-get-notified-when-your-model-is-done-training-with-knockknock-483a0475f82c
+       
+       labmi Organize machine learning experiments and monitor training progress from mobile  https://labml.ai/
+       
+       WeightWatcher https://github.com/CalculatedContent/WeightWatcher
   
    155.r packages https://upurl.me/vkf3r  http://r-bloggers.com/2021/04/15-essential-packages-in-r-for-data-science/  https://www.ubuntupit.com/best-r-machine-learning-packages/
+   
+   Top 10 Free Resources To Learn R  https://analyticsindiamag.com/top-10-free-resources-to-learn-r/
    
    https://bluemind1988.medium.com/explore-r-libraries-for-end-to-end-data-science-projects-b4d0af3a9f5c
 
@@ -3657,8 +3610,6 @@ determined to be unfair.
    158.2D images to 3D https://analyticsindiamag.com/python-guide-to-neural-body-converting-2d-images-to-3d/
 
    Open3D: An Open Source Modern Library For 3D Data Processing  https://github.com/intel-isl/Open3D
-  
-   159.FEDERATED LEARNING https://blog.openmined.org/federated-learning-types/
 
    160.https://gallery.allennlp.org/  https://prior.allenai.org/projects/gpv
   
