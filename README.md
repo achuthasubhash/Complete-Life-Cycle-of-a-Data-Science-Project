@@ -3428,6 +3428,8 @@ determined to be unfair.
    
    15 Best Tools for Tracking Machine Learning Experiments https://neptune.ai/blog/best-ml-experiment-tracking-tools
    
+   mlops-https://github.com/visenger/awesome-mlops  
+   
    mlflow https://towardsdatascience.com/get-started-with-mlops-fd7062cab018
    
    MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
@@ -3461,6 +3463,10 @@ determined to be unfair.
    https://github.com/kelvins/awesome-mlops#hyperparameter-tuning
    
    ClearML https://analyticsindiamag.com/guide-to-clearml-zero-integration-mlops-solution/
+   
+   https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective
+   
+   https://ml-ops.org/content/mlops-principles
    
    115.Code faster https://www.tabnine.com/
    
@@ -3968,9 +3974,11 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
    AutoFeat-https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/
 
-15.bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
+15.https://github.com/mstaniak/autoEDA-resources
 
-   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti 
+   bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
+
+   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy
    
   QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
@@ -4071,7 +4079,7 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
 pandas chunksize,Modin ,Vaex,ray,Dask,PyPolars,Polars,cuDF,mars,ray,rapids,joblib,snorkel,Pyarrow,Fastparquet,dampr,
-pandarallel ,numba, numexpr,ipython parallel   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandarallel ,numba, numexpr,ipython parallel,Nim,speedML   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
