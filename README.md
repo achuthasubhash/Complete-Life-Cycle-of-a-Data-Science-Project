@@ -86,6 +86,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       Scraping Instagram -instaloader  https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/
       
+      Instascrape 
+      
       Scrape Wikipedia  wikipedia https://www.thepythoncode.com/article/access-wikipedia-python
       
       patang - Scrape Product details from eCommerce Sites with Puppeteer and DOM String  https://www.youtube.com/watch?v=3sgxRmyOuXs
@@ -1147,6 +1149,8 @@ anderson teset  use for check any  distribution
   
   Choose the Right Machine Learning Algorithm for Your Application  https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9
   
+  Time Complexity Of Machine Learning Models -https://www.thekerneltrip.com/machine/learning/computational-complexity-learning-algorithms/
+  
   interactive tools https://github.com/Machine-Learning-Tokyo/Interactive_Tools 
   
   HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9 
@@ -1197,7 +1201,7 @@ anderson teset  use for check any  distribution
      
        linear regression,polynomial regression,Robust Regression,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
        
-       least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,
+       least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,XBNet
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature)
        
@@ -1211,7 +1215,7 @@ anderson teset  use for check any  distribution
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,linear-tree,TensorFlow Decision Forests,
         
-        Random Forest Classification,TensorFlow Decision Forests,xgboost,adaboost,Gradient Boost,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,passive aggressive classifier algorithm,cart,c4.5,c5.0
+        Random Forest Classification,TensorFlow Decision Forests,xgboost,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,passive aggressive classifier algorithm,cart,c4.5,c5.0
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
@@ -1331,6 +1335,8 @@ anderson teset  use for check any  distribution
    D.Reinforcement learning  https://neptune.ai/blog/best-reinforcement-learning-tutorials-examples-projects-and-courses
    
       2 types a)model free   b)model based
+      
+      gym-https://github.com/openai/gym           reinforcement learning by using  PyTorch-https://github.com/SforAiDl/genrl
    
       agent,environment,policy(On-Policy vs Off-Policy),reward function,value function,state,action,episode,actor-critic
    
@@ -1416,6 +1422,10 @@ anderson teset  use for check any  distribution
    
    Sharing the best resources on various machine learning topics https://www.backprop.org/
    
+   deeplearning-models-https://github.com/rasbt/deeplearning-models
+   
+   Deep-Learning-with-PyTorch- https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf
+   
    Frameworks:Pytorch,Tensorflow,Keras,caffe,theano,MXNet,Matlab,Microsoft Cognitive Toolkit,opacus(Train PyTorch models with Differential Privacy)
    
    https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464  https://docs.deepstack.cc/getting-started/index.html
@@ -1455,6 +1465,12 @@ anderson teset  use for check any  distribution
       glasses High-quality Neural Networks for Computer Vision  https://github.com/FrancescoSaverioZuppichini/glasses
       
       IceVision https://airctic.com/0.8.0/
+      
+      Top Computer Vision Google Colab Notebooks- https://www.qblocks.cloud/creators/computer-vision-google-colab-notebooks
+      
+      for low code object detection (detecto)- https://github.com/alankbi/detecto
+      
+      CV-pretrained-model-   https://github.com/balavenkatesh3322/CV-pretrained-modelCV-pretrained-model-
    
      1.Classification of image
      
@@ -1726,6 +1742,22 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      doccano text annotation tool https://github.com/doccano/doccano https://www.youtube.com/watch?v=vT-GE_jssPk https://github.com/doccano/auto-labeling-pipeline   https://github.com/doccano/doccano-client https://doccano.herokuapp.com/
      
+     Data augmentation for NLP-https://github.com/makcedward/nlpaug
+     
+     detext-https://github.com/linkedin/detext
+     
+     nlpaug-https://github.com/makcedward/nlpaug
+     
+     NLP-progress -https://github.com/sebastianruder/NLP-progress
+     
+     Super Duper NLP Repo- https://notebooks.quantumstat.com/
+     
+     Multilingual Representations for Indian Languages https://tfhub.dev/google/MuRIL/1
+     
+     Natural Language Processing 365- https://ryanong.co.uk/natural-language-processing-365/
+     
+     1 line for hundreds of NLP models and algorithms- https://github.com/JohnSnowLabs/nlu
+     
      beautiful Wordclouds in Python  https://towardsdatascience.com/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5
      
      Automate your Text Processing workflow in a single line of Python Code https://towardsdatascience.com/automate-your-text-processing-workflow-in-a-single-line-of-python-code-e276755e45de
@@ -1810,7 +1842,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J ,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
+     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J ,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
         
@@ -1845,13 +1877,13 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         https://www.kdnuggets.com/2019/09/bert-roberta-distilbert-xlnet-one-use.html
         
-     11.Speech  (Braina,Dragon Speech Recognition Solutions ,Winscribe,Gboard,Windows 10 Speech Recognition,Otter,Speechnotes,tts)
+     11.Speech  (Braina,Dragon Speech Recognition Solutions ,Winscribe,Gboard,Windows 10 Speech Recognition,Otter,Speechnotes,tts,OpenSpeech)
        
         speech to text   
         
         text to speech  https://towardsdatascience.com/text-to-speech-one-small-step-by-mankind-to-create-lifelike-robots-54e19f843b21
         
-        Acoustic model,Speaker diarisation,apis
+        Acoustic model,Speaker diarisation,apis,
         
         Microsoft IceCAPS is an Open Source Framework for Conversational Modeling https://pub.towardsai.net/microsoft-icecaps-is-an-open-source-framework-for-conversational-modeling-4f78492ca685
         
@@ -2541,7 +2573,7 @@ TF Micro and SensiML https://blog.tensorflow.org/2021/05/building-tinyml-applica
 
 six different types of methods:
 1) Pruning
-2) Quantization
+2) Quantization       ,TensorFlow Quantum
    Post-Training Quantization
    — Reduce Float16
    — Hybrid Quantization
@@ -2593,6 +2625,8 @@ Automatic Model Compression (AutoMC) framework for developing smaller and faster
 leverage of model architecture
 
 Federated Learning  https://www.analyticsvidhya.com/blog/2021/04/federated-learning-for-beginners/  https://www.tensorflow.org/federated
+
+FEDERATED LEARNING https://blog.openmined.org/federated-learning-types/
 
 Federated Learning with FEDn  https://github.com/scaleoutsystems/fedn
 
