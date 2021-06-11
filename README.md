@@ -654,6 +654,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    DataPrep  https://dataprep.ai/ https://github.com/sfu-db/dataprep https://towardsdatascience.com/dataprep-v0-3-0-has-been-released-be49b1be0e72
    
+   Dora (pip library) - data cleaning
+   
    cleantext https://www.youtube.com/watch?v=i2TjAgga1YU&feature=youtu.be
    
    ATOM https://github.com/tvdboom/ATOM  https://towardsdatascience.com/how-to-test-multiple-machine-learning-pipelines-with-just-a-few-lines-of-python-1a16cb4686d
