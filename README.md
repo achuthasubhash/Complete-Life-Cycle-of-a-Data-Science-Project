@@ -426,6 +426,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Synthetic structured data generators https://github.com/ydataai/ydata-synthetic
     
+    DatasetGAN: an automatic procedure to generate massive datasets of high-quality images 
+    
     Generating synthetic tabular data with GANs,Synthetic Time-Series Data by A GAN approach
     
     Unity Launches Synthetic Image Datasets https://www.marktechpost.com/2021/04/23/unity-launches-synthetic-image-datasets-to-train-ai-and-computer-vision-models-faster/
@@ -438,7 +440,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     70+ Image Classification Datasets from different Industry domains-https://medium.com/towards-artificial-intelligence/70-image-classification-datasets-from-different-industry-domains-part-2-cd1af6e48eda
     
-    VisualData Discovery https://www.visualdata.io/discovery
+    VisualData Discovery https://www.visualdata.io/discovery   https://guides.library.cmu.edu/machine-learning/datasets
      
      data https://storage.googleapis.com/openimages/web/visualizer/index.html?c=%2Fm%2F04yqq2&r=false&set=train&type=segmentation&utm_campaign=Weekly%20Machine%20Learning%20news&utm_medium=email&utm_source=Revue%20newsletter
      
@@ -924,6 +926,8 @@ anderson teset  use for check any  distribution
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power)
       
+      ML model which are not sensitive to outliers Like:-KNN,Decision Tree,SVM,NaïveBayes,Ensemble 
+      
       PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/ 
       
       if outiler present then use robust scaling
@@ -1201,7 +1205,7 @@ anderson teset  use for check any  distribution
      
        linear regression,polynomial regression,Robust Regression,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
        
-       least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,XBNet
+       least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,XBNet,Chefboost
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature)
        
@@ -1215,7 +1219,7 @@ anderson teset  use for check any  distribution
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,linear-tree,TensorFlow Decision Forests,
         
-        Random Forest Classification,TensorFlow Decision Forests,xgboost,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,passive aggressive classifier algorithm,cart,c4.5,c5.0
+        Random Forest Classification,TensorFlow Decision Forests,xgboost,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,passive aggressive classifier algorithm,cart,c4.5,c5.0
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
@@ -1448,6 +1452,8 @@ anderson teset  use for check any  distribution
    
    keras-visualizer  Visualizing Keras Models https://towardsdatascience.com/visualizing-keras-models-4d0063c8805e
    
+   Gradient-Centralization-TensorFlow improve your training performance of TensorFlow models with just 2 lines of code!  https://github.com/Rishit-dagli/Gradient-Centralization-TensorFlow
+   
    1.Multilayer perceptron(MLP)
    
      1.Regression task
@@ -1488,9 +1494,13 @@ anderson teset  use for check any  distribution
      
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,SlimYOLOv3,yolo v4,PP-YOLO,scaled yolov4,YOLOR,YoloV5,YOLOS,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
-       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,Libra_R-CNN,detr facebook,mdetr,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,AugFPN,mlsd
+       maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,Libra_R-CNN,detr facebook,mdetr,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,deeplab,globalconvolutionnetwork,fcn,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,AugFPN,mlsd
 
-       mmdetection https://github.com/open-mmlab/mmdetection    imageai.Detection ObjectDetection
+       mmdetection https://github.com/open-mmlab/mmdetection    https://towardsdatascience.com/mmdetection-tutorial-an-end2end-state-of-the-art-object-detection-library-59064deeada3
+       
+       imageai.Detection ObjectDetection       Segmentation models https://github.com/qubvel/segmentation_models
+       
+       IceVision https://airctic.com/0.8.0/
        
        Image Generation Using TensorFlow Keras https://analyticsindiamag.com/getting-started-image-generation-tensorflow-keras/
 
@@ -1569,6 +1579,8 @@ anderson teset  use for check any  distribution
      albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
      
      Augmentor Image augmentation library in Python for machine learning  https://github.com/mdbloice/Augmentor
+     
+     albumentations  https://github.com/albumentations-team/albumentations 
      
      HiSD: Image-to-Image translation via Hierarchical Style Disentanglement https://analyticsindiamag.com/hisd-python-implementation-of-image-to-image-translation/
      
@@ -1842,7 +1854,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J ,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
+     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J ,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
         
@@ -1877,7 +1889,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         https://www.kdnuggets.com/2019/09/bert-roberta-distilbert-xlnet-one-use.html
         
-     11.Speech  (Braina,Dragon Speech Recognition Solutions ,Winscribe,Gboard,Windows 10 Speech Recognition,Otter,Speechnotes,tts,OpenSpeech)
+     11.Speech  (Braina,Dragon Speech Recognition Solutions ,Winscribe,Gboard,Windows 10 Speech Recognition,Otter,Speechnotes,tts,OpenSpeech,FRILL)
        
         speech to text   
         
@@ -2164,6 +2176,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    10 Self-Supervised Learning Frameworks & Libraries To Use In 2021 analyticsindiamag.com/10-self-supervised-learning-frameworks-libraries-to-use-in-2021/
    
    Self-Supervised Learning https://github.com/jason718/awesome-self-supervised-learning
+   
+   awesome-self-supervised-learning https://github.com/jason718/awesome-self-supervised-learning
    
    Self-supervised Video Object Segmentation https://charigyang.github.io/motiongroup/
    
@@ -3096,6 +3110,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    orange https://orange.biolab.si/
    
+   Databricks AutoML Automate Machine Learning using Databricks AutoML https://pub.towardsai.net/automate-machine-learning-using-databricks-automl-a-glass-box-approach-and-mlflow-2543a8143687
+   
    OpenBlender https://openblender.io/#/welcome  https://analyticsindiamag.com/how-to-use-openblender-the-leading-data-blending-tool/
    
    create neural networks with one line of code https://github.com/PraneetNeuro/nnio.l
@@ -3426,7 +3442,9 @@ determined to be unfair.
    
    MLflow vs Kubeflow vs Neptune  https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlflow-vs-kubeflow-vs-neptune-differences
    
-   15 Best Tools for Tracking Machine Learning Experiments https://neptune.ai/blog/best-ml-experiment-tracking-tools
+   15  MLOps.toys https://mlops.toys/
+   
+   Best Tools for Tracking Machine Learning Experiments https://neptune.ai/blog/best-ml-experiment-tracking-tools
    
    mlops-https://github.com/visenger/awesome-mlops  
    
