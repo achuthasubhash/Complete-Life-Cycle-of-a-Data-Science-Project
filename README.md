@@ -72,7 +72,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       Scweet A simple and unlimited twitter scraper  https://github.com/Altimis/Scweet
       
-      GetOldTweets3
+      GetOldTweets3,GoogleNews
 
       Scrape Twitter for Tweets https://github.com/taspinar/twitterscraper
       
@@ -660,7 +660,9 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Dora (pip library) - data cleaning
    
-   cleantext https://www.youtube.com/watch?v=i2TjAgga1YU&feature=youtu.be
+   cleantext https://www.youtube.com/watch?v=i2TjAgga1YU&feature=youtu.be  
+   
+   CleanText: A Python Package to Clean Raw Text Data https://analyticsindiamag.com/guide-to-cleantext-a-python-package-to-clean-raw-text-data/
    
    ATOM https://github.com/tvdboom/ATOM  https://towardsdatascience.com/how-to-test-multiple-machine-learning-pipelines-with-just-a-few-lines-of-python-1a16cb4686d
    
@@ -914,7 +916,7 @@ anderson teset  use for check any  distribution
    
    h.Same variable(only 1 variable) in feature then remove feature
    
-   i.Outilers   removing outilers depond on problem we are solving
+   i.Outilers   removing outilers depond on problem we are solving  https://github.com/jainyk/package-outlier
    
       2 type of outilers available: Global outiler, Local outiler
     
@@ -1149,7 +1151,7 @@ anderson teset  use for check any  distribution
 
 ***6.Model selection***
 
-  Machine learning
+  Machine learning  https://scikit-learn.org/stable/index.html
   
   Choose the Right Machine Learning Algorithm for Your Application  https://towardsdatascience.com/how-to-choose-the-right-machine-learning-algorithm-for-your-application-1e36c32400b9
   
@@ -1454,6 +1456,8 @@ anderson teset  use for check any  distribution
    
    Gradient-Centralization-TensorFlow improve your training performance of TensorFlow models with just 2 lines of code!  https://github.com/Rishit-dagli/Gradient-Centralization-TensorFlow
    
+   MIL-WebDNN Fastest DNN Execution Framework on Web Browser  https://mil-tokyo.github.io/webdnn/
+   
    1.Multilayer perceptron(MLP)
    
      1.Regression task
@@ -1592,7 +1596,7 @@ anderson teset  use for check any  distribution
      
      unadversarial  https://github.com/microsoft/unadversarial/ https://analyticsindiamag.com/microsoft-research-unadversarial/
      
-     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,saliency_map_guided,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad,PytorchRevelio,Feature Visualizer, Guided Gradients, grad_cam
+     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,saliency_map_guided,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad,PytorchRevelio,Feature Visualizer, Guided Gradients, grad_cam,sensitivity_analysis
 
      
      Tools to Design or Visualize Architecture of Neural Network https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
@@ -1777,6 +1781,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      quantumstat  https://index.quantumstat.com/
      
      Dynaboard: Moving beyond accuracy to holistic model evaluation in NLP https://ai.facebook.com/blog/dynaboard-moving-beyond-accuracy-to-holistic-model-evaluation-in-nlp/
+     
+     AutoReg  Regex of string in Python https://github.com/SusmitPanda/AutoReg
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
@@ -2084,6 +2090,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       10.Auto_Timeseries by auto-ts    https://www.youtube.com/watch?v=URUiVD37fns&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=24 tell best model for data
       
       AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/  https://github.com/AutoViML/Auto_TS
+      
+      AutoReg  Regex of string in Python https://github.com/SusmitPanda/AutoReg
       
       pytsal  low-code open-source python framework for Time Series analysis,visualization,forecasting along with AutoTS  https://github.com/KrishnanSG/pytsal
       
@@ -2580,6 +2588,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
 ***Tensorflow lite:Use of tensorflow lite to reduce size of model***   https://www.tensorflow.org/lite  https://codelabs.developers.google.com/codelabs/recognize-flowers-with-tensorflow-on-android-beta/#0  https://tfhub.dev/s?deployment-format=lite  https://www.tensorflow.org/lite/examples https://www.tensorflow.org/lite/microcontrollers
 https://www.tensorflow.org/lite/models
+
+Adventures-in-TensorFlow-Lite https://github.com/sayakpaul/Adventures-in-TensorFlow-Lite
 
 coral https://coral.ai/docs/edgetpu/models-intro/
 
@@ -3442,7 +3452,7 @@ determined to be unfair.
    
    MLflow vs Kubeflow vs Neptune  https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlflow-vs-kubeflow-vs-neptune-differences
    
-   15  MLOps.toys https://mlops.toys/
+   15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps
    
    Best Tools for Tracking Machine Learning Experiments https://neptune.ai/blog/best-ml-experiment-tracking-tools
    
