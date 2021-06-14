@@ -162,6 +162,8 @@ c.creating own data  (manual collection eg:google docx,servey,etc...) primary da
 
 d.etl  awesome ETL https://github.com/pawl/awesome-etl#python
 
+38x faster data pipelines with tf.data
+
 d.Databases
 
   Databases are 2 kind sequel  and no sequel database
@@ -946,7 +948,7 @@ anderson teset  use for check any  distribution
      
      Timetk https://towardsdatascience.com/timetk-the-r-library-for-time-series-analysis-9822f7720318
      
-     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis, IsolationForest,Elliptic Envelope
+     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours
      
      Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
      
@@ -1214,6 +1216,10 @@ anderson teset  use for check any  distribution
        Locally Weighted Linear Regression https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf
        
        TuringBot https://www.youtube.com/watch?v=LyKzKvjyIPo
+       
+       chefboost is an alternative library for training tree-based models https://github.com/serengil/chefboost
+       
+       growtrees About Cost-Aware Robust Tree Ensembles for Security Applications https://github.com/surrealyz/growtrees
 
      2.Classification (output feature in categorical data form)
      
@@ -1582,6 +1588,8 @@ anderson teset  use for check any  distribution
      
      albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
      
+     Data augmentation with tf.data
+     
      Augmentor Image augmentation library in Python for machine learning  https://github.com/mdbloice/Augmentor
      
      albumentations  https://github.com/albumentations-team/albumentations 
@@ -1860,7 +1868,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J ,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
+     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
         
@@ -2277,6 +2285,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     hyperparameter optimization https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms
     
     Hyperopt hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
+    
+    hypertune-using-scikit-optimize  BayesSearchCV
     
     HpBandSter https://github.com/automl/HpBandSter  hpsklearn https://medium.com/mlearning-ai/automatic-hyperparameter-optimization-6a1692c2ebee
     
@@ -2700,6 +2710,8 @@ IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Qua
    
    Datasets on arXiv https://medium.com/paperswithcode/datasets-on-arxiv-1a5a8f7bd104
    
+   code for research paper https://www.analyticsvidhya.com/blog/2021/06/steal-the-code-ethically-get-better-at-ml-ai-research/
+   
    papertalk https://papertalk.org/index
    
    connected papers https://www.connectedpapers.com/
@@ -2727,6 +2739,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    IDE:jupyter notebook,spyder,pycharm,visual studio
    
    4 Tools for Reproducible Jupyter Notebooks https://towardsdatascience.com/4-tools-for-reproducible-jupyter-notebooks-d7423721bd04
+   
+   12 Jupyter Notebook Extensions That Will Make Your Life Easier https://towardsdatascience.com/12-jupyter-notebook-extensions-that-will-make-your-life-easier-e0aae0bd181
 
 ***BEST ONLINE COURSES***
 
@@ -2894,7 +2908,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
@@ -3886,6 +3900,8 @@ pywedge  https://github.com/taknev83/pywedge https://towardsdatascience.com/auto
 
 LightAutoML  https://github.com/sberbank-ai-lab/LightAutoML https://lightautoml.readthedocs.io/en/latest/ https://towardsdatascience.com/lightautoml-preset-usage-tutorial-2cce7da6f936
 
+FLAML  fast and lightweight AutoML library https://github.com/microsoft/FLAML
+
 EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/ https://www.kdnuggets.com/2021/04/easy-automl-python.html https://www.youtube.com/watch?v=uuYEQqrExBQ https://www.analyticsvidhya.com/blog/2021/05/machine-learning-automation-using-evalml-library/
 
 A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
@@ -4006,7 +4022,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy
+   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter 
    
   QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
@@ -4107,7 +4123,7 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
 pandas chunksize,Modin ,Vaex,ray,Dask,PyPolars,Polars,cuDF,mars,ray,rapids,joblib,snorkel,Pyarrow,Fastparquet,dampr,
-pandarallel ,numba, numexpr,ipython parallel,Nim,speedML   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandarallel ,numba, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
@@ -4284,7 +4300,7 @@ https://www.openblender.io/#/welcome
 
 79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
-80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms,dgl ease deep learning on graph,Graph4nlp
+80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms,dgl ease deep learning on graph,Graph4nlp,
 
 https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
 
