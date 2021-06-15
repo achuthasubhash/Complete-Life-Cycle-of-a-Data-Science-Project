@@ -86,7 +86,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       Scraping Instagram -instaloader  https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/
       
-      Instascrape 
+      Instascrape   
       
       Scrape Wikipedia  wikipedia https://www.thepythoncode.com/article/access-wikipedia-python
       
@@ -604,7 +604,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     67.yfinance for finance data using     https://github.com/ranaroussi/yfinance  https://medium.com/towards-artificial-intelligence/algorithmic-trading-with-python-and-machine-learning-part-1-47c56706c182
     
-    import fix_yahoo_finance as yf       
+    import fix_yahoo_finance as yf         , yahoofinancials
     
     financeapi https://towardsdatascience.com/pull-and-analyze-financial-data-using-a-simple-python-package-83e47759c4a7
     
@@ -926,7 +926,7 @@ anderson teset  use for check any  distribution
       
       methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,Scatterplot
       
-      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification
+      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,Autoencoder,Outlier Detection using In-degree Number
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power)
       
@@ -1474,7 +1474,7 @@ anderson teset  use for check any  distribution
    
      Best MLOps Tools for Your Computer Vision Project Pipeline https://neptune.ai/blog/best-mlops-tools-for-computer-vision-project?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-mlops-tools-for-computer-vision-project
 
-      mediapipe https://google.github.io/mediapipe/ 
+      mediapipe https://google.github.io/mediapipe/        cv modelhub https://modelplace.ai/
       
       all openmmlab https://github.com/open-mmlab  mmdetection,mmsegmentation,mmediting,mmdetection3d,mmaction2,mmocr,mmpose,etc...
       
@@ -1488,7 +1488,7 @@ anderson teset  use for check any  distribution
       
       CV-pretrained-model-   https://github.com/balavenkatesh3322/CV-pretrained-modelCV-pretrained-model-
    
-     1.Classification of image
+     1.Classification of image 
      
        albumentations https://github.com/albumentations-team/albumentations
      
@@ -1737,6 +1737,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       7.convolutional   autoencoder
       
       https://github.com/zc8340311/RobustAutoencoder
+      
+      Applications of AutoEncoders,Dimensionality reduction,Anomaly detection,Image denoising,Image compression,Image generation
    
    6.BoltzmannMachines,Restricted Boltzmann Machine,deep belief network,deep BoltzmannMachines
    
@@ -2546,6 +2548,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     DearPyGui https://github.com/hoffstadt/DearPyGui
     
+    Gooey Turn (almost) any Python command line program into a full GUI application with one line https://github.com/chriskiehl/Gooey
+    
     snapyml Deploy AI Models For Free -http://snapyml.snapy.ai/
     
     BentoML https://github.com/bentoml/BentoML
@@ -2964,7 +2968,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    30.Machine-Learning-with-Python-https://github.com/tirthajyoti/Machine-Learning-with-Python
    
-   31.huggingface contain almost all nlp pretrained model and all tasks related to nlp field
+   31.huggingface contain almost all nlp pretrained model and all tasks related to nlp field https://huggingface.co/course/chapter0?fw=pt
    
    https://huggingface.co/models  https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html https://huggingface.co/modelsz
      
@@ -3325,6 +3329,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
    https://christophm.github.io/interpretable-ml-book/  https://www.kaggle.com/getting-started/209632  https://ex.pegg.io/
    
+   Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
+   
    tf-explain https://github.com/sicara/tf-explain
    
    lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/  https://towardsdatascience.com/interpreting-image-classification-model-with-lime-1e7064a2f2e5
@@ -3336,6 +3342,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    fastshap https://github.com/bgreenwell/fastshap
    
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash  https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable.html
+   
+   Captum is a model interpretability and understanding library for PyTorch https://github.com/pytorch/captum
    
    Explainable AI https://ex.pegg.io/
    
