@@ -859,7 +859,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      17.dummy encoding
      
-     18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder
+     18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders
 
      Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding
      
@@ -1202,6 +1202,8 @@ anderson teset  use for check any  distribution
   Machine Learning in Tableau with PyCaret  https://towardsdatascience.com/machine-learning-in-tableau-with-pycaret-166ffac9b22e
   
   TabNet balances explainability and model performance on tabular data https://towardsdatascience.com/tabnet-e1b979907694
+  
+  FreaAI That Automatically Finds Weaknesses In ML models  https://analyticsindiamag.com/ibm-launches-freaai-that-automatically-finds-weaknesses-in-ml-models/
    
    A.Supervised learning (have label data)
    
@@ -3910,6 +3912,8 @@ LightAutoML  https://github.com/sberbank-ai-lab/LightAutoML https://lightautoml.
 
 FLAML  fast and lightweight AutoML library https://github.com/microsoft/FLAML
 
+LightAutoML LAMA - automatic model creation framework  https://github.com/sberbank-ai-lab/LightAutoML
+
 EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/ https://www.kdnuggets.com/2021/04/easy-automl-python.html https://www.youtube.com/watch?v=uuYEQqrExBQ https://www.analyticsvidhya.com/blog/2021/05/machine-learning-automation-using-evalml-library/
 
 A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
@@ -4309,6 +4313,8 @@ https://www.openblender.io/#/welcome
 79.Machine Learning for Healthcare by mit-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s897-machine-learning-for-healthcare-spring-2019/
 
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms,dgl ease deep learning on graph,Graph4nlp,
+
+GeometricFlux.jl,PyTorch GNN, Jraph,Spektral,Graph Nets,Deep Graph Library , PyTorch Geometric
 
 https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
 
