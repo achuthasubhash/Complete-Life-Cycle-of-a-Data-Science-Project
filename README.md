@@ -966,7 +966,7 @@ anderson teset  use for check any  distribution
 
 ***3.Exploratory Data Analysis(eda)***
   
-    Explore the dataset by using  python or microsoft Excel,Atoti,Power BI,Datapane’s,Tableau,TabPy,SAS Business Intelligence and Analytics Tool,QlikView,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
+    Explore the dataset by using  python or microsoft Excel,Atoti,Power BI,Datapane’s,Tableau,TabPy,SAS Business Intelligence and Analytics Tool,QlikView,PyToQlik ,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
     
     atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo   Datapane’s Create a Beautiful Dashboard in Python in a Few Lines of Code https://towardsdatascience.com/datapanes-new-features-create-a-beautiful-dashboard-in-python-in-a-few-lines-of-code-a3c44523292b
     
@@ -1462,6 +1462,8 @@ anderson teset  use for check any  distribution
    
    keras-visualizer  Visualizing Keras Models https://towardsdatascience.com/visualizing-keras-models-4d0063c8805e
    
+   Lucid Library is an open source framework to improve the interpretation of deep neural networks
+   
    Gradient-Centralization-TensorFlow improve your training performance of TensorFlow models with just 2 lines of code!  https://github.com/Rishit-dagli/Gradient-Centralization-TensorFlow
    
    MIL-WebDNN Fastest DNN Execution Framework on Web Browser  https://mil-tokyo.github.io/webdnn/
@@ -1492,7 +1494,7 @@ anderson teset  use for check any  distribution
    
      1.Classification of image 
      
-       albumentations https://github.com/albumentations-team/albumentations
+       albumentations https://github.com/albumentations-team/albumentations  AugLy https://github.com/facebookresearch/AugLy
      
        create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit,DynamicViT, FNet,gMLP models,nfnet
        
@@ -1590,7 +1592,11 @@ anderson teset  use for check any  distribution
      
      albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
      
+     AugLy https://github.com/facebookresearch/AugLy
+     
      Data augmentation with tf.data
+     
+     ImageGenerator  image augmentation  ImageDataGenerator 
      
      Augmentor Image augmentation library in Python for machine learning  https://github.com/mdbloice/Augmentor
      
@@ -1606,7 +1612,7 @@ anderson teset  use for check any  distribution
      
      unadversarial  https://github.com/microsoft/unadversarial/ https://analyticsindiamag.com/microsoft-research-unadversarial/
      
-     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,saliency_map_guided,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad,PytorchRevelio,Feature Visualizer, Guided Gradients, grad_cam,sensitivity_analysis
+     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,saliency_map_guided,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad,PytorchRevelio,Feature Visualizer, Guided Gradients, grad_cam,sensitivity_analysis,Captum
 
      
      Tools to Design or Visualize Architecture of Neural Network https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
@@ -1785,6 +1791,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Natural Language Processing 365- https://ryanong.co.uk/natural-language-processing-365/
      
      1 line for hundreds of NLP models and algorithms- https://github.com/JohnSnowLabs/nlu
+     
+     simpletransformers
      
      beautiful Wordclouds in Python  https://towardsdatascience.com/how-to-easily-make-beautiful-wordclouds-in-python-55789102f6f5
      
@@ -2643,6 +2651,8 @@ compressors https://github.com/elephantmipt/compressors
 https://rachitsingh.com/deep-learning-model-compression/#quantization
 
 model optimization (architecture)
+
+TF Lite with iOS, Swift and TF Lite Swift
  
 TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
 
@@ -3331,6 +3341,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
    https://christophm.github.io/interpretable-ml-book/  https://www.kaggle.com/getting-started/209632  https://ex.pegg.io/
    
+   https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
+   
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
    tf-explain https://github.com/sicara/tf-explain
@@ -3470,7 +3482,7 @@ determined to be unfair.
    
    113.OpenVINO  https://opencv.org/openvino-model-optimization/ https://opencv.org/how-to-speed-up-deep-learning-inference-using-openvino-toolkit-2/
    
-   114.https://neptune.ai/blog/machine-learning-model-management   https://analyticsindiamag.com/top-mlops-tools-github-repos/
+   114.https://neptune.ai/blog/machine-learning-model-management   https://analyticsindiamag.com/top-mlops-tools-github-repos/  https://neu.ro/2021-mlops-platforms-vendor-analysis-report/
 
    Best Workflow and Pipeline Orchestration Tools https://neptune.ai/blog/best-workflow-and-pipeline-orchestration-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-best-workflow-and-pipeline-orchestration-tools
    
