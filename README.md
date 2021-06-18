@@ -160,7 +160,7 @@ b.3rd party API'S
 
 c.creating own data  (manual collection eg:google docx,servey,etc...) primary data
 
-d.etl  awesome ETL https://github.com/pawl/awesome-etl#python
+d.etl  awesome ETL https://github.com/pawl/awesome-etl#python  https://github.com/achuthasubhash/awesome-etl
 
 38x faster data pipelines with tf.data
 
@@ -1915,7 +1915,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         https://www.kdnuggets.com/2019/09/bert-roberta-distilbert-xlnet-one-use.html
         
-     11.Speech  (Braina,Dragon Speech Recognition Solutions ,Winscribe,Gboard,Windows 10 Speech Recognition,Otter,Speechnotes,tts,OpenSpeech,FRILL)
+     11.Speech  (Braina,Dragon Speech Recognition Solutions ,Winscribe,Gboard,Windows 10 Speech Recognition,Otter,Speechnotes,tts,OpenSpeech,FRILL,Vakyansh)
        
         speech to text   
         
@@ -2522,6 +2522,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Streamlit Flask App from Colab using remoteit and ngrok https://www.youtube.com/watch?v=O2enoygZwl4
     
+    Streamlit to databases https://docs.streamlit.io/en/0.83.0/tutorial/databases.html
+    
     https://github.com/jrieke/best-of-streamlit
     
     https://neptune.ai/blog/streamlit-guide-machine-learning?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-streamlit-guide-machine-learning
@@ -2655,6 +2657,8 @@ model optimization (architecture)
 TF Lite with iOS, Swift and TF Lite Swift
  
 TinyML  https://blog.tensorflow.org/2020/08/the-future-of-ml-tiny-and-bright.html
+
+tinyml-papers-and-projects This is a list of interesting papers and projects about TinyML https://github.com/gigwegbe/tinyml-papers-and-projects
 
 pennylane Python library for differentiable programming of quantum computers https://github.com/PennyLaneAI/pennylane
 
@@ -3078,7 +3082,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
    https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
-   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench
+   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow
    
    Teachable Machine-https://teachablemachine.withgoogle.com/  Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
