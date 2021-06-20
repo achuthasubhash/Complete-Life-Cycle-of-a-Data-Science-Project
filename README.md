@@ -134,7 +134,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      pandas(read_html)
      
-     wget,curl
+     wget,curl,parsehub,webhouse,octoparse,scraping bot,scraping bee
      
      10-best-web-scraping-tools  https://www.scraperapi.com/blog/the-10-best-web-scraping-tools/
      
@@ -1052,7 +1052,7 @@ anderson teset  use for check any  distribution
 
     1.Filter methods (correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain etc...)
 
-    2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backwaed feature elimination,exhaustic feature selection,stepwise selection etc...)
+    2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backward feature elimination,exhaustic feature selection,stepwise selection etc...)
 
     3.Embedded method (lasso regression,ridge regression,elasticnet regression,tree based etc...)
     
@@ -1094,7 +1094,7 @@ anderson teset  use for check any  distribution
   
     8.lasso regression to penalise unimportant features
     
-    9.VarianceThreshold 
+    9.VarianceThreshold ,selectkbest
     
     10.model based selection
     
@@ -1247,6 +1247,8 @@ anderson teset  use for check any  distribution
      1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping 
      
      t-SNE Effectively https://distill.pub/2016/misread-tsne/
+     
+     17 clustering  https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
    
      2.Clustering : Centroid-based Model ,Density-based Model ,Distribution-based Model,Connectivity-based model
      
@@ -1466,6 +1468,8 @@ anderson teset  use for check any  distribution
    
    Gradient-Centralization-TensorFlow improve your training performance of TensorFlow models with just 2 lines of code!  https://github.com/Rishit-dagli/Gradient-Centralization-TensorFlow
    
+   XBNet: An Extremely Boosted Neural Network
+   
    MIL-WebDNN Fastest DNN Execution Framework on Web Browser  https://mil-tokyo.github.io/webdnn/
    
    1.Multilayer perceptron(MLP)
@@ -1513,6 +1517,8 @@ anderson teset  use for check any  distribution
        mmdetection https://github.com/open-mmlab/mmdetection    https://towardsdatascience.com/mmdetection-tutorial-an-end2end-state-of-the-art-object-detection-library-59064deeada3
        
        imageai.Detection ObjectDetection       Segmentation models https://github.com/qubvel/segmentation_models
+       
+       Image-Segmentation-Using-Pixellib
        
        IceVision https://airctic.com/0.8.0/
        
@@ -2575,6 +2581,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     FastAPI + Uvicorn https://www.kdnuggets.com/2021/04/deploy-machine-learning-models-to-web.html  
     
     FastAPI based template https://github.com/99sbr/fastapi-template  fastapi-log 0.0.3 https://pypi.org/project/fastapi-log/
+    
+    chitra 𝗖𝗿𝗲𝗮𝘁𝗲 𝗔𝗣𝗜 𝗳𝗼𝗿 𝗔𝗻𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹  https://github.com/aniketmaurya/chitra
     
     PyWebIO Write Interactive Web App in Script Way Using Python https://www.youtube.com/watch?v=vp1ZNapAy6Y  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e  https://github.com/tirthajyoti/PyWebIO
     
