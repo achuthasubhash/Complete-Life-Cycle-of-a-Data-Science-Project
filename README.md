@@ -806,11 +806,13 @@ World’s Largest Data Platform https://worlddata.ai/
      
      6.MESA https://analyticsindiamag.com/guide-to-mesa-boost-ensemble-imbalanced-learning-with-meta-sampler/
      
-     7.choose metric roc,f1,etc...
+     7.choose  Proper Evaluation Metric metric roc,f1,etc...
        
      https://machinelearningmastery.com/framework-for-imbalanced-classification-projects/  https://www.kdnuggets.com/2020/01/5-most-useful-techniques-handle-imbalanced-datasets.html
      
-     7.Deep Imbalanced Regression https://github.com/YyzHarry/imbalanced-regression https://analyticsindiamag.com/deep-imbalanced-regression-complete-guide/
+     8.Deep Imbalanced Regression https://github.com/YyzHarry/imbalanced-regression https://analyticsindiamag.com/deep-imbalanced-regression-complete-guide/
+     
+     9.BalancedBaggingClassifier,Threshold moving
   
    c.Remove noise data
    
@@ -1495,6 +1497,8 @@ anderson teset  use for check any  distribution
       for low code object detection (detecto)- https://github.com/alankbi/detecto
       
       CV-pretrained-model-   https://github.com/balavenkatesh3322/CV-pretrained-modelCV-pretrained-model-
+      
+      Fast Computer Vision Model Building PyTorch Lightning Flash and FiftyOne https://towardsdatascience.com/open-source-tools-for-fast-computer-vision-model-building-b39755aab490
    
      1.Classification of image 
      
@@ -1857,6 +1861,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      9.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
 
         Build a Transformer in JAX from scratch https://theaisummer.com/jax-transformer/
+        
+        Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing  https://github.com/nlp-uoregon/trankit
      
         FastFormers  https://medium.com/ai-in-plain-english/fastformers-233x-faster-transformers-inference-on-cpu-4c0b7a720e1
      
@@ -2148,6 +2154,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       16.Orbit , DeepAR ,NeuralProphet(https://github.com/ourownstory/neural_prophet    https://ourownstory.github.io/neural_prophet/model-overview/)
 
       IBM’s AutoAI automates time series forecasting https://www.ibm.com/blogs/research/2021/03/autoai-time-series/?utm_campaign=Learning%20Posts&utm_content=159454790&utm_medium=social&utm_source=twitter&hss_channel=tw-3018841323
+      
+      Kats all in 1  time seres data https://github.com/facebookresearch/kats  https://facebookresearch.github.io/Kats/
 
       orbit https://analyticsindiamag.com/hands-on-guide-to-orbit-ubers-python-framework-for-bayesian-forecasting-inference/ https://github.com/uber/orbit
       
@@ -2383,6 +2391,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective https://github.com/microsoft/DeepSpeed
     
     o.shap-hypetune https://github.com/cerlymarco/shap-hypetune https://towardsdatascience.com/shap-for-feature-selection-and-hyperparameter-tuning-a330ec0ea104
+    
+    mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
@@ -3912,11 +3922,11 @@ GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.mediu
 
 Vertex AI, one platform, every ML tool you need  https://cloud.google.com/vertex-ai
 
-2.Automated model architecture search tools (e.g. darts, enas)
+2.Automated model architecture search tools (e.g. darts, enas)  https://awesomeopensource.com/projects/automl
 
  https://github.com/search?q=automl  https://www.kdnuggets.com/2016/03/automated-data-science.html  https://www.kdnuggets.com/software/automated-data-science.html
 
-Tpot https://github.com/EpistasisLab/tpot
+Tpot https://github.com/EpistasisLab/tpot  
 
 ATOM https://github.com/tvdboom/ATOM  https://towardsdatascience.com/how-to-test-multiple-machine-learning-pipelines-with-just-a-few-lines-of-python-1a16cb4686d
 
@@ -3986,7 +3996,7 @@ adanet https://github.com/tensorflow/adanet
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
-5. autosklearn,autokeras,LightAutoML,xcessiv,kerastuner  (https://github.com/sberbank-ai-lab/LightAutoML)
+5. autosklearn,autokeras,LightAutoML,xcessiv,kerastuner ,LAMA, NNI, FEDOT   (https://github.com/sberbank-ai-lab/LightAutoML)
 
 Keras Tuner or storm-tuner - Decide Number of Hidden Layers And Neuron In Neural Network
 
