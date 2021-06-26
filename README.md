@@ -782,7 +782,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.Under Sampling - mostly not prefer because lost of data
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN
+
 
      https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
      
@@ -935,6 +936,8 @@ anderson teset  use for check any  distribution
       ML model which are not sensitive to outliers Like:-KNN,Decision Tree,SVM,NaïveBayes,Ensemble 
       
       PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/ 
+      
+      TODS: An Automated Time-series Outlier Detection System https://github.com/datamllab/tods
       
       if outiler present then use robust scaling
       
@@ -1699,6 +1702,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      all above 3 models have bidirectional also based on problem statement use bidirectional models
      
      Quasi-Recurrent Neural Network  https://github.com/salesforce/pytorch-qrnn
+     
+     textgenrnn https://github.com/minimaxir/textgenrnn
   
    4.Generative adversarial network   https://poloclub.github.io/ganlab/         https://developers.google.com/machine-learning/gan/training
    
@@ -2366,6 +2371,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Tree-structured Parzen Estimators - TPE
     
+    Hyperparameter Tuning with the HParams Dashboard
+    
     baytune https://www.kdnuggets.com/2021/03/automating-machine-learning-model-optimization.html
     
     Dragonfly https://analyticsindiamag.com/guide-to-scalable-and-robust-bayesian-optimization-with-dragonfly/
@@ -2575,6 +2582,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     PyQt and Tkinter , PySimpleGUI are GUI programming in Python  https://github.com/tirthajyoti/DS-with-PySimpleGUI
     
     DearPyGui https://github.com/hoffstadt/DearPyGui
+    
+    PySimpleGUI https://github.com/PySimpleGUI/PySimpleGUI
     
     Gooey Turn (almost) any Python command line program into a full GUI application with one line https://github.com/chriskiehl/Gooey
     
@@ -3922,7 +3931,7 @@ GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.mediu
 
 Vertex AI, one platform, every ML tool you need  https://cloud.google.com/vertex-ai
 
-2.Automated model architecture search tools (e.g. darts, enas)  https://awesomeopensource.com/projects/automl
+2.Automated model architecture search tools (e.g. darts, enas)  https://awesomeopensource.com/projects/automl  
 
  https://github.com/search?q=automl  https://www.kdnuggets.com/2016/03/automated-data-science.html  https://www.kdnuggets.com/software/automated-data-science.html
 
@@ -3991,6 +4000,8 @@ GenoML (AutoML) for Genomics https://genoml.com/ https://github.com/GenoML
 baytune https://www.kdnuggets.com/2021/03/automating-machine-learning-model-optimization.html  https://github.com/MLBazaar/BTB
 
 adanet https://github.com/tensorflow/adanet
+
+FEDOT Automated modeling and machine learning framework FEDOT  https://github.com/nccr-itmo/FEDOT
 
 4.AutoGluon  AutoML for Text, Image, and Tabular Data  https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
 
