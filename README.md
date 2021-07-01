@@ -287,6 +287,8 @@ World’s Largest Data Platform https://worlddata.ai/
     ***Label Assist: Model Assisted Pre-Annotation for Computer Vision https://blog.roboflow.com/announcing-label-assist/ https://www.youtube.com/watch?v=919CihTlkZw&feature=youtu.be***
     
     https://github.com/jsbroks/awesome-dataset-tools
+    
+    jupyter-innotater data annotator for Jupyter notebooks https://github.com/ideonate/jupyter-innotater
 
     semi-auto-image-annotation-tool https://github.com/virajmavani/semi-auto-image-annotation-tool
     
@@ -937,7 +939,7 @@ anderson teset  use for check any  distribution
       
       PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/ 
       
-      TODS: An Automated Time-series Outlier Detection System https://github.com/datamllab/tods
+      TODS: An Automated Time-series Outlier Detection System https://github.com/datamllab/tods https://towardsdatascience.com/tods-detecting-outliers-from-time-series-data-2d4bd2e91381
       
       if outiler present then use robust scaling
       
@@ -3520,7 +3522,9 @@ determined to be unfair.
    MLflow vs Kubeflow vs Neptune  https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlflow-vs-kubeflow-vs-neptune-differences
    
    15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps
-   
+  
+   Metaflow,MLReef,MLRun,ZenML,MLflow,Seldon,Bodywork,Pachyderm,DVC, or Data Version Control
+  
    Best Tools for Tracking Machine Learning Experiments https://neptune.ai/blog/best-ml-experiment-tracking-tools
    
    mlops-https://github.com/visenger/awesome-mlops  
@@ -3819,7 +3823,7 @@ applications of data science in many industry
     
     and many more fields - https://www.topbots.com/enterprise-ai-companies-2020/ , https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/
     
-***Research blogs***
+***Research blogs***    https://www.theinsaneapp.com/2021/04/top-machine-learning-blogs-to-follow-in-2021.html
 
    https://reconshell.com/top-ai-and-machine-learning-blogs-curated-for-ai-enthusiasts/
 
