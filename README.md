@@ -2130,6 +2130,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/  https://github.com/AutoViML/Auto_TS
       
+      AutoML for time series: advanced approaches with FEDOT framework  https://towardsdatascience.com/automl-for-time-series-advanced-approaches-with-fedot-framework-4f9d8ea3382c
+
+      AutoML for time series: definitely a good idea https://towardsdatascience.com/automl-for-time-series-definitely-a-good-idea-c51d39b2b3f
+      
       AutoReg  Regex of string in Python https://github.com/SusmitPanda/AutoReg
       
       pytsal  low-code open-source python framework for Time Series analysis,visualization,forecasting along with AutoTS  https://github.com/KrishnanSG/pytsal
