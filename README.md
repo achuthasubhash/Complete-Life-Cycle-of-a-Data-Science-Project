@@ -184,7 +184,7 @@ e.Online resources -   ultimate resource  https://datasetsearch.research.google.
 
 https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d/ https://research.google/tools/datasets/
 
-Machine learning datasets  https://www.datasetlist.com/
+Machine learning datasets  https://www.datasetlist.com/  https://wiki.pathmind.com/open-datasets
 
 https://guides.library.cmu.edu/az.php https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets https://registry.opendata.aws/ https://paperswithcode.com/datasets https://datasets.quantumstat.com/  https://www.quandl.com/ http://dataportals.org/ https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public  https://www.reddit.com/r/datasets/  https://ourworldindata.org/ https://data.worldbank.org/ https://data.world/ https://data.census.gov/cedsci/ https://data.seattle.gov/
 
@@ -538,7 +538,9 @@ World’s Largest Data Platform https://worlddata.ai/
     
     https://github.com/neomatrix369/awesome-ai-ml-dl/blob/master/data/datasets.md#datasets-and-sources-of-raw-data
     
-    60.Faker is a Python package that generates fake data-https://github.com/joke2k/faker
+    60.Generating Realistic Fake Data https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8
+    
+    Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
     Synthetic data library https://github.com/finos/datahub https://github.com/agmmnn/awesome-blender https://opendata.blender.org/ https://www.youtube.com/watch?v=eZwOeBkLL8E
     
@@ -604,7 +606,9 @@ World’s Largest Data Platform https://worlddata.ai/
     
     https://www.youtube.com/watch?v=1aUt8zAG09E
     
-    67.yfinance for finance data using     https://github.com/ranaroussi/yfinance  https://medium.com/towards-artificial-intelligence/algorithmic-trading-with-python-and-machine-learning-part-1-47c56706c182
+    67. 6 Sources of Financial Data https://medium.datadriveninvestor.com/financial-data-431b75975bb
+    
+    yfinance for finance data using     https://github.com/ranaroussi/yfinance  https://medium.com/towards-artificial-intelligence/algorithmic-trading-with-python-and-machine-learning-part-1-47c56706c182
     
     import fix_yahoo_finance as yf         , yahoofinancials
     
@@ -657,6 +661,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Validate your Data (Schema) https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
+   
+   data cleaning library https://www.analyticsvidhya.com/blog/2021/05/data-cleaning-libraries-in-python-a-gentle-introduction/
   
    Cleaner Data Analysis with Pandas Using Pipes https://towardsdatascience.com/cleaner-data-analysis-with-pandas-using-pipes-4d73770fbf3c
    
@@ -1589,7 +1595,7 @@ anderson teset  use for check any  distribution
      
      posemodule https://www.youtube.com/watch?v=5kaX3ta398w   Pose Tracking  https://www.youtube.com/watch?v=0JU3kpYytuQ&t=1650s
      
-     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,tfpose,MultiPoseNet,AlphaPose,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js 
+     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,tfpose,MultiPoseNet,AlphaPose,Movenet lighting,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js 
      
      openpose wrnchai  densepose
      
@@ -1825,7 +1831,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
      1.bag of words
      
-     2.Tfidf
+     2.Tfidf , Hashing
      
      3.wordembedding
         
@@ -1899,7 +1905,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
+     10.BERT,Packed BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
         
@@ -2406,6 +2412,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     o.shap-hypetune https://github.com/cerlymarco/shap-hypetune https://towardsdatascience.com/shap-for-feature-selection-and-hyperparameter-tuning-a330ec0ea104
     
     mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt
+    
+    p.Hyperactive https://github.com/SimonBlanke/Hyperactive
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
@@ -3994,6 +4002,8 @@ Automated Text Classification with EvalML https://www.kdnuggets.com/2021/04/auto
 Pywedge A complete package for EDA, Data Preprocessing and Modelling https://towardsdatascience.com/pywedge-a-complete-package-for-eda-data-preprocessing-and-modelling-32171702a1e0
 
 3. autopandas
+
+Automated Tensorflow  https://github.com/rafiqhasan/auto-tensorflow
 
 MLBox https://github.com/AxeldeRomblay/MLBox
 
