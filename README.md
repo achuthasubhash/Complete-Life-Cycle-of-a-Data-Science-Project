@@ -1400,7 +1400,7 @@ anderson teset  use for check any  distribution
       
       4.Twin Delayed DDPG,DQN
       
-      5.A3C  (Actor Critic)
+      5.A3C  (Actor Critic) , Soft Actor Critic (SAC)
       
       6.Advantage weighted actor critic (AWAC). 
       
@@ -1466,6 +1466,8 @@ anderson teset  use for check any  distribution
    
    Model Zoo Discover open source deep learning code and pretrained models https://modelzoo.co/
    
+   Visualizing your Neural Network with Netron 
+   
    Sharing the best resources on various machine learning topics https://www.backprop.org/
    
    deeplearning-models-https://github.com/rasbt/deeplearning-models
@@ -1481,6 +1483,8 @@ anderson teset  use for check any  distribution
    Nengo: A New Neural Network Building and Deployment Tool https://pub.towardsai.net/nengo-a-new-neural-network-building-and-deployment-tool-66677c65fa19
    
    Binarized Neural Network memory size is reduced, and bitwise operations improve the power efficiency https://neptune.ai/blog/binarized-neural-network-bnn-and-its-implementation-in-ml
+   
+   paddlehub https://github.com/PaddlePaddle/PaddleHub  Performing Computer Vision & NLP Tasks in a Single Of Code https://towardsdatascience.com/performing-computer-vision-nlp-tasks-in-a-single-of-code-f7205f212d34
     
    scikit-neuralnetwork https://towardsdatascience.com/the-simplest-way-to-train-a-neural-network-in-python-17613fa97958 https://github.com/aigamedev/scikit-neuralnetwork
    
@@ -1507,6 +1511,8 @@ anderson teset  use for check any  distribution
      1.Regression task
    
      2.Classification task
+     
+     Tabnet and deep tables for tabular dataset using deep learning
    
    2.Convolutional neural network ( use for image data)
    
@@ -1527,6 +1533,9 @@ anderson teset  use for check any  distribution
       CV-pretrained-model-   https://github.com/balavenkatesh3322/CV-pretrained-modelCV-pretrained-model-
       
       Fast Computer Vision Model Building PyTorch Lightning Flash and FiftyOne https://towardsdatascience.com/open-source-tools-for-fast-computer-vision-model-building-b39755aab490
+      
+      5 Open-Source Facial Recognition   https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9
+
    
      1.Classification of image 
      
@@ -1545,6 +1554,8 @@ anderson teset  use for check any  distribution
        rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,SlimYOLOv3,yolo v4,PP-YOLO,scaled yolov4,YOLOR,YoloV5,YOLOS,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,Libra_R-CNN,detr facebook,mdetr,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,deeplab,globalconvolutionnetwork,fcn,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,AugFPN,mlsd
+       
+       PixelLib Simplifying Object Segmentation with PixelLib Library  https://github.com/ayoolaolafenwa/PixelLib
 
        mmdetection https://github.com/open-mmlab/mmdetection    https://towardsdatascience.com/mmdetection-tutorial-an-end2end-state-of-the-art-object-detection-library-59064deeada3
        
@@ -1630,7 +1641,7 @@ anderson teset  use for check any  distribution
      
      albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
      
-     AugLy https://github.com/facebookresearch/AugLy
+     AugLy  A Modern Data Augmentation Library  https://analyticsindiamag.com/complete-guide-to-augly-a-modern-data-augmentation-library/ https://github.com/facebookresearch/AugLy
      
      Data augmentation with tf.data
      
@@ -1650,7 +1661,7 @@ anderson teset  use for check any  distribution
      
      unadversarial  https://github.com/microsoft/unadversarial/ https://analyticsindiamag.com/microsoft-research-unadversarial/
      
-     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,saliency_map_guided,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad,PytorchRevelio,Feature Visualizer, Guided Gradients, grad_cam,sensitivity_analysis,Captum
+     CNNs 'see' - FilterVisualizations, Heatmaps,Saliency Maps,saliency_map_guided,Heat Map Visualizations,GradCAM,Class Activation Maps,ZFNet,Lucid,Activation Atlas,Blur Integrated Gradients,concept whitening,Integrated Gradients,SmoothGrad,PytorchRevelio,Feature Visualizer, Guided Gradients, grad_cam,sensitivity_analysis,Captum,Preliminary Methods,Plot Model Architecture,Visualize Filters,Activation based Methods,Maximal Activation,Image Occlusion,Gradient based Methods,Gradient based Class Activation Map
 
      
      Tools to Design or Visualize Architecture of Neural Network https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network
@@ -1738,6 +1749,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Diffusion Models Beat GANs on Image Synthesis https://paperswithcode.com/paper/diffusion-models-beat-gans-on-image-synthesis?from=n9
      
+     MUNIT: Multimodal Unsupervised Image-to-Image Translation (GAN)
+     
      https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 
      generative adversarial transformers https://github.com/dorarad/gansformer
@@ -1818,6 +1831,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Data augmentation for NLP-https://github.com/makcedward/nlpaug
      
+     Data Augmentation library for text nlpaug https://towardsdatascience.com/data-augmentation-library-for-text-9661736b13ff
+     
      detext-https://github.com/linkedin/detext
      
      nlpaug-https://github.com/makcedward/nlpaug
@@ -1841,6 +1856,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      quantumstat  https://index.quantumstat.com/
      
      Dynaboard: Moving beyond accuracy to holistic model evaluation in NLP https://ai.facebook.com/blog/dynaboard-moving-beyond-accuracy-to-holistic-model-evaluation-in-nlp/
+     
+     gobbli for interactive NLP  https://medium.com/rti-cds/using-gobbli-for-interactive-nlp-f60feb41e5cb
      
      AutoReg  Regex of string in Python https://github.com/SusmitPanda/AutoReg
      
@@ -1927,6 +1944,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
         
         gpt3 https://www.producthunt.com/posts/100-resources-on-gpt-3
+        
+        Graph4NLP  https://dlg4nlp.github.io/index.html
 
         Feedback Transformers from Facebook AI https://towardsdatascience.com/feedback-transformers-from-facebook-ai-221c5dd09e3f
 
@@ -2450,9 +2469,13 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
 
      Repeated K-folds
      
-     7.Leave P out 
+     7.Leave P out ,Leave-one-out cross-validation
     
      8.Time Series cross-validation
+    
+     9.ShuffleSplit Cross Validation
+    
+     10.Group KFold Cross Validation
   
 Tensorboard,Neptune,TensorFlow Profiler to visualization of model performance
 
