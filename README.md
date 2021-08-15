@@ -70,6 +70,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
 
       twitterscraper https://www.youtube.com/watch?v=MpIi4HtCiVk
       
+      snscrape  extract twitterr data  https://github.com/JustAnotherArchivist/snscrape
+      
       Scweet A simple and unlimited twitter scraper  https://github.com/Altimis/Scweet
       
       GetOldTweets3,GoogleNews
@@ -134,8 +136,12 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      pandas(read_html)
      
-     wget,curl,parsehub,webhouse,octoparse,scraping bot,scraping bee
-     
+     wget,curl,parsehub,webhouse,octoparse,scraping bot,scraping bee,Common,Content Grabber,Docparser,Scraper API,Import.io,Altair Monarch
+
+     Crawl Crawly  https://crawly.diffbot.com/   
+ 
+     HTML basics for web scraping,Web Scraping with Octoparse,Web Scraping with Selenium
+ 
      10-best-web-scraping-tools  https://www.scraperapi.com/blog/the-10-best-web-scraping-tools/
      
      https://www.kdnuggets.com/2021/02/6-web-scraping-tools.html
@@ -541,6 +547,8 @@ World’s Largest Data Platform https://worlddata.ai/
     60.Generating Realistic Fake Data https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
+    
+    Synthetic data for computer vision https://github.com/ZumoLabs/zpy
     
     Synthetic data library https://github.com/finos/datahub https://github.com/agmmnn/awesome-blender https://opendata.blender.org/ https://www.youtube.com/watch?v=eZwOeBkLL8E
     
