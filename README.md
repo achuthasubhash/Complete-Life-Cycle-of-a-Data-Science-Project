@@ -762,7 +762,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      9.hot deck Imputation,Cold deck imputation
      
-     10.regression Imputation
+     10.regression Imputation,Stochastic Regression Imputation
      
      11.End of Distribution Imputation
      
@@ -798,8 +798,9 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.Under Sampling - mostly not prefer because lost of data
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN
-
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN
+     
+     smote_variants https://github.com/analyticalmindsltd/smote_variants
 
      https://towardsdatascience.com/5-smote-techniques-for-oversampling-your-imbalance-data-b8155bdbe2b5
      
@@ -880,7 +881,9 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding 
+     
+     Transform your categorical columns with imperio SmoothingTransformer
      
      Improve ML Model Performance by Combining Categorical Features https://towardsdatascience.com/improve-ml-model-performance-by-combining-categorical-features-a23efbb6a215
      
@@ -896,7 +899,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
        3.Robust Scaler not influenced by outliers because using of median,IQR
        
-       4. Min Max Scaling
+       4.Min Max Scaling
        
        5.Mean normalization
        
@@ -945,7 +948,7 @@ anderson teset  use for check any  distribution
       
       methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,Scatterplot
       
-      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,Autoencoder,Outlier Detection using In-degree Number
+      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power)
       
@@ -989,6 +992,8 @@ anderson teset  use for check any  distribution
   
     Explore the dataset by using  python or microsoft Excel,Atoti,Power BI,Datapane’s,Tableau,TabPy,SAS Business Intelligence and Analytics Tool,QlikView,PyToQlik ,KNIME,Splunk,RapidMiner,Zoho Analytics,Sisense etc...
     
+    TabPy: Combining Python and Tableau https://www.kdnuggets.com/2020/11/tabpy-combining-python-tableau.html
+    
     atoti https://www.atoti.io/  https://www.youtube.com/watch?v=Hb6mSXa14oo   Datapane’s Create a Beautiful Dashboard in Python in a Few Lines of Code https://towardsdatascience.com/datapanes-new-features-create-a-beautiful-dashboard-in-python-in-a-few-lines-of-code-a3c44523292b
     
     Switching from Spreadsheets to Neptune.ai https://neptune.ai/blog/switching-from-spreadsheets-to-neptune-ai
@@ -1012,6 +1017,10 @@ anderson teset  use for check any  distribution
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
     
     Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plots
+    
+    50-charts https://towardsdatascience.com/how-did-i-classify-50-chart-types-by-purpose-a6b0aa5b812d
+
+    all in one https://app.learney.me/
     
     Python Tool For Visualizing and Plotting 2D/3D Scientific Data https://analyticsindiamag.com/guide-to-mayavi-a-python-tool-for-visualizing-and-plotting-2d-3d-scientific-data/
     
@@ -1234,7 +1243,7 @@ anderson teset  use for check any  distribution
        
        least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,XBNet,Chefboost
        
-       elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature)
+       elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet
        
        Locally Weighted Linear Regression https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf
        
@@ -1250,7 +1259,7 @@ anderson teset  use for check any  distribution
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,linear-tree,TensorFlow Decision Forests,
         
-        Random Forest Classification,TensorFlow Decision Forests,xgboost,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,passive aggressive classifier algorithm,cart,c4.5,c5.0
+        Random Forest Classification,TensorFlow Decision Forests,xgboost,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
@@ -3398,6 +3407,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
+   Awesome-explainable-AI  https://ex.pegg.io/
+   
    tf-explain https://github.com/sicara/tf-explain
    
    lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/  https://towardsdatascience.com/interpreting-image-classification-model-with-lime-1e7064a2f2e5
@@ -3544,6 +3555,10 @@ determined to be unfair.
    15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps
   
    Metaflow,MLReef,MLRun,ZenML,MLflow,Seldon,Bodywork,Pachyderm,DVC, or Data Version Control
+   
+   MLOps https://analyticsindiamag.com/8-projects-to-kickstart-your-mlops-journey-in-2021/
+
+   Open MLOps https://github.com/datarevenue-berlin/OpenMLOps
   
    Best Tools for Tracking Machine Learning Experiments https://neptune.ai/blog/best-ml-experiment-tracking-tools
    
@@ -3710,7 +3725,7 @@ determined to be unfair.
    
    137.Federated Learning Systems
    
-   Flower – A Framework To Build Federated Learning Systems  https://github.com/adap/flower
+   Flower – A Framework To Build Federated Learning Systems  https://github.com/adap/flower https://flower.dev/
    
    138.https://analyticsindiamag.com/top-ai-powered-writing-assistants-to-create-better-content/ 
    
@@ -3753,6 +3768,8 @@ determined to be unfair.
        labmi Organize machine learning experiments and monitor training progress from mobile  https://labml.ai/
        
        WeightWatcher https://github.com/CalculatedContent/WeightWatcher
+       
+       labml Monitor deep learning model training and hardware usage from your mobile phone https://labml.ai/      https://github.com/labmlai/labml
   
    155.r packages https://upurl.me/vkf3r  http://r-bloggers.com/2021/04/15-essential-packages-in-r-for-data-science/  https://www.ubuntupit.com/best-r-machine-learning-packages/
    
@@ -3983,6 +4000,8 @@ LightAutoML LAMA - automatic model creation framework  https://github.com/sberba
 
 EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/ https://www.kdnuggets.com/2021/04/easy-automl-python.html https://www.youtube.com/watch?v=uuYEQqrExBQ https://www.analyticsvidhya.com/blog/2021/05/machine-learning-automation-using-evalml-library/
 
+dataprep Beginners Guide to Automation in Data Science https://www.analyticsvidhya.com/blog/2021/04/beginners-guide-to-automation-in-data-science/
+
 A machine learning tool for automated prediction engineering https://github.com/alteryx/compose
 
 adanet https://github.com/tensorflow/adanet
@@ -4205,8 +4224,8 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
-pandas chunksize,Modin ,Vaex,ray,Dask,PyPolars,Polars,cuDF,mars,ray,rapids,joblib,snorkel,Pyarrow,Fastparquet,dampr,
-pandarallel ,numba, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow   https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandas chunksize,Modin ,Vaex,ray,Dask,PyPolars,Polars,cuDF,cupy,mars,ray,rapids,joblib,snorkel,arrow,Pyarrow,Fastparquet,dampr,
+pandarallel ,numba, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
@@ -4385,6 +4404,8 @@ https://www.openblender.io/#/welcome
 
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms,dgl ease deep learning on graph,Graph4nlp,
 
+7 Open Source Libraries for Deep Learning Graphs  https://www.kdnuggets.com/2021/07/7-open-source-libraries-deep-learning-graphs.html
+
 GeometricFlux.jl,PyTorch GNN, Jraph,Spektral,Graph Nets,Deep Graph Library , PyTorch Geometric
 
 https://www.tensorflow.org/neural_structured_learning    https://github.com/deepmind/graph_nets  https://deepmind.com/research/open-source/graph-nets-library
@@ -4519,6 +4540,8 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 122.DALL·E  https://openai.com/blog/dall-e/    https://analyticsindiamag.com/comprehensive-guide-to-dall-e-by-openai-creating-images-from-text/
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
+
+DALL·E Mini
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html https://www.kdnuggets.com/2021/03/multilingual-clip--huggingface-pytorch-lightning.html
 
