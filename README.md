@@ -90,6 +90,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       Instascrape   
       
+      Scraping Reddit using Python Reddit API Wrapper  (PRAW)
+      
       Scrape Wikipedia  wikipedia https://www.thepythoncode.com/article/access-wikipedia-python
       
       patang - Scrape Product details from eCommerce Sites with Puppeteer and DOM String  https://www.youtube.com/watch?v=3sgxRmyOuXs
@@ -136,7 +138,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      pandas(read_html)
      
-     wget,curl,parsehub,webhouse,octoparse,scraping bot,scraping bee,Common,Content Grabber,Docparser,Scraper API,Import.io,Altair Monarch
+     wget,curl,parsehub,webhouse,octoparse,scraping bot,scraping bee,Common,Content Grabber,Docparser,Scraper API,Import.io,Altair Monarch,WebAutomation.io,WebScraper.io 
 
      Crawl Crawly  https://crawly.diffbot.com/   
  
@@ -500,7 +502,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     49.https://the-eye.eu/public/AI/pile_preliminary_components/
     
-      Reddit -https://www.reddit.com/r/datasets/
+      Reddit -https://www.reddit.com/r/datasets/  
       
       wikipedia-https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
       
@@ -547,6 +549,16 @@ World’s Largest Data Platform https://worlddata.ai/
     60.Generating Realistic Fake Data https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
+
+    Mockaroo  https://www.mockaroo.com/ 
+    
+    GenerateData  https://site.generatedata4.com/ 
+    
+    JSON Schema Faker  https://json-schema-faker.js.org/ 
+    
+    FakeStoreAPI  https://fakestoreapi.com/
+    
+    graviti dataset https://gas.graviti.com/open-datasets
     
     Synthetic data for computer vision https://github.com/ZumoLabs/zpy
     
@@ -717,6 +729,8 @@ World’s Largest Data Platform https://worlddata.ai/
    FeatureTools,AutoFeat,TsFresh,Cognito,OneBM,ExploreKit,PyFeat
    
    Automated Feature Selection: Featurewiz  https://github.com/AutoViML/featurewiz https://towardsdatascience.com/featurewiz-fast-way-to-select-the-best-features-in-a-data-9c861178602e
+   
+   zoofs a Python library for performing feature selection  https://github.com/jaswinder9051998/zoofs
    
    Feature Engineering of DateTime Variables for Data Science, Machine Learning https://www.kdnuggets.com/2021/04/feature-engineering-datetime-variables-data-science-machine-learning.html
    
@@ -907,6 +921,8 @@ World’s Largest Data Platform https://worlddata.ai/
        
        7.Power Transformer Scaler
        
+       8.Scaling To Median And Quantiles
+       
        https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/?utm_source=linkedin&utm_medium=KJ|link|high-performance-blog|blogs|44204|0.375
       
    Q-Q plot or Shapiro-Wilk Normality Test or lilliefors test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
@@ -935,7 +951,11 @@ anderson teset  use for check any  distribution
            i.power transformations  https://towardsdatascience.com/when-and-how-to-use-power-transform-in-machine-learning-2c6ad75fb72e
            
            g.Quantile Transformation
-        
+           
+           Root transformation,Cube root transformation
+           
+           Left skewness (use powers) Squares transformation,Cubes transformation,High powers
+      
    g.Remove low variance feature by using VarianceThreshold
    
    h.Same variable(only 1 variable) in feature then remove feature
@@ -1080,11 +1100,11 @@ anderson teset  use for check any  distribution
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
-    1.Filter methods (correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain etc...)
+    1.Filter methods (correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold etc...)
 
-    2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backward feature elimination,exhaustic feature selection,stepwise selection etc...)
+    2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection etc...)
 
-    3.Embedded method (lasso regression,ridge regression,elasticnet regression,tree based etc...)
+    3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based etc...)
     
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition)
     
