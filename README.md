@@ -863,7 +863,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      2.Count Or Frequency Encoding
      
-     3.Target Guided Ordinal Encoding,Ordinal Encoding
+     3.Target Guided Ordinal Encoding,Target Guided Mean Encoding
      
      4.Mean Encoding
      
