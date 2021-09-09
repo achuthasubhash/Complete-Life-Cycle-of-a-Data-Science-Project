@@ -1326,7 +1326,7 @@ anderson teset  use for check any  distribution
    
      k-Means Clustering by up to 10x Over Scikit-Learn  https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72
      
-     3.Association Rule Learning - support,lift,confidence,aprior,elcat,Fp-growth,Fp-tree construction, association_rules
+     3.Association Rule Learning - support,lift,confidence,leverage,aprior,elcat,Fp-growth,Fp-tree construction, association_rules
    
      4.Recommendation system -
      
