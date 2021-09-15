@@ -808,7 +808,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      https://stefvanbuuren.name/fimd/want-the-hardcopy.html  https://www.datasciencecentral.com/profiles/blogs/how-to-treat-missing-values-in-your-data-1
      
-   b.Handle imbalance
+   b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
    
      1.Under Sampling - mostly not prefer because lost of data
      
@@ -845,6 +845,10 @@ World’s Largest Data Platform https://worlddata.ai/
      8.Deep Imbalanced Regression https://github.com/YyzHarry/imbalanced-regression https://analyticsindiamag.com/deep-imbalanced-regression-complete-guide/
      
      9.BalancedBaggingClassifier,Threshold moving
+     
+     10.Try Different Algorithms (Bagging Based techniques,Boosting-Based techniques)
+     
+     11.Try a Different Perspective ( consider as anomaly detection or change detection)
   
    c.Remove noise data
    
