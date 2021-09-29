@@ -30,6 +30,8 @@ variable
     
 cleanlab https://l7.curtisnorthcutt.com/cleanlab-python-package  https://github.com/cgnorthcutt/cleanlab https://github.com/cgnorthcutt/label-errors https://github.com/cgnorthcutt/rankpruning https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
 
+Measure Data Quality ydata-quality https://github.com/ydataai/ydata-synthetic https://towardsdatascience.com/how-can-i-measure-data-quality-9d31acfeb969
+
 a.Web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
 
 https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=KJ|link|weekend-blogs|blogs|44087|0.875
@@ -549,6 +551,9 @@ World’s Largest Data Platform https://worlddata.ai/
     60.Generating Realistic Fake Data https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
+    
+    ydata-synthetic
+
 
     Mockaroo  https://www.mockaroo.com/ 
     
@@ -848,6 +853,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      10.Try Different Algorithms (Bagging Based techniques,Boosting-Based techniques)
      
+     Algorithmic Ensemble Techniques,Tree-Based Algorithms
+     
      11.Try a Different Perspective ( consider as anomaly detection or change detection)
   
    c.Remove noise data
@@ -907,7 +914,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      https://towardsdatascience.com/beyond-one-hot-17-ways-of-transforming-categorical-features-into-numeric-features-57f54f199ea4
      
-     https://towardsdatascience.com/how-to-encode-categorical-data-d44dde313131
+     https://towardsdatascience.com/how-to-encode-categorical-data-d44dde313131  https://towardsdatascience.com/python-for-finance-7-useful-libraries-that-you-should-know-e422b9e9aaba
      
    f.Scaling of data
    
@@ -972,7 +979,7 @@ anderson teset  use for check any  distribution
       
       methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,Scatterplot
       
-      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number
+      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power)
       
