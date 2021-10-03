@@ -50,7 +50,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
 
       mechanicalsoup   https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/
    
-    2.Scrapy
+    2.Scrapy,PyScrappy,Pandas Datareader,Instaloader
    
     3.Selenium     https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/
    
@@ -635,7 +635,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     yfinance for finance data using     https://github.com/ranaroussi/yfinance  https://medium.com/towards-artificial-intelligence/algorithmic-trading-with-python-and-machine-learning-part-1-47c56706c182
     
-    import fix_yahoo_finance as yf         , yahoofinancials
+    import fix_yahoo_finance as yf , yahoofinancials ,Pandas DataReaders,Twelve Data
     
     financeapi https://towardsdatascience.com/pull-and-analyze-financial-data-using-a-simple-python-package-83e47759c4a7
     
@@ -1272,7 +1272,7 @@ anderson teset  use for check any  distribution
      
        linear regression,polynomial regression,Robust Regression,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
        
-       least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,XBNet,Chefboost
+       least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,LightBoost,CatBoost,XBNet,Chefboost
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet
        
@@ -1337,7 +1337,7 @@ anderson teset  use for check any  distribution
    
      k-Means Clustering by up to 10x Over Scikit-Learn  https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72
      
-     3.Association Rule Learning - support,lift,confidence,leverage,aprior,elcat,Fp-growth,Fp-tree construction, association_rules
+     3.Association Rule Learning - support,lift,confidence,leverage,aprior,elcat,Fp-growth,Fp-tree construction, association_rules,Frequent Itemset Mining
    
      4.Recommendation system -
      
@@ -1790,7 +1790,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
    
-     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Wasserstein GAN(improve image generation),ChromaGan,GANsformers
+     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Instance-Conditioned GAN,Wasserstein GAN(improve image generation),ChromaGan,GANsformers
      
      diffusion https://github.com/openai/guided-diffusion
      
@@ -4278,8 +4278,8 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
-pandas chunksize,Modin ,Vaex,ray,Dask,PyPolars,Polars,cuDF,cupy,mars,ray,rapids,joblib,snorkel,arrow,Pyarrow,Fastparquet,dampr,
-pandarallel ,numba, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandas chunksize,Pandas vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Fastparquet,dampr,
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
