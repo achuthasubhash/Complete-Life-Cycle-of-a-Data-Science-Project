@@ -856,6 +856,8 @@ World’s Largest Data Platform https://worlddata.ai/
      Algorithmic Ensemble Techniques,Tree-Based Algorithms
      
      11.Try a Different Perspective ( consider as anomaly detection or change detection)
+     
+     12.databalancer  https://github.com/pradeepdev-1995/databalancer
   
    c.Remove noise data
    
