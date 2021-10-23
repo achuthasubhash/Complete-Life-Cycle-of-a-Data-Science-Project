@@ -936,6 +936,8 @@ World’s Largest Data Platform https://worlddata.ai/
        
        8.Scaling To Median And Quantiles
        
+       9.unit vector scaler
+       
        https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/?utm_source=linkedin&utm_medium=KJ|link|high-performance-blog|blogs|44204|0.375
       
    Q-Q plot or Shapiro-Wilk Normality Test or lilliefors test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
@@ -1433,7 +1435,7 @@ anderson teset  use for check any  distribution
       
       4.Twin Delayed DDPG,DQN
       
-      5.A3C  (Actor Critic) , Soft Actor Critic (SAC)
+      5.A3C  (Actor Critic) ,A2C, Soft Actor Critic (SAC)
       
       6.Advantage weighted actor critic (AWAC). 
       
@@ -1442,6 +1444,8 @@ anderson teset  use for check any  distribution
       8.genetic algorithm,sarsa,natural policy gradient
       
       https://simoninithomas.github.io/deep-rl-course/
+      
+      SARSA,REINFORCE,PPO,DDPG,TD3
       
       AUTORL: AUTOML FOR RL https://www.automl.org/blog-autorl/
       
@@ -1792,7 +1796,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
    
-     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Instance-Conditioned GAN,Wasserstein GAN(improve image generation),ChromaGan,GANsformers
+     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Instance-Conditioned GAN,Wasserstein GAN(improve image generation),ChromaGan,GANsformers,Conditional GAN and Unconditional GAN,Least Square GAN,Auxilary Classifier GAN,Dual Video Discriminator GAN,SRGAN
      
      diffusion https://github.com/openai/guided-diffusion
      
@@ -2379,7 +2383,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     https://github.com/balavenkatesh3322/hyperparameter_tuning
     
     manual search
-  
+     
     a.GridSearchCV (check every given parameter so take long time)
     
     HalvingGridSearch https://towardsdatascience.com/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155 https://towardsdatascience.com/faster-hyperparameter-tuning-with-scikit-learn-71aa76d06f12
@@ -2388,7 +2392,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization , bayes search
+    c.Bayesian Optimization , bayes search,Hyperband and BOHB
     
     Bayesian search with Gaussian processes,bayesian search with Random Forests,Bayesian search with GBMs
 
@@ -2483,6 +2487,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt
     
     p.Hyperactive https://github.com/SimonBlanke/Hyperactive
+       
+    Hyperopt, Optuna, and Ray,SCIKIT-OPTIMIZE,SMAC
+
+    HyperOpt  http://hyperopt.github.io/hyperopt/   Optuna  https://optuna.org/   Scikit-optimize https://scikit-optimize.github.io/stable/  SigOpt  https://sigopt.com/
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
@@ -2736,7 +2744,7 @@ coral https://coral.ai/docs/edgetpu/models-intro/
 TF Micro and SensiML https://blog.tensorflow.org/2021/05/building-tinyml-application-with-tf-micro-and-sensiml.html
 
 six different types of methods:
-1) Pruning
+1) Pruning, Weight sharing
 2) Quantization       ,TensorFlow Quantum
    Post-Training Quantization
    — Reduce Float16
@@ -2749,12 +2757,17 @@ six different types of methods:
 3) Knowledge distillation
 4) Parameter sharing
 5) Tensor decomposition
-6) Linear Transformer
+6) Linear Transformer,Winograd Transformation
 7) Selective attention
 8) Low-rank factorisation
 9) 3LC https://research.google/pubs/pub47962/
 10) brevitas https://github.com/Xilinx/brevitas/
 11) aimet https://github.com/quic/aimet
+
+QKeras: a quantization deep learning library for Tensorflow Keras
+
+Knowledge Distillation  knowledge are categorized into three different types: Response-based knowledge, Feature-based knowledge, and Relation-based knowledge
+three principal types of methods for training student and teacher models, namely offline, online and self distillation.
 
 Distillation library  KD_Lib https://github.com/SforAiDl/KD_Lib
 
@@ -4180,7 +4193,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter 
+   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,OpenRefine 
    
   QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
