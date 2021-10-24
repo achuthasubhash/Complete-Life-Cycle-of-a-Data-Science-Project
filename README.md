@@ -1278,7 +1278,7 @@ anderson teset  use for check any  distribution
        
        least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,LightBoost,CatBoost,XBNet,Chefboost
        
-       elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet
+       elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
        
        Locally Weighted Linear Regression https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf
        
@@ -1314,6 +1314,8 @@ anderson teset  use for check any  distribution
      t-SNE Effectively https://distill.pub/2016/misread-tsne/
      
      17 clustering  https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
+     
+     https://neptune.ai/blog/clustering-algorithms?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-clustering-algorithms
    
      2.Clustering : Centroid-based Model ,Density-based Model ,Distribution-based Model,Connectivity-based model
      
@@ -1846,6 +1848,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
+     clean text https://github.com/jfilter/clean-text
+     
+     Cleaning and Pre-processing textual data with NeatText library   Automated NLP Pre-Processing using Data-Purifier Library https://github.com/Elysian01/Data-Purifier  
+     
      Nltk,spacy,genism,textblob,inltk,Indic NLP,StanfordNLP,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp,VnCoreNLP,fasttext,Langid,PyCLD3,Guesslang,Parrot  libraries
      
      jiant is an NLP toolkit https://github.com/nyu-mll/jiant
@@ -1976,7 +1982,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,Packed BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen
+     10.BERT,Packed BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5, CodeT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen,AI21's 'Jurassic' language model,Turing NLG,Wu Dao 2.0,PanGu-Alpha
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
         
@@ -2019,7 +2025,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         text to speech  https://towardsdatascience.com/text-to-speech-one-small-step-by-mankind-to-create-lifelike-robots-54e19f843b21
         
-        Acoustic model,Speaker diarisation,apis,
+        Acoustic model,Speaker diarisation,apis,apiai,assemblyai,google-cloud-speech,pocketsphinx,SpeechRecognition,watson-developer-cloud,wit
         
         Microsoft IceCAPS is an Open Source Framework for Conversational Modeling https://pub.towardsai.net/microsoft-icecaps-is-an-open-source-framework-for-conversational-modeling-4f78492ca685
         
@@ -2662,7 +2668,9 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Creating a Machine Learning App with Power BI and PyCaret
     
-    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUI  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
+    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUIvs pywebio vs Gradio   https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
+
+    Quickly deploy ML WebApps https://ngrok.com/
     
     Deepnote https://deepnote.com/  https://www.youtube.com/watch?v=0ppptVxgEI8
     
@@ -4017,7 +4025,7 @@ https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-s
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,gcp automl ision,Weka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio,AWS Sagemaker Studio,aws rekognition,Google AI Platform,Databricks,Domino Data Lab,roboflow
+1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,gcp automl ision,Weka,AutoWeka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio,AWS Sagemaker Studio,aws rekognition,Google AI Platform,Databricks,Domino Data Lab,roboflow
 
 H2O Driverless AI https://www.h2o.ai/products/h2o-driverless-ai/
 
@@ -4097,7 +4105,11 @@ Automated Text Classification with EvalML https://www.kdnuggets.com/2021/04/auto
  
 Pywedge A complete package for EDA, Data Preprocessing and Modelling https://towardsdatascience.com/pywedge-a-complete-package-for-eda-data-preprocessing-and-modelling-32171702a1e0
 
-3. autopandas
+3.awesome-AutoML https://github.com/windmaple/awesome-AutoML , automl-gs github.com/minimaxir/automl-gs
+
+autopandas,Auto-Sklearn,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR
+
+Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig
 
 Automated Tensorflow  https://github.com/rafiqhasan/auto-tensorflow
 
