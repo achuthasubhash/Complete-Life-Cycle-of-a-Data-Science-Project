@@ -815,7 +815,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
    
-     1.Under Sampling - mostly not prefer because lost of data
+     1.Under Sampling - mostly not prefer because lost of data  imbalaced-learn,,tomek links
      
      2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN
      
@@ -837,7 +837,9 @@ World’s Largest Data Platform https://worlddata.ai/
      
      3.class_weight give more importance(weight) to that small class ( Cost-Sensitive Algorithms)
      
-     4.use Stratified kfold to keep the ratio of classess constantly
+     from sklearn import compute_class_weight
+     
+     4.use Stratified kfold to keep the ratio of classess constantly, train teat spilt startify attribute
      
      5.Weighted Neural Network
      
@@ -851,13 +853,22 @@ World’s Largest Data Platform https://worlddata.ai/
      
      9.BalancedBaggingClassifier,Threshold moving
      
-     10.Try Different Algorithms (Bagging Based techniques,Boosting-Based techniques)
+     10.Try Different Algorithms (ensemble techinque - Bagging Based techniques,Boosting-Based techniques)
+     
+     model based (some models are particularly suited for imbalanced dataset)
      
      Algorithmic Ensemble Techniques,Tree-Based Algorithms
      
      11.Try a Different Perspective ( consider as anomaly detection or change detection)
      
      12.databalancer  https://github.com/pradeepdev-1995/databalancer
+     
+     13.collect more data 
+     
+     14.treat problem as anomaly detection
+     
+     15.Combined Class Methods
+     In this type of method, various methods are fused together to get a better result to handle imbalance data. For instance, like SMOTE can be fused with other methods like MSMOTE (Modified SMOTE), SMOTEENN (SMOTE with Edited Nearest Neighbours), SMOTE-TL, SMOTE-EL, etc. to eliminate noise in the imbalanced data sets
   
    c.Remove noise data
    
