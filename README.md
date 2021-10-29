@@ -807,6 +807,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.replace NAN with a new category
      
+     19.Missing indicator
+     
      https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
      
      https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
@@ -998,6 +1000,12 @@ anderson teset  use for check any  distribution
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power)
       
+      Trimming: Remove outliers from dataset. However, it can remove large proportion of data.
+      Capping: No data is removed. However, it distorts variable distribution. 
+      Missing data: The outliers are treated as missing data.
+      Discretization: The outliers are put into lower and upper bins. 
+      Arbitrary capping: Domain knowledge of the variable is required to cap the min and max 
+      
       ML model which are not sensitive to outliers Like:-KNN,Decision Tree,SVM,NaïveBayes,Ensemble 
       
       PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/ 
@@ -1126,7 +1134,7 @@ anderson teset  use for check any  distribution
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
-    1.Filter methods (correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold etc...)
+    1.Filter methods (Constant feature,Quasi constant featur,Duplication feature,correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold etc...)
 
     2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection etc...)
 
