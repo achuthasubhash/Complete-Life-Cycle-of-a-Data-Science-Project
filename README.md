@@ -2521,7 +2521,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
      1.Loocv
      
-     2.Kfoldcv
+     2.Kfoldcv,Repeated K-Folds Method
      
      3.Stratfied cross validation
 
@@ -2531,15 +2531,15 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      5.Holdout cross-validation
      
-     6.Repeated cross-validation
+     6.Repeated cross-validation,Blocked Cross-Validation Method, Nested Cross-Validation Method
 
      Repeated K-folds
      
-     7.Leave P out ,Leave-one-out cross-validation
+     7.Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
      8.Time Series cross-validation
     
-     9.ShuffleSplit Cross Validation
+     9.ShuffleSplit Cross Validation,Group Shuffle Split
     
      10.Group KFold Cross Validation
   
