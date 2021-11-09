@@ -744,15 +744,16 @@ World’s Largest Data Platform https://worlddata.ai/
    Remove duplicate data in dataset,Data validity check,Contaminated Data,Inconsistent Data,Invalid Data,
    
    Feature Selection
-Removal of arbitraty features: DropFeatures (Exclusive)
-Removal of constant and almost constant features: DropConstantFeatures
-Removal of duplicated variables: DropDuplicateFeatures (Exclusive)
-Removal of correlated features: DropCorrelatedFeatures, SmartCorrelatedSelection (Exclusive)
-Selection of features by value shuffling: SelectByShuffling (Exclusive)
-Selection of features by univariate performance: SelectBySingleFeaturePerformance (Exclusive)
-Selection of features by target encoding: SelectByTargetMeanPerformance (Exclusive)
-Recursive Feature Elimination: RecursiveFeatureElimination (Exclusive)
-Recursive Feature Addition: RecursiveFeatureAddition (Exclusive)
+   
+   1.Removal of arbitraty features: DropFeatures 
+   2.Removal of constant and almost constant features: DropConstantFeatures
+   3.Removal of duplicated variables: DropDuplicateFeatures 
+   4.Removal of correlated features: DropCorrelatedFeatures, SmartCorrelatedSelection 
+   5.Selection of features by value shuffling: SelectByShuffling 
+   6.Selection of features by univariate performance: SelectBySingleFeaturePerformance
+   7.Selection of features by target encoding: SelectByTargetMeanPerformance 
+   8.Recursive Feature Elimination: RecursiveFeatureElimination 
+   9.Recursive Feature Addition: RecursiveFeatureAddition 
 
    a.Handle missing value
    
