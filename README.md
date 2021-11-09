@@ -742,6 +742,17 @@ World’s Largest Data Platform https://worlddata.ai/
    NeatText a simple NLP package for cleaning textual data and text preprocessing https://github.com/Jcharis/neattext
      
    Remove duplicate data in dataset,Data validity check,Contaminated Data,Inconsistent Data,Invalid Data,
+   
+   Feature Selection
+Removal of arbitraty features: DropFeatures (Exclusive)
+Removal of constant and almost constant features: DropConstantFeatures
+Removal of duplicated variables: DropDuplicateFeatures (Exclusive)
+Removal of correlated features: DropCorrelatedFeatures, SmartCorrelatedSelection (Exclusive)
+Selection of features by value shuffling: SelectByShuffling (Exclusive)
+Selection of features by univariate performance: SelectBySingleFeaturePerformance (Exclusive)
+Selection of features by target encoding: SelectByTargetMeanPerformance (Exclusive)
+Recursive Feature Elimination: RecursiveFeatureElimination (Exclusive)
+Recursive Feature Addition: RecursiveFeatureAddition (Exclusive)
 
    a.Handle missing value
    
@@ -815,6 +826,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      https://stefvanbuuren.name/fimd/want-the-hardcopy.html  https://www.datasciencecentral.com/profiles/blogs/how-to-treat-missing-values-in-your-data-1
      
+     20.Imputation with the string ‘Missing’ ,Addition of binary missing indicators
+     
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
    
      1.Under Sampling - mostly not prefer because lost of data  imbalaced-learn,,tomek links
@@ -882,6 +895,7 @@ World’s Largest Data Platform https://worlddata.ai/
      c.K-means Binning
      d.Discretization by Decision Trees
      e.ChiMerge
+     f.Arbitrary Discretization
    
    e.Handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
    
@@ -889,7 +903,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      2.Count Or Frequency Encoding
      
-     3.Target Guided Ordinal Encoding,Target Guided Mean Encoding
+     3.Ordinal encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding
      
      4.Mean Encoding
      
@@ -921,7 +935,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding 
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio
      
      Transform your categorical columns with imperio SmoothingTransformer
      
@@ -1041,6 +1055,12 @@ anderson teset  use for check any  distribution
      a.biased sampling
      
      b.unbiased sampling
+     
+   l.Feature Creation
+   
+      a.Combination of multiple features with mathematical operations
+      
+      b.Combination of multiple features with a reference value
 
 ***3.Exploratory Data Analysis(eda)***
   
