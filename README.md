@@ -787,7 +787,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      6.Random Imputation
      
-     7.Adding a variable to capture NAN(missing term)
+     7.Adding a variable to capture NAN(missing term),Imputation with the string ‘Missing’,Adding missing idicator
      
      8.Arbitrary Value Imputation
      
@@ -906,7 +906,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      3.Ordinal encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding
      
-     4.Mean Encoding
+     4.Target encoding / Mean encoding
      
      5.Probability Ratio Encoding
      
@@ -936,7 +936,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial coding
      
      Transform your categorical columns with imperio SmoothingTransformer
      
