@@ -807,7 +807,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Extrapolation and Interpolation
      
-     Imputation using K-NN
+     Imputation using K-NN,missForest
      
      Imputation Using Deep Learning (Datawig)
      
@@ -916,7 +916,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      8.woe(Weight_of_evidence)
      
-     9.one hot encoding with multi category (keep most frequently repeated only)
+     9.one hot encoding with multi category (keep most frequently repeated only) (One hot encoding of top categories)
      
      10.feature hashing 
      
@@ -954,7 +954,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
        3.Robust Scaler not influenced by outliers because using of median,IQR
        
-       4.Min Max Scaling
+       4.Min Max Scaling,MaxAbsScaling
        
        5.Mean normalization
        
@@ -1161,7 +1161,7 @@ anderson teset  use for check any  distribution
 
     3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based etc...)
     
-    4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition)
+    4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination)
     
     5.Feature creation
     
