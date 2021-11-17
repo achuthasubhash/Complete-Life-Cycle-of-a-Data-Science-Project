@@ -112,7 +112,11 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
      ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
      
+     ScrapeSimple Website: https://www.scrapesimple.com
+     
      Apify https://apify.com/
+     
+     Mozenda Website: https://www.mozenda.com/
      
      obsei https://github.com/lalitpagaria/obsei
      
@@ -783,6 +787,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      4.Iterative imputer,knn imputer, multivariate imputation
      
+     Substitution
+     
      5.apply unsupervised 
      
      6.Random Imputation
@@ -793,7 +799,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      9.hot deck Imputation,Cold deck imputation
      
-     10.regression Imputation,Stochastic Regression Imputation
+     10.regression Imputation,Stochastic Regression Imputation,Interpolation and Extrapolation
      
      11.End of Distribution Imputation
      
@@ -806,6 +812,8 @@ World’s Largest Data Platform https://worlddata.ai/
      15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/
      
      Extrapolation and Interpolation
+     
+     Single and Multiple Imputation,Univariate Imputation,Multivariate Imputation ,Iterative Imputer,MissForest Imputation,Stochastic Regression Imputation, Multiple Imputations, Datawig, Hot-Deck imputation, Extrapolation, Interpolation
      
      Imputation using K-NN,missForest
      
@@ -1009,7 +1017,7 @@ anderson teset  use for check any  distribution
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,Scatterplot
+      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,One-Class SVM
       
       Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection
       
@@ -1316,7 +1324,7 @@ anderson teset  use for check any  distribution
      
        linear regression,polynomial regression,Robust Regression,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
        
-       least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,LightBoost,CatBoost,XBNet,Chefboost
+       least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
        
@@ -1334,7 +1342,7 @@ anderson teset  use for check any  distribution
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,linear-tree,TensorFlow Decision Forests,
         
-        Random Forest Classification,TensorFlow Decision Forests,xgboost,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet
+        Random Forest Classification,TensorFlow Decision Forests,xgboost,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
@@ -2544,7 +2552,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      2.Kfoldcv,Repeated K-Folds Method
      
-     3.Stratfied cross validation
+     3.Stratfied cross validation,Stratified K-fold CV
 
      Stratified K-folds  
      
@@ -2668,7 +2676,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Models visualization using Tensorboard,netron, TensorBoard.dev
 
-    Python web Frameworks for App Development- Flask,Streamlit,fastapi,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
+    Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
     streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django
     
@@ -4101,7 +4109,7 @@ mljar-supervised  https://github.com/mljar/mljar-supervised
 
 libra end-to-end machine learning process in just one line of code  https://github.com/Palashio/libra 
 
-featurewiz, boruta_py ,AutoWeka,Auto-Sklearn,AutoGluon
+featurewiz, boruta_py ,AutoWeka,Auto-Sklearn,AutoGluon,Auto-PyTorch,AutoKeras,AutoGluon,Ludwig,MLBox,PyCaret,LightAutoML,FLAML,EvalML,H2O AutoML
 
 GML  https://github.com/Muhammad4hmed/GML
 
