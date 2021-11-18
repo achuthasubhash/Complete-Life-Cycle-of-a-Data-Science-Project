@@ -76,7 +76,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       Scweet A simple and unlimited twitter scraper  https://github.com/Altimis/Scweet
       
-      GetOldTweets3,GoogleNews
+      GetOldTweets3,GoogleNews,snscrape,GetOldTweets3
 
       Scrape Twitter for Tweets https://github.com/taspinar/twitterscraper
       
@@ -4253,7 +4253,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,OpenRefine 
+   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,OpenRefine 
    
   QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
