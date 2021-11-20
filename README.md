@@ -815,7 +815,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Single and Multiple Imputation,Univariate Imputation,Multivariate Imputation ,Iterative Imputer,MissForest Imputation,Stochastic Regression Imputation, Multiple Imputations, Datawig, Hot-Deck imputation, Extrapolation, Interpolation
      
-     Imputation using K-NN,missForest
+     Imputation using K-NN,missForest,Random Forest-based Imputation,missingpy
      
      Imputation Using Deep Learning (Datawig)
      
@@ -2496,7 +2496,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Deep AutoViML https://github.com/AutoViML/deep_autoviml
     
-    h.Scikit-Optimize
+    h.Scikit-Optimize,Optuna,Hyperopt,Multi-fidelity Optimization 
     
     i.ray[tune] and aisaratuners https://towardsdatascience.com/choosing-a-hyperparameter-tuning-library-ray-tune-or-aisaratuners-b707b175c1d7
     
@@ -2553,16 +2553,12 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      2.Kfoldcv,Repeated K-Folds Method
      
      3.Stratfied cross validation,Stratified K-fold CV
-
-     Stratified K-folds  
      
-     4.Time Series cross-validation
+     4.Repeated K-folds
      
      5.Holdout cross-validation
      
      6.Repeated cross-validation,Blocked Cross-Validation Method, Nested Cross-Validation Method
-
-     Repeated K-folds
      
      7.Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
@@ -4097,7 +4093,9 @@ GCP Professional ML Engineer certification in 8 days https://ml-rafiqhasan.mediu
 
 Vertex AI, one platform, every ML tool you need  https://cloud.google.com/vertex-ai
 
-2.Automated model architecture search tools (e.g. darts, enas)  https://awesomeopensource.com/projects/automl  
+2.FasterAI,keras,fastai,tesorflow,pytorch
+
+Automated model architecture search tools (e.g. darts, enas)  https://awesomeopensource.com/projects/automl  
 
  https://github.com/search?q=automl  https://www.kdnuggets.com/2016/03/automated-data-science.html  https://www.kdnuggets.com/software/automated-data-science.html
 
@@ -4109,7 +4107,7 @@ mljar-supervised  https://github.com/mljar/mljar-supervised
 
 libra end-to-end machine learning process in just one line of code  https://github.com/Palashio/libra 
 
-featurewiz, boruta_py ,AutoWeka,Auto-Sklearn,AutoGluon,Auto-PyTorch,AutoKeras,AutoGluon,Ludwig,MLBox,PyCaret,LightAutoML,FLAML,EvalML,H2O AutoML
+featurewiz, boruta_py ,AutoWeka,Auto-Sklearn,AutoGluon,Auto-PyTorch,AutoKeras,auto-tensorflow,Ludwig,MLBox,PyCaret,LightAutoML,FLAML,EvalML,H2O AutoML
 
 GML  https://github.com/Muhammad4hmed/GML
 
