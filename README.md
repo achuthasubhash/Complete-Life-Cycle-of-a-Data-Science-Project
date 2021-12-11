@@ -562,6 +562,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     ydata-synthetic
 
+    GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
     Mockaroo  https://www.mockaroo.com/ 
     
@@ -819,6 +820,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Single and Multiple Imputation,Univariate Imputation,Multivariate Imputation ,Iterative Imputer,MissForest Imputation,Stochastic Regression Imputation, Multiple Imputations, Datawig, Hot-Deck imputation, Extrapolation, Interpolation
      
+     datawig  Imputation of missing values in tables  https://github.com/awslabs/datawig
+     
      Imputation using K-NN,missForest,Random Forest-based Imputation,missingpy
      
      Imputation Using Deep Learning (Datawig)
@@ -845,7 +848,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.Under Sampling - mostly not prefer because lost of data  imbalaced-learn,,tomek links
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
      
      smote_variants https://github.com/analyticalmindsltd/smote_variants
 
@@ -909,10 +912,11 @@ World’s Largest Data Platform https://worlddata.ai/
      d.Discretization by Decision Trees
      e.ChiMerge
      f.Arbitrary Discretization
+     g.Quantile 
    
    e.Handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
    
-     1.One Hot Encoding
+     1.One Hot Encoding , dummy, and effect coding
      
      2.Count Or Frequency Encoding
      
@@ -948,7 +952,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial coding,PRatioEncoder,DecisionTreeEncoder
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial coding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding GapEncoder,MinHashEncoder,TargetEncoder
      
      Transform your categorical columns with imperio SmoothingTransformer
      
@@ -1167,11 +1171,11 @@ anderson teset  use for check any  distribution
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
-    1.Filter methods (Constant feature,Quasi constant featur,Duplication feature,correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold etc...)
+    1.Filter methods (Constant feature,Quasi constant featur,Duplication feature,correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score etc...)
 
     2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection etc...)
 
-    3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based etc...)
+    3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...))
     
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination)
     
@@ -1979,6 +1983,16 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
           ii)keras embedding 
           
       elmo (store semantic of word)
+      
+      Context-independent 
+      Context-independent without machine learning Bag-of-words,TF-IDF
+      Context-independent with machine learning Word2vec (Bag of Words (CBoW) and Skip-Gram )  GloVe  fastText
+
+      Context-dependent 
+      Context-dependent and RNN based(elmo,cove)
+      Context-dependent and transformer-based (BERT ,xlm,RoBERTa,ALBERT)
+      
+      Fast_Sentence_Embeddings Compute Sentence Embeddings Fast  https://github.com/oborchers/Fast_Sentence_Embeddings
         
      4.Document embedding-Doc2vec
       
@@ -2034,7 +2048,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
       
-     10.BERT,Packed BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5, CodeT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen,AI21's 'Jurassic' language model,Turing NLG,Wu Dao 2.0,PanGu-Alpha
+     10.BERT,Packed BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5, CodeT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen,AI21's 'Jurassic' language model,Turing NLG,Wu Dao 2.0,PanGu-Alpha,Gopher,Megatron model
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
         
