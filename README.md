@@ -68,7 +68,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     html_scraper_streamlit_app https://www.youtube.com/watch?v=6U5xJ3mXRKA&feature=youtu.be
     
-    6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy)-https://github.com/twintproject/twint
+    6.Twitter scraping tool (𝚝𝚠𝚒𝚗𝚝 or tweepy or tweetlib)-https://github.com/twintproject/twint
 
       twitterscraper https://www.youtube.com/watch?v=MpIi4HtCiVk
       
@@ -113,6 +113,10 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
      
      ScrapeSimple Website: https://www.scrapesimple.com
+     
+     Content Grabber https://contentgrabber.com/Manual/understanding_the_concept.htm
+     
+     Crawly https://crawly.diffbot.com/ 
      
      Apify https://apify.com/
      
