@@ -1029,7 +1029,7 @@ anderson teset  use for check any  distribution
       
       methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,One-Class SVM
       
-      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection
+      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power)
       
@@ -1332,7 +1332,7 @@ anderson teset  use for check any  distribution
    
      1.Regression (output feature in continous data form)
      
-       linear regression,polynomial regression,Robust Regression,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
+       linear regression,polynomial regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
        
        least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
        
