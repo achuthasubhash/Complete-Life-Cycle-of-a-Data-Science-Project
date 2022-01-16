@@ -114,6 +114,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
      ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
      
+     Gazpacho  https://github.com/maxhumber/gazpacho
+     
      ScrapeSimple Website: https://www.scrapesimple.com
      
      Content Grabber https://contentgrabber.com/Manual/understanding_the_concept.htm
@@ -814,7 +816,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      13.Frequent Category Imputation
      
-     14.MICE Imputation
+     14.MICE Imputation,miceforest ( https://github.com/AnotherSamWilson/miceforest )
      
      15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/
      
@@ -2489,6 +2491,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     hyperband  https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms
     
     Spearmint  https://github.com/JasperSnoek/spearmint/
+    
+    tuun Hyperparameter tuning via uncertainty modeling https://github.com/petuum/tuun
     
     NeuPy http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html#id24
     
@@ -4181,6 +4185,10 @@ Automated Tensorflow  https://github.com/rafiqhasan/auto-tensorflow
 
 MLBox https://github.com/AxeldeRomblay/MLBox
 
+skycube automl  https://skycube.app/
+
+stackml Machine Learning platform in the browser            https://stackml.com/
+
 quick_ml  https://pypi.org/project/quick-ml/ https://www.quickml.info/
 
 MLJAR https://github.com/mljar/mljar-supervised/  https://towardsdatascience.com/binary-classification-with-automated-machine-learning-1a36e78ba50f 
@@ -4271,7 +4279,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,OpenRefine,Visualizer,autoclean,Autoplotter 
+   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter, 
    
   QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
@@ -4372,7 +4380,7 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
 pandas chunksize,Pandas vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Fastparquet,dampr,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit()  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
