@@ -1,18 +1,18 @@
 # Complete-Life-Cycle-of-a-Data-Science-Project
 
-***CREDITS:All corresponding resources***
+**CREDITS: All corresponding resources**
 
-***MOTIVATION:Motivation to create this repository  to help upcoming aspirants and help to  others in the data science field*** 
+**MOTIVATION: Motivation to create this repository  to help upcoming aspirants and help to  others in the data science field**
 
-https://www.theinsaneapp.com/2021/03/how-to-build-machine-learning-project.html
+[How To Build ML Project](https://www.theinsaneapp.com/2021/03/how-to-build-machine-learning-project.html)
 
-****  If you like my work. please buy me a coffee it motivate me   ->     https://www.buymeacoffee.com/achuthasubhash?new=1 ****
+#### If you like my work. please [buy me a coffee](https://www.buymeacoffee.com/achuthasubhash?new=1) it motivate me.
 
-***Business understanding*** 
+# Business understanding
 
-***1.Data collection***
+## **1.Data collection**
 
-Data consists of 3 kinds
+### Data consists of 3 kinds [Types of Data](https://www.chi2innovations.com/blog/discover-data-blog-series/data-types-101/)
 
     a.Structure data (tabular data,etc...)
     
@@ -20,35 +20,37 @@ Data consists of 3 kinds
     
     c.semi structured data (XML,JSON,etc...)
     
-variable 
+### variable 
    
     a.qualitative (nominal,ordinal,binary)
     
     b.quantitative(discrete,continuous)
     
-    https://www.chi2innovations.com/blog/discover-data-blog-series/data-types-101/
     
-cleanlab https://l7.curtisnorthcutt.com/cleanlab-python-package  https://github.com/cgnorthcutt/cleanlab https://github.com/cgnorthcutt/label-errors https://github.com/cgnorthcutt/rankpruning https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
+    
+### Cleanlab 
+ - [cleanlab-python-package](https://l7.curtisnorthcutt.com/cleanlab-python-package)  
+ - [cleanlab](https://github.com/cgnorthcutt/cleanlab) 
+ - [label-errors](https://github.com/cgnorthcutt/label-errors) 
+ - [rankpruning](https://github.com/cgnorthcutt/rankpruning) 
+ - [Awesome-Learning-with-Label-Noise](https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise)
 
-Measure Data Quality ydata-quality https://github.com/ydataai/ydata-synthetic https://towardsdatascience.com/how-can-i-measure-data-quality-9d31acfeb969
+### Measure Data Quality ydata-quality
+- [Ydata Synthetic](https://github.com/ydataai/ydata-synthetic )
+- [How Can I measure data quality](https://towardsdatascience.com/how-can-i-measure-data-quality-9d31acfeb969)
 
-a.Web scraping  best article to refer-https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
+### A.Web scraping  best article to refer
+  - https://towardsdatascience.com/choose-the-best-python-web-scraping-library-for-your-application-91a68bc81c4f
+  - https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=KJ|link|weekend-blogs|blogs|44087|0.875
+  - https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44204|0.375
+  - https://www.kdnuggets.com/2021/02/6-web-scraping-tools.html
+  - https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-scraping-software  
+  - https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d
+  - https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-hero-38051423256b
 
-https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=KJ|link|weekend-blogs|blogs|44087|0.875
+    1.Beautifulsoup  [link](https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/)
 
-https://www.analyticsvidhya.com/blog/2019/10/web-scraping-hands-on-introduction-python/?utm_source=linkedin&utm_medium=AV|link|high-performance-blog|blogs|44204|0.375
-
-https://www.kdnuggets.com/2021/02/6-web-scraping-tools.html
-
-https://www.bigdatanews.datasciencecentral.com/profiles/blogs/top-30-free-web-scraping-software  
-
-https://towardsdatascience.com/6-web-scraping-tools-that-make-collecting-data-a-breeze-457c44e4411d
-
-https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-hero-38051423256b
-
-    1.Beautifulsoup  https://www.freecodecamp.org/news/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe/
-
-      mechanicalsoup   https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/
+      mechanicalsoup   [link](https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/)
    
     2.Scrapy,PyScrappy,Pandas Datareader,Instaloader
    
