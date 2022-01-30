@@ -4385,14 +4385,16 @@ Reducing Pandas memory https://pythonspeed.com/articles/pandas-load-less-data/  
 
 Speed up Scikit-Learn Model Training  https://www.kdnuggets.com/2021/02/speed-up-scikit-learn-model-training.html
 
+mpire Python package for easy multiprocessing, but faster than multiprocessing https://github.com/Slimmer-AI/mpire
+
 thundergbm  Fast GBDTs and Random Forests on GPUs  https://github.com/Xtra-Computing/thundergbm
 
 thundersvm  https://github.com/Xtra-Computing/thundersvm
 
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
-pandas chunksize,Pandas vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Fastparquet,dampr,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba numexpr mtalg Dask, PyArrow, and PySpark  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandas chunksize,Pandas vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Datatable,Fastparquet,dampr,
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba numexpr mtalg Dask, PyArrow, and PySpark,  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
