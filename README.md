@@ -3149,7 +3149,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
@@ -3209,7 +3209,9 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://huggingface.co/models  https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html https://huggingface.co/modelsz
      
-   https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/  https://huggingface.co/transformers/master/   https://github.com/huggingface/tokenizers
+   https://github.com/huggingface  https://github.com/huggingface/transformers    https://huggingface.co/transformers/  https://huggingface.co/transformers/master/   https://github.com/huggingface/tokenizers  
+   
+   hugging face spaces   https://huggingface.co/spaces
    
    Hugging Face pipelines https://towardsdatascience.com/effortless-nlp-using-pre-trained-hugging-face-pipelines-with-just-3-lines-of-code-a4788d95754f
    
@@ -3440,8 +3442,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    Responsible AI-https://www.tensorflow.org/resources/responsible-ai
    
    https://www.tensorflow.org/graphics
-   
-   
+  
    75.free list of AI/ Machine Learning Resources/Courses-https://www.marktechpost.com/free-resources/
    
    https://github.com/kabartay/OpenUnivCourses
@@ -3769,13 +3770,15 @@ determined to be unfair.
    
    117.https://www.pye.ai/2021/03/19/machine-learning-model-management-what-why-and-how/  https://www.ambiata.com/blog/2020-12-07-mlops-tools/
    
+   Pachyderm  Kubeflow  MLflow  Metaflow ZenML  Seldon  Bodywork MLReef  MLRun   DVC katana-skipper Weights & Biases  Valohai Polyaxon Neptune.ai   CometML Algorithmia
+   
    mlflow https://mlflow.org/docs/latest/index.html  https://github.com/amesar/mlflow-examples
    
    MLFlow by pycaret https://pycaret.org/mlflow/?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity2c1c2
    
    labml https://ramith.fyi/tracking-your-ml-experiments-without-sending-data-to-the-cloud/
    
-   MLOps  https://github.com/microsoft/MLOps https://mlops.githubapp.com/ https://huyenchip.com/2020/12/30/mlops-v2.html https://github.com/paiml/practical-mlops-book
+   MLOps  https://github.com/microsoft/MLOps https://mlops.githubapp.com/ https://huyenchip.com/2020/12/30/mlops-v2.html https://github.com/paiml/practical-mlops-book https://analyticsindiamag.com/top-10-tools-to-kickstart-your-mlops-journey-in-2021
    
    7 Best Resources To Learn MLOps In 2021 https://analyticsindiamag.com/7-best-resources-to-learn-mlops-in-2021/
    
@@ -3933,6 +3936,8 @@ determined to be unfair.
        WeightWatcher https://github.com/CalculatedContent/WeightWatcher
        
        labml Monitor deep learning model training and hardware usage from your mobile phone https://labml.ai/      https://github.com/labmlai/labml
+       
+       ml notify https://github.com/aporia-ai/mlnotify
   
    155.r packages https://upurl.me/vkf3r  http://r-bloggers.com/2021/04/15-essential-packages-in-r-for-data-science/  https://www.ubuntupit.com/best-r-machine-learning-packages/
    
@@ -4399,8 +4404,8 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
-pandas chunksize,Pandas vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Datatable,Fastparquet,dampr,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba numexpr mtalg Dask, PyArrow, and PySpark,  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Datatable,Fastparquet,dampr,
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
