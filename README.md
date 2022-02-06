@@ -114,6 +114,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
      ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
      
+     PyScrappy https://github.com/mldsveda/PyScrappy https://www.analyticsvidhya.com/blog/2022/02/web-scraping-with-pyscrappy/
+     
      Gazpacho  https://github.com/maxhumber/gazpacho
      
      ScrapeSimple Website: https://www.scrapesimple.com
