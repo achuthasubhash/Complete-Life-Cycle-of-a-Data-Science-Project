@@ -1914,7 +1914,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    6.BoltzmannMachines,Restricted Boltzmann Machine,deep belief network,deep BoltzmannMachines
    
-   7.Self Organizing Maps (SOM)
+   7.Self Organizing Maps (SOM) , Fast Self-Organizing Map  https://github.com/nmarincic/numbasom
    
    8.Natural language processing
    
@@ -2291,11 +2291,27 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       tsfresh — a magical library for feature extraction in time-series datasets
       
+      ThymeBoost Forecasting with Gradient Boosted Time Series Decomposition https://github.com/tblume1992/ThymeBoost
+
+      darts A python library for easy manipulation and forecasting of time series  https://github.com/unit8co/darts
+
+      Kats https://github.com/facebookresearch/Kats
+
+      Time Series Outlier Detection with ThymeBoost
+
+      AtsPy: Automated Time Series Models in Python https://github.com/firmai/atspy
+
+      Merlion: A Machine Learning Framework for Time Series Intelligence https://github.com/salesforce/Merlion
+
+      mlforecast Scalable machine learning based time series forecasting https://github.com/Nixtla/mlforecast
+     
       9.Holts winter,Holts linear trend
       
       10.Auto_Timeseries by auto-ts    https://www.youtube.com/watch?v=URUiVD37fns&list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK&index=24 tell best model for data
       
       AutoTS-https://analyticsindiamag.com/hands-on-guide-to-autots-effective-model-selection-for-multiple-time-series/  https://github.com/AutoViML/Auto_TS
+      
+      Automated Time Series Forecasting  https://github.com/winedarksea/AutoTS  ,  No-Code AI Forecasting Platform https://datafloat.ai/
       
       AutoML for time series: advanced approaches with FEDOT framework  https://towardsdatascience.com/automl-for-time-series-advanced-approaches-with-fedot-framework-4f9d8ea3382c
 
