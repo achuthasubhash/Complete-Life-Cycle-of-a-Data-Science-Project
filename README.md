@@ -888,6 +888,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      8.Deep Imbalanced Regression https://github.com/YyzHarry/imbalanced-regression https://analyticsindiamag.com/deep-imbalanced-regression-complete-guide/
      
+     Imbalanced Dataset Sampler  https://github.com/ufoym/imbalanced-dataset-sampler
+     
      9.BalancedBaggingClassifier,Threshold moving
      
      10.Try Different Algorithms (ensemble techinque - Bagging Based techniques,Boosting-Based techniques)
@@ -1346,7 +1348,7 @@ anderson teset  use for check any  distribution
      
        linear regression,polynomial regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
        
-       least square method,linear-tree,Random Forest Regression,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
+       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
        
@@ -1364,7 +1366,7 @@ anderson teset  use for check any  distribution
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,linear-tree,TensorFlow Decision Forests,
         
-        Random Forest Classification,TensorFlow Decision Forests,xgboost,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet
+        Random Forest Classification,TensorFlow Decision Forests, Regularized Greedy Forests,xgboost,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
@@ -1557,6 +1559,8 @@ anderson teset  use for check any  distribution
        
        TFAgents  https://github.com/tensorflow/agents (https://www.tensorflow.org/agents)   https://deepmind.com/blog/article/trfl    
        
+       behaviour trees used in reinforcement learning https://analyticsindiamag.com/how-are-behaviour-trees-used-in-reinforcement-learning/
+       
        Automate The Stock Market Using FinRL (Deep Reinforcement Learning Library)  https://analyticsindiamag.com/stock-market-prediction-using-finrl/
        
        Stable Baselines  https://github.com/openai/baselines
@@ -1567,9 +1571,7 @@ anderson teset  use for check any  distribution
    
    Semi-Supervised Learning-small amount of labeled data with a large amount of unlabeled data during training
    
-   
    Machine Learning with Graphs http://web.stanford.edu/class/cs224w/  
-   
    
    E.Deep-learning  (use when have huge data and data is highly complex and state of art for unstructured data) https://www.kdnuggets.com/2019/11/designing-neural-networks.html
    
@@ -2631,6 +2633,8 @@ Generally used metrics
     4.Incase of machine translation use bleu score
     
     5.Clustering then use External: Adjusted Rand index, Jaccard Score, Purity Score    Internal:silhouette_score, Davies-Bouldin Index, Dunn Index
+    
+    autoelbow,elbow
     
     https://towardsdatascience.com/performance-metrics-in-machine-learning-part-3-clustering-d69550662dc6
     
