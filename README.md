@@ -172,6 +172,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      11.GoogleImageCrawler,google_images_download,bing_image
      
+     https://www.freepik.com/popular-photos , https://stocksnap.io/ , https://www.pexels.com/ ,https://unsplash.com/ , https://pixabay.com/
+     
 b.Web Crawling
 
   https://python.libhunt.com/scrapy-alternatives
@@ -566,7 +568,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic
+    ydata-synthetic,Gretel,GenerateData
 
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -790,15 +792,15 @@ World’s Largest Data Platform https://worlddata.ai/
      
      2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode
      
+     Fill with Mean / Median of Column or  Group   Forward Fill  or Forward Fill within Groups  
+     
      3.apply classifier algorithm to predict missing value
      
      Using Algorithms that support missing values
      
      Imputation using Deep Learning Library — Datawig  https://github.com/awslabs/datawig
      
-     4.Iterative imputer,knn imputer, multivariate imputation
-     
-     Substitution
+     4.Simple Imputer,Iterative imputer,knn imputer, multivariate imputation, Verstack — NaNImputer,Impyute —MICE ,Substitution
      
      5.apply unsupervised 
      
@@ -820,7 +822,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      14.MICE Imputation,miceforest ( https://github.com/AnotherSamWilson/miceforest )
      
-     15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/
+     15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/   Interpolate  or  Interpolate within Groups
      
      Extrapolation and Interpolation
      
@@ -834,7 +836,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      15.autoimpute-https://github.com/kearnz/autoimpute
      
-     16.bfill / ffill
+     16.bfill / ffill      Back Fill   or  Back Fill within Groups
      
      17.Adding a variable to capture NAN
      
@@ -1035,7 +1037,7 @@ anderson teset  use for check any  distribution
       
       methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,One-Class SVM
       
-      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance
+      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power)
       
@@ -1950,7 +1952,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      detext-https://github.com/linkedin/detext
      
-     nlpaug-https://github.com/makcedward/nlpaug
+     nlpaug-https://github.com/makcedward/nlpaug  augmenty https://github.com/KennethEnevoldsen/augmenty
      
      NLP-progress -https://github.com/sebastianruder/NLP-progress
      
@@ -3579,17 +3581,21 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    104.Deep Learning Toolkit for Medical Image Analysis -https://github.com/DLTK/DLTK
    
+   Evidently,Deepchecks,Tensorflow-Data-Validation,
+   
    106.Interpret The ML Model    https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608
 
    https://christophm.github.io/interpretable-ml-book/  https://www.kaggle.com/getting-started/209632  https://ex.pegg.io/
    
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
+   Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML
+   
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
    Awesome-explainable-AI  https://ex.pegg.io/
    
-   tf-explain https://github.com/sicara/tf-explain
+   tf-explain https://github.com/sicara/tf-explain   imodels  https://github.com/csinva/imodels
    
    lime(explain black box models)- https://lime-ml.readthedocs.io/en/latest/  https://towardsdatascience.com/interpreting-image-classification-model-with-lime-1e7064a2f2e5
    
