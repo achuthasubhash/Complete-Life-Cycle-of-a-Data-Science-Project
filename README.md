@@ -1413,6 +1413,8 @@ anderson teset  use for check any  distribution
      
      https://www.kdnuggets.com/2017/03/naive-sharding-centroid-initialization-method.html
      
+     CLASSIX clustering https://github.com/nla-group/classix
+     
      K-Means 8x faster, 27x lower error than Scikit-learn in 25 lines   https://www.kdnuggets.com/2021/01/k-means-faster-lower-error-scikit-learn.html#.YAHAAIpnx4A.linkedin
    
      k-Means Clustering by up to 10x Over Scikit-Learn  https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72
@@ -3308,6 +3310,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    58.numerical-linear-algebra -https://github.com/fastai/numerical-linear-algebra
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson,Parrot  etc...
+   
+   Chatterbot,Botkit,BotPress,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack
    
    https://github.com/fendouai/Awesome-Chatbot  https://medium.com/nerd-for-tech/make-money-building-a-fast-powerful-chatbot-in-10-minutes-using-nltk-91038e15ab17
    
