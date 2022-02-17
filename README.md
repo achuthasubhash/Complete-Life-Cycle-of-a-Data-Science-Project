@@ -269,6 +269,8 @@ World’s Largest Data Platform https://worlddata.ai/
     11)https://www.columnfivemedia.com/100-best-free-data-sources-infographic
    
     12)Reddit:https://lnkd.in/dv5UCD4       https://www.reddit.com/r/datasets/
+    
+    praw.Reddit https://github.com/praw-dev/praw
    
     13)https://datasets.bifrost.ai/?ref=producthunt
    
@@ -2465,7 +2467,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
 
   TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,GELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Modifying ReLU,Shifted ReLU,Softmax,Swish,Softplus,Mish
   
-  Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with   momentum,Adagrad,RMSProp,AMSGrad,Adam,AdaBelief,MADGRAD,Nero
+  Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with   momentum,Adagrad,RMSProp,AMSGrad,Adam,AdaBelief,MADGRAD,Nero,
   
   https://analyticsindiamag.com/ultimate-guide-to-pytorch-optimizers/    https://analyticsindiamag.com/guide-to-tensorflow-keras-optimizers/
   
@@ -2608,7 +2610,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      2.Kfoldcv,Repeated K-Folds Method
      
-     3.Stratfied cross validation,Stratified K-fold CV
+     3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold 
      
      4.Repeated K-folds
      
@@ -3311,8 +3313,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson,Parrot  etc...
    
-   Chatterbot,Botkit,BotPress,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack
-   
+   Chatterbot,Botkit,BotPress,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots
+    
    https://github.com/fendouai/Awesome-Chatbot  https://medium.com/nerd-for-tech/make-money-building-a-fast-powerful-chatbot-in-10-minutes-using-nltk-91038e15ab17
    
    https://www.analyticsinsight.net/category/chatbots/ https://www.promaticsindia.com/blog/here-are-the-most-popular-chatbot-development-frameworks/
