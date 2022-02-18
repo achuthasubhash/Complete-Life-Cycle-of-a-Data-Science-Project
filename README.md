@@ -1996,7 +1996,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
           
           ii)glove        https://medium.com/spark-nlp/1-line-to-glove-word-embeddings-with-nlu-in-python-baed152fff4d
           
-          iiI)fasttext
+          iiI)fast text
         
         b.creating own embedding  (use when have huge data)
         
@@ -3800,6 +3800,8 @@ determined to be unfair.
    
    Pachyderm  Kubeflow  MLflow  Metaflow ZenML  Seldon  Bodywork MLReef  MLRun   DVC katana-skipper Weights & Biases  Valohai Polyaxon Neptune.ai   CometML Algorithmia
    
+   BentoML Unified Model Serving Framework https://github.com/bentoml/BentoML
+   
    mlflow https://mlflow.org/docs/latest/index.html  https://github.com/amesar/mlflow-examples
    
    MLFlow by pycaret https://pycaret.org/mlflow/?utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity2c1c2
@@ -4195,6 +4197,8 @@ LightAutoML  https://github.com/sberbank-ai-lab/LightAutoML https://lightautoml.
 FLAML  fast and lightweight AutoML library https://github.com/microsoft/FLAML
 
 LightAutoML LAMA - automatic model creation framework  https://github.com/sberbank-ai-lab/LightAutoML
+
+H2O Hydrogen Torch: A No-code Deep Learning Framework
 
 EvalML is an AutoML library https://github.com/alteryx/evalml https://evalml.alteryx.com/en/stable/ https://www.kdnuggets.com/2021/04/easy-automl-python.html https://www.youtube.com/watch?v=uuYEQqrExBQ https://www.analyticsvidhya.com/blog/2021/05/machine-learning-automation-using-evalml-library/
 
