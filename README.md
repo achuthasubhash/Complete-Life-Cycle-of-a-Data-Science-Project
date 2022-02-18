@@ -1069,7 +1069,7 @@ anderson teset  use for check any  distribution
      
      Timetk https://towardsdatascience.com/timetk-the-r-library-for-time-series-analysis-9822f7720318
      
-     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours
+     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD
      
      Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
      
@@ -1488,6 +1488,8 @@ anderson teset  use for check any  distribution
      4.Blending
      
      5.Voting (Hard Voting,Soft Voting)
+     
+     mlens ML-Ensemble – high performance ensemble learning https://github.com/flennerhag/mlens
      
      https://analyticsindiamag.com/do-ensemble-methods-always-work/
      
@@ -2029,6 +2031,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      6.using rnn,lstm,gru
      
        for above 3 models have bidirectional also
+       
+       textgenrnn generate text  https://github.com/minimaxir/textgenrnn
      
      7.Encoder and Decoder(sequence to sequence), ProphetNet(new pretrained seq2seq model)
       
@@ -2520,6 +2524,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HiPlot https://analyticsindiamag.com/this-new-tool-helps-developers-in-effective-hyperparameter-tuning/
     
+    botorch Bayesian optimization https://github.com/pytorch/botorch
+    
     OCTIS https://github.com/mind-lab/octis
     
     hyperband  https://neptune.ai/blog/hyperband-and-bohb-understanding-state-of-the-art-hyperparameter-optimization-algorithms
@@ -2601,6 +2607,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     p.Hyperactive https://github.com/SimonBlanke/Hyperactive
        
     Hyperopt, Optuna, and Ray,SCIKIT-OPTIMIZE,SMAC
+    
+    OMLT  optimization  https://github.com/cog-imperial/OMLT
 
     HyperOpt  http://hyperopt.github.io/hyperopt/   Optuna  https://optuna.org/   Scikit-optimize https://scikit-optimize.github.io/stable/  SigOpt  https://sigopt.com/
     
