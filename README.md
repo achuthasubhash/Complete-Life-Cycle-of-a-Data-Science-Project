@@ -1041,7 +1041,9 @@ anderson teset  use for check any  distribution
       
       Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,
       
-      outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power)
+      outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation)
+      
+      Use a Different algorithm that is not sensitive to outliers
       
       Trimming: Remove outliers from dataset. However, it can remove large proportion of data.
       Capping: No data is removed. However, it distorts variable distribution. 
@@ -1054,6 +1056,8 @@ anderson teset  use for check any  distribution
       PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/ 
       
       TODS: An Automated Time-series Outlier Detection System https://github.com/datamllab/tods https://towardsdatascience.com/tods-detecting-outliers-from-time-series-data-2d4bd2e91381
+      
+      anomalib anomaly detection library https://github.com/openvinotoolkit/anomalib
       
       if outiler present then use robust scaling
       
@@ -1462,6 +1466,8 @@ anderson teset  use for check any  distribution
          TOROS Buffalo https://github.com/kakao/buffalo
          
          recommenders-https://github.com/microsoft/recommenders
+         
+         lkpy Python recommendation toolkit https://github.com/lenskit/lkpy  https://analyticsindiamag.com/how-to-build-recommender-systems-using-lenskit/
          
          PyTorch implementations of deep reinforcement learning algorithms and environments https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
          
@@ -3629,6 +3635,10 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    interpret https://github.com/interpretml/interpret   mlxtend's  http://rasbt.github.io/mlxtend/
    
+   imodels Interpretable ML package https://github.com/csinva/imodels
+   
+   Quantus  eXplainable AI toolkit https://github.com/understandable-machine-intelligence-lab/quantus
+   
    DiCE Generate Diverse Counterfactual Explanations for any machine learning model. https://github.com/interpretml/DiCE
    
    tcav  https://github.com/tensorflow/tcav       yellowbrick  https://www.scikit-yb.org/en/latest/quickstart.html
@@ -4240,7 +4250,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 3.awesome-AutoML https://github.com/windmaple/awesome-AutoML , automl-gs github.com/minimaxir/automl-gs
 
-autopandas,Auto-Sklearn,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR
+autopandas,Auto-Sklearn,Auto-ViML,AutoViz,FLAML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR
 
 Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl
 
@@ -4342,8 +4352,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile 
-   
+   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation
   QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
    Dataprep https://towardsdatascience.com/dataprep-eda-accelerate-your-eda-eb845a4088bc https://www.analyticsvidhya.com/blog/2021/05/dataprep-library-perform-eda-faster/
@@ -4445,7 +4454,7 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Datatable,Fastparquet,dampr,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
