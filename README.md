@@ -317,6 +317,8 @@ World’s Largest Data Platform https://worlddata.ai/
     https://github.com/jsbroks/awesome-dataset-tools
     
     jupyter-innotater data annotator for Jupyter notebooks https://github.com/ideonate/jupyter-innotater
+    
+    JupyterLab extension for annotating data  https://github.com/explosion/jupyterlab-prodigy
 
     semi-auto-image-annotation-tool https://github.com/virajmavani/semi-auto-image-annotation-tool
     
@@ -750,7 +752,11 @@ World’s Largest Data Platform https://worlddata.ai/
    
    feast Feature Store for Machine Learning https://github.com/feast-dev/feast https://www.youtube.com/watch?v=ZeJdr0nZ9PA
    
-   FeatureTools,AutoFeat,TsFresh,Cognito,OneBM,ExploreKit,PyFeat
+   Category Encoders  https://contrib.scikit-learn.org/category_encoders/
+   
+   Feature-engine https://feature-engine.readthedocs.io/en/latest/index.html
+   
+   FeatureTools,AutoFeat,TsFresh,Cognito,OneBM,ExploreKit,PyFeat,Category Encoders,Feature-engine
    
    Automated Feature Selection: Featurewiz  https://github.com/AutoViML/featurewiz https://towardsdatascience.com/featurewiz-fast-way-to-select-the-best-features-in-a-data-9c861178602e
    
@@ -853,6 +859,8 @@ World’s Largest Data Platform https://worlddata.ai/
      https://stefvanbuuren.name/fimd/want-the-hardcopy.html  https://www.datasciencecentral.com/profiles/blogs/how-to-treat-missing-values-in-your-data-1
      
      20.Imputation with the string ‘Missing’ ,Addition of binary missing indicators
+     
+     Top Data Cleaning Tools https://www.marktechpost.com/2022/02/20/top-data-cleaning-tools-for-data-science-and-machine-learning-projects-in-2022/
      
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
    
@@ -1994,7 +2002,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
      1.bag of words
      
-     2.Tfidf , Hashing
+     2.Tfidf ,Weighted Class TF-IDF, Hashing
      
      3.wordembedding
         
@@ -3185,7 +3193,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula-py,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
@@ -4053,6 +4061,8 @@ determined to be unfair.
     5.RapidMiner (read terms and conditions before use)
     
     https://github.com/zszazi/Deep-learning-in-cloud
+    
+    6.saturncloud  https://saturncloud.io/
     
 ***So what next ?***
 
