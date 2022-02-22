@@ -1399,7 +1399,7 @@ anderson teset  use for check any  distribution
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping 
+     1.Dimensionality reduction - PCA,ppa,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping 
      
      t-SNE Effectively https://distill.pub/2016/misread-tsne/
      
@@ -2043,6 +2043,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Top2Vec 
      
      Topic Modelling https://towardsdatascience.com/april-edition-adventures-in-topic-modelling-7ee9081a48a0
+     
+     Doc2Vec  Distributed memory model , Distributed bag of word
      
      6.using rnn,lstm,gru
      
