@@ -832,7 +832,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/   Interpolate  or  Interpolate within Groups
      
-     Extrapolation and Interpolation
+     Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation
      
      Single and Multiple Imputation,Univariate Imputation,Multivariate Imputation ,Iterative Imputer,MissForest Imputation,Stochastic Regression Imputation, Multiple Imputations, Datawig, Hot-Deck imputation, Extrapolation, Interpolation
      
@@ -1197,7 +1197,7 @@ anderson teset  use for check any  distribution
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
-    1.Filter methods (Constant feature,Quasi constant featur,Duplication feature,correleation,feature importance,chisquare test,Ttest,vif,anova test,mutal information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score etc...)
+    1.Filter methods (Constant feature,Quasi constant featur,Duplication feature,correleation,feature importance,chisquare test,Ttest,ftest,vif,anova test,mutal information,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score etc...)
 
     2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection etc...)
 
@@ -1290,6 +1290,8 @@ anderson teset  use for check any  distribution
     Feature Engineering Tools https://neptune.ai/blog/feature-engineering-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-feature-engineering-tools
     
     https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
+    
+    PyRasgo https://github.com/rasgointelligence/PyRasgo https://docs.rasgoml.com/rasgo-docs/?_ga=2.209281745.2123722956.1645542654-525286113.1645542654
     
     Featuretools: https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
     AutoFeat: https://github.com/cod3licious/autofeat
@@ -2520,7 +2522,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization , bayes search,Hyperband and BOHB
+    c.Bayesian Optimization , bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize
     
     Bayesian search with Gaussian processes,bayesian search with Random Forests,Bayesian search with GBMs
 
