@@ -231,6 +231,12 @@ World’s Largest Data Platform https://worlddata.ai/
     2)https://sebastianraschka.com/blog/2021/ml-dl-datasets.html
     
     movielens-https://grouplens.org/datasets/movielens/latest/
+    
+    dagshub datset https://dagshub.com/explore/datasets
+    
+    100+ of the Best Free Data Sources For Your Next Project https://www.columnfivemedia.com/100-best-free-data-sources-infographic/
+    
+    World and national data, maps & rankings https://knoema.com/atlas/sources
    
     3)data.gov-https://data.gov.in/
    
@@ -2332,6 +2338,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       Merlion: A Machine Learning Framework for Time Series Intelligence https://github.com/salesforce/Merlion
 
       mlforecast Scalable machine learning based time series forecasting https://github.com/Nixtla/mlforecast
+      
+      statsforecast  Lightning ⚡️ fast forecasting with statistical and econometric models https://github.com/Nixtla/statsforecast
      
       9.Holts winter,Holts linear trend
       
@@ -2841,6 +2849,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     chitra 𝗖𝗿𝗲𝗮𝘁𝗲 𝗔𝗣𝗜 𝗳𝗼𝗿 𝗔𝗻𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹  https://github.com/aniketmaurya/chitra
     
     PyWebIO Write Interactive Web App in Script Way Using Python https://www.youtube.com/watch?v=vp1ZNapAy6Y  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e  https://github.com/tirthajyoti/PyWebIO
+    
+    aibro Deploy Machine Learning Models to the Cloud Quickly and Easily https://aipaca.ai/?ref=hackernoon.com  https://medium.datadriveninvestor.com/how-to-deploy-machine-learning-models-to-the-cloud-quickly-and-easily-41cca9425c75
     
     Katana https://github.com/shaz13/katana https://katana-demo.herokuapp.com/redoc  https://katana-demo.herokuapp.com/docs
     
@@ -4366,8 +4376,9 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation
-  QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
+   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary
+   
+   QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
    Dataprep https://towardsdatascience.com/dataprep-eda-accelerate-your-eda-eb845a4088bc https://www.analyticsvidhya.com/blog/2021/05/dataprep-library-perform-eda-faster/
    
@@ -4468,7 +4479,7 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Datatable,Fastparquet,dampr,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
@@ -4795,6 +4806,8 @@ https://sachinruk.github.io/blog/pytorch/pytorch%20lightning/loss%20function/gpu
 123.SpeechBrain https://speechbrain.github.io/
 
 124.Real-Time High-Resolution Background Replacement  https://analyticsindiamag.com/introducing-real-time-high-resolution-background-replacement/  https://github.com/PeterL1n/BackgroundMattingV2
+
+125.greppo Build & deploy geospatial applications quick and easy. https://github.com/greppo-io/greppo
 
 ****  If you like my work. please buy me a coffee it motivate me   ->     https://www.buymeacoffee.com/achuthasubhash?new=1 ****
 
