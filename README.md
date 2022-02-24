@@ -152,6 +152,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      lisc https://github.com/lisc-tools/lisc
      
+     Helena WEB AUTOMATION FOR END USERS https://helena-lang.org/
+     
      pandas(read_html)
      
      wget,curl,parsehub,webhouse,octoparse,scraping bot,scraping bee,Common,Content Grabber,Docparser,Scraper API,Import.io,Altair Monarch,WebAutomation.io,WebScraper.io 
@@ -321,6 +323,10 @@ World’s Largest Data Platform https://worlddata.ai/
     ***Label Assist: Model Assisted Pre-Annotation for Computer Vision https://blog.roboflow.com/announcing-label-assist/ https://www.youtube.com/watch?v=919CihTlkZw&feature=youtu.be***
     
     https://github.com/jsbroks/awesome-dataset-tools
+    
+    makeml https://makeml.app/
+    
+    superannotate https://www.superannotate.com/
     
     jupyter-innotater data annotator for Jupyter notebooks https://github.com/ideonate/jupyter-innotater
     
@@ -785,6 +791,8 @@ World’s Largest Data Platform https://worlddata.ai/
    7.Selection of features by target encoding: SelectByTargetMeanPerformance 
    8.Recursive Feature Elimination: RecursiveFeatureElimination 
    9.Recursive Feature Addition: RecursiveFeatureAddition 
+   
+   stats lirary Scipy,Pingouin,Statsmodels,SymPy,Sage
 
    a.Handle missing value
    
@@ -872,7 +880,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.Under Sampling - mostly not prefer because lost of data  imbalaced-learn,,tomek links
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTNC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
      
      smote_variants https://github.com/analyticalmindsltd/smote_variants
 
@@ -1008,6 +1016,8 @@ World’s Largest Data Platform https://worlddata.ai/
        
        9.unit vector scaler
        
+       10.Z-score standardization
+       
        https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/?utm_source=linkedin&utm_medium=KJ|link|high-performance-blog|blogs|44204|0.375
       
    Q-Q plot or Shapiro-Wilk Normality Test or lilliefors test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
@@ -1051,7 +1061,7 @@ anderson teset  use for check any  distribution
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,One-Class SVM
+      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,One-Class SVM,Isolation Forest,DBSCAN
       
       Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,
       
@@ -1279,7 +1289,7 @@ anderson teset  use for check any  distribution
     
     22.Boruta https://github.com/scikit-learn-contrib/boruta_py https://analyticsindiamag.com/hands-on-guide-to-automated-feature-selection-using-boruta/
     
-    23.Sequence Feature Selection
+    23.Sequence Feature Selection, SelectFromModel
 
     PyImpetus https://github.com/atif-hassan/PyImpetus
     
@@ -1405,7 +1415,7 @@ anderson teset  use for check any  distribution
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,ppa,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping 
+     1.Dimensionality reduction - PCA,ppa,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping,Multiple correspondence analysis (MCA),Multiple factor analysis (MFA),Factor analysis of mixed data (FAMD) 
      
      t-SNE Effectively https://distill.pub/2016/misread-tsne/
      
@@ -1443,7 +1453,7 @@ anderson teset  use for check any  distribution
      
      3.Association Rule Learning - support,lift,confidence,leverage,aprior,elcat,Fp-growth,Fp-tree construction, association_rules,Frequent Itemset Mining
    
-     4.Recommendation system -
+     4.Recommendation system - Surprise,TensorFlow Recommendation,Recmterics
      
          a.collaborative Recommendation system (model based, memory based(item based,user based))  user-item interaction matrix
         
@@ -1484,6 +1494,8 @@ anderson teset  use for check any  distribution
          recommenders-https://github.com/microsoft/recommenders
          
          lkpy Python recommendation toolkit https://github.com/lenskit/lkpy  https://analyticsindiamag.com/how-to-build-recommender-systems-using-lenskit/
+         
+         torchrec https://github.com/pytorch/torchrec
          
          PyTorch implementations of deep reinforcement learning algorithms and environments https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch
          
@@ -1646,6 +1658,8 @@ anderson teset  use for check any  distribution
    XBNet: An Extremely Boosted Neural Network
    
    MIL-WebDNN Fastest DNN Execution Framework on Web Browser  https://mil-tokyo.github.io/webdnn/
+   
+   Vector Hub  models to turn data into vectors text2vec, image2vec, video2vec, graph2vec, bert, inception, etc  https://github.com/RelevanceAI/vectorhub 
    
    1.Multilayer perceptron(MLP)
    
@@ -4268,6 +4282,8 @@ TransmogrifAI  https://github.com/salesforce/TransmogrifAI
 
 Hugging Face’s AutoNLP https://www.analyticsvidhya.com/blog/2021/03/a-hands-on-introduction-to-hugging-faces-autonlp-101/
 
+complex Machine Learning model in one line with Libra https://github.com/Palashio/libra
+
 Automated Text Classification with EvalML https://www.kdnuggets.com/2021/04/automated-text-classification-evalml.html
  
 Pywedge A complete package for EDA, Data Preprocessing and Modelling https://towardsdatascience.com/pywedge-a-complete-package-for-eda-data-preprocessing-and-modelling-32171702a1e0
@@ -4276,7 +4292,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 autopandas,Auto-Sklearn,Auto-ViML,AutoViz,FLAML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR
 
-Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl
+Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI
 
 Automated Tensorflow  https://github.com/rafiqhasan/auto-tensorflow
 
@@ -4376,7 +4392,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
-   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary
+   Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
+ipywidgets,ipympl
    
    QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
