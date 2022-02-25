@@ -72,6 +72,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
 
       twitterscraper https://www.youtube.com/watch?v=MpIi4HtCiVk
       
+      twython https://github.com/ryanmcgrath/twython
+      
       snscrape  extract twitterr data  https://github.com/JustAnotherArchivist/snscrape
       
       Scweet A simple and unlimited twitter scraper  https://github.com/Altimis/Scweet
@@ -110,7 +112,9 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     8.pattern
     
-    9.Octoparse Easy Web Scraping   https://www.octoparse.com/ 
+    9.Octoparse Easy Web Scraping   https://www.octoparse.com/
+    
+     Web scraper https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en
     
      ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
      
@@ -792,7 +796,7 @@ World’s Largest Data Platform https://worlddata.ai/
    8.Recursive Feature Elimination: RecursiveFeatureElimination 
    9.Recursive Feature Addition: RecursiveFeatureAddition 
    
-   stats lirary Scipy,Pingouin,Statsmodels,SymPy,Sage
+   stats,Scipy,Pingouin,Statsmodels,SymPy,Sage,
 
    a.Handle missing value
    
@@ -1147,7 +1151,7 @@ anderson teset  use for check any  distribution
     
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
     
-    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plots
+    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot
     
     hvplot A high-level plotting API for the PyData ecosystem built on HoloViews https://hvplot.holoviz.org/
     
@@ -1385,6 +1389,8 @@ anderson teset  use for check any  distribution
        least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
+       
+       statsassume Automating Assumption Checks for Regression Models https://github.com/kennethleungty/statsassume
        
        Locally Weighted Linear Regression https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf
        
@@ -2350,6 +2356,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       AtsPy: Automated Time Series Models in Python https://github.com/firmai/atspy
 
       Merlion: A Machine Learning Framework for Time Series Intelligence https://github.com/salesforce/Merlion
+      
+      stumpy powerful and scalable Python library for modern time series analysis https://github.com/TDAmeritrade/stumpy 
 
       mlforecast Scalable machine learning based time series forecasting https://github.com/Nixtla/mlforecast
       
