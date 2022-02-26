@@ -1151,7 +1151,7 @@ anderson teset  use for check any  distribution
     
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
     
-    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot
+    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots
     
     hvplot A high-level plotting API for the PyData ecosystem built on HoloViews https://hvplot.holoviz.org/
     
@@ -1294,6 +1294,8 @@ anderson teset  use for check any  distribution
     22.Boruta https://github.com/scikit-learn-contrib/boruta_py https://analyticsindiamag.com/hands-on-guide-to-automated-feature-selection-using-boruta/
     
     23.Sequence Feature Selection, SelectFromModel
+    
+    Missing Value Ratio Analysis,Low Variance Filter,High Correlation Filter,Backward Feature Elimination,Forward Feature Elimination ,SequentialFeatureSelector
 
     PyImpetus https://github.com/atif-hassan/PyImpetus
     
@@ -1665,7 +1667,9 @@ anderson teset  use for check any  distribution
    
    MIL-WebDNN Fastest DNN Execution Framework on Web Browser  https://mil-tokyo.github.io/webdnn/
    
-   Vector Hub  models to turn data into vectors text2vec, image2vec, video2vec, graph2vec, bert, inception, etc  https://github.com/RelevanceAI/vectorhub 
+   Vector Hub  models to turn data into vectors text2vec, image2vec, video2vec, graph2vec, bert, inception, etc  https://github.com/RelevanceAI/vectorhub
+   
+   torchbearer: A model fitting library for PyTorch https://github.com/pytorchbearer/torchbearer
    
    1.Multilayer perceptron(MLP)
    
@@ -1986,6 +1990,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      NLP Data Augmenting  https://lnkd.in/eHa2cH6
      
+     Text Data Augmentation in Natural Language Processing with Texattack https://www.analyticsvidhya.com/blog/2022/02/text-data-augmentation-in-natural-language-processing-with-texattack/
+     
      Tagalog is our state-of-the-art solution for data management and labeling in Natural Language Processing https://www.tagalog.ai/tagalog/
      
      https://github.com/jasonwei20/eda_nlp  https://github.com/dsfsi/textaugment https://github.com/QData/TextAttack https://github.com/makcedward/nlpaug
@@ -2026,9 +2032,11 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      AutoReg  Regex of string in Python https://github.com/SusmitPanda/AutoReg
      
+     Negation Handling Increasing Accuracy of Sentiment Classification
+     
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
-     1.bag of words
+     1.bag of words ,Bag of N-grams Model
      
      2.Tfidf ,Weighted Class TF-IDF, Hashing
      
@@ -2059,6 +2067,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       Context-dependent and transformer-based (BERT ,xlm,RoBERTa,ALBERT)
       
       Fast_Sentence_Embeddings Compute Sentence Embeddings Fast  https://github.com/oborchers/Fast_Sentence_Embeddings
+      
+      Universal Embeddings, Contextual Embeddings (Transformers),BERT Embeddings
         
      4.Document embedding-Doc2vec
       
@@ -2660,6 +2670,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
 
     HyperOpt  http://hyperopt.github.io/hyperopt/   Optuna  https://optuna.org/   Scikit-optimize https://scikit-optimize.github.io/stable/  SigOpt  https://sigopt.com/
     
+    DeepHyper  Hyperparameter Search for Deep Neural Networks https://github.com/deephyper/deephyper
+    
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
      1.Loocv
@@ -2741,6 +2753,10 @@ https://towardsdatascience.com/deploy-machine-learning-app-built-using-streamlit
 simplest way to serve your ML models on Kubernetes  https://towardsdatascience.com/the-simplest-way-to-serve-your-ml-models-on-kubernetes-5323a380bf9f
 
 ***7.deployment***  https://github.com/piyushpathak03/Model-Deployment
+
+    Train: one off, batch and real-time/online training  
+    
+    Serve: Batch, Realtime (Database Trigger, Pub/Sub, web-service, inApp)
 
     Continuously Monitor the Behaviour of Deployed Models  https://se-ml.github.io/best_practices/04-monitor_models_prod/ 
     
