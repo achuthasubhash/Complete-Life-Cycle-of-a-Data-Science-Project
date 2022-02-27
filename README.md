@@ -1151,7 +1151,7 @@ anderson teset  use for check any  distribution
     
     Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
     
-    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots
+    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot, Pie charts,Line Plot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots
     
     hvplot A high-level plotting API for the PyData ecosystem built on HoloViews https://hvplot.holoviz.org/
     
@@ -1460,6 +1460,8 @@ anderson teset  use for check any  distribution
      k-Means Clustering by up to 10x Over Scikit-Learn  https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72
      
      3.Association Rule Learning - support,lift,confidence,leverage,aprior,elcat,Fp-growth,Fp-tree construction, association_rules,Frequent Itemset Mining
+     
+     interpretable association rule https://analyticsindiamag.com/a-guide-to-interpretable-association-rule-mining-using-pycaret/
    
      4.Recommendation system - Surprise,TensorFlow Recommendation,Recmterics
      
