@@ -1423,7 +1423,7 @@ anderson teset  use for check any  distribution
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,ppa,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping,Multiple correspondence analysis (MCA),Multiple factor analysis (MFA),Factor analysis of mixed data (FAMD) 
+     1.Dimensionality reduction - PCA,ppa,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping,Multiple correspondence analysis (MCA),Multiple factor analysis (MFA),Factor analysis of mixed data (FAMD),vae,CompressionVAE 
      
      t-SNE Effectively https://distill.pub/2016/misread-tsne/
      
