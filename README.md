@@ -1559,7 +1559,7 @@ anderson teset  use for check any  distribution
       
       Deep Deterministic Policy Gradient
       
-      4.Twin Delayed DDPG,DQN
+      4.Twin Delayed DDPG,DQN,Temporal difference
       
       5.A3C  (Actor Critic) ,A2C, Soft Actor Critic (SAC)
       
@@ -2716,6 +2716,8 @@ Generally used metrics
      
      https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
      
+     KS test to evaluate the separation between class distributions
+     
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
     2.Classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,log loss,Average precision,Mean average precision
@@ -3671,7 +3673,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
-   Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML
+   Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance
    
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
@@ -4346,7 +4348,9 @@ FEDOT Automated modeling and machine learning framework FEDOT  https://github.co
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
 
-5. autosklearn,autokeras,LightAutoML,xcessiv,kerastuner ,LAMA, NNI, FEDOT   (https://github.com/sberbank-ai-lab/LightAutoML)
+5. auto sklearn,auto keras,auto Tensorflow,autoLightAutoML,xcessiv,kerastuner ,LAMA, NNI, FEDOT   (https://github.com/sberbank-ai-lab/LightAutoML)
+
+deephyper Automating Deep Neural Networks https://github.com/deephyper/deephyper
 
 Keras Tuner or storm-tuner - Decide Number of Hidden Layers And Neuron In Neural Network
 
@@ -4851,6 +4855,8 @@ https://sachinruk.github.io/blog/pytorch/pytorch%20lightning/loss%20function/gpu
 124.Real-Time High-Resolution Background Replacement  https://analyticsindiamag.com/introducing-real-time-high-resolution-background-replacement/  https://github.com/PeterL1n/BackgroundMattingV2
 
 125.greppo Build & deploy geospatial applications quick and easy. https://github.com/greppo-io/greppo
+
+126.Online tools to create mind-blowing AI art   https://analyticsindiamag.com/online-tools-to-create-mind-blowing-ai-art/
 
 ****  If you like my work. please buy me a coffee it motivate me   ->     https://www.buymeacoffee.com/achuthasubhash?new=1 ****
 
