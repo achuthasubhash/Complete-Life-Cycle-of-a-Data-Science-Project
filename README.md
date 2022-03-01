@@ -1315,6 +1315,7 @@ anderson teset  use for check any  distribution
     
     PyRasgo https://github.com/rasgointelligence/PyRasgo https://docs.rasgoml.com/rasgo-docs/?_ga=2.209281745.2123722956.1645542654-525286113.1645542654
     
+    Featurewiz: Fast way to select the best features in a data
     Featuretools: https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
     AutoFeat: https://github.com/cod3licious/autofeat
     TSFresh: https://github.com/blue-yonder/tsfresh
@@ -2614,6 +2615,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Keras Hyperparameter Tuning with aisaratuners Library https://aisaradeepwadi.medium.com/advance-keras-hyperparameter-tuning-with-aisaratuners-library-78c488ab4d6a
     
+    hyperas  Automating Hyperparameter Tuning of Keras Model https://github.com/maxpumperla/hyperas
+    
     storm-tuner https://github.com/ben-arnao/StoRM https://medium.com/geekculture/finding-best-hyper-parameters-for-deep-learning-model-4df7a17546c2
     
     Hyperas  https://towardsdatascience.com/automating-hyperparameter-tuning-of-keras-model-4fe69b8dedee
@@ -3840,6 +3843,8 @@ determined to be unfair.
    
    mlflow https://towardsdatascience.com/get-started-with-mlops-fd7062cab018
    
+   GuildAI  https://guild.ai/  https://github.com/guildai/guildai
+   
    MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
    
    ML-Model-CI https://github.com/cap-ntu/ML-Model-CI
@@ -4274,6 +4279,10 @@ GML  https://github.com/Muhammad4hmed/GML
 
 auto_ml  https://github.com/ClimbsRocks/auto_ml
 
+automl-gs Automating Machine Learning In A Single Line Of Code https://github.com/minimaxir/automl-gs
+
+paddlehub Performing Computer Vision & NLP Tasks in a Single Of Code https://github.com/PaddlePaddle/PaddleHub
+
 pywedge  https://github.com/taknev83/pywedge https://towardsdatascience.com/automated-interactive-package-for-eda-modeling-and-hyperparameter-tuning-in-a-few-lines-of-228c561fa63c
 
 LightAutoML  https://github.com/sberbank-ai-lab/LightAutoML https://lightautoml.readthedocs.io/en/latest/ https://towardsdatascience.com/lightautoml-preset-usage-tutorial-2cce7da6f936
@@ -4301,6 +4310,10 @@ carefree-learn is a minimal Automatic Machine Learning (AutoML) solution for tab
 autoweka  https://github.com/automl/autoweka
 
 autokeras https://autokeras.com/  autoSklearn  https://automl.github.io/auto-sklearn/master/
+
+baytune auto-tuning   https://github.com/MLBazaar/BTB
+
+storm-tuner Best Hyper Parameters For Deep Learning Model https://github.com/ben-arnao/StoRM
 
 adanet https://github.com/tensorflow/adanet
 
@@ -4423,7 +4436,11 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib
+
+  fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
+  
+  interpret Dashboards for Interpreting & Comparing Machine Learning Models https://towardsdatascience.com/dashboards-for-interpreting-comparing-machine-learning-models-ffcfb4c05152
    
    QuickDA   https://towardsdatascience.com/save-hours-of-work-doing-a-complete-eda-with-a-few-lines-of-code-45de2e60f257
    
