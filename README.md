@@ -318,6 +318,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
     22) Automates Image Annotation for Deep Learning Models https://medium.com/towards-artificial-intelligence/improving-data-labeling-efficiency-with-auto-labeling-uncertainty-estimates-and-active-learning-5848272365be
     
+    Automate data preparation https://www.superb-ai.com/
+    
     https://neptune.ai/blog/annotation-tool-comparison-deep-learning-data-annotation?utm_source=linkedin&utm_medium=post&utm_campaign=blog-annotation-tool-comparison-deep-learning-data-annotation
 
     Diffgram,Label Studio ,CVAT,SuperAnnotate,Datasaur https://anthony-sarkis.medium.com/the-5-best-ai-data-annotation-platforms-for-machine-learning-2021-ec17c15142f3
@@ -732,6 +734,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Dora (pip library) - data cleaning
    
+   cleanlab  data-centric AI and machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models https://github.com/cleanlab/cleanlab 
+   
    cleantext https://www.youtube.com/watch?v=i2TjAgga1YU&feature=youtu.be  
    
    CleanText: A Python Package to Clean Raw Text Data https://analyticsindiamag.com/guide-to-cleantext-a-python-package-to-clean-raw-text-data/
@@ -986,11 +990,11 @@ World’s Largest Data Platform https://worlddata.ai/
     
      16.hash encoding
      
-     17.dummy encoding
+     17.dummy encoding,NaN Encoding
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial coding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding GapEncoder,MinHashEncoder,TargetEncoder
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial coding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding
      
      Transform your categorical columns with imperio SmoothingTransformer
      
@@ -1160,6 +1164,8 @@ anderson teset  use for check any  distribution
     all in one https://app.learney.me/
     
     Python Tool For Visualizing and Plotting 2D/3D Scientific Data https://analyticsindiamag.com/guide-to-mayavi-a-python-tool-for-visualizing-and-plotting-2d-3d-scientific-data/
+    
+    patchworklib - combine multiple py charts easily
     
     7 Techniques to Visualize Geospatial Data https://www.kdnuggets.com/2017/10/7-techniques-visualize-geospatial-data.html
     
@@ -2039,7 +2045,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
-     1.bag of words ,Bag of N-grams Model
+     1.Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
      
      2.Tfidf ,Weighted Class TF-IDF, Hashing
      
@@ -4436,7 +4442,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
   
@@ -4542,7 +4548,7 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
-pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Datatable,Fastparquet,dampr,
+pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Datatable,Fastparquet,dampr,
 pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
