@@ -2737,7 +2737,7 @@ Generally used metrics
      
      https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
      
-     KS test to evaluate the separation between class distributions
+     KS test to evaluate the separation between class distribution
      
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
