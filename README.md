@@ -820,7 +820,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion and listwise
      
-     2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode
+     2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode , minimum, maximum
      
      Fill with Mean / Median of Column or  Group   Forward Fill  or Forward Fill within Groups  
      
@@ -974,6 +974,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      8.woe(Weight_of_evidence)
      
+     Word2Vec(word Word embedding)
+     
      9.one hot encoding with multi category (keep most frequently repeated only) (One hot encoding of top categories)
      
      10.feature hashing 
@@ -1061,6 +1063,8 @@ anderson teset  use for check any  distribution
       
    g.Remove low variance feature by using VarianceThreshold
    
+   remove  Duplicate data,Low variation data,Irrelevant data,Incorrect data
+   
    h.Same variable(only 1 variable) in feature then remove feature
    
    i.Outilers   removing outilers depond on problem we are solving  https://github.com/jainyk/package-outlier
@@ -1101,11 +1105,13 @@ anderson teset  use for check any  distribution
       
    j.Anomaly  anomaly-detection-resources https://github.com/yzhao062/anomaly-detection-resources
    
+     Types of Anomalies : Point anomalies,Contextual anomalies,Collective anomalies
+   
      clustering techniques to find it
      
      Timetk https://towardsdatascience.com/timetk-the-r-library-for-time-series-analysis-9822f7720318
      
-     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD
+     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD,Auto Encoders,K-means
      
      Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
      
