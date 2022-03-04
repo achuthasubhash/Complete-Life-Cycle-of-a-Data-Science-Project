@@ -1244,6 +1244,8 @@ anderson teset  use for check any  distribution
     automatic feature selection mrmr https://github.com/smazzanti/mrmr 
     
     Alternative feature selection methods  Feature shuffling,Feature performance,Target mean performance
+    
+    Automatic Feature Selection  : recursive feature elimination and cross-validation 
   
     4.Feature Importance
   
@@ -1322,6 +1324,8 @@ anderson teset  use for check any  distribution
     https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
     
     PyRasgo https://github.com/rasgointelligence/PyRasgo https://docs.rasgoml.com/rasgo-docs/?_ga=2.209281745.2123722956.1645542654-525286113.1645542654
+    
+    Automated Feature Engineering Using Deep Feature Synthesis (DFS)  https://heartbeat.comet.ml/introduction-to-automated-feature-engineering-using-deep-feature-synthesis-dfs-3feb69a7c00b
     
     Featurewiz: Fast way to select the best features in a data
     Featuretools: https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
