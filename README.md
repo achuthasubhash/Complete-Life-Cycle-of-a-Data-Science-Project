@@ -982,7 +982,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      12.entity embeddings
      
-     13.binary encoding
+     13.binary encoding,Base-N Encoding
      
      14.Rare label encoding
      
@@ -994,7 +994,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial coding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer
      
      Transform your categorical columns with imperio SmoothingTransformer
      
@@ -1223,13 +1223,15 @@ anderson teset  use for check any  distribution
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
-    1.Filter methods (Constant feature,Quasi constant featur,Duplication feature,correleation,feature importance,chisquare test,Ttest,ftest,vif,anova test,mutal information,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score etc...)
+    1.Filter methods (Constant feature,Quasi constant featur,Duplication feature,correleation,feature importance,chisquare test,Ttest,ftest,vif,anova test,mutal information,  F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score etc...)
 
     2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection etc...)
 
     3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...))
     
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination)
+    
+    ITMO_FS is a feature selection library https://github.com/ctlab/ITMO_FS
     
     5.Feature creation
     
@@ -1395,7 +1397,7 @@ anderson teset  use for check any  distribution
      
        linear regression,polynomial regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
        
-       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
+       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
        
@@ -1574,11 +1576,11 @@ anderson teset  use for check any  distribution
       
       7.XCS
       
-      8.genetic algorithm,sarsa,natural policy gradient
+      8.genetic algorithm,sarsa,natural policy gradient,Policy Gradient Learning
       
       https://simoninithomas.github.io/deep-rl-course/
       
-      SARSA,REINFORCE,PPO,DDPG,TD3
+      SARSA,REINFORCE,PPO,DDPG,Ddpg,TD3
       
       AUTORL: AUTOML FOR RL https://www.automl.org/blog-autorl/
       
@@ -2737,7 +2739,7 @@ Generally used metrics
     
     5.Clustering then use External: Adjusted Rand index, Jaccard Score, Purity Score    Internal:silhouette_score, Davies-Bouldin Index, Dunn Index
     
-    autoelbow,elbow
+    autoelbow,elbow,Davies-Bouldin Index
     
     https://towardsdatascience.com/performance-metrics-in-machine-learning-part-3-clustering-d69550662dc6
     
@@ -3258,7 +3260,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
