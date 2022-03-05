@@ -28,6 +28,8 @@ variable
     
     https://www.chi2innovations.com/blog/discover-data-blog-series/data-types-101/
     
+database scraping data from websites  purchasing data  data from surveys data, sensors, cameras, apis etc.
+    
 cleanlab https://l7.curtisnorthcutt.com/cleanlab-python-package  https://github.com/cgnorthcutt/cleanlab https://github.com/cgnorthcutt/label-errors https://github.com/cgnorthcutt/rankpruning https://github.com/subeeshvasu/Awesome-Learning-with-Label-Noise
 
 Measure Data Quality ydata-quality https://github.com/ydataai/ydata-synthetic https://towardsdatascience.com/how-can-i-measure-data-quality-9d31acfeb969
@@ -614,6 +616,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/  https://dockship.io/articles/607847e461373d1b994cc2dc/create-synthetic-images-using-opencv-(python)
     
+    gretel-synthetics  Synthetic data generators for structured and unstructured text, featuring differentially private learning.  https://github.com/gretelai/gretel-synthetics
+    
     Synthetic Data Generation Using Gaussian Mixture Model https://deepnote.com/@chanakya-vivek-kapoor/Synthetic-Data-Generation-QaaTRs73T2iCb0amHFbwpQ
     
     Synthetic Data Vault  https://analyticsindiamag.com/guide-to-synthetic-data-vault-an-ecosystem-of-synthetic-data-generation-libraries/ https://github.com/sdv-dev/SDV
@@ -1161,9 +1165,13 @@ anderson teset  use for check any  distribution
     
     Integrating Tableau With Python https://analyticsindiamag.com/tabpy/  Qlib https://analyticsindiamag.com/qlib/
     
-    Data visualization (Matplotlib,Seaborn,Plotly,pyqtgraph,Bokeh,Pygal,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,etc...)
+    Data visualization (Matplotlib,Seaborn,Plotly,Plotly-Express,pyqtgraph,Bokeh,Pandas-Bokeh,Pygal,hvplot,holoviews,chartify,lets-plot,pyqtgraph,glue,plotnine,pygal,bqplot,toyplot,chart,itkwidgets,vedo,ipyvolume,pyvista,glumpy,geopandas,folium,cartopy,gmplo,ipyleaflet,geoviews,geoplot,splot,arviz, hypertools,geoplotlib,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,networkx,graphviz,pydot,pygraphviz,python-igraph,pyvis,pygsp,ipycytoscape,nxviz ipydagred3,etc...)
     
-    Scatterplot,multi line plot,bubble chart,bar chart,histogram,boxplot, Pie charts,Line Plot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots
+    Dashboarding : bokeh,dash,streamlit,panel,visdom ,voila,wave,jupyter-flex,ipyflex
+    
+    Openpxl: Automate Excel Reporting
+    
+    Scatterplot,multi line plot,bubble chart,line charts,bar chart,histogram,boxplot, Pie charts,Line Plot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots,Gantt Chart,Box and Whisker Plot,Waterfall Chart,Pictogram Chart,Timeline,highlight Table,Bullet Graph,Choropleth Map,Word Cloud,Network Diagram,Correlation Matrices,Bubble clouds,Cartograms,Circle views,Dendrograms,Dot distribution maps,Open-high-low-close charts,Polar areas,Radial trees,Ring Charts,Sankey diagram,Span charts,Streamgraphs,Treemaps,Wedge stack graphs, table charts,lollipop charts,distplot 
     
     hvplot A high-level plotting API for the PyData ecosystem built on HoloViews https://hvplot.holoviz.org/
     
@@ -1419,7 +1427,7 @@ anderson teset  use for check any  distribution
    
      1.Regression (output feature in continous data form)
      
-       linear regression,polynomial regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
+       linear regression,Multiple Linear Regression,polynomial regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
        
        least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
        
@@ -1823,7 +1831,7 @@ anderson teset  use for check any  distribution
      
      posemodule https://www.youtube.com/watch?v=5kaX3ta398w   Pose Tracking  https://www.youtube.com/watch?v=0JU3kpYytuQ&t=1650s
      
-     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,tfpose,MultiPoseNet,AlphaPose,Movenet lighting,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js 
+     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,AlphaPose,tfpose,MultiPoseNet,AlphaPose,Movenet lighting,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js 
      
      openpose wrnchai  densepose
      
@@ -1838,6 +1846,8 @@ anderson teset  use for check any  distribution
      TensorFlow 2 Object Detection API tutorial https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/
      
      https://blog.paperspace.com/how-to-train-scaled-yolov4-object-detection/
+     
+     Image DA libraries – Augmentor, Albumentations, ImgAug, AutoAugment, Transforms  https://neptune.ai/blog/data-augmentation-in-python
      
      albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
      
@@ -2071,7 +2081,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
       
-     1.Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
+     1.One-hot-encoding,Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
      
      2.Tfidf ,Weighted Class TF-IDF, Hashing
      
@@ -2608,6 +2618,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     hyperparameter optimization https://github.com/LiYangHart/Hyperparameter-Optimization-of-Machine-Learning-Algorithms
     
     Hyperopt hyperas https://www.kdnuggets.com/2018/12/keras-hyperparameter-tuning-google-colab-hyperas.html
+    
+    hyperopt http://hyperopt.github.io/hyperopt/
     
     hypertune-using-scikit-optimize  BayesSearchCV
     
@@ -3442,7 +3454,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
    https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
-   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow
+   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI
    
    Teachable Machine-https://teachablemachine.withgoogle.com/  Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
@@ -4267,7 +4279,7 @@ https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-s
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,gcp automl ision,Weka,AutoWeka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio,AWS Sagemaker Studio,aws rekognition,Google AI Platform,Databricks,Domino Data Lab,roboflow
+1. H20.ai automl, google automl,Google Cloud AutoML,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,gcp automl ision,Weka,AutoWeka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio,AWS Sagemaker Studio,aws rekognition,Google AI Platform,Databricks,Domino Data Lab,roboflow
 
 H2O Driverless AI https://www.h2o.ai/products/h2o-driverless-ai/
 
