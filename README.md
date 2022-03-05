@@ -1065,6 +1065,8 @@ anderson teset  use for check any  distribution
    
    remove  Duplicate data,Low variation data,Irrelevant data,Incorrect data
    
+   remove Low entropy of categorical attributes
+   
    h.Same variable(only 1 variable) in feature then remove feature
    
    i.Outilers   removing outilers depond on problem we are solving  https://github.com/jainyk/package-outlier
@@ -1213,6 +1215,8 @@ anderson teset  use for check any  distribution
     
     1.Descriptive
     
+    Descriptive statistics :Mean, mode, standard deviation, median ,absolute deviation, kurtosis, skewness
+    
     2.Inferential
     
     Types of data
@@ -1222,6 +1226,8 @@ anderson teset  use for check any  distribution
     2) Numerical   (discerte,continous)
     
     random variable(discerte random variable ,continous random variable)
+    
+    Quantile statistics Q1, Q2, Q3, min, max, range, interquartile range
     
     Central Limit Theorem,Bayes Theorem,Confidence Interval,Hypothesis Testing,z test, t test,f test,Confidence Interval,1 tail test, 2 tail test,chisquare test,anova test,A/B testing
   
