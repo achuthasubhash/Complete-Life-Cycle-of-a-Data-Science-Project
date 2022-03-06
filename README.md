@@ -806,11 +806,13 @@ World’s Largest Data Platform https://worlddata.ai/
    
    stats,Scipy,Pingouin,Statsmodels,SymPy,Sage,
 
-   a.Handle missing value
+   a.Handle missing value 
    
      Types of missing value  https://datamuni.com/@atsunorifujita/missing-value-imputation-using-datawig
      
      Handling Missing Values in Pandas https://pub.towardsai.net/handling-missing-values-in-pandas-f87cec928937
+     
+     Identify the source of missing data
      
      i.missing completely at random(no correlation b/w missing and observed data) we can delete no disturbance of data distribution
      
@@ -859,6 +861,8 @@ World’s Largest Data Platform https://worlddata.ai/
      15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/   Interpolate  or  Interpolate within Groups
      
      Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation
+     
+     16.Last Observation Carried Forward (LOCF)
      
      Single and Multiple Imputation,Univariate Imputation,Multivariate Imputation ,Iterative Imputer,MissForest Imputation,Stochastic Regression Imputation, Multiple Imputations, Datawig, Hot-Deck imputation, Extrapolation, Interpolation
      
@@ -1075,7 +1079,7 @@ anderson teset  use for check any  distribution
    
    i.Outilers   removing outilers depond on problem we are solving  https://github.com/jainyk/package-outlier
    
-      2 type of outilers available: Global outiler, Local outiler
+      2 type of outilers available: Global outiler, Local outiler,Contextual (conditional) outliers,Collective outliers
     
       eg: incase of fraud detection outilers are very important
       
@@ -1167,7 +1171,7 @@ anderson teset  use for check any  distribution
     
     Data visualization (Matplotlib,Seaborn,Plotly,Plotly-Express,pyqtgraph,Bokeh,Pandas-Bokeh,Pygal,hvplot,holoviews,chartify,lets-plot,pyqtgraph,glue,plotnine,pygal,bqplot,toyplot,chart,itkwidgets,vedo,ipyvolume,pyvista,glumpy,geopandas,folium,cartopy,gmplo,ipyleaflet,geoviews,geoplot,splot,arviz, hypertools,geoplotlib,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,networkx,graphviz,pydot,pygraphviz,python-igraph,pyvis,pygsp,ipycytoscape,nxviz ipydagred3,etc...)
     
-    Dashboarding : bokeh,dash,streamlit,panel,visdom ,voila,wave,jupyter-flex,ipyflex
+    Dashboarding : bokeh,dash,streamlit,panel,visdom ,voila,wave,jupyter-flex,ipyflex,pandas_bokeh
     
     Openpxl: Automate Excel Reporting
     
@@ -1274,6 +1278,8 @@ anderson teset  use for check any  distribution
     Alternative feature selection methods  Feature shuffling,Feature performance,Target mean performance
     
     Automatic Feature Selection  : recursive feature elimination and cross-validation 
+    
+    VarianceThreshold,Chi-squared stats,ANOVA using f_classif,Univariate Linear Regression Tests using f_regression,F-score vs Mutual Information,Mutual Information for discrete value,Mutual Information for continues value,SelectKBest,SelectPercentile,SelectFromModel,Recursive Feature Elimination
   
     4.Feature Importance
   
@@ -1427,7 +1433,7 @@ anderson teset  use for check any  distribution
    
      1.Regression (output feature in continous data form)
      
-       linear regression,Multiple Linear Regression,polynomial regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,
+       linear regression,Multiple Linear Regression,polynomial regression,Exponential Regression,Bayesian Regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,RANSAC Regression,
        
        least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
        
@@ -2083,7 +2089,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
      1.One-hot-encoding,Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
      
-     2.Tfidf ,Weighted Class TF-IDF, Hashing
+     2.Tfidf ,Weighted Class TF-IDF, HashingVectorizer
      
      3.wordembedding
         
@@ -2665,9 +2671,13 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Hyperas  https://towardsdatascience.com/automating-hyperparameter-tuning-of-keras-model-4fe69b8dedee
     
+    hyperopt-sklearn  https://github.com/hyperopt/hyperopt-sklearn
+    
     Deep AutoViML https://github.com/AutoViML/deep_autoviml
     
-    h.Scikit-Optimize,Optuna,Hyperopt,Multi-fidelity Optimization 
+    h.Scikit-Optimize,Optuna,Hyperopt,Multi-fidelity Optimization,Gradient-based optimization,Evolutionary optimization,Population-based,Bayes Search 
+    
+    Scikit-Optimize library comes with BayesSearchCV implementation
     
     i.ray[tune] and aisaratuners https://towardsdatascience.com/choosing-a-hyperparameter-tuning-library-ray-tune-or-aisaratuners-b707b175c1d7
     
@@ -2720,6 +2730,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     HyperOpt  http://hyperopt.github.io/hyperopt/   Optuna  https://optuna.org/   Scikit-optimize https://scikit-optimize.github.io/stable/  SigOpt  https://sigopt.com/
     
     DeepHyper  Hyperparameter Search for Deep Neural Networks https://github.com/deephyper/deephyper
+    
+    Weights and Biases to Perform Hyperparameter Optimization https://hackernoon.com/using-weights-and-biases-to-perform-hyperparameter-optimization
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
     
@@ -3712,7 +3724,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    104.Deep Learning Toolkit for Medical Image Analysis -https://github.com/DLTK/DLTK
    
-   Evidently,Deepchecks,Tensorflow-Data-Validation,
+   3 Python Packages for Machine Learning Validation  Evidently , Deepchecks , TensorFlow-Data-Validation
    
    106.Interpret The ML Model    https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608
 
