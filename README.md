@@ -281,6 +281,8 @@ World’s Largest Data Platform https://worlddata.ai/
     image data from simple_image_download  https://github.com/RiddlerQ/simple_image_download
    
     11)https://www.columnfivemedia.com/100-best-free-data-sources-infographic
+    
+    graviti  Unleash the Power of Unstructured Data  https://www.graviti.com/?utm_medium=0730Ismael
    
     12)Reddit:https://lnkd.in/dv5UCD4       https://www.reddit.com/r/datasets/
     
@@ -1169,9 +1171,9 @@ anderson teset  use for check any  distribution
     
     Integrating Tableau With Python https://analyticsindiamag.com/tabpy/  Qlib https://analyticsindiamag.com/qlib/
     
-    Data visualization (Matplotlib,Seaborn,Plotly,Plotly-Express,pyqtgraph,Bokeh,Pandas-Bokeh,Pygal,hvplot,holoviews,chartify,lets-plot,pyqtgraph,glue,plotnine,pygal,bqplot,toyplot,chart,itkwidgets,vedo,ipyvolume,pyvista,glumpy,geopandas,folium,cartopy,gmplo,ipyleaflet,geoviews,geoplot,splot,arviz, hypertools,geoplotlib,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,networkx,graphviz,pydot,pygraphviz,python-igraph,pyvis,pygsp,ipycytoscape,nxviz ipydagred3,etc...)
+    Data visualization (Matplotlib,Seaborn,DASH,Plotly,Plotly-Express,pyqtgraph,Bokeh,Pandas-Bokeh,Pygal,hvplot,holoviews,chartify,lets-plot,pyqtgraph,glue,plotnine,pygal,bqplot,toyplot,chart,itkwidgets,vedo,ipyvolume,pyvista,glumpy,geopandas,folium,cartopy,gmplo,ipyleaflet,geoviews,geoplot,splot,arviz, hypertools,geoplotlib,Geopandas package,choroplethmaps,Leafmap,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,networkx,graphviz,pydot,pygraphviz,python-igraph,pyvis,pygsp,ipycytoscape,nxviz ipydagred3,etc...)
     
-    Dashboarding : bokeh,dash,streamlit,panel,visdom ,voila,wave,jupyter-flex,ipyflex,pandas_bokeh
+    Dashboarding : bokeh,dash,streamlit,panel,visdom ,voila,wave,jupyter-flex,ipyflex,pandas_bokeh   
     
     Openpxl: Automate Excel Reporting
     
