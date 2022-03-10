@@ -886,6 +886,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      19.Missing indicator
      
+     After drop or imputation feature distribution should be same
+     
      https://www.kdnuggets.com/2021/05/deal-with-categorical-data-machine-learning.html
      
      https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
@@ -1089,7 +1091,7 @@ anderson teset  use for check any  distribution
       
       methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,One-Class SVM,Isolation Forest,DBSCAN
       
-      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,
+      Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation)
       
@@ -2358,11 +2360,11 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       2.Autoregressive
       
-      3.Moving average,Exponential Moving average,Exponential Smoothing,Simple average, Holt’s linear trend method, Holt’s Winter seasonal method
+      3.Moving average,Exponential Moving average,Exponential Smoothing,Simple average, Holt’s linear trend method, Holt’s Winter seasonal method,DeepAR,N-BEATS
       
       11 Classical Time Series Forecasting Methods in Python https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
-      4.Lstm(neural network)
+      4.XGBoost,Lstm(neural network)
       
       5.GARCH
       
@@ -4430,6 +4432,8 @@ FEDOT Automated modeling and machine learning framework FEDOT  https://github.co
 4.AutoGluon  AutoML for Text, Image, and Tabular Data  https://analyticsindiamag.com/how-to-automate-machine-learning-tasks-using-autogluon/
 
 AutoGL: The First Ever AutoML Framework for Graph Datasets https://analyticsindiamag.com/meet-autogl-the-first-ever-automl-framework-for-graph-datasets/
+
+Neuton TinyML https://neuton.ai/
 
 5. auto sklearn,auto keras,auto Tensorflow,autoLightAutoML,xcessiv,kerastuner ,LAMA, NNI, FEDOT   (https://github.com/sberbank-ai-lab/LightAutoML)
 
