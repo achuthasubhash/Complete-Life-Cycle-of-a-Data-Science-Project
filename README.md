@@ -52,7 +52,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
 
       mechanicalsoup   https://analyticsindiamag.com/mechanicalsoup-web-scraping-custom-dataset-tutorial/
    
-    2.Scrapy,PyScrappy,Pandas Datareader,Instaloader
+    2.Scrapy,PyScrappy,Pandas Datareader,Instaloader,lxml
    
     3.Selenium     https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/
    
@@ -61,6 +61,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper https://www.youtube.com/watch?v=9BQ353Yu1D0 https://www.analyticsvidhya.com/blog/2021/04/automate-web-scraping-using-python-autoscraper-library/
 
     Scrap Images From E-Commerce Website Using AutoScraper https://www.analyticsvidhya.com/blog/2021/05/scrap-images-from-e-commerce-website-using-autoscraper-library/
+    
+    amazon auto scraper library https://webautomation.io/
     
     FiftyOne Now easier to download and evaluate  https://towardsdatascience.com/googles-open-images-now-easier-to-download-and-evaluate-with-fiftyone-615ce0482c02
     
@@ -1125,7 +1127,9 @@ anderson teset  use for check any  distribution
      
      Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD,Auto Encoders,K-means
      
-     Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod
+     bootstrapping to remove the influence of the outlier data
+     
+     Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod https://pyod.readthedocs.io/en/latest/pyod.models.html
      
      divided into three types:Point/Global Anomalies,Collective Anomalies,Contextual Anomalies https://towardsdatascience.com/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995
      
@@ -2219,6 +2223,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         https://www.kdnuggets.com/2019/09/bert-roberta-distilbert-xlnet-one-use.html
         
      11.Speech  (Braina,Dragon Speech Recognition Solutions ,Winscribe,Gboard,Windows 10 Speech Recognition,Otter,Speechnotes,tts,OpenSpeech,FRILL,Vakyansh)
+     
+        audio data augmentation https://github.com/iver56/audiomentations
        
         speech to text   
         
@@ -2342,13 +2348,13 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       Granger Causality Statistical Test use for variable usable for forecast 
       
-      adfuller test  for  Stationarity        Non Stationary Statistical Test - KPSS and ADF
+      adfuller test  for  Stationarity        Non Stationary Statistical Test - KPSS and ADF  ACF, PACF, decomposition, ADF test
       
       Handling Data with Regular Gaps using Facebook Prophet
       
       models 
       
-      1.arma,Arima , auto arima(pmd arima) ,seasonal arima
+      1.AR, MA, ARMA, ARIMA, auto arima(pmd arima) ,seasonal arima,SARIMAX models
       
       2.Autoregressive
       
@@ -2778,6 +2784,8 @@ Generally used metrics
      https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-machine-learning-tips-and-tricks
      
      KS test to evaluate the separation between class distribution
+     
+     Evaluating the potential return of a model with Lift, Gain, and Decile Analysis
      
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
@@ -3310,7 +3318,9 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text
+   
+    To pdf: python-pdfkit,wkhtmltopdf,FPDF
     
    10.Awesome-pytorch-list-https://github.com/bharathgs/Awesome-pytorch-list  https://shivanandroy.com/awesome-nlp-resources/
     
@@ -3938,6 +3948,8 @@ determined to be unfair.
    https://neptune.ai/blog/mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlops-what-it-is-why-it-matters-and-how-to-implement-it-from-a-data-scientist-perspective
    
    https://ml-ops.org/content/mlops-principles
+   
+   Monitoring: Evidently https://evidentlyai.com/  ,  Seldon Alibi  https://github.com/SeldonIO/alibi-detect
    
    115.Code faster https://www.tabnine.com/
    
@@ -4599,6 +4611,8 @@ thundergbm  Fast GBDTs and Random Forests on GPUs  https://github.com/Xtra-Compu
 thundersvm  https://github.com/Xtra-Computing/thundersvm
 
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
+
+change to proper dtypes,usecols of required only reduce size 
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Datatable,Fastparquet,dampr,
 pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
