@@ -906,9 +906,9 @@ World’s Largest Data Platform https://worlddata.ai/
      
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
    
-     1.Under Sampling - mostly not prefer because lost of data  imbalaced-learn,,tomek links
+     1.Under Sampling - mostly not prefer because lost of data  imbalaced-learn,tomek links,Random Under-Sampling, Edited Nearest Neighbours,NearMiss
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
      
      smote_variants https://github.com/analyticalmindsltd/smote_variants
 
@@ -925,6 +925,10 @@ World’s Largest Data Platform https://worlddata.ai/
      LoRAS: A Better Oversampling Algorithm https://analyticsindiamag.com/hands-on-guide-to-loras-a-better-oversampling-algorithm/  https://github.com/narek-davtyan/LoRAS   
      
      https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
+     
+     
+     Combining Over and Under-sampling
+     
      
      3.class_weight give more importance(weight) to that small class ( Cost-Sensitive Algorithms)
      
