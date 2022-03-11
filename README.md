@@ -1605,6 +1605,8 @@ anderson teset  use for check any  distribution
      
      5.Voting (Hard Voting,Soft Voting)
      
+     VOTING ENSEMBLE
+     
      mlens ML-Ensemble – high performance ensemble learning https://github.com/flennerhag/mlens
      
      https://analyticsindiamag.com/do-ensemble-methods-always-work/
@@ -2720,7 +2722,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Milano   https://github.com/NVIDIA/Milano
     
-    Tree-structured Parzen Estimators - TPE
+    Tree-structured Parzen Estimators - TPE  ,  TPE with Hyperopt
     
     Hyperparameter Tuning with the HParams Dashboard
     
@@ -2754,7 +2756,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     p.Hyperactive https://github.com/SimonBlanke/Hyperactive
        
-    Hyperopt, Optuna, and Ray,SCIKIT-OPTIMIZE,SMAC
+    Hyperopt, Optuna, and Ray,SCIKIT-OPTIMIZE,SMAC,Multi-fidelity Optimization,Successive Halving,Hyperband BOHB
     
     OMLT  optimization  https://github.com/cog-imperial/OMLT
 
@@ -2776,7 +2778,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      5.Holdout cross-validation
      
-     6.Repeated cross-validation,Blocked Cross-Validation Method, Nested Cross-Validation Method
+     6.Repeated cross-validation,Blocked Cross-Validation Method, Nested Cross-Validation Method,Group Cross-Validation
      
      7.Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
