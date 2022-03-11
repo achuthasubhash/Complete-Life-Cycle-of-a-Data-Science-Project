@@ -596,7 +596,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,GenerateData
+    ydata-synthetic,Gretel,GenerateData,DataSynthesizer,SDV,gretel-synthetics
 
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -629,6 +629,8 @@ World’s Largest Data Platform https://worlddata.ai/
     Create Your own Image Dataset using Opencv https://www.analyticsvidhya.com/blog/2021/05/create-your-own-image-dataset-using-opencv-in-machine-learning/
     
     ydata-synthetic https://github.com/ydataai/ydata-synthetic
+    
+    Table Evaluator About Evaluate real and synthetic datasets with each other  https://github.com/Baukebrenninkmeijer/table-evaluator
     
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
 
@@ -824,9 +826,13 @@ World’s Largest Data Platform https://worlddata.ai/
      
      iii.missing not at random  (there is reason for missing value and directly related to value)
      
+     iv.structured missing  100 % sure on why it is missing
+     
      Identify Missingness Types With Missingno  https://towardsdev.com/how-to-identify-missingness-types-with-missingno-61cfe0449ad9
      
      Univariate,Multivariate  https://medium.com/fintechexplained/what-are-imputers-in-data-science-b72f8308322b
+     
+     univariate imputation impute on 1 column  multi variate imputation impute on 1 or more column
    
      1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion and listwise
      
@@ -922,7 +928,9 @@ World’s Largest Data Platform https://worlddata.ai/
      
      3.class_weight give more importance(weight) to that small class ( Cost-Sensitive Algorithms)
      
-     from sklearn import compute_class_weight
+     from sklearn import compute_class_weight  
+     
+     Cost-sensitive learning,Class-balanced loss,Focal loss
      
      4.use Stratified kfold to keep the ratio of classess constantly, train teat spilt startify attribute
      
@@ -976,7 +984,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      2.Count Or Frequency Encoding
      
-     3.Ordinal encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding
+     3.Ordinal encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding,Target-Mean-Encoding
      
      4.Target encoding / Mean encoding
      
@@ -1043,7 +1051,9 @@ World’s Largest Data Platform https://worlddata.ai/
        10.Z-score standardization
        
        https://www.analyticsvidhya.com/blog/2020/07/types-of-feature-transformation-and-scaling/?utm_source=linkedin&utm_medium=KJ|link|high-performance-blog|blogs|44204|0.375
-      
+   
+   Probability and Statistics Packages : PyMC3, tensorflow-probability,Pyro,GPyTorch,hmmlearn,pomegranate,GPflow,patsy,pingouin,Orbit  
+   
    Q-Q plot or Shapiro-Wilk Normality Test or lilliefors test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
 performance if not distributed then use below methods to bring it guassian distribution
 
@@ -1094,6 +1104,8 @@ anderson teset  use for check any  distribution
       Automatic Outlier Detection:Isolation Forest,Local Outlier Factor,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation)
+      
+      Outlier capping with IQR Outlier capping with mean and std Outlier capping with quantiles Arbitrary capping
       
       Use a Different algorithm that is not sensitive to outliers
       
@@ -1374,6 +1386,7 @@ anderson teset  use for check any  distribution
     AutoFeat: https://github.com/cod3licious/autofeat
     TSFresh: https://github.com/blue-yonder/tsfresh
     FeatureSelector: https://github.com/WillKoehrsen/feature-selector
+    unsupervised feature selection technique  https://github.com/atif-hassan/FRUFS
     
 ***5.Data splitting***
 
@@ -1665,6 +1678,8 @@ anderson teset  use for check any  distribution
        rl_coach https://github.com/IntelLabs/coach#installation        MushroomRL https://mushroomrl.readthedocs.io/en/latest/
        
        TFAgents  https://github.com/tensorflow/agents (https://www.tensorflow.org/agents)   https://deepmind.com/blog/article/trfl    
+       
+       TorchRec https://pytorch.org/blog/introducing-torchrec/ TensorFlow Recommenders https://www.tensorflow.org/recommenders
        
        behaviour trees used in reinforcement learning https://analyticsindiamag.com/how-are-behaviour-trees-used-in-reinforcement-learning/
        
@@ -2094,6 +2109,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Negation Handling Increasing Accuracy of Sentiment Classification
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
+     
+     regex,sent_tokenize,Tokenization,Stopword Removal,Lemmatization
       
      1.One-hot-encoding,Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
      
@@ -3991,6 +4008,8 @@ determined to be unfair.
    
    Tensorflow Data Validation https://www.tensorflow.org/tfx/data_validation/get_started TensorFlow Model Analysis https://www.tensorflow.org/tfx/model_analysis/get_started
    
+   Model Validation Toolkit https://finraos.github.io/model-validation-toolkit/ https://github.com/FINRAOS/model-validation-toolkit
+   
    MLflow  Open-source platform for tracking machine learning experiments https://mlflow.org/   https://analyticsindiamag.com/guide-to-mlflow-a-platform-to-manage-machine-learning-lifecycle/   https://www.kdnuggets.com/2021/01/model-experiments-tracking-registration-mlflow-databricks.html   
    
    ray https://docs.ray.io/en/master/serve/  https://github.com/ray-project/ray 
@@ -4507,10 +4526,12 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
 
 15.https://github.com/mstaniak/autoEDA-resources
 
+   mito , dtale
+
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
   
