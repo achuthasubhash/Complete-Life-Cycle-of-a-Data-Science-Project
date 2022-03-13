@@ -78,6 +78,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       twython https://github.com/ryanmcgrath/twython
       
+      twarc https://github.com/DocNow/twarc https://scholarslab.github.io/learn-twarc/01-quick-start.html
+      
       snscrape  extract twitterr data  https://github.com/JustAnotherArchivist/snscrape
       
       Scweet A simple and unlimited twitter scraper  https://github.com/Altimis/Scweet
@@ -1199,7 +1201,8 @@ anderson teset  use for check any  distribution
     
     Openpxl: Automate Excel Reporting
     
-    Scatterplot,multi line plot,bubble chart,line charts,bar chart,histogram,boxplot, Pie charts,Line Plot,distplot,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots,Gantt Chart,Box and Whisker Plot,Waterfall Chart,Pictogram Chart,Timeline,highlight Table,Bullet Graph,Choropleth Map,Word Cloud,Network Diagram,Correlation Matrices,Bubble clouds,Cartograms,Circle views,Dendrograms,Dot distribution maps,Open-high-low-close charts,Polar areas,Radial trees,Ring Charts,Sankey diagram,Span charts,Streamgraphs,Treemaps,Wedge stack graphs, table charts,lollipop charts,distplot 
+    Scatterplot,multi line plot,bubble chart,line charts,bar chart,histogram,boxplot, Pie charts,Line Plot,distplot,Histogram
+Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots,Gantt Chart,Box and Whisker Plot,Waterfall Chart,Pictogram Chart,Timeline,highlight Table,Bullet Graph,Choropleth Map,Word Cloud,Network Diagram,Correlation Matrices,Bubble clouds,Cartograms,Circle views,Dendrograms,Dot distribution maps,Open-high-low-close charts,Polar areas,Radial trees,Ring Charts,Sankey diagram,Span charts,Streamgraphs,Treemaps,Wedge stack graphs, table charts,lollipop charts,distplot 
     
     hvplot A high-level plotting API for the PyData ecosystem built on HoloViews https://hvplot.holoviz.org/
     
@@ -1313,7 +1316,7 @@ anderson teset  use for check any  distribution
     
        c.Logistic Regression
     
-       d.Random_forest_importance
+       d.Random_forest_importance,Permutation Feature Importance
        
        e.decision tree
        
@@ -2115,10 +2118,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      Negation Handling Increasing Accuracy of Sentiment Classification
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
-     
-     regex,sent_tokenize,Tokenization,Stopword Removal,Lemmatization
+
+     Case Normalization,regex,sent_tokenize,Tokenization,Removing Stopwords,Removing Unicode,Removing URLs,Hashtags,Punctuation,Stemming or Lemmatization
       
-     1.One-hot-encoding,Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
+     1.One-hot-encoding,Index-based Encoding,Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
      
      2.Tfidf ,Weighted Class TF-IDF, HashingVectorizer
      
