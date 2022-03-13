@@ -716,6 +716,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     71.FlatData Flat explores how to make it easy to work with data in git and GitHub https://octo.github.com/projects/flat-data?utm_campaign=Data_Elixir&utm_source=Data_Elixir_337
     
+    72.Snorkel is an open-source Python library for programmatically building training datasets without manual labeling. https://www.snorkel.org/  https://towardsdatascience.com/snorkel-programmatically-build-training-data-in-python-712fc39649fe
+    
 ***2.Feature engineering***
 
    https://towardsdatascience.com/practical-code-implementations-of-feature-engineering-for-machine-learning-with-python-f13b953d4bcd
@@ -986,13 +988,13 @@ World’s Largest Data Platform https://worlddata.ai/
    
    e.Handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
    
-     1.One Hot Encoding , dummy, and effect coding
+     1.One Hot Encoding , dummy, and effect coding,Similarity Encoding
      
      2.Count Or Frequency Encoding
      
      3.Ordinal encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding,Target-Mean-Encoding
      
-     4.Target encoding / Mean encoding
+     4.Target encoding / Mean encoding,GapEncoder,MinHashEncoder
      
      5.Probability Ratio Encoding
      
@@ -1195,14 +1197,14 @@ anderson teset  use for check any  distribution
     
     Integrating Tableau With Python https://analyticsindiamag.com/tabpy/  Qlib https://analyticsindiamag.com/qlib/
     
-    Data visualization (Matplotlib,Seaborn,DASH,Plotly,Plotly-Express,pyqtgraph,Bokeh,Pandas-Bokeh,Pygal,hvplot,holoviews,chartify,lets-plot,pyqtgraph,glue,plotnine,pygal,bqplot,toyplot,chart,itkwidgets,vedo,ipyvolume,pyvista,glumpy,geopandas,folium,cartopy,gmplo,ipyleaflet,geoviews,geoplot,splot,arviz, hypertools,geoplotlib,Geopandas package,choroplethmaps,Leafmap,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,networkx,graphviz,pydot,pygraphviz,python-igraph,pyvis,pygsp,ipycytoscape,nxviz ipydagred3,etc...)
+    Data visualization (Matplotlib,Seaborn,DASH,Plotly,Plotly-Express,pyqtgraph,Bokeh,Pandas-Bokeh,Pygal,hvplot,holoviews,chartify,lets-plot,pyqtgraph,glue,plotnine,pygal,bqplot,toyplot,chart,itkwidgets,vedo,ipyvolume,pyvista,glumpy,geopandas,pycountry,geopy,geo-py,pypopulation,  geotext,folium,cartopy,gmplo,ipyleaflet,geoviews,geoplot,splot,arviz, hypertools,geoplotlib,Geopandas package,choroplethmaps,Leafmap,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,networkx,graphviz,pydot,pygraphviz,python-igraph,pyvis,pygsp,ipycytoscape,nxviz ipydagred3,Diffbot,etc...)
     
     Dashboarding : bokeh,dash,streamlit,panel,visdom ,voila,wave,jupyter-flex,ipyflex,pandas_bokeh   
     
-    Openpxl: Automate Excel Reporting
+    Openpxl: Automate Excel Reporting  Datapane: A Python Library to Build Interactive Reports
     
     Scatterplot,multi line plot,bubble chart,line charts,bar chart,histogram,boxplot, Pie charts,Line Plot,distplot,Histogram
-Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots,Gantt Chart,Box and Whisker Plot,Waterfall Chart,Pictogram Chart,Timeline,highlight Table,Bullet Graph,Choropleth Map,Word Cloud,Network Diagram,Correlation Matrices,Bubble clouds,Cartograms,Circle views,Dendrograms,Dot distribution maps,Open-high-low-close charts,Polar areas,Radial trees,Ring Charts,Sankey diagram,Span charts,Streamgraphs,Treemaps,Wedge stack graphs, table charts,lollipop charts,distplot 
+Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots,Gantt Chart,Box and Whisker Plot,Waterfall Chart,Pictogram Chart,Timeline,highlight Table,Bullet Graph,Choropleth Map,Word Cloud,Network Diagram,Correlation Matrices,Bubble clouds,Cartograms,Circle views,Dendrograms,Dot distribution maps,Open-high-low-close charts,Polar areas,Radial trees,Ring Charts,Sankey diagram,Span charts,Streamgraphs,Treemaps,Wedge stack graphs, table charts,lollipop charts,distplot,floWeaver 
     
     hvplot A high-level plotting API for the PyData ecosystem built on HoloViews https://hvplot.holoviz.org/
     
@@ -4415,6 +4417,8 @@ carefree-learn is a minimal Automatic Machine Learning (AutoML) solution for tab
 
 autoweka  https://github.com/automl/autoweka
 
+ATOM Automated Tool for Optimized Modelling https://github.com/tvdboom/ATOM
+
 autokeras https://autokeras.com/  autoSklearn  https://automl.github.io/auto-sklearn/master/
 
 baytune auto-tuning   https://github.com/MLBazaar/BTB
@@ -4546,7 +4550,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
   
