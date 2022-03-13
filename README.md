@@ -1042,7 +1042,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
        3.Robust Scaler not influenced by outliers because using of median,IQR
        
-       4.Min Max Scaling,MaxAbsScaling
+       4.Min Max Scaling
        
        5.Mean normalization
        
@@ -1282,11 +1282,11 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
-    1.Filter methods (Constant feature,Quasi constant featur,Duplication feature,correleation,feature importance,chisquare test,Ttest,ftest,vif,anova test,mutal information,  F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score etc...)
+    1.Filter methods (Constant feature,Quasi constant feature,Duplication feature,correleation,feature importance,chisquare test,Ttest,ftest,vif,anova test,mutal information,  F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score etc...)
 
-    2.Wrapper methods (recursive feature eliminiation,SelectKbest,boruta,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection etc...)
+    2.Wrapper methods (recursive feature eliminiation,Recursive feature addition,SelectKbest,boruta,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection etc...)
 
-    3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...))
+    3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...),Feature Selection by Tree importance,Feature selection with decision trees)
     
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination)
     
@@ -1541,12 +1541,14 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      4.Recommendation system - Surprise,TensorFlow Recommendation,Recmterics
      
          a.collaborative Recommendation system (model based, memory based(item based,user based))  user-item interaction matrix
+         
+         Classification-based collaborative filtering,Model-based collaborative filtering systems
         
          b.content based Recommendation system 
          
          similarity based(user-user similarity,item-item similarity)
          
-         matrix factorization
+         matrix factorization,Popularity-based recommenders
          
          c.utility based Recommendation system 
          
@@ -2353,6 +2355,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       here handling missing data different 
       
       Time Series Decomposition In Python  trend, seasonality, and noise https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2
+      
+      Removing trend  Differencing,Least square trends removal
+      
+      Removing seasonality Seasonal differencing,Seasonal means,Method of moving averages
       
       generally used  to impute data in Time Series
       
