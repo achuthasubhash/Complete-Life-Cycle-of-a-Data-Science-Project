@@ -908,6 +908,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Top Data Cleaning Tools https://www.marktechpost.com/2022/02/20/top-data-cleaning-tools-for-data-science-and-machine-learning-projects-in-2022/
      
+     21.Algorithms robust to missing values
+     
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
    
      1.Under Sampling - mostly not prefer because lost of data  imbalaced-learn,tomek links,Random Under-Sampling, Edited Nearest Neighbours,NearMiss
@@ -2659,7 +2661,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization , bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize
+    c.Bayesian Optimization , Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize
     
     Bayesian search with Gaussian processes,bayesian search with Random Forests,Bayesian search with GBMs
 
