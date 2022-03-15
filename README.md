@@ -838,7 +838,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      univariate imputation impute on 1 column  multi variate imputation impute on 1 or more column
    
-     1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion and listwise
+     1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion and listwise deletion
      
      2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode , minimum, maximum
      
@@ -1042,7 +1042,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
        1.Normalisation  
    
-       2.Standardization
+       2.Standardization(StandardScaler)
      
        3.Robust Scaler not influenced by outliers because using of median,IQR
        
@@ -1149,7 +1149,7 @@ anderson teset  use for check any  distribution
      
      Timetk https://towardsdatascience.com/timetk-the-r-library-for-time-series-analysis-9822f7720318
      
-     Isolation Forest(for Big Data),dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD,Auto Encoders,K-means
+     Isolation Forest(for Big Data),Z score,dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD,Auto Encoders,K-means
      
      bootstrapping to remove the influence of the outlier data
      
@@ -1787,6 +1787,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
       Fast Computer Vision Model Building PyTorch Lightning Flash and FiftyOne https://towardsdatascience.com/open-source-tools-for-fast-computer-vision-model-building-b39755aab490
       
       5 Open-Source Facial Recognition   https://medium.com/analytics-vidhya/ways-to-boost-your-computer-vision-projects-by-using-5-open-source-facial-recognition-projects-56668f170cb9
+      
+      cnn alternative CapsNet https://github.com/XifengGuo/CapsNet-Keras
 
    
      1.Classification of image 
@@ -2418,6 +2420,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       PyTorch Forecasting enables deep learning models for time-series forecasting  pytorch-ts https://github.com/zalandoresearch/pytorch-ts
       
+      ETSformer-pytorch https://github.com/lucidrains/ETSformer-pytorch
+      
       Transformer Networks to build a Forecasting model https://towardsdatascience.com/how-to-use-transformer-networks-to-build-a-forecasting-model-297f9270e630
       
       hmmlearn https://github.com/ushareng/StockPricePredictionUsingHMM_Byte/blob/master/StockPricePredictionUsingHMM.ipynb
@@ -2955,13 +2959,15 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Creating a Machine Learning App with Power BI and PyCaret
     
-    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUIvs pywebio vs Gradio vs autocalc vs Mercury  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
+    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUIvs pywebio vs Gradio vs autocalc vs Mercuryvs  Chitra  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
     Mercury: easily convert Python notebook to web app and share with others https://github.com/mljar/mercury
     
     autocalc https://github.com/kefirbandi/autocalc https://towardsdatascience.com/creating-a-ui-with-ipywidgets-and-autocalc-2ef8ea4cc6c2
 
     Quickly deploy ML WebApps https://ngrok.com/
+    
+    Chitra https://github.com/gradsflow/chitra
     
     Deepnote https://deepnote.com/  https://www.youtube.com/watch?v=0ppptVxgEI8
     
@@ -3356,7 +3362,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST
    
     To pdf: python-pdfkit,wkhtmltopdf,FPDF
     
