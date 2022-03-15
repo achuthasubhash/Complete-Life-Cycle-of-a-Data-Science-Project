@@ -854,7 +854,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      5.apply unsupervised 
      
-     6.Random Imputation
+     6.Random Imputation,Iterative Imputation
      
      7.Adding a variable to capture NAN(missing term),Imputation with the string ‘Missing’,Adding missing idicator
      
@@ -2729,6 +2729,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     Scikit-Optimize library comes with BayesSearchCV implementation
     
+    mle-hyperopt Lightweight Hyperparameter Optimization Tool https://github.com/mle-infrastructure/mle-hyperopt
+    
     i.ray[tune] and aisaratuners https://towardsdatascience.com/choosing-a-hyperparameter-tuning-library-ray-tune-or-aisaratuners-b707b175c1d7
     
     raytune https://docs.ray.io/en/master/tune/index.html
@@ -2773,7 +2775,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     p.Hyperactive https://github.com/SimonBlanke/Hyperactive
        
-    Hyperopt, Optuna, and Ray,SCIKIT-OPTIMIZE,SMAC,Multi-fidelity Optimization,Successive Halving,Hyperband BOHB
+    Hyperopt, Optuna, and Ray,SCIKIT-OPTIMIZE,SMAC,Multi-fidelity Optimization,Successive Halving,Hyperband BOHB,SMBOSearch
     
     OMLT  optimization  https://github.com/cog-imperial/OMLT
 
