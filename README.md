@@ -486,6 +486,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Synthetic structured data generators https://github.com/ydataai/ydata-synthetic
     
+    gretel Synthetic Data API  https://gretel.ai/
+    
     DatasetGAN: an automatic procedure to generate massive datasets of high-quality images 
     
     Generating synthetic tabular data with GANs,Synthetic Time-Series Data by A GAN approach
@@ -493,6 +495,8 @@ World’s Largest Data Platform https://worlddata.ai/
     Unity Launches Synthetic Image Datasets https://www.marktechpost.com/2021/04/23/unity-launches-synthetic-image-datasets-to-train-ai-and-computer-vision-models-faster/
     
     Generate Your Own Dataset using GAN https://www.analyticsvidhya.com/blog/2021/04/generate-your-own-dataset-using-gan/
+    
+    accurate of synthetic data https://gretel.ai/blog/how-accurate-is-my-synthetic-data
     
     Google Open images-https://opensource.google/projects/open-images-dataset  https://storage.googleapis.com/openimages/web/index.html
     
@@ -874,7 +878,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/   Interpolate  or  Interpolate within Groups
      
-     Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation
+     Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation,Smoothing, interpolation
      
      16.Last Observation Carried Forward (LOCF)
      
@@ -884,7 +888,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Imputation using K-NN,missForest,Random Forest-based Imputation,missingpy
      
-     Imputation Using Deep Learning (Datawig)
+     Imputation Using Deep Learning (Datawig) , neural network for imputation
      
      15.autoimpute-https://github.com/kearnz/autoimpute
      
@@ -1544,7 +1548,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
    
      4.Recommendation system - Surprise,TensorFlow Recommendation,Recmterics
      
-         a.collaborative Recommendation system (model based, memory based(item based,user based))  user-item interaction matrix
+         a.collaborative Recommendation system (model based, memory based(item based,user based),hybrid)  user-item interaction matrix
          
          Classification-based collaborative filtering,Model-based collaborative filtering systems
         
@@ -1583,6 +1587,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          TOROS Buffalo https://github.com/kakao/buffalo
          
          recommenders-https://github.com/microsoft/recommenders
+         
+         LightFM https://making.lyst.com/lightfm/docs/home.html
          
          lkpy Python recommendation toolkit https://github.com/lenskit/lkpy  https://analyticsindiamag.com/how-to-build-recommender-systems-using-lenskit/
          
@@ -2173,7 +2179,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Topic Modelling https://towardsdatascience.com/april-edition-adventures-in-topic-modelling-7ee9081a48a0
      
-     Doc2Vec  Distributed memory model , Distributed bag of word
+     Doc2Vec  Distributed memory model , Distributed bag of word,Node2Vec,Top2Vec,Doc2Vec
      
      6.using rnn,lstm,gru
      
@@ -2806,6 +2812,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      9.ShuffleSplit Cross Validation,Group Shuffle Split
     
      10.Group KFold Cross Validation
+     
+     11.Monte-Carlo Cross Validation
   
 Tensorboard,Neptune,TensorFlow Profiler to visualization of model performance
 
@@ -3364,7 +3372,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection 
    
     To pdf: python-pdfkit,wkhtmltopdf,FPDF
     
