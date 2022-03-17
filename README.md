@@ -1,4 +1,4 @@
-#                                                     Complete-Life-Cycle-of-a-Data-Science-Project
+#                                                      Complete-Life-Cycle-of-a-Data-Science-Project
 
 ***CREDITS:All corresponding resources***
 
