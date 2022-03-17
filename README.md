@@ -1081,6 +1081,8 @@ normal test,Histogram,Q-Q plot,KDE plot,Skewness and Kurtosis for check normal d
 Fitter Library Finding the Best Distribution that Fits Your Data  https://towardsdatascience.com/finding-the-best-distribution-that-fits-your-data-using-pythons-fitter-library-319a5a0972e9
 
 anderson teset  use for check any  distribution 
+
+Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomial,Normal Distribution
         
            b.Logarithmic Transformation,LogCpTransformer
         
@@ -1171,6 +1173,8 @@ anderson teset  use for check any  distribution
      https://medium.com/@ODSC/data-sciences-role-in-anomaly-detection-bd976f93d7e3
      
    k.Sampling techniques
+   
+     Random Sampling,Systematic Sampling,Cluster Sampling,Weighted Sampling,Stratified Sampling
      
      a.biased sampling
      
