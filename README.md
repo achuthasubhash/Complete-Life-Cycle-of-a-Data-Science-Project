@@ -22,7 +22,7 @@ Data consists of 3 kinds
     
 variable 
    
-    a.qualitative (nominal,ordinal,binary)
+    a.qualitative (nominal,ordinal,binary) 
     
     b.quantitative(discrete,continuous)
     
