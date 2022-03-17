@@ -481,22 +481,6 @@ World’s Largest Data Platform https://worlddata.ai/
     43. coco dataset-https://cocodataset.org/#home
 
     flickr-downloader https://github.com/renatoviolin/flickr-downloader/
-
-    Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
-    
-    Synthetic structured data generators https://github.com/ydataai/ydata-synthetic
-    
-    gretel Synthetic Data API  https://gretel.ai/
-    
-    DatasetGAN: an automatic procedure to generate massive datasets of high-quality images 
-    
-    Generating synthetic tabular data with GANs,Synthetic Time-Series Data by A GAN approach
-    
-    Unity Launches Synthetic Image Datasets https://www.marktechpost.com/2021/04/23/unity-launches-synthetic-image-datasets-to-train-ai-and-computer-vision-models-faster/
-    
-    Generate Your Own Dataset using GAN https://www.analyticsvidhya.com/blog/2021/04/generate-your-own-dataset-using-gan/
-    
-    accurate of synthetic data https://gretel.ai/blog/how-accurate-is-my-synthetic-data
     
     Google Open images-https://opensource.google/projects/open-images-dataset  https://storage.googleapis.com/openimages/web/index.html
     
@@ -602,7 +586,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric
+    ydata-synthetic,Gretel,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen 
 
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -617,6 +601,22 @@ World’s Largest Data Platform https://worlddata.ai/
     graviti dataset https://gas.graviti.com/open-datasets
     
     Synthetic data for computer vision https://github.com/ZumoLabs/zpy
+    
+    Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
+    
+    Synthetic structured data generators https://github.com/ydataai/ydata-synthetic
+    
+    gretel Synthetic Data API  https://gretel.ai/
+    
+    DatasetGAN: an automatic procedure to generate massive datasets of high-quality images 
+    
+    Generating synthetic tabular data with GANs,Synthetic Time-Series Data by A GAN approach
+    
+    Unity Launches Synthetic Image Datasets https://www.marktechpost.com/2021/04/23/unity-launches-synthetic-image-datasets-to-train-ai-and-computer-vision-models-faster/
+    
+    Generate Your Own Dataset using GAN https://www.analyticsvidhya.com/blog/2021/04/generate-your-own-dataset-using-gan/
+    
+    accurate of synthetic data https://gretel.ai/blog/how-accurate-is-my-synthetic-data
     
     Synthetic data library https://github.com/finos/datahub https://github.com/agmmnn/awesome-blender https://opendata.blender.org/ https://www.youtube.com/watch?v=eZwOeBkLL8E
     
