@@ -602,7 +602,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,GenerateData,DataSynthesizer,SDV,gretel-synthetics
+    ydata-synthetic,Gretel,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric
 
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -909,10 +909,15 @@ World’s Largest Data Platform https://worlddata.ai/
      https://stefvanbuuren.name/fimd/want-the-hardcopy.html  https://www.datasciencecentral.com/profiles/blogs/how-to-treat-missing-values-in-your-data-1
      
      20.Imputation with the string ‘Missing’ ,Addition of binary missing indicators
+          
+     21.Algorithms robust to missing values
      
      Top Data Cleaning Tools https://www.marktechpost.com/2022/02/20/top-data-cleaning-tools-for-data-science-and-machine-learning-projects-in-2022/
      
-     21.Algorithms robust to missing values
+     OpenRefine https://openrefine.org/ https://github.com/OpenRefine/OpenRefine
+     
+     Data Ladder https://dataladder.com/
+
      
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
    
