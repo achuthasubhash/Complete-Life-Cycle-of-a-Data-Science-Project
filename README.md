@@ -3377,7 +3377,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection 
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector
    
     To pdf: python-pdfkit,wkhtmltopdf,FPDF
     
@@ -3522,6 +3522,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson,Parrot  etc...
    
    Chatterbot,Botkit,BotPress,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots
+   
+   no code chatbots https://juji.io/
     
    https://github.com/fendouai/Awesome-Chatbot  https://medium.com/nerd-for-tech/make-money-building-a-fast-powerful-chatbot-in-10-minutes-using-nltk-91038e15ab17
    
@@ -3915,7 +3917,9 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    108.Machine Learning University -  https://aws.amazon.com/machine-learning/mlu/
    
-   109.mlflow  https://mlflow.org/   An open source platform for the machine learning lifecycle
+   109.Continuous Machine Learning (CML),OpenMLOps,Metaflow,Kubeflow,Data Version Control (DVC),Kedro
+   
+   mlflow  https://mlflow.org/   An open source platform for the machine learning lifecycle
    
    https://www.kdnuggets.com/2021/01/5-tools-effortless-data-science.html
    
