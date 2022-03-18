@@ -1132,6 +1132,10 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       
       Use a Different algorithm that is not sensitive to outliers
       
+      Segment data so outliers are in a separate group 
+      
+      Weighted means (which put more weight on the “normal” part of the distribution)
+      
       Trimming: Remove outliers from dataset. However, it can remove large proportion of data.
       Capping: No data is removed. However, it distorts variable distribution. 
       Missing data: The outliers are treated as missing data.
