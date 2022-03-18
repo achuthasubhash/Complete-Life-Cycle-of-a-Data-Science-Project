@@ -1082,7 +1082,7 @@ Fitter Library Finding the Best Distribution that Fits Your Data  https://toward
 
 anderson teset  use for check any  distribution 
 
-Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomial,Normal Distribution
+Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomial,Normal Distribution,Poisson, Exponential, Geometric, Log-normal distribution, Pareto/Power Law Distribution
         
            b.Logarithmic Transformation,LogCpTransformer
         
@@ -2940,7 +2940,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
@@ -2978,7 +2978,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Creating a Machine Learning App with Power BI and PyCaret
     
-    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUIvs pywebio vs Gradio vs autocalc vs Mercuryvs  Chitra  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
+    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUIvs pywebio vs Gradio vs autocalc vs Mercury vs Chitra  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila
     
     Mercury: easily convert Python notebook to web app and share with others https://github.com/mljar/mercury
     
