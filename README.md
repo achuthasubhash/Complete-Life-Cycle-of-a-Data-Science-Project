@@ -602,6 +602,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Synthetic data for computer vision https://github.com/ZumoLabs/zpy
     
+    GANs for Tabular Synthetic Data Generation https://github.com/Diyago/GAN-for-tabular-data
+    
     Synthetic Image Datasets https://analyticsindiamag.com/unity-launches-synthetic-image-datasets-to-train-ai-models-faster/
     
     Synthetic structured data generators https://github.com/ydataai/ydata-synthetic
@@ -1463,6 +1465,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
   Speedml Speeding up Machine Learning  https://towardsdatascience.com/speedml-speeding-up-machine-learning-5dccbf21effd
   
   snapml 30 Times Faster Than Scikit-Learn  snapml  https://www.zurich.ibm.com/snapml/
+  
+  composer speed-up algorithms for model training https://github.com/mosaicml/composer
   
   pdpipe  https://github.com/pdpipe/pdpipe     pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
   
@@ -3809,7 +3813,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
-   Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance
+   Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME, SHAP, Integrated Gradients, Anchors  , Feature importance/attribution
    
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
@@ -4022,7 +4026,7 @@ determined to be unfair.
    
    117.https://www.pye.ai/2021/03/19/machine-learning-model-management-what-why-and-how/  https://www.ambiata.com/blog/2020-12-07-mlops-tools/
    
-   Pachyderm  Kubeflow  MLflow  Metaflow ZenML  Seldon  Bodywork MLReef  MLRun   DVC katana-skipper Weights & Biases  Valohai Polyaxon Neptune.ai   CometML Algorithmia
+   Pachyderm  Kubeflow  MLflow  Metaflow ZenML  Seldon  Bodywork MLReef  MLRun   DVC katana-skipper Weights & Biases  Valohai Polyaxon Neptune.ai   CometML Algorithmia  clearml, airflow, kedro, GitHub Actions
    
    BentoML Unified Model Serving Framework https://github.com/bentoml/BentoML
    
