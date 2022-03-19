@@ -1174,6 +1174,8 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
      
      Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod https://pyod.readthedocs.io/en/latest/pyod.models.html
      
+     Anomaly Detection Pyfbad https://github.com/Teknasyon-Teknoloji/pyfbad
+     
      divided into three types:Point/Global Anomalies,Collective Anomalies,Contextual Anomalies https://towardsdatascience.com/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995
      
      https://github.com/zhuyiche/awesome-anomaly-detection
@@ -1490,7 +1492,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
        linear regression,Multiple Linear Regression,polynomial regression,Exponential Regression,Bayesian Regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,RANSAC Regression,
        
-       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost
+       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost,GPBoost
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
        
@@ -1510,7 +1512,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,linear-tree,TensorFlow Decision Forests,
         
-        Random Forest Classification,TensorFlow Decision Forests, Regularized Greedy Forests,xgboost,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet
+        Random Forest Classification,TensorFlow Decision Forests, Regularized Greedy Forests,xgboost,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,GPBoost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
@@ -1529,11 +1531,13 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      t-SNE Effectively https://distill.pub/2016/misread-tsne/
      
-     17 clustering  https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
-     
      https://neptune.ai/blog/clustering-algorithms?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-clustering-algorithms
+     
+     17 clustering  https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
    
      2.Clustering : Centroid-based Model ,Density-based Model ,Distribution-based Model,Connectivity-based model
+     
+     classix Fast and explainable clustering based on sorting https://github.com/nla-group/classix
      
      https://www.mygreatlearning.com/blog/unsupervised-machine-learning/?highlight=unsupervised%20machine%20learning&utm_source=GLA&utm_medium=Blog&utm_campaign=1-16th%20May
      
