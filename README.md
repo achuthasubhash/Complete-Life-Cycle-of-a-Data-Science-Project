@@ -927,7 +927,11 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.Under Sampling - mostly not prefer because lost of data  imbalaced-learn,tomek links,Random Under-Sampling, Edited Nearest Neighbours,NearMiss
      
+     Random majority under-sampling with replacement,Under-sampling with Cluster Centroids,Condensed Nearest Neighbour,One-Sided Selection,Neighboorhood Cleaning Rule
+     
      2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
+     
+     Over-sampling followed by under-sampling : SMOTE + Tomek links,SMOTE + ENN 
      
      smote_variants https://github.com/analyticalmindsltd/smote_variants
 
@@ -969,7 +973,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Imbalanced Dataset Sampler  https://github.com/ufoym/imbalanced-dataset-sampler
      
-     9.BalancedBaggingClassifier,Threshold moving
+     9.BalancedBaggingClassifier,Threshold moving,Easy Ensemble classifier,Balanced Random Forest,Balanced Bagging,RUSBoost 
      
      10.Try Different Algorithms (ensemble techinque - Bagging Based techniques,Boosting-Based techniques)
      
