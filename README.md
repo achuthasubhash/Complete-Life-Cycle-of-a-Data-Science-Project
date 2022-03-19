@@ -1623,6 +1623,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          Downsize Recommendation Models By 112 Times https://analyticsindiamag.com/explained-facebooks-novel-method-to-downsize-recommendation-models-by-112-times/
          
+         torchrec,Lenskit,RGRecSys,Surprise,Tensorflow Recommenders
+         
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
          
          https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8
