@@ -3389,7 +3389,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k
    
     To pdf: python-pdfkit,wkhtmltopdf,FPDF
     
@@ -4482,7 +4482,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 autopandas,Auto-Sklearn,Auto-ViML,AutoViz,FLAML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR
 
-Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI
+Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless
 
 Automated Tensorflow  https://github.com/rafiqhasan/auto-tensorflow
 
