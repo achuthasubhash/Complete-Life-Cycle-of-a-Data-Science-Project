@@ -919,6 +919,8 @@ World’s Largest Data Platform https://worlddata.ai/
      OpenRefine https://openrefine.org/ https://github.com/OpenRefine/OpenRefine
      
      Data Ladder https://dataladder.com/
+     
+     re-data  fix data issues https://github.com/re-data/re-data
 
      
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
@@ -2866,7 +2868,7 @@ Generally used metrics
     
     5.Clustering then use External: Adjusted Rand index, Jaccard Score, Purity Score    Internal:silhouette_score, Davies-Bouldin Index, Dunn Index
     
-    autoelbow,elbow,Davies-Bouldin Index
+    autoelbow,elbow,Davies-Bouldin Index,Calinski-Harabasz Index
     
     https://towardsdatascience.com/performance-metrics-in-machine-learning-part-3-clustering-d69550662dc6
     
