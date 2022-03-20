@@ -1081,7 +1081,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Probability and Statistics Packages : PyMC3, tensorflow-probability,Pyro,GPyTorch,hmmlearn,pomegranate,GPflow,patsy,pingouin,Orbit  
    
-   Q-Q plot or Shapiro-Wilk Normality Test or lilliefors test  is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
+   Q-Q plot or Shapiro-Wilk Normality Test or lilliefors test or Jarque-Bera test or Kolmogorov-Smirnov or Anderson-Darling test   is used to check whether feature is guassian or normal distributed  required for linear regression,logistic regression to Improve 
+
 performance if not distributed then use below methods to bring it guassian distribution
 
 normal test,Histogram,Q-Q plot,KDE plot,Skewness and Kurtosis for check normal distribution 
