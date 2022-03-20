@@ -2163,7 +2163,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
 
-     Case Normalization,regex,sent_tokenize,Tokenization,Removing Stopwords,Removing Unicode,Removing URLs,Hashtags,Punctuation,Stemming or Lemmatization
+     Case Normalization,regex,Lowercasing,sent_tokenize,Tokenization,Removing Stopwords,Removing Unicode,Removing URLs,Hashtags,text normalization,Noise Removal,Punctuation,Stemming or Lemmatization
       
      1.One-hot-encoding,Index-based Encoding,Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
      
