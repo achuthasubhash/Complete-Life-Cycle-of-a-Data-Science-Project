@@ -1334,6 +1334,10 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     
     automatic feature selection mrmr https://github.com/smazzanti/mrmr 
     
+    Creating New Features Deep Feature Synthesis https://docs.featuretools.com/en/v0.16.0/automated_feature_engineering/afe.html
+    
+    SequentialFeatureSelector: The popular forward and backward feature selection
+    
     Alternative feature selection methods  Feature shuffling,Feature performance,Target mean performance
     
     Automatic Feature Selection  : recursive feature elimination and cross-validation 
@@ -2871,7 +2875,7 @@ Generally used metrics
      
     1.Regression task - mean-squared-error, Root-Mean-Squared-Error,mean-absolute error, R², Adjusted R²,Cross-entropy loss,Mean percentage error 
    
-    2.Classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,log loss,Average precision,Mean average precision
+    2.Classification task-Accuracy,confusion matrix,Precision,Recall,F1 Score,Binary Crossentropy,Categorical Crossentropy,AUC-ROC curve,AUPRC,log loss,Average precision,Mean average precision
     
     3.Reinforcement learning - generally  use rewards
     
@@ -3842,6 +3846,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
+   SHAP and TreeSHAP,shparkley,FastTreeSHAP: Accelerating SHAP value computation for trees https://github.com/linkedin/fasttreeshap
+   
    https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html https://analyticsindiamag.com/hands-on-guide-to-interpret-machine-learning-with-shap/
    
    fastshap https://github.com/bgreenwell/fastshap
@@ -3881,6 +3887,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    google AI Explanations for AI Platform https://cloud.google.com/ai-platform/prediction/docs/ai-explanations/overview?utm_source=youtube&utm_medium=Unpaidsocial&utm_campaign=guo-20200423-Intro-Aiexp
    
    eli5  https://eli5.readthedocs.io/en/latest/
+   
+   Integrated-Gradients https://github.com/ankurtaly/Integrated-Gradients
    
    TabNet: Attentive Interpretable Tabular Learning  https://github.com/dreamquark-ai/tabnet
    
@@ -4711,7 +4719,7 @@ NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.y
 change to proper dtypes,usecols of required only reduce size 
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Apache Arrow,Datatable,Fastparquet,dampr,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
