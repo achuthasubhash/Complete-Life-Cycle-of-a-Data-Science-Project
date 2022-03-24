@@ -2202,6 +2202,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       Fast_Sentence_Embeddings Compute Sentence Embeddings Fast  https://github.com/oborchers/Fast_Sentence_Embeddings
       
       Universal Embeddings, Contextual Embeddings (Transformers),BERT Embeddings
+      
+    3 b Tokenizer nlp(texs_to_sequences )
         
      4.Document embedding-Doc2vec
       
@@ -2213,7 +2215,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Topic Modelling https://towardsdatascience.com/april-edition-adventures-in-topic-modelling-7ee9081a48a0
      
-     Doc2Vec  Distributed memory model , Distributed bag of word,Node2Vec,Top2Vec,Doc2Vec
+     Doc2Vec  Distributed memory model , Distributed bag of word,Node2Vec,Top2Vec,Doc2Vec,Item2Vec
      
      6.using rnn,lstm,gru
      
@@ -2883,7 +2885,7 @@ Generally used metrics
     
     5.Clustering then use External: Adjusted Rand index, Jaccard Score, Purity Score    Internal:silhouette_score, Davies-Bouldin Index, Dunn Index
     
-    autoelbow,elbow,Davies-Bouldin Index,Calinski-Harabasz Index
+    autoelbow,elbow,Davies-Bouldin Index,Calinski-Harabasz Index  
     
     https://towardsdatascience.com/performance-metrics-in-machine-learning-part-3-clustering-d69550662dc6
     
@@ -3406,7 +3408,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract
    
     To pdf: python-pdfkit,wkhtmltopdf,FPDF
     
@@ -3846,7 +3848,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
-   SHAP and TreeSHAP,shparkley,FastTreeSHAP: Accelerating SHAP value computation for trees https://github.com/linkedin/fasttreeshap
+   SHAP and TreeSHAP,shparkley,Shparkley,PySpark-SHAP,GPUTreeSHAP,FastTreeSHAP: Accelerating SHAP value computation for trees https://github.com/linkedin/fasttreeshap
    
    https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html https://analyticsindiamag.com/hands-on-guide-to-interpret-machine-learning-with-shap/
    
