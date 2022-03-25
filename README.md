@@ -3047,6 +3047,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     FastAPI based template https://github.com/99sbr/fastapi-template  fastapi-log 0.0.3 https://pypi.org/project/fastapi-log/
     
+    testing FastAPI ML APIs with Locust https://locust.io/  https://rubikscode.net/2022/03/21/performance-testing-fastapi-ml-apis-with-locust/
+    
     chitra 𝗖𝗿𝗲𝗮𝘁𝗲 𝗔𝗣𝗜 𝗳𝗼𝗿 𝗔𝗻𝘆 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗠𝗼𝗱𝗲𝗹  https://github.com/aniketmaurya/chitra
     
     PyWebIO Write Interactive Web App in Script Way Using Python https://www.youtube.com/watch?v=vp1ZNapAy6Y  https://towardsdatascience.com/pywebio-write-interactive-web-app-in-script-way-using-python-14f50155af4e  https://github.com/tirthajyoti/PyWebIO
@@ -3836,7 +3838,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
-   Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME, SHAP, Integrated Gradients, Anchors  , Feature importance/attribution
+   Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates
    
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
@@ -3848,7 +3850,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
-   SHAP and TreeSHAP,shparkley,Shparkley,PySpark-SHAP,GPUTreeSHAP,FastTreeSHAP: Accelerating SHAP value computation for trees https://github.com/linkedin/fasttreeshap
+   SHAP and TreeSHAP,shparkley,Shparkley,Deep SHAP,PySpark-SHAP,GPUTreeSHAP,FastTreeSHAP: Accelerating SHAP value computation for trees https://github.com/linkedin/fasttreeshap
    
    https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html https://analyticsindiamag.com/hands-on-guide-to-interpret-machine-learning-with-shap/
    
@@ -4722,6 +4724,11 @@ change to proper dtypes,usecols of required only reduce size
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Apache Arrow,Datatable,Fastparquet,dampr,
 pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+
+
+composer library of algorithms to speed up neural network training  https://github.com/mosaicml/composer 
+
+ColossalAI A Unified Deep Learning System for Large-Scale Parallel Training  https://github.com/hpcaitech/ColossalAI 
 
 19.dataprep (Understand your data with a few lines of code in seconds)
 
