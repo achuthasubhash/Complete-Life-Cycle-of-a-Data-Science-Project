@@ -3850,7 +3850,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
-   SHAP and TreeSHAP,shparkley,Shparkley,Deep SHAP,PySpark-SHAP,GPUTreeSHAP,FastTreeSHAP: Accelerating SHAP value computation for trees https://github.com/linkedin/fasttreeshap
+   SHAP and TreeSHAP,shparkley,Shparkley,Deep SHAP,TimeSHAP,PySpark-SHAP,GPUTreeSHAP,FastTreeSHAP: Accelerating SHAP value computation for trees https://github.com/linkedin/fasttreeshap
    
    https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html https://analyticsindiamag.com/hands-on-guide-to-interpret-machine-learning-with-shap/
    
