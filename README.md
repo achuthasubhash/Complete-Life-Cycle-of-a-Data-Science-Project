@@ -2835,7 +2835,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold 
      
-     4.Repeated K-folds
+     4.Repeated K-folds,RepeatedStratifiedKFold
      
      5.Holdout cross-validation
      
@@ -3100,7 +3100,7 @@ TF Micro and SensiML https://blog.tensorflow.org/2021/05/building-tinyml-applica
 
 six different types of methods:
 1) Pruning, Weight sharing
-2) Quantization       ,TensorFlow Quantum
+2) Quantization       ,TensorFlow Quantum, Int8 quantization
    Post-Training Quantization
    — Reduce Float16
    — Hybrid Quantization
