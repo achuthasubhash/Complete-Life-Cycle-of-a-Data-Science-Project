@@ -983,6 +983,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      11.Try a Different Perspective ( consider as anomaly detection or change detection)
      
+     Threshold Moving Methods,One-Class Classification,Customised Ensemble Algorithms
+     
      12.databalancer  https://github.com/pradeepdev-1995/databalancer
      
      13.collect more data 
@@ -1597,6 +1599,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          e.demographic based Recommendation system 
          
          f.hybrid based Recommendation system 
+         
+         Popularity based Recommendation system 
          
          g.Average Weighted Recommendation
          
@@ -4722,7 +4726,7 @@ NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.y
 
 change to proper dtypes,usecols of required only reduce size 
 
-pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Apache Arrow,Datatable,Fastparquet,dampr,
+pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Apache Arrow,Datatable,Fastparquet,dampr,
 pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 
