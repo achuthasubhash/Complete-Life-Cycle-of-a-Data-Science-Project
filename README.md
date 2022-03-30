@@ -821,6 +821,13 @@ World’s Largest Data Platform https://worlddata.ai/
    9.Recursive Feature Addition: RecursiveFeatureAddition 
    
    stats,Scipy,Pingouin,Statsmodels,SymPy,Sage,
+   
+   
+   Validate Your pandas DataFrame with Pandera https://github.com/pandera-dev/pandera
+   
+   Statistical DataFrame Testing Toolkit https://pandera.readthedocs.io/en/stable/index.html
+   
+   StatisticsGen component computes statistics
 
    a.Handle missing value 
    
@@ -921,6 +928,8 @@ World’s Largest Data Platform https://worlddata.ai/
      Data Ladder https://dataladder.com/
      
      re-data  fix data issues https://github.com/re-data/re-data
+     
+     https://github.com/akanz1/klib  https://pyjanitor-devs.github.io/pyjanitor/ https://dataprep.ai/  https://scrubadub.readthedocs.io/en/latest/index.html 
 
      
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
@@ -958,6 +967,8 @@ World’s Largest Data Platform https://worlddata.ai/
      from sklearn import compute_class_weight  
      
      Cost-sensitive learning,Class-balanced loss,Focal loss
+     
+     weighted loss function
      
      4.use Stratified kfold to keep the ratio of classess constantly, train teat spilt startify attribute
      
@@ -1229,7 +1240,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
     
     Integrating Tableau With Python https://analyticsindiamag.com/tabpy/  Qlib https://analyticsindiamag.com/qlib/
     
-    Data visualization (Matplotlib,Seaborn,DASH,Plotly,Plotly-Express,pyqtgraph,Bokeh,Pandas-Bokeh,Pygal,hvplot,holoviews,chartify,lets-plot,pyqtgraph,glue,plotnine,pygal,bqplot,toyplot,chart,itkwidgets,vedo,ipyvolume,pyvista,glumpy,geopandas,pycountry,geopy,geo-py,pypopulation,  geotext,folium,cartopy,gmplo,ipyleaflet,geoviews,geoplot,splot,arviz, hypertools,geoplotlib,Geopandas package,choroplethmaps,Leafmap,Dash,Pydot,Geoplotlib,ggplot,visualizer,Altair,folium,geoplot,networkx,graphviz,pydot,pygraphviz,python-igraph,pyvis,pygsp,ipycytoscape,nxviz ipydagred3,Diffbot,etc...)
+    Data visualization (Matplotlib,Seaborn,DASH,Plotly,Plotly-Express,pyqtgraph,Bokeh,Pandas-Bokeh,Pygal,hvplot,holoviews,chartify,lets-plot,pyqtgraph,glue,plotnine,pygal,bqplot,toyplot,chart,itkwidgets,vedo,ipyvolume,pyvista,glumpy,geopandas,pycountry,geopy,geo-py,pypopulation,  geotext,folium,cartopy,gmplo,ipyleaflet,geoviews,geoplot,splot,arviz, hypertools,geoplotlib,Geopandas package,choroplethmaps,Leafmap,Dash,Pydot,Geoplotlib,ggplot,visualizer,Greppo,Altair,folium,geoplot,networkx,graphviz,pydot,pygraphviz,python-igraph,pyvis,pygsp,ipycytoscape,nxviz ipydagred3,Diffbot,etc...)
     
     Dashboarding : bokeh,dash,streamlit,panel,visdom ,voila,wave,jupyter-flex,ipyflex,pandas_bokeh   
     
@@ -3414,7 +3425,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract
    
     To pdf: python-pdfkit,wkhtmltopdf,FPDF
     
@@ -4725,6 +4736,8 @@ thundersvm  https://github.com/Xtra-Computing/thundersvm
 NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.youtube.com/watch?v=mgY46AEXnG0
 
 change to proper dtypes,usecols of required only reduce size 
+
+Better Data Storage CSV  Parquet  Feather
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Apache Arrow,Datatable,Fastparquet,dampr,
 pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
