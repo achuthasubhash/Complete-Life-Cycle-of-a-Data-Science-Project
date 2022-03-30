@@ -1208,7 +1208,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
      
      b.unbiased sampling
      
-   l.Feature Creation
+   l.Feature  Creation
    
       a.Combination of multiple features with mathematical operations
       
