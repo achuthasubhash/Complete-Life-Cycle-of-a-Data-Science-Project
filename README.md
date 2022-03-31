@@ -743,6 +743,10 @@ World’s Largest Data Platform https://worlddata.ai/
    Streamlining Feature Engineering Pipelines with Feature-engine https://towardsdatascience.com/streamlining-feature-engineering-pipelines-with-feature-engine-e781d551f470 https://feature-engine.readthedocs.io/en/latest/#
 
    Validate your Data (Schema) https://towardsdatascience.com/introduction-to-schema-a-python-libary-to-validate-your-data-c6d99e06d56a
+   
+   Validate Your pandas DataFrame with Pandera https://github.com/pandera-dev/pandera
+   
+   Statistical DataFrame Testing Toolkit https://pandera.readthedocs.io/en/stable/index.html
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
    
@@ -821,11 +825,6 @@ World’s Largest Data Platform https://worlddata.ai/
    9.Recursive Feature Addition: RecursiveFeatureAddition 
    
    stats,Scipy,Pingouin,Statsmodels,SymPy,Sage,
-   
-   
-   Validate Your pandas DataFrame with Pandera https://github.com/pandera-dev/pandera
-   
-   Statistical DataFrame Testing Toolkit https://pandera.readthedocs.io/en/stable/index.html
    
    StatisticsGen component computes statistics
 
