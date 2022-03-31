@@ -586,7 +586,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen 
+    ydata-synthetic,Gretel,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,Pika
 
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -1626,6 +1626,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          l.Tf-Rec https://github.com/Praful932/Tf-Rec
          
+         Nvidia Merlin 
+         
          m.Deep Learning Recommendation Models https://www.kdnuggets.com/2021/04/deep-learning-recommendation-models-dlrm-deep-dive.html
          
          Restricted Boltzmann Machines 
@@ -2028,6 +2030,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      yolo https://github.com/zzh8829/yolov3-tf2 https://github.com/ultralytics/yolov5 https://github.com/ashishpatel26/Yolov5-King-of-object-Detection  https://github.com/sicara/tf2-yolov4
      
      clip https://github.com/openai/CLIP
+     
+     bayesian on CNN to reduce the overfitting and we can call CNN with applied Bayesian as a BayesianCNN  https://analyticsindiamag.com/a-beginners-guide-to-bayesian-cnn/
    
    3.Recurrent neural network (use when series of data)
    
@@ -2990,6 +2994,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     sanic https://github.com/sanic-org/sanic
     
     Gradio - take input from user  https://gradio.app/getting_started
+    
+    binder - https://mybinder.org/
     
     Netlify  https://www.analyticsvidhya.com/blog/2021/04/easily-deploy-your-machine-learning-model-into-a-web-app-netlify/
     
@@ -4628,7 +4634,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
   
