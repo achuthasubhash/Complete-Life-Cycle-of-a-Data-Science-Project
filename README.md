@@ -929,6 +929,8 @@ World’s Largest Data Platform https://worlddata.ai/
      re-data  fix data issues https://github.com/re-data/re-data
      
      https://github.com/akanz1/klib  https://pyjanitor-devs.github.io/pyjanitor/ https://dataprep.ai/  https://scrubadub.readthedocs.io/en/latest/index.html 
+     
+     AutoClean https://github.com/elisemercury/AutoClean
 
      
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
@@ -1400,7 +1402,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     
     16.PyImpetus
     
-    17.drop constant features (variance=0)
+    17.drop constant features (variance=0)  , Drop Highly Correlated Features
     
     18.variance inflation factor(vif)
     
