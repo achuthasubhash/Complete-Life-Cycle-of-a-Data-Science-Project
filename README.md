@@ -1935,7 +1935,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      posemodule https://www.youtube.com/watch?v=5kaX3ta398w   Pose Tracking  https://www.youtube.com/watch?v=0JU3kpYytuQ&t=1650s
      
-     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,AlphaPose,tfpose,MultiPoseNet,AlphaPose,Movenet lighting,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js 
+     6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,AlphaPose,tfpose,MultiPoseNet,AlphaPose,Movenet lighting,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js,High-Resolution Net,Blaze pose,Deep Pose,PoseNet
      
      openpose wrnchai  densepose
      
