@@ -1446,6 +1446,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     TSFresh: https://github.com/blue-yonder/tsfresh
     FeatureSelector: https://github.com/WillKoehrsen/feature-selector
     unsupervised feature selection technique  https://github.com/atif-hassan/FRUFS
+    rulefit https://github.com/christophM/rulefit
     
 ***5.Data splitting***
 
@@ -1961,7 +1962,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      Data augmentation with tf.data
      
-     ImageGenerator  image augmentation  ImageDataGenerator 
+     ImageGenerator  image augmentation  ImageDataGenerator Albumentations  SOLT  Imgaug
      
      Augmentor Image augmentation library in Python for machine learning  https://github.com/mdbloice/Augmentor
      
@@ -2189,7 +2190,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
 
-     Case Normalization,regex,Lowercasing,sent_tokenize,Tokenization,Removing Stopwords,Removing Unicode,Removing URLs,Hashtags,text normalization,Noise Removal,Punctuation,Stemming or Lemmatization
+     Case Normalization,regex,Lowercasing,sent_tokenize,Tokenization,Removing Stopwords,Removing Unicode,Removing Emojis,Removing URLs,Hashtags,text normalization,Noise Removal,Punctuation,Stemming or Lemmatization
       
      1.One-hot-encoding,Index-based Encoding,Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
      
