@@ -1127,7 +1127,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
            
            g.Quantile Transformation
            
-           Root transformation,Cube root transformation
+           Root transformation,Cube root transformation,Cosine Transformation
            
            Left skewness (use powers) Squares transformation,Cubes transformation,High powers
       
