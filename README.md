@@ -739,6 +739,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Automatic Feature Engineering Using AutoFeat https://analyticsindiamag.com/guide-to-automatic-feature-engineering-using-autofeat/
    
    Categorical Encoding https://github.com/scikit-learn-contrib/category_encoders
+   
+   lazytransform https://github.com/AutoViML/lazytransform
 
    Streamlining Feature Engineering Pipelines with Feature-engine https://towardsdatascience.com/streamlining-feature-engineering-pipelines-with-feature-engine-e781d551f470 https://feature-engine.readthedocs.io/en/latest/#
 
@@ -4746,7 +4748,7 @@ NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.y
 
 change to proper dtypes,usecols of required only reduce size 
 
-Better Data Storage CSV  Parquet  Feather
+Better Data Storage : CSV,Parquet,Feather
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Apache Arrow,Datatable,Fastparquet,dampr,
 pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
