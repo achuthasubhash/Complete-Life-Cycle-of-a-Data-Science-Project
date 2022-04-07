@@ -1518,7 +1518,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
        linear regression,Multiple Linear Regression,polynomial regression,Exponential Regression,Bayesian Regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,RANSAC Regression,
        
-       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost,GPBoost
+       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost,GPBoost,Principal Component Regression
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
        
@@ -2693,7 +2693,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    101 Machine Learning Algorithms for Data Science with Cheat Sheets https://blog-datasciencedojo-com.cdn.ampproject.org/c/s/blog.datasciencedojo.com/machine-learning-algorithms/amp/
 
-  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,GELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Modifying ReLU,Shifted ReLU,Softmax,Swish,Softplus,Mish
+  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,GELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Modifying ReLU,Shifted ReLU,Softmax,Swish,Softplus,Mish,Smooth reLU
   
   Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with   momentum,Adagrad,RMSProp,AMSGrad,Adam,AdaBelief,MADGRAD,Nero,
   
@@ -2992,7 +2992,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,Fast Dash
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
@@ -3001,6 +3001,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     sanic https://github.com/sanic-org/sanic
     
     Gradio - take input from user  https://gradio.app/getting_started
+    
+    Fast Dash https://fastdash.app/
     
     binder - https://mybinder.org/
     
@@ -3865,7 +3867,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
-   Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates
+   Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates,
+xplique
    
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
@@ -3883,6 +3886,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    fastshap https://github.com/bgreenwell/fastshap
    
+   xplique  https://github.com/deel-ai/xplique?utm_source=pocket_mylist
+    
    Shapash makes Machine Learning models transparent and understandable by everyone   https://github.com/MAIF/shapash  https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable.html
    
    Captum is a model interpretability and understanding library for PyTorch https://github.com/pytorch/captum
