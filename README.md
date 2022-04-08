@@ -2920,6 +2920,8 @@ Generally used metrics
     
     8.Recommender Systems  https://parthchokhra.medium.com/evaluating-recommender-systems-590a7b87afa5
     
+    Similarity metrics : Cosine similarity,Jaccard similarity,Euclidean distance   Predictive metrics: MAE,RMSE 
+    
     metric-Built-in metrics, Custom metric without external parameters,Custom metric with external parameters,Subclassing custom metric layer
     
     Robustness Gym: Evaluation Toolkit for NLP https://github.com/robustness-gym/robustness-gym
