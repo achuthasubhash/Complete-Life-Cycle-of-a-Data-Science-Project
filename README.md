@@ -999,6 +999,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Threshold Moving Methods,One-Class Classification,Customised Ensemble Algorithms
      
+     Probability Tuning Algorithms,Calibrating Probabilities,Tuning the Classification Threshold
+     
      12.databalancer  https://github.com/pradeepdev-1995/databalancer
      
      13.collect more data 
@@ -1007,6 +1009,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      15.Combined Class Methods
      In this type of method, various methods are fused together to get a better result to handle imbalance data. For instance, like SMOTE can be fused with other methods like MSMOTE (Modified SMOTE), SMOTEENN (SMOTE with Edited Nearest Neighbours), SMOTE-TL, SMOTE-EL, etc. to eliminate noise in the imbalanced data sets
+     
+     16.One-Class Algorithms,One-Class Support Vector Machines,Isolation Forests,Minimum Covariance Determinant,Local Outlier Factor
   
    c.Remove noise data
    
