@@ -59,6 +59,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     4.Request to access data 
     
     5.AUTOSCRAPER - https://github.com/alirezamika/autoscraper https://www.youtube.com/watch?v=9BQ353Yu1D0 https://www.analyticsvidhya.com/blog/2021/04/automate-web-scraping-using-python-autoscraper-library/
+    
+    scrapeasy  Scrape Any Website in Seconds with One Line of Code  https://github.com/joelbarmettlerUZH/Scrapeasy
 
     Scrap Images From E-Commerce Website Using AutoScraper https://www.analyticsvidhya.com/blog/2021/05/scrap-images-from-e-commerce-website-using-autoscraper-library/
     
@@ -817,18 +819,30 @@ World’s Largest Data Platform https://worlddata.ai/
    Feature Selection
    
    1.Removal of arbitraty features: DropFeatures 
+   
    2.Removal of constant and almost constant features: DropConstantFeatures
+   
+   Removal of Low Variance
+   
    3.Removal of duplicated variables: DropDuplicateFeatures 
+   
    4.Removal of correlated features: DropCorrelatedFeatures, SmartCorrelatedSelection 
+   
    5.Selection of features by value shuffling: SelectByShuffling 
+   
    6.Selection of features by univariate performance: SelectBySingleFeaturePerformance
+   
    7.Selection of features by target encoding: SelectByTargetMeanPerformance 
+   
    8.Recursive Feature Elimination: RecursiveFeatureElimination 
+   
    9.Recursive Feature Addition: RecursiveFeatureAddition 
    
    stats,Scipy,Pingouin,Statsmodels,SymPy,Sage,
    
    StatisticsGen component computes statistics
+   
+   Check data types , Handle duplicate values
 
    a.Handle missing value 
    
@@ -890,7 +904,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation,Smoothing, interpolation
      
-     16.Last Observation Carried Forward (LOCF)
+     16.Last Observation Carried Forward (LOCF)  ,  Next Observation Carried Backward
      
      Single and Multiple Imputation,Univariate Imputation,Multivariate Imputation ,Iterative Imputer,MissForest Imputation,Stochastic Regression Imputation, Multiple Imputations, Datawig, Hot-Deck imputation, Extrapolation, Interpolation
      
