@@ -868,7 +868,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion and listwise deletion
      
-     2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode , minimum, maximum
+     2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode , minimum, maximum,Zero,Constant
      
      Fill with Mean / Median of Column or  Group   Forward Fill  or Forward Fill within Groups  
      
@@ -934,7 +934,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      20.Imputation with the string ‘Missing’ ,Addition of binary missing indicators
           
-     21.Algorithms robust to missing values
+     21.Algorithms robust to missing values - LightGBM
      
      Top Data Cleaning Tools https://www.marktechpost.com/2022/02/20/top-data-cleaning-tools-for-data-science-and-machine-learning-projects-in-2022/
      
