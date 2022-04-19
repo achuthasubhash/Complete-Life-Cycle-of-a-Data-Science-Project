@@ -2844,7 +2844,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     GPyTorch: A Python Library For Gaussian Process Models https://analyticsindiamag.com/guide-to-gpytorch-a-python-library-for-gaussian-process-models/
     
-    Auto-PyTorch https://github.com/automl/Auto-PyTorch
+    Auto-PyTorch  https://github.com/automl/Auto-PyTorch
     
     l.SMAC https://www.automl.org/automated-algorithm-design/algorithm-configuration/smac/  https://towardsdatascience.com/automl-for-fast-hyperparameters-tuning-with-smac-4d70b1399ce6
     
