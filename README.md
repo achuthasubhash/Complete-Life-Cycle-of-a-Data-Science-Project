@@ -760,7 +760,9 @@ World’s Largest Data Platform https://worlddata.ai/
    
    DataPrep  https://dataprep.ai/ https://github.com/sfu-db/dataprep https://towardsdatascience.com/dataprep-v0-3-0-has-been-released-be49b1be0e72
    
-   Dora (pip library) - data cleaning
+   Dora (pip library) - data cleaning 
+   
+   Dora,PrettyPandas,DataCleaner,Tabulate,Pyjanitor
    
    cleanlab  data-centric AI and machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models https://github.com/cleanlab/cleanlab 
    
@@ -947,7 +949,8 @@ World’s Largest Data Platform https://worlddata.ai/
      https://github.com/akanz1/klib  https://pyjanitor-devs.github.io/pyjanitor/ https://dataprep.ai/  https://scrubadub.readthedocs.io/en/latest/index.html 
      
      AutoClean https://github.com/elisemercury/AutoClean
-
+ 
+    Dora,PrettyPandas,DataCleaner,Tabulate,Pyjanitor
      
    b.Handle imbalance  Collect More Data if possible,Try Resampling Your Dataset
    
