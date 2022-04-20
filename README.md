@@ -1081,7 +1081,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding,BackwardDifferenceEncoder GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer,SumEncoder
      
      Transform your categorical columns with imperio SmoothingTransformer
      
