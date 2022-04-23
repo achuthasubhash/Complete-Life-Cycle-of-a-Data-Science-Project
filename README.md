@@ -3895,7 +3895,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
    Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates,
-xplique
+xplique,ANCHORS
    
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
@@ -3907,7 +3907,7 @@ xplique
    
    SHAP  https://medium.com/towards-artificial-intelligence/explain-your-machine-learning-predictions-with-kernel-shap-kernel-explainer-fed56b9250b8
    
-   SHAP and TreeSHAP,shparkley,Shparkley,Deep SHAP,TimeSHAP,PySpark-SHAP,GPUTreeSHAP,FastTreeSHAP: Accelerating SHAP value computation for trees https://github.com/linkedin/fasttreeshap
+   SHAP and Kernel SHAP,TreeSHAP,shparkley,Shparkley,Deep SHAP,TimeSHAP,PySpark-SHAP,GPUTreeSHAP,FastTreeSHAP: Accelerating SHAP value computation for trees https://github.com/linkedin/fasttreeshap
    
    https://github.com/slundberg/shap   https://www.kdnuggets.com/2020/01/explaining-black-box-models-ensemble-deep-learning-lime-shap.html https://analyticsindiamag.com/hands-on-guide-to-interpret-machine-learning-with-shap/
    
