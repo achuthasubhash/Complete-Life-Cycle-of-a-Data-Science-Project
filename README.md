@@ -2747,7 +2747,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     manual search
      
-    a.GridSearchCV (check every given parameter so take long time)
+    a.GridSearchCV  (check every given parameter so take long time)
     
     HalvingGridSearch https://towardsdatascience.com/11-times-faster-hyperparameter-tuning-with-halvinggridsearch-232ed0160155 https://towardsdatascience.com/faster-hyperparameter-tuning-with-scikit-learn-71aa76d06f12
     
