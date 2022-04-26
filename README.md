@@ -981,7 +981,6 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Combining Over and Under-sampling
      
-     
      3.class_weight give more importance(weight) to that small class ( Cost-Sensitive Algorithms)
      
      from sklearn import compute_class_weight  
