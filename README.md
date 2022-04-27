@@ -66,6 +66,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     amazon auto scraper library https://webautomation.io/
     
+     Listly https://www.listly.io/r/stdfr
+    
     FiftyOne Now easier to download and evaluate  https://towardsdatascience.com/googles-open-images-now-easier-to-download-and-evaluate-with-fiftyone-615ce0482c02
     
     webbot https://pypi.org/project/webbot/
