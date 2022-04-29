@@ -908,7 +908,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation,Smoothing, interpolation
      
-     16.Last Observation Carried Forward (LOCF)  ,  Next Observation Carried Backward
+     16.Last Observation Carried Forward (LOCF)  ,  Next Observation Carried Backward , Rolling Statistics, Interpolation
      
      Single and Multiple Imputation,Univariate Imputation,Multivariate Imputation ,Iterative Imputer,MissForest Imputation,Stochastic Regression Imputation, Multiple Imputations, Datawig, Hot-Deck imputation, Extrapolation, Interpolation
      
@@ -4006,7 +4006,7 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
    
    How to easily check if your Machine Learning model is fair (dalex) https://www.kdnuggets.com/2020/12/machine-learning-model-fair.html
    
-   LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System
+   TensorFlow Federated,TensorFlow Model Remediation,TensorFlow Privacy,LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,Responsible AI Toolbox,XAI,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System,Model Card Toolkit
    
    https://analyticsindiamag.com/guide-to-ai-fairness-360-an-open-source-toolkit-for-detection-and-mitigation-of-bias-in-ml-models/
    
