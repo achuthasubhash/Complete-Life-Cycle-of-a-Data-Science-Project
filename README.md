@@ -1980,6 +1980,10 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      Image DA libraries – Augmentor, Albumentations, ImgAug, AutoAugment, Transforms  https://neptune.ai/blog/data-augmentation-in-python
      
+     Simple transformations-Resize,Gray Scale,Normalize,Random Rotation,Center Crop,Random Crop,Gaussian Blur
+     
+     More advanced techniques-Gaussian Noise,Random Blocks,Central Region
+     
      albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
      
      AugLy  A Modern Data Augmentation Library  https://analyticsindiamag.com/complete-guide-to-augly-a-modern-data-augmentation-library/ https://github.com/facebookresearch/AugLy
