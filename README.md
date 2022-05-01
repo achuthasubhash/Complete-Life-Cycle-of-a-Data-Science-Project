@@ -824,6 +824,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    1.Removal of arbitraty features: DropFeatures 
    
+   Removing unused columns
+   
    2.Removal of constant and almost constant features: DropConstantFeatures
    
    Removal of Low Variance
