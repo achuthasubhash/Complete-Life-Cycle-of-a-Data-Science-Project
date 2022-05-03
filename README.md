@@ -3637,7 +3637,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
    https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
-   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI
+   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI,MonkeyLearn,Nanonets,SuperAnnotate,CausaLens,Levity,Clarifai
    
    Teachable Machine-https://teachablemachine.withgoogle.com/  Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
