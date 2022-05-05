@@ -906,6 +906,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      14.MICE Imputation,miceforest ( https://github.com/AnotherSamWilson/miceforest )
      
+      Miss Forest https://github.com/stekhoven/missForest
+     
      15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/   Interpolate  or  Interpolate within Groups
      
      Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation,Smoothing, interpolation
