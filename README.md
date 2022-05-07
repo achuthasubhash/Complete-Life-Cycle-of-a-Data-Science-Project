@@ -878,6 +878,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Fill with Mean / Median of Column or  Group   Forward Fill  or Forward Fill within Groups  
      
+     Mean and Median Fill with Groupby 
+     
      3.apply classifier algorithm to predict missing value
      
      Using Algorithms that support missing values
@@ -910,7 +912,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/   Interpolate  or  Interpolate within Groups
      
-     Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation,Smoothing, interpolation
+     Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation,Smoothing, interpolation,Bidirectional Recurrent Imputation for Time Series (
      
      16.Last Observation Carried Forward (LOCF)  ,  Next Observation Carried Backward , Rolling Statistics, Interpolation
      
