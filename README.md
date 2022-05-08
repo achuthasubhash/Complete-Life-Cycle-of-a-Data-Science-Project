@@ -834,6 +834,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    4.Removal of correlated features: DropCorrelatedFeatures, SmartCorrelatedSelection 
    
+   Drop features that have a poor correlation with the response variable
+   
    5.Selection of features by value shuffling: SelectByShuffling 
    
    6.Selection of features by univariate performance: SelectBySingleFeaturePerformance
@@ -1182,6 +1184,8 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       outiler treatment: mean/median/random imputation,drop,discretization (binning),treat as seperate group,replace with resperctive percentiles,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation)
       
       Outlier capping with IQR Outlier capping with mean and std Outlier capping with quantiles Arbitrary capping
+      
+      Separation: If the amount of the outlier is higher than the normal then we can separate them from the main data and fit the model on them separately
       
       Use a Different algorithm that is not sensitive to outliers
       
