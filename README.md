@@ -966,9 +966,9 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.Under Sampling - mostly not prefer because lost of data  imbalaced-learn,tomek links,Random Under-Sampling, Edited Nearest Neighbours,NearMiss
      
-     Random majority under-sampling with replacement,Under-sampling with Cluster Centroids,Condensed Nearest Neighbour,One-Sided Selection,Neighboorhood Cleaning Rule
+     Random majority under-sampling with replacement,Tomek Links Undersampling,Under-sampling with Cluster Centroids,Condensed Nearest Neighbour,One-Sided Selection,Neighboorhood Cleaning Rule,One-Sided Selection
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,Borderline-SMOTE SVM, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
      
      Over-sampling followed by under-sampling : SMOTE + Tomek links,SMOTE + ENN 
      
@@ -1157,7 +1157,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
            
            i.power transformations  https://towardsdatascience.com/when-and-how-to-use-power-transform-in-machine-learning-2c6ad75fb72e
            
-           g.Quantile Transformation
+           g.Quantile Transformation ,Arcsin Transformation
            
            Root transformation,Cube root transformation,Cosine Transformation
            
@@ -1700,6 +1700,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      1.Stacking models https://www.analyticsvidhya.com/blog/2021/03/advanced-ensemble-learning-technique-stacking-and-its-variants/?
 
        vecstack https://github.com/vecxoz/vecstack
+       
+       Cascading
    
      2.Bagging models  (Bagging (with the replacement) , Pasting ( without replacement ))
    
@@ -2234,7 +2236,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      2.Tfidf ,Weighted Class TF-IDF, HashingVectorizer
      
-     3.wordembedding
+     3.wordembedding :  Use a pre-trained model , Self-Trained model
         
         a.using pretrained model 
           
