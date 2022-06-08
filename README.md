@@ -1687,7 +1687,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          Downsize Recommendation Models By 112 Times https://analyticsindiamag.com/explained-facebooks-novel-method-to-downsize-recommendation-models-by-112-times/
          
-         torchrec,Lenskit,RGRecSys,Surprise,Tensorflow Recommenders
+         torchrec,Lenskit,RGRecSys,Surprise,Tensorflow Recommenders,NVIDIA-Merlin
          
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
          
@@ -3485,7 +3485,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR ,textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR ,textract,pytesseract,tesserocr, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch
+
    
     To pdf: python-pdfkit,wkhtmltopdf,FPDF
     
@@ -4670,6 +4671,8 @@ AutoAI — Automating the AI Workflow to Build & Deploy Machine Learning model  
 AutoML toolkit   https://github.com/microsoft/nni
 
 LightAutoML LAMA - automatic model creation framework https://github.com/sberbank-ai-lab/LightAutoML https://analyticsindiamag.com/hands-on-python-guide-to-lama-an-automatic-ml-model-creation-framework/
+
+LightAutoML https://github.com/sb-ai-lab/LightAutoML
 
 mljar-supervised  Automates Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning https://github.com/mljar/mljar-supervised 
  
