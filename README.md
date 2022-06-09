@@ -1057,7 +1057,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.One Hot Encoding , dummy, and effect coding,Similarity Encoding
      
-     2.Count Or Frequency Encoding
+     2.Count Or Frequency Encoding 
      
      3.Ordinal encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding,Target-Mean-Encoding
      
