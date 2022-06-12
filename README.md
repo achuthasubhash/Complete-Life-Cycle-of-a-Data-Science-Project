@@ -124,6 +124,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
     
     9.Octoparse Easy Web Scraping   https://www.octoparse.com/
     
+     prowebscraper https://prowebscraper.com/features
+    
      Web scraper https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en
     
      ParseHub https://www.parsehub.com/  https://analyticsindiamag.com/parsehub-no-code-gui-based-web-scraping-tool/
@@ -824,7 +826,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
    1.Removal of arbitraty features: DropFeatures 
    
-   Removing unused columns
+   Removing unused columns,Removing Constant features,Removing Constant Features using VarianceThreshold,Removing Quasi-Constant Features,Removing Duplicate Columns  
    
    2.Removal of constant and almost constant features: DropConstantFeatures
    
@@ -837,6 +839,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Drop features that have a poor correlation with the response variable
    
    5.Selection of features by value shuffling: SelectByShuffling 
+   
+   Selection of features by High correlation with the target variable
    
    6.Selection of features by univariate performance: SelectBySingleFeaturePerformance
    
