@@ -2916,7 +2916,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      7.Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
-     8.Time Series cross-validation
+     8.Time Series cross-validation  ,  TimeSeriesSplit
     
      9.ShuffleSplit Cross Validation,Group Shuffle Split
     
@@ -3199,6 +3199,8 @@ six different types of methods:
 9) 3LC https://research.google/pubs/pub47962/
 10) brevitas https://github.com/Xilinx/brevitas/
 11) aimet https://github.com/quic/aimet
+
+Structured pruning,Unstructured/semi-structured pruning,Quantization,Distillation,Post Training,Training-Aware,Sparse Transfer
 
 QKeras: a quantization deep learning library for Tensorflow Keras
 
@@ -4590,7 +4592,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 3.awesome-AutoML https://github.com/windmaple/awesome-AutoML , automl-gs github.com/minimaxir/automl-gs
 
-autopandas,Auto-Sklearn,Auto-ViML,AutoViz,FLAML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR
+autopandas,Auto-Sklearn,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR
 
 Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless
 
