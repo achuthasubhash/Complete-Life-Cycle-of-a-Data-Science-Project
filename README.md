@@ -1139,7 +1139,7 @@ performance if not distributed then use below methods to bring it guassian distr
 
 normal test,Histogram,Q-Q plot,KDE plot,Skewness and Kurtosis for check normal distribution 
 
-Fitter Library Finding the Best Distribution that Fits Your Data  https://towardsdatascience.com/finding-the-best-distribution-that-fits-your-data-using-pythons-fitter-library-319a5a0972e9
+Fitter Library Finding the Best Distribution that Fits Your Data  https://towardsdatascience.com/finding-the-best-distribution-that-fits-your-data-using-pythons-fitter-library-319a5a0972e9 
 
 anderson teset  use for check any  distribution 
 
