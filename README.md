@@ -1089,7 +1089,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      9.one hot encoding with multi category (keep most frequently repeated only) (One hot encoding of top categories)
      
-     10.feature hashing 
+     10.feature hashing,CatBoost Encoding 
      
      11.sparse csr matrix
      
@@ -1107,7 +1107,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding,BackwardDifferenceEncoder GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer,SumEncoder,Quantile Encoder,Summary Encoder 
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding,BackwardDifferenceEncoder GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer,SumEncoder,Quantile Encoder,Summary Encoder ,Base N Coding
      
      Transform your categorical columns with imperio SmoothingTransformer
      
@@ -1380,7 +1380,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
 
     1.Filter methods (Constant feature,Quasi constant feature,Duplication feature,correleation,feature importance,chisquare test,Ttest,ftest,vif,anova test,mutal information,  F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score etc...)
 
-    2.Wrapper methods (recursive feature eliminiation,Recursive feature addition,SelectKbest,boruta,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection etc...)
+    2.Wrapper methods (recursive feature eliminiation,Recursive feature addition,SelectKbest,boruta,mRMR,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection etc...)
 
     3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...),Feature Selection by Tree importance,Feature selection with decision trees,regression coefficients(logistic,linear coeffiicients))
     
@@ -4043,7 +4043,7 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
    
    How to easily check if your Machine Learning model is fair (dalex) https://www.kdnuggets.com/2020/12/machine-learning-model-fair.html
    
-   TensorFlow Federated,TensorFlow Model Remediation,TensorFlow Privacy,LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,Responsible AI Toolbox,XAI,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System,Model Card Toolkit
+   TensorFlow Federated,TensorFlow Model Remediation,TensorFlow Privacy,LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,Responsible AI Toolbox,XAI,scikit-fairness,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System,Model Card Toolkit,AI Fairness 360, AI Explainability 360, Adversarial Robustness 360, Uncertainty Quantification 360, AI Privacy 360, Causal Inference 360, and AI FactSheets 360
    
    https://analyticsindiamag.com/guide-to-ai-fairness-360-an-open-source-toolkit-for-detection-and-mitigation-of-bias-in-ml-models/
    
