@@ -592,7 +592,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,Pika
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI
 
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -615,6 +615,8 @@ World’s Largest Data Platform https://worlddata.ai/
     Synthetic structured data generators https://github.com/ydataai/ydata-synthetic
     
     gretel Synthetic Data API  https://gretel.ai/
+    
+    Timeseries DGAN https://synthetics.docs.gretel.ai/en/latest/models/timeseries_dgan.html
     
     DatasetGAN: an automatic procedure to generate massive datasets of high-quality images 
     
@@ -759,6 +761,8 @@ World’s Largest Data Platform https://worlddata.ai/
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
    
    data cleaning library https://www.analyticsvidhya.com/blog/2021/05/data-cleaning-libraries-in-python-a-gentle-introduction/
+   
+   Mage https://github.com/mage-ai/mage-ai
   
    Cleaner Data Analysis with Pandas Using Pipes https://towardsdatascience.com/cleaner-data-analysis-with-pandas-using-pipes-4d73770fbf3c
    
@@ -955,6 +959,8 @@ World’s Largest Data Platform https://worlddata.ai/
      20.Imputation with the string ‘Missing’ ,Addition of binary missing indicators
           
      21.Algorithms robust to missing values - LightGBM
+     
+     datawig imputation https://github.com/awslabs/datawig
      
      Top Data Cleaning Tools https://www.marktechpost.com/2022/02/20/top-data-cleaning-tools-for-data-science-and-machine-learning-projects-in-2022/
      
@@ -1187,7 +1193,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       
       methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,One-Class SVM,Isolation Forest,DBSCAN,K Means Clustering,Percentile
       
-      Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD)
+      Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),Elliptic Envelope 
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning
       
