@@ -880,12 +880,16 @@ World’s Largest Data Platform https://worlddata.ai/
    
      1.if missing data too small then delete it a.row deletion b.column deletion c.pairwise deletion and listwise deletion
      
+     Drop based on a threshold value,Drop using a subset of columns
+     
      2.replace by statistical method mean(influenced by outiler),median(not influenced by outiler),mode , minimum, maximum,Zero,Constant
      
      Fill with Mean / Median of Column or  Group   Forward Fill  or Forward Fill within Groups  
      
      Mean and Median Fill with Groupby 
      
+     Pass another DataFrame to fillna function to fill up the missing values.
+      
      3.apply classifier algorithm to predict missing value
      
      Using Algorithms that support missing values
