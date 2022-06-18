@@ -1548,6 +1548,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
   
   snapml 30 Times Faster Than Scikit-Learn  snapml  https://www.zurich.ibm.com/snapml/
   
+  scikit-learn-intelex https://github.com/intel/scikit-learn-intelex
+  
   composer speed-up algorithms for model training https://github.com/mosaicml/composer
   
   pdpipe  https://github.com/pdpipe/pdpipe     pipeline https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html
@@ -3267,6 +3269,9 @@ privacy https://github.com/tensorflow/privacy
 
 ***Quantization:Use Quantization to reduce size of model***  https://medium.com/qiskit/introducing-qiskit-machine-learning-5f06b6597526
 
+Post Training Quantization
+Aware Training Quantization
+
 TensorFlow Quantum  https://www.tensorflow.org/quantum
 
 Qiskit Machine Learning  https://github.com/Qiskit/qiskit-machine-learning
@@ -3933,7 +3938,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
    Eli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates,
-xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive Explanation Method (CEM),Counterfactual Instances,Global Interpretation via Recursive,Partitioning (GIRP),Protodash,Scalable Bayesian Rule Lists,Tree Surrogates,Explainable Boosting Machine (EBM),DALEX,ALIBI,DiCE,Explainerdashboards,TCAV
+xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive Explanation Method (CEM),Counterfactual Instances,Global Interpretation via Recursive,Partitioning (GIRP),Protodash,Scalable Bayesian Rule Lists,Tree Surrogates,Explainable Boosting Machine (EBM),DALEX,ALIBI,DiCE,Explainerdashboards,TCAV,PiML
 
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
@@ -3990,6 +3995,8 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
    eli5  https://eli5.readthedocs.io/en/latest/
    
    Integrated-Gradients https://github.com/ankurtaly/Integrated-Gradients
+   
+   xplique https://github.com/deel-ai/xplique/
    
    TabNet: Attentive Interpretable Tabular Learning  https://github.com/dreamquark-ai/tabnet
    
@@ -4054,6 +4061,8 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
    109.Continuous Machine Learning (CML),OpenMLOps,Metaflow,Kubeflow,Data Version Control (DVC),Kedro
    
    mlflow  https://mlflow.org/   An open source platform for the machine learning lifecycle
+   
+   Layer https://docs.app.layer.ai/docs/
    
    https://www.kdnuggets.com/2021/01/5-tools-effortless-data-science.html
    
@@ -4713,7 +4722,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
   
