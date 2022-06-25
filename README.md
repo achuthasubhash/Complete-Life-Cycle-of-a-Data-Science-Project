@@ -2174,6 +2174,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
       7.convolutional   autoencoder
       
+     Beta Variational Autoencoder,VAE with Linear Normalizing Flows ,VAE with Inverse Autoregressive Flows ,Disentangled Beta Variational Autoencoder,Disentangling by Factorising (FactorVAE),Beta-TC-VAE (BetaTCVAE),Importance Weighted Autoencoder (IWAE),VAE with perceptual metric similarity,Wasserstein Autoencoder (WAE),Info Variational Autoencoder,VAMP Autoencoder (VAMP),Hyperspherical VAE (SVAE),Adversarial Autoencoder (Adversarial_AE),Variational Autoencoder GAN (VAEGAN) ,Vector Quantized VAE (VQVAE),Hamiltonian VAE (HVAE),Regularized AE with L2 decoder param (RAE_L2),Regularized AE with gradient penalty (RAE_GP),Riemannian Hamiltonian VAE (RHVAE)
+      
       https://github.com/zc8340311/RobustAutoencoder
       
       Applications of AutoEncoders,Dimensionality reduction,Anomaly detection,Image denoising,Image compression,Image generation
@@ -2928,7 +2930,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      7.Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
-     8.Time Series cross-validation  ,  TimeSeriesSplit
+     8.Time Series cross-validation  ,  TimeSeriesSplit ,Rolling Time Series Cross Validation 
     
      9.ShuffleSplit Cross Validation,Group Shuffle Split
     
