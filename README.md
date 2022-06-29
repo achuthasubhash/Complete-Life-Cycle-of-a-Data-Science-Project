@@ -1191,7 +1191,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,One-Class SVM,Isolation Forest,DBSCAN,K Means Clustering,Percentile
+      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,svm,One-Class SVM,Isolation Forest,kmeans,DBSCAN,K Means Clustering,Percentile,knn,autoencoder,local outiler factor
       
       Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),Elliptic Envelope 
       
