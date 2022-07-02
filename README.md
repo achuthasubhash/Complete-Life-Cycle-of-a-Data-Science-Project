@@ -148,7 +148,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      Diffbot  https://analyticsindiamag.com/diffbot/
      
-     Trustpilot,webhose,scrapingbot
+     Trustpilot,webhose,scrapingbot 
      
      lxml  https://lxml.de/index.html#introduction
      
