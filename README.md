@@ -970,6 +970,10 @@ World’s Largest Data Platform https://worlddata.ai/
      
      re-data  fix data issues https://github.com/re-data/re-data
      
+     Automatically find and fix errors in your ML datasets. https://github.com/cleanlab/cleanlab
+     
+     Clean APIs for data cleaning https://github.com/pyjanitor-devs/pyjanitor
+     
      https://github.com/akanz1/klib  https://pyjanitor-devs.github.io/pyjanitor/ https://dataprep.ai/  https://scrubadub.readthedocs.io/en/latest/index.html 
      
      AutoClean https://github.com/elisemercury/AutoClean
@@ -1110,6 +1114,8 @@ World’s Largest Data Platform https://worlddata.ai/
      Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding,BackwardDifferenceEncoder GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer,SumEncoder,Quantile Encoder,Summary Encoder ,Base N Coding
      
      Transform your categorical columns with imperio SmoothingTransformer
+     
+     Automatically selects the best encoder https://github.com/dirty-cat/dirty_cat
      
      Improve ML Model Performance by Combining Categorical Features https://towardsdatascience.com/improve-ml-model-performance-by-combining-categorical-features-a23efbb6a215
      
@@ -2862,6 +2868,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     mle-hyperopt Lightweight Hyperparameter Optimization Tool https://github.com/mle-infrastructure/mle-hyperopt
     
+    h.Hyperparameter Optimization  https://github.com/awslabs/syne-tune
+    
     i.ray[tune] and aisaratuners https://towardsdatascience.com/choosing-a-hyperparameter-tuning-library-ray-tune-or-aisaratuners-b707b175c1d7
     
     raytune https://docs.ray.io/en/master/tune/index.html
@@ -3946,6 +3954,8 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
 
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
+   explaining machine learning models https://github.com/SeldonIO/alibi https://github.com/salesforce/OmniXAI
+   
    Awesome-explainable-AI  https://ex.pegg.io/
    
    tf-explain https://github.com/sicara/tf-explain   imodels  https://github.com/csinva/imodels
@@ -4107,7 +4117,9 @@ determined to be unfair.
    
    MLflow vs Kubeflow vs Neptune  https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlflow-vs-kubeflow-vs-neptune-differences
    
-   15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps
+   15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps,MLflow and TensorBoard ,Weights & Biases, Neptune AI, Comet,aim
+   
+   aim https://github.com/aimhubio/aim
   
    Metaflow,MLReef,MLRun,ZenML,MLflow,Seldon,Bodywork,Pachyderm,DVC, or Data Version Control
    
@@ -4836,7 +4848,7 @@ change to proper dtypes,usecols of required only reduce size
 
 Better Data Storage : CSV,Parquet,Feather
 
-pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
+pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
 pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 
