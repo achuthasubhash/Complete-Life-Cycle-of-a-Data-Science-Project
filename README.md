@@ -1249,6 +1249,8 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
      
      Anomaly detection using PyOD  https://pyod.readthedocs.io/en/latest/   https://www.youtube.com/watch?v=QPjG_313GOw  https://github.com/yzhao062/pyod https://pyod.readthedocs.io/en/latest/pyod.models.html
      
+     ADBench https://github.com/Minqi824/ADBench
+     
      Anomaly Detection Pyfbad https://github.com/Teknasyon-Teknoloji/pyfbad
      
      divided into three types:Point/Global Anomalies,Collective Anomalies,Contextual Anomalies https://towardsdatascience.com/a-comprehensive-beginners-guide-to-the-diverse-field-of-anomaly-detection-8c818d153995
@@ -2144,7 +2146,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
    
-     Cycle gan,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Instance-Conditioned GAN,Wasserstein GAN(improve image generation),ChromaGan,GANsformers,Conditional GAN and Unconditional GAN,Least Square GAN,Auxilary Classifier GAN,Dual Video Discriminator GAN,SRGAN
+     Cycle gan,Big GAN Style GAN,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Instance-Conditioned GAN,Wasserstein GAN(improve image generation),ChromaGan,GANsformers,Conditional GAN and Unconditional GAN,Least Square GAN,Auxilary Classifier GAN,Dual Video Discriminator GAN,SRGAN
+
      
      diffusion https://github.com/openai/guided-diffusion
      
