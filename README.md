@@ -592,8 +592,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI
-
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerator
+    
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
     Mockaroo  https://www.mockaroo.com/ 
@@ -1243,7 +1243,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
      
      Timetk https://towardsdatascience.com/timetk-the-r-library-for-time-series-analysis-9822f7720318
      
-     Isolation Forest(for Big Data),Z score,dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD,Auto Encoders,K-means
+     Isolation Forest(for Big Data),Z score,dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD,Auto Encoders,K-means,Histogram-based
      
      bootstrapping to remove the influence of the outlier data
      
@@ -1497,6 +1497,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     PyRasgo https://github.com/rasgointelligence/PyRasgo https://docs.rasgoml.com/rasgo-docs/?_ga=2.209281745.2123722956.1645542654-525286113.1645542654
     
     Automated Feature Engineering Using Deep Feature Synthesis (DFS)  https://heartbeat.comet.ml/introduction-to-automated-feature-engineering-using-deep-feature-synthesis-dfs-3feb69a7c00b
+    
+    Automatic Feature Selection in python  https://verstack.readthedocs.io/en/latest/#featureselector
     
     Featurewiz: Fast way to select the best features in a data
     Featuretools: https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
