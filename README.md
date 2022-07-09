@@ -986,7 +986,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Random majority under-sampling with replacement,Tomek Links Undersampling,Under-sampling with Cluster Centroids,Condensed Nearest Neighbour,One-Sided Selection,Neighboorhood Cleaning Rule,One-Sided Selection
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,Borderline-SMOTE SVM, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,Borderline-SMOTE SVM, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,ENNSMOTE,SVMSMOTE,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
      
      Over-sampling followed by under-sampling : SMOTE + Tomek links,SMOTE + ENN 
      
@@ -1557,6 +1557,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
   skater Machine Learning Model Interpretation https://towardsdatascience.com/machine-learning-model-interpretation-47b4bc29d17f
   
   Speedml Speeding up Machine Learning  https://towardsdatascience.com/speedml-speeding-up-machine-learning-5dccbf21effd
+  
+  2-2000x faster ML algos https://github.com/danielhanchen/hyperlearn
   
   snapml 30 Times Faster Than Scikit-Learn  snapml  https://www.zurich.ibm.com/snapml/
   
@@ -2678,6 +2680,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       sktime-https://github.com/alan-turing-institute/sktime  https://analyticsindiamag.com/sktime-library/
       
+      autocast https://github.com/andyzoujm/autocast
+      
       tsfresh – a magical library for feature extraction in time-series datasets.
       
       atspy  https://github.com/firmai/atspy
@@ -2808,6 +2812,14 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     HalvingRandomSearchCV
   
     c.Bayesian Optimization , Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize
+    
+    Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
+    
+    Scikit Optimize: https://github.com/scikit-optimize/scikit-optimize
+    
+    Pyro: https://github.com/pyro-ppl/pyro
+    
+    BoTorch: https://github.com/pytorch/botorch
     
     Bayesian search with Gaussian processes,bayesian search with Random Forests,Bayesian search with GBMs
 
@@ -3076,6 +3088,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
     BentoML https://github.com/bentoml/BentoML
+    
+    UnionML: the easiest way to build and deploy machine learning microservices https://github.com/unionai-oss/unionml
     
     panel high-level app and dashboarding solution for Python https://github.com/holoviz/panel
     
