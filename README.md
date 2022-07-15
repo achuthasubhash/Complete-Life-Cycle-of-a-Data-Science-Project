@@ -1179,7 +1179,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
            
            g.Quantile Transformation ,Arcsin Transformation
            
-           Root transformation,Cube root transformation,Cosine Transformation
+           Root transformation,Cube root transformation,Cosine Transformation,SplineTransformer,FunctionTransformer 
            
            Left skewness (use powers) Squares transformation,Cubes transformation,High powers
       
@@ -1663,7 +1663,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
          a.collaborative Recommendation system (model based, memory based(item based,user based),hybrid)  user-item interaction matrix
          
-         Classification-based collaborative filtering,Model-based collaborative filtering systems
+         Classification-based collaborative filtering,Model-based collaborative filtering systems ( Matrix factorizatiom (SVD))
         
          b.content based Recommendation system 
          
@@ -1679,7 +1679,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          f.hybrid based Recommendation system 
          
-         Popularity based Recommendation system 
+         Popularity based Recommendation system (NON-PERSONALIZED )
          
          g.Average Weighted Recommendation
          
@@ -4196,7 +4196,7 @@ determined to be unfair.
    
    117.https://www.pye.ai/2021/03/19/machine-learning-model-management-what-why-and-how/  https://www.ambiata.com/blog/2020-12-07-mlops-tools/
    
-   Pachyderm  Kubeflow  MLflow  Metaflow ZenML  Seldon  Bodywork MLReef  MLRun   DVC katana-skipper Weights & Biases  Valohai Polyaxon Neptune.ai   CometML Algorithmia  clearml, airflow, kedro, GitHub Actions 
+   Pachyderm  Kubeflow  MLflow  Metaflow ZenML  Seldon  Bodywork MLReef  MLRun   DVC katana-skipper Weights & Biases  Valohai Polyaxon Neptune.ai   CometML Algorithmia  clearml, airflow, kedro, GitHub Actions  Flyte Valohai Seldon Iguazio Datarobot Dataiku cnvrg.io ClearML AWS Sagemaker
    
    BentoML Unified Model Serving Framework https://github.com/bentoml/BentoML
    
@@ -4646,7 +4646,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 3.awesome-AutoML https://github.com/windmaple/awesome-AutoML , automl-gs github.com/minimaxir/automl-gs
 
-autopandas,Auto-Sklearn,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR
+autopandas,Auto-Sklearn,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR,PyCaret,Auto-sklearn
 
 Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless
 
@@ -4757,7 +4757,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,pandas_UI,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,mito,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
   
@@ -4868,7 +4868,8 @@ change to proper dtypes,usecols of required only reduce size
 Better Data Storage : CSV,Parquet,Feather
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization  https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS
+https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 
 composer library of algorithms to speed up neural network training  https://github.com/mosaicml/composer 
