@@ -3083,7 +3083,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
@@ -4757,7 +4757,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,pandas_UI,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,mito,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
   
