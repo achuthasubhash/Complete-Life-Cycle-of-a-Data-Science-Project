@@ -1691,6 +1691,10 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          recommenders  https://github.com/microsoft/recommenders
          
+         Neural Collaborative Filtering for Personalized Ranking  
+         
+         AutoRec: Rating Prediction with Autoencoders Matrix Factorization
+         
          k.suprise baseline model
          
          l.Tf-Rec https://github.com/Praful932/Tf-Rec
