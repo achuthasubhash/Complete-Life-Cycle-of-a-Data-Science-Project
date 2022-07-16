@@ -1115,6 +1115,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Transform your categorical columns with imperio SmoothingTransformer
      
+     entity encoder for categorical variable   https://contrib.scikit-learn.org/category_encoders/
+     
      Automatically selects the best encoder https://github.com/dirty-cat/dirty_cat
      
      Improve ML Model Performance by Combining Categorical Features https://towardsdatascience.com/improve-ml-model-performance-by-combining-categorical-features-a23efbb6a215
@@ -4147,23 +4149,23 @@ determined to be unfair.
    
    15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps,MLflow and TensorBoard ,Weights & Biases, Neptune AI, Comet,aim
    
-   Experiment tracking :Kedro modeldb mlflow DVC weight and biases Neptune clearly tensorboard determined polyaxon
+   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon
    
-   Data versioning:Dolt DVC gitlfs pachyderm lakefs DVC weight and biases Neptune
+   Data versioning:Dolt,DVC,gitlfs,pachyderm,lakefs,DVC,weight and biases,Neptune
    
-   Code versioning: Gitlab git
+   Code versioning: Gitlab,git
    
-   Pipeline orchestration:Apche airflow Argo workflows Luigi kubeflow kedro nextflow dragster Apache bean zenml flute prefect ray DVC polyaxon clearml mlrun pachyderm
+   Pipeline orchestration:Apche airflow,Argo,workflows,Luigi,kubeflow,kedro,nextflow,dragster,Apache,bean,zenml,flute,prefect,ray,DVC,polyaxon,clearml,mlrun,pachyderm
    
-   Runtime engine:Ray nuclio dask horovod Apache spark
+   Runtime engine:Ray,nuclio,dask,horovod,Apache,spark
    
-   Artifact tracking:Kubeflow mlflow weight and biases Neptune polyaxon clearml mlrun pachyderm
+   Artifact tracking:Kubeflow,mlflow,weight and biases,Neptune,polyaxon,clearml,mlrun,pachyderm
    
-   Model registry:Modeldb mlflow determined weight and biases Neptune clearml mlrun
+   Model registry:Modeldb,mlflow,determined,weight and biases,Neptune,clearml,mlrun
    
-   Model serving:Seldon core bentoml tensorflow serving kserve fastapi torchserve ray mlflow clearml mlrun
+   Model serving:Seldon,core,bentoml,tensorflow,serving,kserve,fastapi,torchserve,ray,mlflow,clearml,mlrun
     
-   Model monitoring:Evidently grafana alibi detect modeldb clearml mlrun prometheus
+   Model monitoring:Evidently,grafana,alibi,detect,modeldb,clearml,mlrun,prometheus
    
    aim https://github.com/aimhubio/aim
   
