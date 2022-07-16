@@ -3087,7 +3087,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
@@ -4142,6 +4142,24 @@ determined to be unfair.
    MLflow vs Kubeflow vs Neptune  https://neptune.ai/blog/mlflow-vs-kubeflow-vs-neptune-differences?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-mlflow-vs-kubeflow-vs-neptune-differences
    
    15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps,MLflow and TensorBoard ,Weights & Biases, Neptune AI, Comet,aim
+   
+   Experiment tracking :Kedro modeldb mlflow DVC weight and biases Neptune clearly tensorboard determined polyaxon
+   
+   Data versioning:Dolt DVC gitlfs pachyderm lakefs DVC weight and biases Neptune
+   
+   Code versioning: Gitlab git
+   
+   Pipeline orchestration:Apche airflow Argo workflows Luigi kubeflow kedro nextflow dragster Apache bean zenml flute prefect ray DVC polyaxon clearml mlrun pachyderm
+   
+   Runtime engine:Ray nuclio dask horovod Apache spark
+   
+   Artifact tracking:Kubeflow mlflow weight and biases Neptune polyaxon clearml mlrun pachyderm
+   
+   Model registry:Modeldb mlflow determined weight and biases Neptune clearml mlrun
+   
+   Model serving:Seldon core bentoml tensorflow serving kserve fastapi torchserve ray mlflow clearml mlrun
+    
+   Model monitoring:Evidently grafana alibi detect modeldb clearml mlrun prometheus
    
    aim https://github.com/aimhubio/aim
   
