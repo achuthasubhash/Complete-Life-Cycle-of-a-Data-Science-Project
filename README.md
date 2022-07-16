@@ -1400,6 +1400,10 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     
     feature selection  https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c
     
+    Feature selector https://github.com/WillKoehrsen/feature-selector
+    
+    boruta  https://github.com/scikit-learn-contrib/boruta_py https://github.com/Ekeany/Boruta-Shap
+    
     DropConstantFeatures  DropDuplicateFeatures    DropCorrelatedFeatures  
     
     step forward feature selection https://www.kdnuggets.com/2018/06/step-forward-feature-selection-python.html
