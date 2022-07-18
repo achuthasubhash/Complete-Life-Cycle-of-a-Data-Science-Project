@@ -1671,7 +1671,9 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
          a.collaborative Recommendation system (model based, memory based(item based,user based),hybrid)  user-item interaction matrix
          
-         Classification-based collaborative filtering,Model-based collaborative filtering systems ( Matrix factorizatiom (SVD))
+         Classification-based collaborative filtering
+         
+         Model-based collaborative filtering systems(Cluster model,linear regression,Bayesian networks ,latent factor(probabilistic latent,matrix factorization(als,SGD,SVD),neural network,lda))
         
          b.content based Recommendation system 
          
@@ -2277,7 +2279,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      NLU,NLG,NER,text summarization,Sentiment Analysis,Text Classifications,machine translation,chat bot,Text Generation,Speech Recognition
 
-     Case Normalization,regex,Lowercasing,sent_tokenize,Tokenization,Remove Punctuations,Removing Stopwords,Removing Unicode,Removing Emojis,Convert Emoji,Remove Emoticon,Removing URLs,Hashtags,text normalization,Noise Removal,Punctuation,Spell Correction,Stemming or Lemmatization
+     Case Normalization,regex,Lowercasing,sent_tokenize,Tokenization,Remove Punctuations,Removing Stopwords,Removing Unicode,Removal of(Noise, URLs, Hashtag and User-mentions Hashtag),Replacing Emoticons,Removing Number,Correction of Spelling mistakes,Expanding Contractions,Removing Emojis,Convert Emoji,Remove Emoticon,Removing URLs,Hashtags,text normalization,Noise Removal,Punctuation,Spell Correction,Stemming or Lemmatization
       
      1.One-hot-encoding,Index-based Encoding,Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
      
@@ -4898,7 +4900,7 @@ change to proper dtypes,usecols of required only reduce size
 
 Better Data Storage : CSV,Parquet,Feather
 
-pandas chunksize,Pandas vectorization,Numpy Vectorization,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
+pandas chunksize,Pandas vectorization,Numpy Vectorization, multiprocessing,airflow,celery,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
 pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS
 https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
