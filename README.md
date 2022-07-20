@@ -772,6 +772,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Dora,PrettyPandas,DataCleaner,Tabulate,Pyjanitor
    
+   https://github.com/sfu-db/dataprep  https://github.com/akanz1/klib  https://www.bitrook.com/  https://github.com/rhiever/datacleaner https://github.com/johnkerl/miller
+   
    cleanlab  data-centric AI and machine learning with label errors, finding mislabeled data, and uncertainty quantification. Works with most datasets and models https://github.com/cleanlab/cleanlab 
    
    cleantext https://www.youtube.com/watch?v=i2TjAgga1YU&feature=youtu.be  
@@ -988,7 +990,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Random majority under-sampling with replacement,Tomek Links Undersampling,Under-sampling with Cluster Centroids,Condensed Nearest Neighbour,One-Sided Selection,Neighboorhood Cleaning Rule,One-Sided Selection
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,Borderline-SMOTE SVM, SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,ENNSMOTE,SVMSMOTE,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,Borderline-SMOTE SVM,DBSMOTE,SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,ENNSMOTE,SVMSMOTE,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC  
      
      Over-sampling followed by under-sampling : SMOTE + Tomek links,SMOTE + ENN 
      
@@ -1020,6 +1022,8 @@ World’s Largest Data Platform https://worlddata.ai/
      weighted loss function
      
      4.use Stratified kfold to keep the ratio of classess constantly, train teat spilt startify attribute
+     
+     Stratified Sampling
      
      5.Weighted Neural Network
      
@@ -3097,7 +3101,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy
+
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
@@ -3143,7 +3148,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Creating a Machine Learning App with Power BI and PyCaret
     
-    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUIvs pywebio vs Gradio vs autocalc vs Mercury vs Chitra  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila,pymlpipe
+    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUIvs pywebio vs Gradio vs autocalc vs Mercury vs Chitra  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila,pymlpipe,Lightning Apps
     
     Mercury: easily convert Python notebook to web app and share with others https://github.com/mljar/mercury
     
