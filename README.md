@@ -20,7 +20,7 @@ Data consists of 3 kinds
     
     c.semi structured data (XML,JSON,etc...)
     
-variable 
+variable  
    
     a.qualitative (nominal,ordinal,binary) 
     
