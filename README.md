@@ -2971,7 +2971,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      5.Holdout cross-validation
      
-     6.Repeated cross-validation,Blocked Cross-Validation Method, Nested Cross-Validation Method,Group Cross-Validation
+     6.Repeated cross-validation,Blocked Cross-Validation Method, Nested Cross-Validation Method,Group Cross-Validation,GroupShuffleSplit
      
      7.Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
@@ -3148,7 +3148,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
     
     Creating a Machine Learning App with Power BI and PyCaret
     
-    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUIvs pywebio vs Gradio vs autocalc vs Mercury vs Chitra  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila,pymlpipe,Lightning Apps
+    Streamlit vs. Dash vs. Shiny vs. Voila vs. Flask vs. Jupyter vs django vs PySimpleGUIvs pywebio vs Gradio vs autocalc vs Mercury vs Chitra  https://www.datarevenue.com/en-blog/data-dashboarding-streamlit-vs-dash-vs-shiny-vs-voila,pymlpipe,Lightning Apps,Aibro
     
     Mercury: easily convert Python notebook to web app and share with others https://github.com/mljar/mercury
     
