@@ -4698,7 +4698,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 autopandas,Auto-Sklearn,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR,PyCaret,Auto-sklearn
 
-Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless
+Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless,Amazon Lex, BigML,AutoML JADBio,Akkio MLJAR, Tazi.ai
 
 Automated Tensorflow  https://github.com/rafiqhasan/auto-tensorflow
 
