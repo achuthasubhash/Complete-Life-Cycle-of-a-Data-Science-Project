@@ -3997,9 +3997,11 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
    Shapash,ELI5,InterpretML,OmniXAIEli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates,
-xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive Explanation Method (CEM),Counterfactual Instances,Global Interpretation via Recursive,Partitioning (GIRP),Protodash,Scalable Bayesian Rule Lists,Tree Surrogates,Explainable Boosting Machine (EBM),DALEX,ALIBI,DiCE,Explainerdashboards,TCAV,PiML
+xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive Explanation Method (CEM),Counterfactual Instances,Global Interpretation via Recursive,Partitioning (GIRP),Protodash,Scalable Bayesian Rule Lists,Tree Surrogates,Explainable Boosting Machine (EBM),DALEX,ALIBI,DiCE,Explainerdashboards,TCAV,PiML,Xplique
 
    OmniXAI: A Library for eXplainable AI  https://github.com/salesforce/OmniXAI
+   
+   Xplique is a Neural Networks Explainability Toolbox https://github.com/deel-ai/xplique/
    
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
