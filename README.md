@@ -1705,6 +1705,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          i.cosine distance recommender system
          
+         item2vec 
+         
          j.TensorFlow Recommenders https://www.tensorflow.org/recommenders
          
          recommenders  https://github.com/microsoft/recommenders
@@ -4007,7 +4009,7 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
    
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
    
-   explaining machine learning models https://github.com/SeldonIO/alibi https://github.com/salesforce/OmniXAI
+   explaining machine learning models https://github.com/SeldonIO/alibi https://github.com/salesforce/OmniXAI  https://github.com/SeldonIO/alibi
    
    Awesome-explainable-AI  https://ex.pegg.io/
    
