@@ -4252,7 +4252,8 @@ determined to be unfair.
    
    117.https://www.pye.ai/2021/03/19/machine-learning-model-management-what-why-and-how/  https://www.ambiata.com/blog/2020-12-07-mlops-tools/
    
-   Pachyderm  Kubeflow  MLflow  Metaflow ZenML  Seldon  Bodywork MLReef  MLRun   DVC katana-skipper Weights & Biases  Valohai Polyaxon Neptune.ai   CometML Algorithmia  clearml, airflow, kedro, GitHub Actions  Flyte Valohai Seldon Iguazio Datarobot Dataiku cnvrg.io ClearML AWS Sagemaker
+   Pachyderm  Kubeflow  MLflow  Metaflow ZenML  Seldon  Bodywork MLReef  MLRun   DVC katana-skipper Weights & Biases  Valohai Polyaxon Neptune.ai   CometML Algorithmia  clearml, airflow, kedro, GitHub Actions  Flyte Valohai Seldon Iguazio Datarobot Dataiku cnvrg.io ClearML AWS Sagemaker wandb evidently
+
    
    BentoML Unified Model Serving Framework https://github.com/bentoml/BentoML
    
