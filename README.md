@@ -2875,6 +2875,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     tuun Hyperparameter tuning via uncertainty modeling https://github.com/petuum/tuun
     
+    tune-sklearn https://github.com/ray-project/tune-sklearn/
+    
     NeuPy http://neupy.com/2016/12/17/hyperparameter_optimization_for_neural_networks.html#id24
     
     Vizier
@@ -2915,7 +2917,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     i.ray[tune] and aisaratuners https://towardsdatascience.com/choosing-a-hyperparameter-tuning-library-ray-tune-or-aisaratuners-b707b175c1d7
     
-    raytune https://docs.ray.io/en/master/tune/index.html
+    raytune https://docs.ray.io/en/master/tune/index.html https://docs.ray.io/en/latest/tune/index.html
     
     k.model_search https://github.com/google/model_search https://analyticsindiamag.com/hands-on-guide-to-model-search-a-tensorflow-based-framework-for-automl/
     
