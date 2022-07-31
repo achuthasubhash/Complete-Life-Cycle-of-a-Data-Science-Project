@@ -1538,6 +1538,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
   
   interactive tools https://github.com/Machine-Learning-Tokyo/Interactive_Tools 
   
+  mindsdb In-Database Machine Learning https://github.com/mindsdb/mindsdb
+  
   HTML tables into Google Sheets -https://towardsdatascience.com/import-html-tables-into-google-sheets-effortlessly-f471eae58ac9 
   
   Machine Learning Playground  https://ml-playground.com/
@@ -2221,6 +2223,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    8.Natural language processing
    
+     regex,PRegEx  (https://github.com/manoss96/pregex)
+   
      Clean data(removing stopwords depond on problem ,lowering data,tokenization,postagging,stemmimg or lemmatization depond on problem,skipgram,n-gram,chunking)
      
      clean text https://github.com/jfilter/clean-text
@@ -2556,7 +2560,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       models 
       
-      1.AR, MA, ARMA, ARIMA, auto arima(pmd arima) ,seasonal arima,SARIMAX models
+      1.AR,VR, VAR, MA, ARMA, ARIMA, auto arima(pmd arima) ,seasonal arima,SARIMAX models
       
       2.Autoregressive
       
@@ -2564,7 +2568,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       11 Classical Time Series Forecasting Methods in Python https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
       
-      4.XGBoost,Lstm(neural network)
+      4.XGBoost,Lstm(neural network),DeepAR ( An RNN Algorithm)
       
       5.GARCH
       
@@ -2585,6 +2589,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       ETSformer-pytorch https://github.com/lucidrains/ETSformer-pytorch
       
       Transformer Networks to build a Forecasting model https://towardsdatascience.com/how-to-use-transformer-networks-to-build-a-forecasting-model-297f9270e630
+      
+      Temporal Fusion Transformer (By Google)
       
       hmmlearn https://github.com/ushareng/StockPricePredictionUsingHMM_Byte/blob/master/StockPricePredictionUsingHMM.ipynb
       
