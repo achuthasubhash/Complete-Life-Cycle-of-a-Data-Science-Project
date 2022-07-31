@@ -3289,6 +3289,8 @@ qiskit-machine-learning https://github.com/Qiskit/qiskit-machine-learning https:
 
 compressors https://github.com/elephantmipt/compressors
 
+poniard scikit-learn model comparison https://github.com/rxavier/poniard
+
 https://rachitsingh.com/deep-learning-model-compression/#quantization
 
 model optimization (architecture)
