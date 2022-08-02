@@ -3276,6 +3276,8 @@ six different types of methods:
 
 Structured pruning,Unstructured/semi-structured pruning,Quantization,Distillation,Post Training,Training-Aware,Sparse Transfer
 
+Pruning,Nonstructural pruning,Structural pruning,Quantisation-Aware Training,Post-Training Quantisation
+
 QKeras: a quantization deep learning library for Tensorflow Keras
 
 Knowledge Distillation  knowledge are categorized into three different types: Response-based knowledge, Feature-based knowledge, and Relation-based knowledge
