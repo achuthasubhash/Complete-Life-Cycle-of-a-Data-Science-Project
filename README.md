@@ -3052,6 +3052,12 @@ Generally used metrics
     https://analyticsindiamag.com/all-pytorch-loss-function/   https://analyticsindiamag.com/ultimate-guide-to-loss-functions-in-tensorflow-keras-api-with-python-implementation/
     
     tensorwatch  Debugging, monitoring and visualization for Python Machine Learning and Data Science https://github.com/microsoft/tensorwatch
+    
+    Methods to Detect Drift A) Statistical Approaches Page-Hinkley method,Kolmogorov-Smirnov Test,Population Stability Index (PSI),Kullback-Leibler (KL) divergence,Jensen-Shannon divergence, Wasserstein Distance  B) Model-Based Approach C) Adaptive Sliding Window
+    
+    Steps to take when there is an occurrence of drift Check Data Quality, Investigate,Retrain the model,Rebuild the model, Pause the model and Fallback
+    
+    Ways to handle Drift in Production a) Rapidly adapt to concept drift b) Be resistant to noise while distinguishing it from concept drift c) Notice and handle severe drift in model performance.
 
 Docker and Kubernetes
 
@@ -4012,6 +4018,8 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
    Xplique is a Neural Networks Explainability Toolbox https://github.com/deel-ai/xplique/
    
    Ethical-AI Toolkits  https://murat-durmus.medium.com/an-brief-overview-of-some-ethical-ai-toolkits-712afe9f3b3a
+   
+   ferret python package for benchmarking interpretability techniques https://github.com/g8a9/ferret
    
    explaining machine learning models https://github.com/SeldonIO/alibi https://github.com/salesforce/OmniXAI  https://github.com/SeldonIO/alibi
    
@@ -5249,7 +5257,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti
+DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity
 
 OpenAI’s DALL-E 2, Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen
 
