@@ -2235,6 +2235,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Nltk,spacy,genism,textblob,inltk,Indic NLP,StanfordNLP,Pattern,stanza,OpenNLP,polygot,corenlp,polyglot,PyDictionary,Huggiing face,spark nlp,allen nlp,rasa nlu,Megatron,texthero,Flair,textacy,finetune,gluon-nlp,VnCoreNLP,fasttext,Langid,PyCLD3,Guesslang,Parrot  libraries
      
+     keyword library Rake_NLTK, Spacy, Textrank, Word cloud, KeyBert, Yake, MonkeyLearn API and Textrazor API.
+     
      jiant is an NLP toolkit https://github.com/nyu-mll/jiant
      
      clean-text  https://github.com/jfilter/clean-text https://www.youtube.com/watch?v=i2TjAgga1YU
@@ -4204,7 +4206,7 @@ determined to be unfair.
    
    Model serving:Seldon,core,bentoml,tensorflow,serving,kserve,fastapi,torchserve,ray,mlflow,clearml,mlrun,pymlpipe
     
-   Model monitoring:Evidently,grafana,alibi,detect,modeldb,clearml,mlrun,prometheus,pymlpipe
+   Model monitoring:Evidently,grafana,alibi,detect,modeldb,clearml,mlrun,prometheus,pymlpipe,WhyLabs, NannyML
    
    aim https://github.com/aimhubio/aim
   
