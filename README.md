@@ -1078,10 +1078,13 @@ World’s Largest Data Platform https://worlddata.ai/
      e.ChiMerge
      f.Arbitrary Discretization
      g.Quantile 
+     
+     Bucketing  , quantile bucketing 
+     Clipping
    
    e.Handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
    
-     1.One Hot Encoding , dummy, and effect coding,Similarity Encoding
+     1.One Hot Encoding , dummy, and effect coding,Similarity Encoding,Binary Encoding
      
      2.Count Or Frequency Encoding 
      
@@ -1121,7 +1124,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding,BackwardDifferenceEncoder GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer,SumEncoder,Quantile Encoder,Summary Encoder ,Base N Coding
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Backward Difference Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding,BackwardDifferenceEncoder GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer,SumEncoder,Quantile Encoder,Summary Encoder ,Base N Coding
      
      Transform your categorical columns with imperio SmoothingTransformer
      
@@ -1638,12 +1641,12 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      1.Dimensionality reduction - PCA,ppa,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping,Multiple correspondence analysis (MCA),Multiple factor analysis (MFA),Factor analysis of mixed data (FAMD),vae,CompressionVAE 
      
      t-SNE Effectively https://distill.pub/2016/misread-tsne/
-     
-     https://neptune.ai/blog/clustering-algorithms?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-clustering-algorithms
-     
-     17 clustering  https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
    
      2.Clustering : Centroid-based Model ,Density-based Model ,Distribution-based Model,Connectivity-based model
+     
+      17 clustering  https://towardsdatascience.com/17-clustering-algorithms-used-in-data-science-mining-49dbfa5bf69a
+      
+      https://neptune.ai/blog/clustering-algorithms?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-clustering-algorithms
      
      classix Fast and explainable clustering based on sorting https://github.com/nla-group/classix
      
@@ -2981,13 +2984,13 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      2.Kfoldcv,Repeated K-Folds Method
      
-     3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold 
+     3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold ,Nested K-folds
      
      4.Repeated K-folds,RepeatedStratifiedKFold
      
      5.Holdout cross-validation
      
-     6.Repeated cross-validation,Blocked Cross-Validation Method, Nested Cross-Validation Method,Group Cross-Validation,GroupShuffleSplit
+     6.Repeated cross-validation,Repeated K-folds,Blocked Cross-Validation Method, Nested Cross-Validation Method,Group Cross-Validation,GroupShuffleSplit
      
      7.Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
@@ -2997,7 +3000,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
      10.Group KFold Cross Validation
      
-     11.Monte-Carlo Cross Validation
+     11.Monte-Carlo Cross Validation,Blocked cross-validation
   
 Tensorboard,Neptune,TensorFlow Profiler to visualization of model performance
 
