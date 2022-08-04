@@ -264,6 +264,8 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Wikipedia ML Datasets https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
     
+    AWS Open Data Registry,data.gov (portals),YELP Open dataset,UNICEF Dataset,Big Bad NLP Database,Microsoft Dataset
+    
     6)world3bank  https://data.world/ , worldbank
    
     7)Google Cloud BigQuery public datasets
@@ -1598,7 +1600,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
        linear regression,Multiple Linear Regression,polynomial regression,Exponential Regression,Bayesian Regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,RANSAC Regression,
        
-       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost,GPBoost,Principal Component Regression
+       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost,GPBoost,Principal Component Regression,huber_regression,ransac_regression,theilsen_regression
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
        
@@ -4828,7 +4830,8 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,pandas_UI,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,mito,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,
+
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
   
