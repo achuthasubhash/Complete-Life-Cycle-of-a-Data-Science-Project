@@ -1435,7 +1435,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     
     Powershap: A Shapley feature selection method https://github.com/predict-idlab/powershap
     
-    VarianceThreshold,Chi-squared stats,ANOVA using f_classif,Univariate Linear Regression Tests using f_regression,F-score vs Mutual Information,Mutual Information for discrete value,Mutual Information for continues value,SelectKBest,SelectPercentile,SelectFromModel,Recursive Feature Elimination
+    VarianceThreshold,Chi-squared stats,ANOVA using f_classif,Univariate Linear Regression Tests using f_regression,F-score vs Mutual Information,Mutual Information for discrete value,Mutual Information for continues value,SelectKBest,SelectPercentile,SelectFromModel,Recursive Feature Elimination,Extra Trees model  
   
     4.Feature Importance
   
@@ -1606,6 +1606,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
        least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,XBNet,Chefboost,GPBoost,Principal Component Regression,huber_regression,ransac_regression,theilsen_regression
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
+       
+       
        
        statsassume Automating Assumption Checks for Regression Models https://github.com/kennethleungty/statsassume
        
@@ -2813,7 +2815,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
   https://analyticsindiamag.com/ultimate-guide-to-pytorch-optimizers/    https://analyticsindiamag.com/guide-to-tensorflow-keras-optimizers/
   
-  Regularization- L1, L2, dropout, early stopping, and data augmentation,batch normalisation,Layer Normalization,Group Normalization,tree purning,DropBlock,DropConnect,Learning rate schedulingWeight Decay,Gradient clipping,Adaptive optimizer
+  Regularization- L1, L2,elasticnet, dropout, early stopping, and data augmentation,batch normalisation,Layer Normalization,Group Normalization,tree purning,DropBlock,DropConnect,Learning rate schedulingWeight Decay,Gradient clipping,Adaptive optimizer
 
   
   DropBlock: A New Regularization Technique https://pub.towardsai.net/dropblock-a-new-regularization-technique-e926bbc74adb
@@ -3126,7 +3128,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss 
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch
 
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
@@ -3589,7 +3591,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR ,textract,pytesseract,tesserocr,TabulaPy, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdf2image,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch
+   9.EasyOCR-https://github.com/JaidedAI/EasyOCR ,textract,pytesseract,tesserocr,TabulaPy, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdf2image,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch,ocr donut
  
     OCR toolbox from Davar-Lab https://github.com/hikopensource/davar-lab-ocr
    
@@ -5269,7 +5271,7 @@ https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/dee
 
 DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity
 
-OpenAI’s DALL-E 2, Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen
+OpenAI’s DALL-E 2, Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html https://www.kdnuggets.com/2021/03/multilingual-clip--huggingface-pytorch-lightning.html
 
