@@ -2848,7 +2848,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization , Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize
+    c.Bayesian Optimization , Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,exhaustive search, heuristic search,multi-fidelity optimization.
     
     Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
     
@@ -4142,7 +4142,7 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
    
    How to easily check if your Machine Learning model is fair (dalex) https://www.kdnuggets.com/2020/12/machine-learning-model-fair.html
    
-   TensorFlow Federated,TensorFlow Model Remediation,TensorFlow Privacy,LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,Responsible AI Toolbox,XAI,scikit-fairness,Fairlead,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System,Model Card Toolkit,AI Fairness 360, AI Explainability 360, Adversarial Robustness 360, Uncertainty Quantification 360, AI Privacy 360, Causal Inference 360, and AI FactSheets 360,Deon,Responsible AI Toolbox,DALEX,TensorFlow Data Validation,XAI,Fawkes,AdverTorch
+   TensorFlow Federated,TensorFlow Model Remediation,TensorFlow Privacy,LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,Responsible AI Toolbox,XAI,scikit-fairness,Fairlead,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System,Model Card Toolkit,AI Fairness 360, AI Explainability 360, Adversarial Robustness 360, Uncertainty Quantification 360, AI Privacy 360, Causal Inference 360, and AI FactSheets 360,Deon,Responsible AI Toolbox,DALEX,TensorFlow Data Validation,XAI,Fawkes,AdverTorch,solasai
    
    https://analyticsindiamag.com/guide-to-ai-fairness-360-an-open-source-toolkit-for-detection-and-mitigation-of-bias-in-ml-models/
    
