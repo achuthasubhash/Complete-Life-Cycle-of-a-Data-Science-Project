@@ -1214,7 +1214,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,svm,One-Class SVM,Isolation Forest,kmeans,DBSCAN,K Means Clustering,Percentile,knn,autoencoder,local outiler factor,One-Class Classification
+      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,svm,One-Class SVM,Isolation Forest,kmeans,DBSCAN,K Means Clustering,Percentile,knn,autoencoder,local outiler factor,One-Class Classification,Medıan Absolute Devıatıon
       
       Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),Elliptic Envelope 
       
@@ -1419,6 +1419,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     
     Feature selector https://github.com/WillKoehrsen/feature-selector
     
+    Simulated Annealing https://github.com/kennethleungty/Simulated-Annealing-Feature-Selection
+    
     boruta  https://github.com/scikit-learn-contrib/boruta_py https://github.com/Ekeany/Boruta-Shap
     
     DropConstantFeatures  DropDuplicateFeatures    DropCorrelatedFeatures  
@@ -1605,7 +1607,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
        linear regression,Multiple Linear Regression,polynomial regression,Exponential Regression,Bayesian Regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,RANSAC Regression,
        
-       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,NGBoost,XBNet,Chefboost,GPBoost,Principal Component Regression,huber_regression,ransac_regression,theilsen_regression
+       least square method,linear-tree,Random Forest Regression, Regularized Greedy Forests,xgboost,ridge(L2 Regularization),lasso(L1 Regularization (more sparse)),elastic, Lars,catboost,gradientboosting,adaboost,Explainable Boosting Machine,Histogram-Based Gradient Boost,Stacked Gradient Boosting Machines,LightBoost,CatBoost, XGBoost,autoxgb,NGBoost,XBNet,Chefboost,GPBoost,Principal Component Regression,huber_regression,ransac_regression,theilsen_regression,Linear spline,Isotonic regression,Bin regression,Cubic spline,Natural cubic splin,Exponential moving averag
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
        
@@ -1627,7 +1629,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,linear-tree,TensorFlow Decision Forests,
         
-        Random Forest Classification,TensorFlow Decision Forests, Regularized Greedy Forests,xgboost,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,GPBoost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet
+        Random Forest Classification,TensorFlow Decision Forests, Regularized Greedy Forests,xgboost,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,GPBoost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet,ExtraTreesClassifier
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
