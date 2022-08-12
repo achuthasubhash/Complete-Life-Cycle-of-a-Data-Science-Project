@@ -2354,6 +2354,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Doc2Vec  Distributed memory model , Distributed bag of word,Node2Vec,Top2Vec,Doc2Vec,Item2Vec
      
+     Elmo, BERT,Universal Sentence Encoder, Sentence Transformers
+     
      6.using rnn,lstm,gru
      
        for above 3 models have bidirectional also
@@ -3130,7 +3132,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage
 
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
@@ -3757,7 +3759,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
 
    https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
-   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI,MonkeyLearn,Nanonets,SuperAnnotate,CausaLens,Levity,Clarifai,BigML,Teachable Machine,actable,Bonsai
+   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI,MonkeyLearn,Nanonets,SuperAnnotate,CausaLens,Levity,Clarifai,BigML,Teachable Machine,actable,Bonsai, labelsleuth
    
    Teachable Machine-https://teachablemachine.withgoogle.com/  Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
@@ -4144,7 +4146,7 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
    
    How to easily check if your Machine Learning model is fair (dalex) https://www.kdnuggets.com/2020/12/machine-learning-model-fair.html
    
-   TensorFlow Federated,TensorFlow Model Remediation,TensorFlow Privacy,LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,Responsible AI Toolbox,XAI,scikit-fairness,Fairlead,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System,Model Card Toolkit,AI Fairness 360, AI Explainability 360, Adversarial Robustness 360, Uncertainty Quantification 360, AI Privacy 360, Causal Inference 360, and AI FactSheets 360,Deon,Responsible AI Toolbox,DALEX,TensorFlow Data Validation,XAI,Fawkes,AdverTorch,solasai
+   TensorFlow Federated,TensorFlow Model Remediation,TensorFlow Privacy,LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,Responsible AI Toolbox,XAI,scikit-fairness,Fairlead,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System,Model Card Toolkit,AI Fairness 360, AI Explainability 360, Adversarial Robustness 360, Uncertainty Quantification 360, AI Privacy 360, Causal Inference 360, and AI FactSheets 360,Deon,Responsible AI Toolbox,DALEX,TensorFlow Data Validation,XAI,Fawkes,AdverTorch,solasai,Fawkes,Gluru,AdverTorch,Conversica,Quill AI,Fairness 360,Fairlead,  TextAttack
    
    https://analyticsindiamag.com/guide-to-ai-fairness-360-an-open-source-toolkit-for-detection-and-mitigation-of-bias-in-ml-models/
    
@@ -4199,7 +4201,7 @@ determined to be unfair.
    
    15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps,MLflow and TensorBoard ,Weights & Biases, Neptune AI, Comet,aim
    
-   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon
+   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun
    
    Data versioning:Dolt,DVC,gitlfs,pachyderm,lakefs,DVC,weight and biases,Neptune
    
@@ -4839,7 +4841,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,pandas_UI,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,mito,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,tabloo
 
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
@@ -5273,7 +5275,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity
+DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2
 
 OpenAI’s DALL-E 2, Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo
 
