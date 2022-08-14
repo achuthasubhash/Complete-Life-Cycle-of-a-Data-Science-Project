@@ -594,7 +594,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet  
     
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -1027,7 +1027,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      4.use Stratified kfold to keep the ratio of classess constantly, train teat spilt startify attribute
      
-     Stratified Sampling
+     Stratified Sampling,Stratified splits
      
      5.Weighted Neural Network
      
@@ -1417,6 +1417,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     
     feature selection  https://medium.com/analytics-vidhya/feature-selection-extended-overview-b58f1d524c1c
     
+    mrmr_selection automatic feature selection at scale  https://github.com/smazzanti/mrmr
+    
     Feature selector https://github.com/WillKoehrsen/feature-selector
     
     Simulated Annealing https://github.com/kennethleungty/Simulated-Annealing-Feature-Selection
@@ -1629,7 +1631,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,linear-tree,TensorFlow Decision Forests,
         
-        Random Forest Classification,TensorFlow Decision Forests, Regularized Greedy Forests,xgboost,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,GPBoost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet,ExtraTreesClassifier
+        Random Forest Classification,TensorFlow Decision Forests, Regularized Greedy Forests,xgboost,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,Chefboost,GPBoost,NGBoost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet,ExtraTreesClassifier
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
@@ -2360,6 +2362,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      6.using rnn,lstm,gru
      
+       Conventional RNN,Deep Transition RNN,DT(S)-RNN,DOT-RNN,Stacked RNN
+     
        for above 3 models have bidirectional also
        
        textgenrnn generate text  https://github.com/minimaxir/textgenrnn
@@ -2992,7 +2996,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      2.Kfoldcv,Repeated K-Folds Method
      
-     3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold ,Nested K-folds
+     3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold,StratifiedShuffleSplit ,Nested K-folds
      
      4.Repeated K-folds,RepeatedStratifiedKFold
      
@@ -3000,7 +3004,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      6.Repeated cross-validation,Repeated K-folds,Blocked Cross-Validation Method, Nested Cross-Validation Method,Group Cross-Validation,GroupShuffleSplit
      
-     7.Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
+     7.LeaveOneOut,Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
      8.Time Series cross-validation  ,  TimeSeriesSplit ,Rolling Time Series Cross Validation,Rolling Window Cross-Validation 
     
@@ -5277,7 +5281,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2
+DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN
 
 OpenAI’s DALL-E 2, Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo
 
