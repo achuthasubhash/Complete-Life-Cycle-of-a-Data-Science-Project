@@ -2868,6 +2868,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     BoTorch: https://github.com/pytorch/botorch
     
+    RBFOpt library for black-box optimization https://github.com/coin-or/rbfopt
+    
     Bayesian search with Gaussian processes,bayesian search with Random Forests,Bayesian search with GBMs
 
     Bayesian Optimization Using BoTorch https://analyticsindiamag.com/guide-to-bayesian-optimization-using-botorch/
@@ -3747,7 +3749,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson,Parrot  etc...
    
-   Chatterbot,Botkit,BotPress,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots
+   Chatterbot,Botkit,BotPress,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot 3
    
    no code chatbots https://juji.io/
     
@@ -4032,7 +4034,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
    Shapash,ELI5,InterpretML,OmniXAIEli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates,
-xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive Explanation Method (CEM),Counterfactual Instances,Global Interpretation via Recursive,Partitioning (GIRP),Protodash,Scalable Bayesian Rule Lists,Tree Surrogates,Explainable Boosting Machine (EBM),DALEX,ALIBI,DiCE,Explainerdashboards,TCAV,PiML,Xplique,Explainer_dashboard,InterpretML,tcav,FeatureImportance,Layerwise Propagation,Surrogate,Explainer Partial Dependence,solas
+xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive Explanation Method (CEM),Counterfactual Instances,Global Interpretation via Recursive,Partitioning (GIRP),Protodash,Scalable Bayesian Rule Lists,Tree Surrogates,Explainable Boosting Machine (EBM),DALEX,ALIBI,DiCE,Explainerdashboards,TCAV,PiML,Xplique,Explainer_dashboard,InterpretML,tcav,FeatureImportance,Layerwise Propagation,Surrogate,Explainer Partial Dependence,solas,ferret
 
    OmniXAI: A Library for eXplainable AI  https://github.com/salesforce/OmniXAI
    
@@ -4290,7 +4292,6 @@ determined to be unfair.
    117.https://www.pye.ai/2021/03/19/machine-learning-model-management-what-why-and-how/  https://www.ambiata.com/blog/2020-12-07-mlops-tools/
    
    Pachyderm  Kubeflow  MLflow  Metaflow ZenML  Seldon  Bodywork MLReef  MLRun   DVC katana-skipper Weights & Biases  Valohai Polyaxon Neptune.ai   CometML Algorithmia  clearml, airflow, kedro, GitHub Actions  Flyte Valohai Seldon Iguazio Datarobot Dataiku cnvrg.io ClearML AWS Sagemaker wandb evidently
-
    
    BentoML Unified Model Serving Framework https://github.com/bentoml/BentoML
    
