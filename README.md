@@ -1403,13 +1403,13 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
-    1.Filter methods (Constant feature,Quasi constant feature,Duplication feature,correleation,feature importance,chisquare test,Ttest,ftest,vif,anova test,mutal information,  F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score,Dispersion ratio Mean Absolute Difference (MAD), constant features elimination, quasi-constant features elimination, duplicate feature elimination,univariate method, mutual information, correlation  etc...)
+    1.Filter methods (Removing Constant feature,Removing Quasi constant feature,Removing Duplication feature,Removing Correlated Features,feature importance,chisquare test,Ttest,ftest,vif,anova test,mutal information,  F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score,Dispersion ratio Mean Absolute Difference (MAD), constant features elimination, quasi-constant features elimination, duplicate feature elimination,univariate method, mutual information, correlation  etc...)
 
     2.Wrapper methods (recursive feature eliminiation,Recursive feature addition,SelectKbest,boruta,mRMR,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection,step forward selection,step backward selection and exhaustive search  etc...)
 
-    3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...),Feature Selection by Tree importance,Feature selection with decision trees,regression coefficients(logistic,linear coeffiicients))
+    3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...),Feature Selection by Tree importance,Feature selection with decision trees,regression coefficients(logistic,linear coeffiicients),Recursive feature elimination based on importance)
     
-    4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination)
+    4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination,Feature Shuffling)
     
     ITMO_FS is a feature selection library https://github.com/ctlab/ITMO_FS
     
