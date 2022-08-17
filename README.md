@@ -2155,7 +2155,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      3.LSTM (have memory cell,forget gate  etc..)
 
-     Depth Gated RNNs,Clockwork RNNs
+     Depth Gated RNNs,Clockwork RNNs,RNN Initialized Using Identity Matrix(IRNN)
      
      𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗹 𝗖𝗼𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸  better than LSTM/GRU https://github.com/ashishpatel26/tcn-keras-Examples
      
@@ -2234,7 +2234,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    6.BoltzmannMachines,Restricted Boltzmann Machine,deep belief network,deep BoltzmannMachines
    
-   7.Self Organizing Maps (SOM) , Fast Self-Organizing Map  https://github.com/nmarincic/numbasom
+   7.Self Organizing Maps (SOM) , Fast Self-Organizing Map  https://github.com/nmarincic/numbasom,minisom https://github.com/JustGlowing/minisom
    
    8.Natural language processing
    
@@ -5286,7 +5286,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN
+DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,Latent-Diffusion 
 
 OpenAI’s DALL-E 2, Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo
 
