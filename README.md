@@ -1120,7 +1120,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      15.Leave-one-out(Loo) encoding
     
-     16.hash encoding,MinHashEncoder
+     16.hash encoding,MinHashEncoder,SimilarityEncoder,DatetimeEncoder,SuperVectorizer
      
      17.dummy encoding,NaN Encoding
      
