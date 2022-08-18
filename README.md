@@ -3060,6 +3060,8 @@ Generally used metrics
     
     8.Recommender Systems  https://parthchokhra.medium.com/evaluating-recommender-systems-590a7b87afa5
     
+    RecList: The better way to evaluate recommender systems
+    
     Similarity metrics : Cosine similarity,Jaccard similarity,Euclidean distance   Predictive metrics: MAE,RMSE 
     
     metric-Built-in metrics, Custom metric without external parameters,Custom metric with external parameters,Subclassing custom metric layer
