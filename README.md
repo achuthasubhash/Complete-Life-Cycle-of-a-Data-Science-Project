@@ -214,7 +214,7 @@ d.Databases
 
   sql,sql lite,mysql,mongodb,montydb,hadoop,elastic search,cassendra,amazon s3,hive,googlebigtable,AWS DynamoDB,HBase,oracle db
   
-  sql https://mode.com/sql-tutorial/  https://www.w3schools.com/sql/
+  sql https://mode.com/sql-tutorial/  https://www.w3schools.com/sql/  https://www.scaler.com/topics/sql/
   
   sql in  python https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e
   
