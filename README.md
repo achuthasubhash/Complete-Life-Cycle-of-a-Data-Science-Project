@@ -1963,6 +1963,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
        create own model,Lenet,Alexnet,DenseNet,MobileNet,ShuffleNet,SqueezeNet,Resenet,GoogleNet,Inception,Vgg16,vgg19,Efficient,EfficientNetV2,EfficientDet,residualnet,Nasnet,STN,nasneta,senet,amoebanetc,DeiT (tiny,small,base),Meta Pseudo Labels,res-mlp-pytorch,MLP-Mixer,vit,DynamicViT, FNet,gMLP models,nfnet
        
+       mmclassification https://github.com/open-mmlab/mmclassification
+       
        https://theaisummer.com/cnn-architectures/  https://paperswithcode.com/sota/image-classification-on-imagenet 
        
        timm https://pypi.org/project/timm/  https://github.com/rwightman/pytorch-image-models
@@ -1977,7 +1979,11 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
        
        PixelLib Simplifying Object Segmentation with PixelLib Library  https://github.com/ayoolaolafenwa/PixelLib
 
-       mmdetection https://github.com/open-mmlab/mmdetection    https://towardsdatascience.com/mmdetection-tutorial-an-end2end-state-of-the-art-object-detection-library-59064deeada3
+       mmdetection https://github.com/open-mmlab/mmdetection    https://towardsdatascience.com/mmdetection-tutorial-an-end2end-state-of-the-art-object-detection-library-59064deeada3  https://github.com/open-mmlab/mmrotate 
+       
+       mmdetection3d  https://github.com/open-mmlab/mmdetection3d   mmsegmentation  https://github.com/open-mmlab/mmsegmentation
+       
+       fewshot https://github.com/open-mmlab/mmfewshot
        
        imageai.Detection ObjectDetection       Segmentation models https://github.com/qubvel/segmentation_models
        
@@ -2033,9 +2039,15 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
        Tracktor++,Trackrcnn,Jde,DeepSORT,FairMOT
        
-       mmtracking https://github.com/open-mmlab/mmtracking
+       mmtracking https://github.com/open-mmlab/mmtracking  https://github.com/open-mmlab/mmflow
+       
+       mmhuman3d https://github.com/open-mmlab/mmhuman3d
+       
+       Video Understanding https://github.com/open-mmlab/mmaction2 
      
      5.Deepdream,Neural style transfer, Pose estimation 
+     
+     generative models https://github.com/open-mmlab/mmgeneration
 
      Machine Learning for Art https://ml4a.net/#
 
@@ -2046,6 +2058,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      6.DEEP LEARNING METHODS FOR 2D :OpenPose,DeepPose,AlphaPose,tfpose,MultiPoseNet,AlphaPose,Movenet lighting,VIBE,DeeperCut,Mask RCNN,DeepCut,Convolutional Pose Machines,PoseNet,MoveNet,Adobe’s BodyNet,MoveNet and TensorFlow.js,High-Resolution Net,Blaze pose,Deep Pose,PoseNet
      
      openpose wrnchai  densepose
+     
+     mmpose https://github.com/open-mmlab/mmpose
      
      Pose Estimation using OpenCV https://www.analyticsvidhya.com/blog/2021/05/pose-estimation-using-opencv/
      
@@ -2773,6 +2787,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    Self-Supervised Learning https://github.com/jason718/awesome-self-supervised-learning
    
+   OpenMMLab Self-Supervised Learning https://github.com/open-mmlab/mmselfsup
+   
    awesome-self-supervised-learning https://github.com/jason718/awesome-self-supervised-learning
    
    Self-supervised Video Object Segmentation https://charigyang.github.io/motiongroup/
@@ -3310,6 +3326,8 @@ AIMET is a library that provides advanced quantization and compression technique
 Pruning,Nonstructural pruning,Structural pruning,Quantisation-Aware Training,Post-Training Quantisation
 
 QKeras: a quantization deep learning library for Tensorflow Keras
+
+Model Compression https://github.com/open-mmlab/mmrazor
 
 Knowledge Distillation  knowledge are categorized into three different types: Response-based knowledge, Feature-based knowledge, and Relation-based knowledge
 three principal types of methods for training student and teacher models, namely offline, online and self distillation.
