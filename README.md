@@ -1014,7 +1014,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      https://towardsdatascience.com/7-over-sampling-techniques-to-handle-imbalanced-data-ec51c8db349f
      
-     
+   
      Combining Over and Under-sampling
      
      3.class_weight give more importance(weight) to that small class ( Cost-Sensitive Algorithms)
@@ -1041,7 +1041,9 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Imbalanced Dataset Sampler  https://github.com/ufoym/imbalanced-dataset-sampler
      
-     9.BalancedBaggingClassifier,Threshold moving,Easy Ensemble classifier,Balanced Random Forest,Balanced Bagging,RUSBoost 
+     9.Ensemble Techniques ensemble techinque - Bagging Based techniques,Boosting-Based techniques
+     
+     BalancedBaggingClassifier,Threshold moving,Easy Ensemble classifier,Balanced Random Forest,Balanced Bagging,RUSBoost,MESA
      
      10.Try Different Algorithms (ensemble techinque - Bagging Based techniques,Boosting-Based techniques)
      
@@ -1067,6 +1069,10 @@ World’s Largest Data Platform https://worlddata.ai/
      16.One-Class Algorithms,One-Class Support Vector Machines,Isolation Forests,Minimum Covariance Determinant,Local Outlier Factor
      
      17.BalancedBatchGenerator https://imbalanced-learn.org/stable/references/generated/imblearn.keras.BalancedBatchGenerator.html
+     
+     18.train_test_split stratify attribute  , stratify split
+     
+     19.https://github.com/pradeepdev-1995/databalancer
   
    c.Remove noise data
    
