@@ -1027,6 +1027,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      4.use Stratified kfold to keep the ratio of classess constantly, train teat spilt startify attribute
      
+     Use K-fold Cross-Validation in the Right Way 
+     
      Stratified Sampling,Stratified splits
      
      5.Weighted Neural Network
@@ -1224,7 +1226,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       
       Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),Elliptic Envelope 
       
-      outiler treatment: mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning,Treating outliers as missing values,Top/bottom/zero coding
+      outiler treatment: mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning,Trimming,Treating outliers as missing values,Top/bottom/zero coding
       
       Outlier capping with IQR Outlier capping with mean and std Outlier capping with quantiles Arbitrary capping
       
@@ -4674,7 +4676,7 @@ https://towardsdatascience.com/12-data-science-ai-competitions-to-advance-your-s
 
 ***Some useful content :***
 
-1. H20.ai automl, google automl,Google Cloud AutoML,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,gcp automl ision,Weka,AutoWeka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio,AWS Sagemaker Studio,aws rekognition,Google AI Platform,Databricks,Domino Data Lab,roboflow
+1. H20.ai automl, google automl,Google Cloud AutoML,google ml kit(https://developers.google.com/ml-kit) ,Azure Cognitive Services,Azure Machine Learning Service,amazon ml,Azure Machine Learning Studio,Google Cloud Platform,gcp automl ision,Weka,AutoWeka,Microsoft Cognitive Toolkit,Google Cloud AutoML,DataRobot AutoML,Databricks AutoML,Azure ML,azure machine learning studio,IBM Watson ml studio,AWS Sagemaker Studio,aws rekognition,Google AI Platform,Databricks,Domino Data Lab,roboflow,Qlik AutoML
 
 H2O Driverless AI https://www.h2o.ai/products/h2o-driverless-ai/
 
@@ -5317,7 +5319,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2, Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco
+DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2, Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html https://www.kdnuggets.com/2021/03/multilingual-clip--huggingface-pytorch-lightning.html
 
