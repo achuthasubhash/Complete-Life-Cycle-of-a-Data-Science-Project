@@ -2209,9 +2209,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      BigGAN https://analyticsindiamag.com/hands-on-guide-to-biggan-with-python-code/
    
-     Cycle gan,Big GAN Style GAN,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Instance-Conditioned GAN,Wasserstein GAN(improve image generation),ChromaGan,GANsformers,Conditional GAN and Unconditional GAN,Least Square GAN,Auxilary Classifier GAN,Dual Video Discriminator GAN,SRGAN
+     Cycle gan,Big GAN Style GAN,Dcgan,cGAN,SRGAN,InfoGAN,stargan,attan gan,stylegan,,PixelRNN,StackGAN,DiscoGAN,lsGAN,Conditional GAN(Pix2Pix),Progressive GANs( produces higher resolution images,Image-to-Image Translation),Face Inpainting,Super-resolution,Progressive Growing GAN,Instance-Conditioned GAN,Wasserstein GAN(improve image generation),ChromaGan,GANsformers,Conditional GAN and Unconditional GAN,Least Square GAN,Auxilary Classifier GAN,Dual Video Discriminator GAN,SRGAN,StackGAN,CycleGAN,WGAN
 
-     
      diffusion https://github.com/openai/guided-diffusion
      
      https://www.analyticsvidhya.com/blog/2021/05/progressive-growing-gan-progan/
@@ -2882,7 +2881,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization , Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer
+    c.Bayesian Optimization , Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO and Mango
     
     Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
     
