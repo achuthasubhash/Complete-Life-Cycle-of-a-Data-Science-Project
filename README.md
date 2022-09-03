@@ -1,6 +1,6 @@
 #                                                      Complete-Life-Cycle-of-a-Data-Science-Project
 
-***CREDITS:All corresponding resources***
+***CREDITS:All corresponding resources*** 
 
 ***MOTIVATION:Motivation to create this repository  to help upcoming aspirants and help to  others in the data science field*** 
 
