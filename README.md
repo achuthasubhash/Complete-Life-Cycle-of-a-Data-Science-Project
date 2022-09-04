@@ -1088,7 +1088,9 @@ World’s Largest Data Platform https://worlddata.ai/
      e.ChiMerge
      f.Arbitrary Discretization
      g.Quantile 
-     
+      
+     Data Binning
+     Binning based on distribution (quantile-cut),Binning based on values (cut)
      Bucketing  , quantile bucketing 
      Clipping
    
@@ -1226,7 +1228,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       
       Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),Elliptic Envelope 
       
-      outiler treatment: mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning,Trimming,Treating outliers as missing values,Top/bottom/zero coding
+      outiler treatment: mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning,Trimming,Treating outliers as missing values,Top/bottom/zero coding,winsorizing,robust scaler,log transformation,binning,regularisation
       
       Outlier capping with IQR Outlier capping with mean and std Outlier capping with quantiles Arbitrary capping
       
@@ -1408,6 +1410,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     Numerical vs Numerical  Correlation,Linear Regression,Discretize Y (left column),Discretize X (row above)
   
 ***4.Feature selection***  https://github.com/solegalli/feature-selection-for-machine-learning
+
+    upgini Free automated data enrichment library for machine learning https://github.com/upgini/upgini  https://upgini.com/
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
