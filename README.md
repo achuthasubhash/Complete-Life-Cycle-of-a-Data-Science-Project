@@ -4337,6 +4337,8 @@ determined to be unfair.
    
    MLOps  https://github.com/microsoft/MLOps https://mlops.githubapp.com/ https://huyenchip.com/2020/12/30/mlops-v2.html https://github.com/paiml/practical-mlops-book https://analyticsindiamag.com/top-10-tools-to-kickstart-your-mlops-journey-in-2021
    
+   https://nimblebox.ai/blog/mlops-tools
+   
    mlops platform SageMaker on Amazon,Data Lab,Domino,H2O MLOps,Cloudera,Data Platform,Kubeflow,MLFlow,Metaflow,Flyte,ZenML,MLRun,Algorithmia,Dataiku,DataRobot,Pachyderm,Databricks,Lakehouse,Neptune.ai
    
    7 Best Resources To Learn MLOps In 2021 https://analyticsindiamag.com/7-best-resources-to-learn-mlops-in-2021/
