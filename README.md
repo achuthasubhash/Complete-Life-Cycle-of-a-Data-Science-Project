@@ -940,9 +940,11 @@ World’s Largest Data Platform https://worlddata.ai/
      
      datawig  Imputation of missing values in tables  https://github.com/awslabs/datawig
      
-     Imputation using K-NN,missForest,Random Forest-based Imputation,missingpy
+     Imputation using K-NN,missForest,Random Forest-based Imputation,missingpy,som,Ann,mlp
      
-     Imputation Using Deep Learning (Datawig) , neural network for imputation
+     Model based procedure gaussian mixture model
+     
+     Imputation Using Deep Learning (Datawig),neural network for imputation,BRITS
      
      15.autoimpute-https://github.com/kearnz/autoimpute
      
@@ -3634,7 +3636,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
-   9.EasyOCR-https://github.com/JaidedAI/EasyOCR ,textract,pytesseract,tesserocr,TabulaPy, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdf2image,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch,ocr donut,LOGOS ocr,
+   9.EasyOCR,textract,pytesseract,tesserocr,Amazon textract,TabulaPy, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdf2image,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch,ocr donut,LOGOS ocr,
 ocrpy
  
     OCR toolbox from Davar-Lab https://github.com/hikopensource/davar-lab-ocr
@@ -4187,7 +4189,7 @@ xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive E
    How to easily check if your Machine Learning model is fair (dalex) https://www.kdnuggets.com/2020/12/machine-learning-model-fair.html
    
    TensorFlow Federated,TensorFlow Model Remediation,TensorFlow Privacy,LinkedIn Fairness Toolkit,Fairlearn,AI Fairness 360,Responsible AI Toolbox,XAI,scikit-fairness,Fairlead,Algofairness,Aequitas,CERTIFAI,ML-fairness-gym,Algofairness,FairSight,GD-IQ,scikit-fairness,Mitigating Gender Bias In Captioning System,Model Card Toolkit,AI Fairness 360, AI Explainability 360, Adversarial Robustness 360, Uncertainty Quantification 360, AI Privacy 360, Causal Inference 360, and AI FactSheets 360,Deon,Responsible AI Toolbox,DALEX,TensorFlow Data Validation,XAI,Fawkes,AdverTorch,solasai,Fawkes,Gluru,AdverTorch,Conversica,Quill AI,Fairness 360,Fairlead,  TextAttack
-   
+
    https://analyticsindiamag.com/guide-to-ai-fairness-360-an-open-source-toolkit-for-detection-and-mitigation-of-bias-in-ml-models/
    
    107.deep-learning-drizzle -https://deep-learning-drizzle.github.io/
@@ -5322,7 +5324,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,DreamBooth
+DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,DreamBooth,Tiktok’s Greenscreen,textual_inversion
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html https://www.kdnuggets.com/2021/03/multilingual-clip--huggingface-pytorch-lightning.html
 
