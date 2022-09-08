@@ -4067,7 +4067,7 @@ ocrpy
    
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
-   Shapash,ELI5,InterpretML,OmniXAIEli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates,
+   Shapash,ELI5,InterpretML,OmniXAIEli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Casual shap values,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates,
 xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive Explanation Method (CEM),Counterfactual Instances,Global Interpretation via Recursive,Partitioning (GIRP),Protodash,Scalable Bayesian Rule Lists,Tree Surrogates,Explainable Boosting Machine (EBM),DALEX,ALIBI,DiCE,Explainerdashboards,TCAV,PiML,Xplique,Explainer_dashboard,InterpretML,tcav,FeatureImportance,Layerwise Propagation,Surrogate,Explainer Partial Dependence,solas,ferret,Integrated Gradients,DeepLift,Explainable Boosting Machine,Saliency maps,TCAV,Distillation,Counterfactual,interpretML
 
    OmniXAI: A Library for eXplainable AI  https://github.com/salesforce/OmniXAI
@@ -5324,7 +5324,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,DreamBooth,Tiktok’s Greenscreen,textual_inversion
+DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html https://www.kdnuggets.com/2021/03/multilingual-clip--huggingface-pytorch-lightning.html
 
