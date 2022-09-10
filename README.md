@@ -594,7 +594,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet  
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics  
     
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -1334,7 +1334,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
     
     Openpxl: Automate Excel Reporting  Datapane: A Python Library to Build Interactive Reports
     
-    Scatterplot,multi line plot,bubble chart,line charts,bar chart,histogram,boxplot, Pie charts,Line Plot,distplot,Histogram
+    Scatterplot,Binned Scatterplot,multi line plot,bubble chart,line charts,bar chart,histogram,boxplot, Pie charts,Line Plot,distplot,Histogram
 Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series plot,density plot,dot plot,strip plot,plotly,Choropleth Map,Kepler,PDF,Kernel density function,networkx,Scatter_matrix,Bootstrap_plot,functionvis,Higher-Dimensional Plots,3-D Plots,3D Plots With Matplotlib,3D Plots With Plotly,Animated Plot With Plotly,Word Clouds,HoloViz,Horizontal Bar Graphs,Stacked Bar Graphs,Group Bar Graphs,Raincloud Plotsradviz,bootstrap_plot,lag_plot,JoyPy plots,Gantt Chart,Box and Whisker Plot,Waterfall Chart,Pictogram Chart,Timeline,highlight Table,Bullet Graph,Choropleth Map,Word Cloud,Network Diagram,Correlation Matrices,Bubble clouds,Cartograms,Circle views,Dendrograms,Dot distribution maps,Open-high-low-close charts,Polar areas,Radial trees,Ring Charts,Sankey diagram,Span charts,Streamgraphs,Treemaps,Wedge stack graphs, table charts,lollipop charts,distplot,floWeaver 
     
     hvplot A high-level plotting API for the PyData ecosystem built on HoloViews https://hvplot.holoviz.org/
@@ -5002,7 +5002,7 @@ change to proper dtypes,usecols of required only reduce size
 Better Data Storage : CSV,Parquet,Feather
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization, multiprocessing,airflow,celery,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi
 https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 
