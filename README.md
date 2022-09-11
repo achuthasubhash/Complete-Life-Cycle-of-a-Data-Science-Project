@@ -1627,8 +1627,6 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
        
        elsatic net,light gbm,ordinary least squares,cart,Stepwise Regression,Multivariate Adaptive Regression Splines ,Generalised Additive Model(learn non-linear feature),tabnet,Linear Tree regression
        
-       
-       
        statsassume Automating Assumption Checks for Regression Models https://github.com/kennethleungty/statsassume
        
        Locally Weighted Linear Regression https://towardsdatascience.com/locally-weighted-linear-regression-in-python-3d324108efbf
@@ -1894,7 +1892,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
    
    Model Zoo Discover open source deep learning code and pretrained models https://modelzoo.co/
    
-   Visualizing your Neural Network with Netron 
+   Visualizing your Neural Network with Netron,Net2Vis,visualkeras,draw_convnet,NNSVG,PlotNeuralNet,Tensorboard,Caffe,Matlab,Keras.js,keras-sequential-ascii ,Netron,DotNet,Graphviz ,Keras Visualization,Conx,ENNUI,NNet,GraphCore ,Monial,Quiver 
    
    Sharing the best resources on various machine learning topics https://www.backprop.org/
    
@@ -2091,6 +2089,14 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      Simple transformations-Resize,Gray Scale,Normalize,Random Rotation,Center Crop,Random Crop,Gaussian Blur
      
+     Position augmentation-Scaling,Cropping,Flipping,Padding,Rotation,Translation,Affine transformation,Kernel filters
+     
+     Color augmentation-Brightness,Contrast,Saturation,Hue
+     
+     Deep learning approach-Adverserial training,Neural style transfer,Gan data argumentation
+     
+     Data augmentation feature space : noise,interpolation   Data Space Character Level : Noise Induction,Rule-based Transformations  Word Level : Noise Induction,Synonym Replacement,Embedding Replacement,Replacement by Language Models  Phrase and Sentence Level : Interpolation,Structure-based Transformation  Document Level:Round-trip Translation,Generative Methods
+     
      More advanced techniques-Gaussian Noise,Random Blocks,Central Region
      
      albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
@@ -2099,7 +2105,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      Data augmentation with tf.data
      
-     ImageGenerator  image augmentation  ImageDataGenerator Albumentations  SOLT  Imgaug
+     ImageGenerator  image augmentation  ImageDataGenerator Albumentations  SOLT  Imgaug Augmentor,Albumentations,Imgaug,AutoAugment (DeepAugment)
      
      Augmentor Image augmentation library in Python for machine learning  https://github.com/mdbloice/Augmentor
      
