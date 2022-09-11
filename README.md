@@ -3313,15 +3313,20 @@ TF Micro and SensiML https://blog.tensorflow.org/2021/05/building-tinyml-applica
 
 six different types of methods:
 1) Pruning, Weight sharing
+Structured vs. Unstructured Pruning
 2) Quantization       ,TensorFlow Quantum, Int8 quantization
    Post-Training Quantization
    — Reduce Float16
    — Hybrid Quantization
    — Integer Quantization
    -dynamic range quantization
+   - Dynamic/Runtime Quantization
+   - Post-Training Static Quantization
+   - Static Quantization-aware Training (QAT)
    2. During-Training Quantization
    3. Post-Training Pruning
    4. Post-Training Clustering
+   
 3) Knowledge distillation
 4) Parameter sharing
 5) Tensor decomposition
@@ -3385,7 +3390,7 @@ leverage of model architecture
 
 Federated Learning  https://www.analyticsvidhya.com/blog/2021/04/federated-learning-for-beginners/  https://www.tensorflow.org/federated
 
-FEDERATED LEARNING https://blog.openmined.org/federated-learning-types/
+FEDERATED LEARNING(Centralized, Decentralized, Heterogeneous) https://blog.openmined.org/federated-learning-types/  https://aman.ai/primers/ai/federated-learning/
 
 Federated Learning with FEDn  https://github.com/scaleoutsystems/fedn
 
@@ -3394,6 +3399,8 @@ plato scalable federated learning research framework https://github.com/TL-Syste
 FedNLP: A Research Platform for Federated Learning in Natural Language Processing https://github.com/FedML-AI/FedNLP
 
 privacy https://github.com/tensorflow/privacy
+
+Differential Privacy https://aman.ai/primers/ai/differential-privacy/
 
 ***Quantization:Use Quantization to reduce size of model***  https://medium.com/qiskit/introducing-qiskit-machine-learning-5f06b6597526
 
