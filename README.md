@@ -594,7 +594,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics  
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle
     
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -1417,7 +1417,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
-    1.Filter methods (Removing Constant feature,Removing Quasi constant feature,Removing Duplication feature,Removing Correlated Features,feature importance,chisquare test,Ttest,ftest,vif,anova test,mutal information gain,F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score,Dispersion ratio Mean Absolute Difference (MAD), constant features elimination, quasi-constant features elimination, duplicate feature elimination,univariate method, mutual information, correlation  etc...),Correlation Coefficient,Variance Threshold ,Mean Absolute Difference (MAD),Dispersion ratio
+    1.Filter methods (Removing Constant feature,Removing Quasi constant feature,Removing Duplication feature,Removing Correlated Features,feature importance,chisquare test,Ttest,ftest,vif,anova test,information gain,F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score,Dispersion ratio Mean Absolute Difference (MAD), constant features elimination, quasi-constant features elimination, duplicate feature elimination,univariate method, mutual information, correlation  etc...),Correlation Coefficient,Variance Threshold ,Mean Absolute Difference (MAD),Dispersion ratio
 
     2.Wrapper methods (recursive feature eliminiation,Recursive feature addition,SelectKbest,boruta,mRMR,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection,step forward selection,step backward selection and exhaustive search  etc...)
 
@@ -5015,7 +5015,7 @@ change to proper dtypes,usecols of required only reduce size
 Better Data Storage : CSV,Parquet,Feather
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization, multiprocessing,airflow,celery,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex
 https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 
