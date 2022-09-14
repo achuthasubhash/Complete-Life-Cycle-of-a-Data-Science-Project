@@ -1423,7 +1423,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
 
     3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...),Feature Selection by Tree importance,Feature selection with decision trees,regression coefficients(logistic,linear coeffiicients),Recursive feature elimination based on importance)
     
-    4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination,Feature Shuffling,Feature performance,Target mean performance)
+    4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination,Feature Shuffling,Feature performance,Target mean performance,Permutation importance,Population stability index,Target encoding)
     
     ITMO_FS is a feature selection library https://github.com/ctlab/ITMO_FS
     
