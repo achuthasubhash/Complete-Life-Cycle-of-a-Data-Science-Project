@@ -592,9 +592,11 @@ World’s Largest Data Platform https://worlddata.ai/
     
     60.Generating Realistic Fake Data https://towardsdatascience.com/free-resources-for-generating-realistic-fake-data-da63836be1a8
     
+    Full Synthetic Data ,Partial Synthetic Data,Hybrid Synthetic Data
+    
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic
     
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -3179,7 +3181,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl
 
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
@@ -3816,7 +3818,7 @@ ocrpy,docquery
 
    https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
-   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI,MonkeyLearn,Nanonets,SuperAnnotate,CausaLens,Levity,Clarifai,BigML,Teachable Machine,actable,Bonsai,labelsleuth,Cooka,oracle AutoML,EdgeImpulse,Mantium AI,Sway
+   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI,MonkeyLearn,Nanonets,SuperAnnotate,CausaLens,Levity,Clarifai,BigML,Teachable Machine,actable,Bonsai,labelsleuth,Cooka,oracle AutoML,EdgeImpulse,Mantium AI,Sway,Graphite
    
    Teachable Machine-https://teachablemachine.withgoogle.com/  Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
