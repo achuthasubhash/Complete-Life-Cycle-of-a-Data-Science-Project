@@ -972,6 +972,8 @@ World’s Largest Data Platform https://worlddata.ai/
      
      datawig imputation https://github.com/awslabs/datawig
      
+     22.Cluster-based approach for missing value imputation Naive clustering,Column-sensitive clustering
+     
      Top Data Cleaning Tools https://www.marktechpost.com/2022/02/20/top-data-cleaning-tools-for-data-science-and-machine-learning-projects-in-2022/
      
      OpenRefine https://openrefine.org/ https://github.com/OpenRefine/OpenRefine
@@ -3654,7 +3656,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
    9.EasyOCR,textract,pytesseract,tesserocr,Amazon textract,TabulaPy, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdf2image,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch,ocr donut,LOGOS ocr,
-ocrpy,docquery
+ocrpy,docquery,Parsr,DocuQuery,LayoutLM
  
     OCR toolbox from Davar-Lab https://github.com/hikopensource/davar-lab-ocr
    
