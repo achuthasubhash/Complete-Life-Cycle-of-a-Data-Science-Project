@@ -2899,7 +2899,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization , Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt
+    c.Bayesian Optimization,Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT)
     
     Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
     
@@ -3039,7 +3039,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      2.Kfoldcv,Repeated K-Folds Method
      
-     3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold,StratifiedShuffleSplit ,Nested K-folds
+     3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold,StratifiedShuffleSplit,Nested K-folds,Random split
+KFold,Walk forward,Group Time Series,Purged Group KFold,Combinatorial Purged Group KFold
      
      4.Repeated K-folds,RepeatedStratifiedKFold
      
@@ -3049,9 +3050,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      7.LeaveOneOut,Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
-     8.Time Series cross-validation  ,  TimeSeriesSplit ,Rolling Time Series Cross Validation,Rolling Window Cross-Validation 
+     8.Time Series cross-validation,TimeSeriesSplit ,Rolling Time Series Cross Validation,Rolling Window Cross-Validation 
     
-     9.ShuffleSplit Cross Validation,Group Shuffle Split
+     9.ShuffleSplit Cross Validation,Group Shuffle Split,Simple Time Split Validation,Sliding Window Validation,Expanding Window Validation 
     
      10.Group KFold Cross Validation
      
