@@ -172,7 +172,7 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
      
      pandas(read_html)
      
-     wget,curl,parsehub,webhouse,octoparse,scraping bot,scraping bee,Common,Content Grabber,Docparser,Scraper API,Import.io,Altair Monarch,WebAutomation.io,WebScraper.io 
+     wget,curl,parsehub,webhouse,octoparse,scraping bot,scraping bee,Common,Content Grabber,Docparser,Scraper API,Import.io,Altair Monarch,WebAutomation.io,WebScraper.io,Scrape.do, AvesAPI, ParseHub, Import.io, Octoparse, Scrapingdog, Diffbot, ScrapingBee, Grepsr, Scraper API, Scrapy
 
      Crawl Crawly  https://crawly.diffbot.com/   
  
@@ -3824,7 +3824,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM
 
    https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
-   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI,MonkeyLearn,Nanonets,SuperAnnotate,CausaLens,Levity,Clarifai,BigML,Teachable Machine,actable,Bonsai,labelsleuth,Cooka,oracle AutoML,EdgeImpulse,Mantium AI,Sway,Graphite
+   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI,MonkeyLearn,Nanonets,SuperAnnotate,CausaLens,Levity,Clarifai,BigML,Teachable Machine,actable,Bonsai,labelsleuth,Cooka,oracle AutoML,EdgeImpulse,Mantium AI,Sway,Graphite,DataRobot,Graphite Note,Levity,MakeML,MonkeyLearn,Noogata,Obviously.ai,Pecan,RapidMiner,RunwayML,SuperAnnotate 
    
    Teachable Machine-https://teachablemachine.withgoogle.com/  Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
