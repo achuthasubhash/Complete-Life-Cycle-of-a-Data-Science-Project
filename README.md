@@ -230,7 +230,7 @@ https://www.freecodecamp.org/news/https-medium-freecodecamp-org-best-free-open-d
 
 Machine learning datasets  https://www.datasetlist.com/  https://wiki.pathmind.com/open-datasets
 
-https://guides.library.cmu.edu/az.php https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets https://registry.opendata.aws/ https://paperswithcode.com/datasets https://datasets.quantumstat.com/  https://www.quandl.com/ http://dataportals.org/ https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public  https://www.reddit.com/r/datasets/  https://ourworldindata.org/ https://data.worldbank.org/ https://data.world/ https://data.census.gov/cedsci/ https://data.seattle.gov/
+https://guides.library.cmu.edu/az.php https://docs.microsoft.com/en-us/azure/azure-sql/public-data-sets https://registry.opendata.aws/ https://paperswithcode.com/datasets https://datasets.quantumstat.com/  https://www.quandl.com/ http://dataportals.org/ https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public  https://www.reddit.com/r/datasets/  https://ourworldindata.org/ https://data.worldbank.org/ https://data.world/ https://data.census.gov/cedsci/ https://data.seattle.gov/ https://www.openml.org/ https://visualdata.io/discovery 
 
 World’s Largest Data Platform https://worlddata.ai/  
 
@@ -776,7 +776,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
    Dora (pip library) - data cleaning 
    
-   Dora,PrettyPandas,DataCleaner,Tabulate,Pyjanitor
+   Dora,PrettyPandas,DataCleaner,Tabulate,Pyjanitor,OpenRefine,cleanlab,pandera
    
    https://github.com/sfu-db/dataprep  https://github.com/akanz1/klib  https://www.bitrook.com/  https://github.com/rhiever/datacleaner https://github.com/johnkerl/miller
    
@@ -3037,6 +3037,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     Weights and Biases to Perform Hyperparameter Optimization https://hackernoon.com/using-weights-and-biases-to-perform-hyperparameter-optimization
     
  Cross validation techniques- https://towardsdatascience.com/understanding-8-types-of-cross-validation-80c935a4976d
+ 
+ a.Exhaustive, where the method learn and test on every single possibility of dividing the dataset into training and testing subsets.
+ b.Non-exhaustive cross validation methods where all ways of splitting the sample are not computed.
     
      1.Loocv
      
@@ -3824,7 +3827,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM
 
    https://serokell.io/blog/top-no-code-platforms   https://www.nanalyze.com/2021/04/no-code-platforms-machine-learning/
    
-   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI,MonkeyLearn,Nanonets,SuperAnnotate,CausaLens,Levity,Clarifai,BigML,Teachable Machine,actable,Bonsai,labelsleuth,Cooka,oracle AutoML,EdgeImpulse,Mantium AI,Sway,Graphite,DataRobot,Graphite Note,Levity,MakeML,MonkeyLearn,Noogata,Obviously.ai,Pecan,RapidMiner,RunwayML,SuperAnnotate 
+   Akkio, Obviously.ai, DataRobot, Levity, Clarifai, Teachable Machines, Lobe,pimer,DynaBench,APAflow,Runway AI,Obviously AI,CreateML,MakeML,Fritz AI,MonkeyLearn,Nanonets,SuperAnnotate,CausaLens,Levity,Clarifai,BigML,Teachable Machine,actable,Bonsai,labelsleuth,Cooka,oracle AutoML,EdgeImpulse,Mantium AI,Sway,Graphite,DataRobot,Graphite Note,Levity,MakeML,MonkeyLearn,Noogata,Obviously.ai,Pecan,RapidMiner,RunwayML,SuperAnnotate,KNIME,DashB.ai,NoCode-ML,BMW-TensorFlow-Training-GUI,Akkio
    
    Teachable Machine-https://teachablemachine.withgoogle.com/  Vertex AI https://cloud.google.com/vertex-ai/docs/start/automl-users
    
