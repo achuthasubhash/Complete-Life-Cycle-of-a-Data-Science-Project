@@ -334,6 +334,8 @@ World’s Largest Data Platform https://worlddata.ai/
    
     22) Automates Image Annotation for Deep Learning Models https://medium.com/towards-artificial-intelligence/improving-data-labeling-efficiency-with-auto-labeling-uncertainty-estimates-and-active-learning-5848272365be
     
+    Label Studio,Sloth,LabelBox,TagTog,Amazon SageMaker GroundTruth,Playment,Superannotate
+    
     Automate data preparation https://www.superb-ai.com/
     
     https://neptune.ai/blog/annotation-tool-comparison-deep-learning-data-annotation?utm_source=linkedin&utm_medium=post&utm_campaign=blog-annotation-tool-comparison-deep-learning-data-annotation
@@ -596,7 +598,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView,TRGD,YDATA Synthetic,SDV,Tonic.AI,Mostly.AI
     
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -3192,8 +3194,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana
-
+    streamlit,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
@@ -4271,11 +4272,13 @@ determined to be unfair.
    
    15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps,MLflow and TensorBoard ,Weights & Biases, Neptune AI, Comet,aim
    
+   Feature Stores : Amazon SageMaker Feature Store,Databricks,Hopsworks.ai,Vertex AI,FeatureForm,FeastTecton
+   
    Data Quality:whylogs,eurybia
    
    Detecting data drift and model drift:eurybia
    
-   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun
+   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun,Comet,Sacred,TensorBoard,DagsHub
    
    Data versioning:Dolt,DVC,gitlfs,pachyderm,lakefs,DVC,weight and biases,Neptune
    
@@ -4289,9 +4292,9 @@ determined to be unfair.
    
    Model registry:Modeldb,mlflow,determined,weight and biases,Neptune,clearml,mlrun
    
-   Model serving:Seldon,core,bentoml,tensorflow,serving,kserve,fastapi,torchserve,ray,mlflow,clearml,mlrun,pymlpipe
-    
-   Model monitoring:Evidently,grafana,alibi,detect,modeldb,clearml,mlrun,prometheus,pymlpipe,WhyLabs,NannyML,Aporia,eurybia
+   Model serving:Seldon,core,bentoml,tensorflow,serving,kserve,fastapi,torchserve,ray,mlflow,clearml,mlrun,pymlpipe,TorchServe,TensorFlow Serving,Kubeflow,Cortex,Seldon.ai,ForestFlow
+     
+   Model monitoring:Evidently,grafana,alibi,detect,modeldb,clearml,mlrun,prometheus,pymlpipe,WhyLabs,NannyML,Aporia,eurybia,Arize,Fiddler,Amazon SageMaker Model Monitor,Prometheus,Qualdo
    
    data validation:Pydantic,eurybia
    
