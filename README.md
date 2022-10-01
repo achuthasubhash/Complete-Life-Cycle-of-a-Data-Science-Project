@@ -596,7 +596,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView
     
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -900,7 +900,9 @@ World’s Largest Data Platform https://worlddata.ai/
      
      Mean and Median Fill with Groupby 
      
-     Pass another DataFrame to fillna function to fill up the missing values.
+     Pass another DataFrame to fillna function to fill up the missing values.  
+     
+     Similar case Imputation
       
      3.apply classifier algorithm to predict missing value
      
@@ -1232,7 +1234,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       
       methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,svm,One-Class SVM,Isolation Forest,kmeans,DBSCAN,K Means Clustering,Percentile,knn,autoencoder,local outiler factor,One-Class Classification,Medıan Absolute Devıatıon
       
-      Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),Elliptic Envelope 
+      Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),Elliptic Envelope,Cluster-based,Local Outlier Factor,Histogram-based Outlier Detection
       
       outiler treatment: mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning,Trimming,Treating outliers as missing values,Top/bottom/zero coding,winsorizing,robust scaler,log transformation,binning,regularisation
       
