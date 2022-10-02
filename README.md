@@ -1234,7 +1234,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
     
       eg: incase of fraud detection outilers are very important
       
-      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,IQR,TensorFlow_Data_Validation,svm,One-Class SVM,Isolation Forest,kmeans,DBSCAN,K Means Clustering,Percentile,knn,autoencoder,local outiler factor,One-Class Classification,Medıan Absolute Devıatıon
+      methods to find outiler: Standard Deviation,zscore,boxplot,scatter plot,histogram,Violin Plot,IQR,TensorFlow_Data_Validation,svm,One-Class SVM,Isolation Forest,kmeans,DBSCAN,K Means Clustering,Percentile,knn,autoencoder,local outiler factor,One-Class Classification,Medıan Absolute Devıatıon
       
       Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),Elliptic Envelope,Cluster-based,Local Outlier Factor,Histogram-based Outlier Detection
       
@@ -3037,6 +3037,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     HyperOpt  http://hyperopt.github.io/hyperopt/   Optuna  https://optuna.org/   Scikit-optimize https://scikit-optimize.github.io/stable/  SigOpt  https://sigopt.com/
     
     DeepHyper  Hyperparameter Search for Deep Neural Networks https://github.com/deephyper/deephyper
+    
+    lipo  hyperparameter tuning https://github.com/jdb78/lipo
     
     Weights and Biases to Perform Hyperparameter Optimization https://hackernoon.com/using-weights-and-biases-to-perform-hyperparameter-optimization
     
@@ -4921,7 +4923,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,pandas_UI,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,mito,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,tabloo
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,tabloo,sidetable
 
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
@@ -5358,6 +5360,8 @@ https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/dee
 DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9
+
+text to video : CogVideo,Make-A-Video,Phenaki
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html https://www.kdnuggets.com/2021/03/multilingual-clip--huggingface-pytorch-lightning.html
 
