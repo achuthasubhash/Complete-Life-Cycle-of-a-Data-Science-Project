@@ -2906,7 +2906,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization,Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT)
+    c.Bayesian Optimization,Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,Bayesian Optimization,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT),Multi-Fidelity Optimization,DEAP
     
     Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
     
