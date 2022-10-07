@@ -3812,6 +3812,8 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM
    
    58.numerical-linear-algebra -https://github.com/fastai/numerical-linear-algebra
    
+   59.Data Science Courses - https://www.interviewbit.com/blog/best-data-science-courses/
+   
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, Azure Bot Service,chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson,Parrot  etc...
    
    Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots 
