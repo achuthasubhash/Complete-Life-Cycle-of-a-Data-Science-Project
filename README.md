@@ -598,7 +598,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView,TRGD,YDATA Synthetic,SDV,Tonic.AI,Mostly.AI
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView,TRGD,YDATA Synthetic,SDV,Tonic.AI,Mostly.AI,Parallel Domain,Mindtech,Synthesis AI,Oneview,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic
     
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -653,6 +653,8 @@ World’s Largest Data Platform https://worlddata.ai/
     ydata-synthetic https://github.com/ydataai/ydata-synthetic
     
     Table Evaluator About Evaluate real and synthetic datasets with each other  https://github.com/Baukebrenninkmeijer/table-evaluator
+    
+    evaluate quality and efficacy of synthetic datasets SDMetrics https://github.com/sdv-dev/SDMetrics
     
     61.Text Data Annotator Tool - Datasaur  https://datasaur.ai/
 
@@ -4925,6 +4927,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,pandas_UI,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,mito,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
 ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,tabloo,sidetable
 
+  Three R Libraries for Automated EDA dataMaid,DataExplorer,SmartEDA
 
   fiftyone Highly Interactive Dashboards For Visualizing Datasets and Interpret Model https://towardsdatascience.com/highly-interactive-dashboards-for-visualizing-dataset-and-interpret-model-ce6311ea57ca
   
@@ -5038,6 +5041,7 @@ pandas chunksize,Pandas vectorization,Numpy Vectorization, multiprocessing,airfl
 pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎
 https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
+deal with Big Data  Optimize dataframes,Use only required columns,Chunking data,Sparse data formats,Better Data file formats(Parquet,Feather,HDF5),Pandas alternates(Modin,vaex,dask,spark),Intel(R) extension for sklearn,  Apply Vectorized,Numba,Rapids cuDF
 
 composer library of algorithms to speed up neural network training  https://github.com/mosaicml/composer 
 
