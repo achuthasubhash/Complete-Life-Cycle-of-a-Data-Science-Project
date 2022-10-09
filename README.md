@@ -1100,6 +1100,7 @@ World’s Largest Data Platform https://worlddata.ai/
      e.ChiMerge
      f.Arbitrary Discretization
      g.Quantile 
+     h.Custom Discretization
       
      Data Binning
      Binning based on distribution (quantile-cut),Binning based on values (cut)
@@ -2320,6 +2321,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Data Augmentation library for text nlpaug https://towardsdatascience.com/data-augmentation-library-for-text-9661736b13ff
      
+     doccano,Parrot_Paraphraser,NLPAug,AugLy
+     
      detext-https://github.com/linkedin/detext
      
      nlpaug-https://github.com/makcedward/nlpaug  augmenty https://github.com/KennethEnevoldsen/augmenty
@@ -2908,7 +2911,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization,Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,Bayesian Optimization,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT),Multi-Fidelity Optimization,DEAP
+    c.Bayesian Optimization,Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,Bayesian Optimization,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT),Multi-Fidelity Optimization,DEAP,SMAC
     
     Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
     
@@ -3670,7 +3673,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
    9.EasyOCR,textract,pytesseract,tesserocr,Amazon textract,TabulaPy, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdf2image,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch,ocr donut,LOGOS ocr,
-ocrpy,docquery,Parsr,DocuQuery,LayoutLM
+ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery
  
     OCR toolbox from Davar-Lab https://github.com/hikopensource/davar-lab-ocr
    
@@ -4814,7 +4817,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 3.awesome-AutoML https://github.com/windmaple/awesome-AutoML , automl-gs github.com/minimaxir/automl-gs
 
-autopandas,Auto-Sklearn,Auto-Pytorch,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR,PyCaret,Auto-sklearn
+autopandas,Auto-Sklearn,Auto-Pytorch,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR,PyCaret,Auto-sklearn,SMAC
 
 Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless,Amazon Lex, BigML,AutoML JADBio,Akkio MLJAR, Tazi.ai,UBER’s Ludwig,ANAI
 
