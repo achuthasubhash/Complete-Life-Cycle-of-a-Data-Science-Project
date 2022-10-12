@@ -1039,7 +1039,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      4.use Stratified kfold to keep the ratio of classess constantly, train teat spilt startify attribute
      
-     Use K-fold Cross-Validation in the Right Way 
+     Use K-fold Cross-Validation in the Right Way,Stratified Cross Validation
      
      Stratified Sampling,Stratified splits
      
@@ -1113,7 +1113,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      2.Count Or Frequency Encoding 
      
-     3.Ordinal encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding,Target-Mean-Encoding
+     3.Ordinal encoding,Nominal Encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding,Target-Mean-Encoding
      
      4.Target encoding / Mean encoding,GapEncoder,MinHashEncoder
      
@@ -2422,6 +2422,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      8.attention 
      
        self attention,Global Attention,Multi-Head Attention,Local Attention (monotonic,predictive)    https://github.com/uzaymacar/attention-mechanisms
+       
+       Seq2seq with Attention,Self-attentionm,Multi-head Attention
      
      9.Transformer (big breakthrough in NLP) - http://jalammar.github.io/illustrated-transformer/  
 
@@ -5370,7 +5372,7 @@ https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/t
 
 text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo
 
-Audiogen , diffsound
+Audiogen , diffsound,text to motion
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html https://www.kdnuggets.com/2021/03/multilingual-clip--huggingface-pytorch-lightning.html
 
