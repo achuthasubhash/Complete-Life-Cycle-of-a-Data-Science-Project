@@ -2031,7 +2031,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
        
        SSL Framework For Object Detection https://analyticsindiamag.com/googles-stac-ssl-framework-for-object-detection/ 
        
-       GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/
+       GSDT https://analyticsindiamag.com/gsdt-gnns-for-simultaneous-detection-and-tracking/ 
        
        D2Go Brings Detectron2 To Mobile  https://analyticsindiamag.com/facebooks-d2go-brings-detectron2-to-mobile/
        
