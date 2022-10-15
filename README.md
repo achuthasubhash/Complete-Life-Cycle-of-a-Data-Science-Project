@@ -598,7 +598,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView,TRGD,YDATA Synthetic,SDV,Tonic.AI,Mostly.AI,Parallel Domain,Mindtech,Synthesis AI,Oneview,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView,TRGD,YDATA Synthetic,SDV,Tonic.AI,Mostly.AI,Parallel Domain,Mindtech,Synthesis AI,Oneview,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic, kubric 
     
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
 
@@ -1135,7 +1135,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      11.sparse csr matrix
      
-     12.entity embeddings
+     12.entity embeddings,Categorical Embeddings
      
      13.binary encoding,Base-N Encoding
      
@@ -1552,6 +1552,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     rulefit https://github.com/christophM/rulefit
     
     Featurewiz: Fast way to select the best features in a data
+    select best features  featurewiz https://github.com/AutoViML/featurewiz
     Featuretools: https://github.com/alteryx/featuretools  https://analyticsindiamag.com/introduction-to-featuretools-a-python-framework-for-automated-feature-engineering/
     AutoFeat: https://github.com/cod3licious/autofeat
     TSFresh: https://github.com/blue-yonder/tsfresh
@@ -2359,7 +2360,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
      1.One-hot-encoding,Index-based Encoding,Term Frequency,bag of words ,Bag of N-grams Model,Binary Term Frequency,(L1) Normalized Term Frequency,(L2) Normalized TF-IDF
      
-     2.Tfidf ,Weighted Class TF-IDF, HashingVectorizer
+     2.Tfidf ,Weighted Class TF-IDF,tfidf + CHI²,HashingVectorizer
      
      3.wordembedding :  Use a pre-trained model , Self-Trained model
         
