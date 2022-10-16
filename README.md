@@ -5230,6 +5230,8 @@ https://www.openblender.io/#/welcome
 
 80.pydot is an interface to Graphviz ,AutoGraph-Easy control flow for graphs,Neo4j-Graph Data Science Library,pyRDF2Vec-Representations of Entities in a Knowledge Graph,igraph,NetworkX,euler,pyvis,NEuler: No-code graph algorithms,dgl ease deep learning on graph,Graph4nlp,Graph-tool,Networkit,Igraph
 
+PyG (PyTorch Geometric)  Graph Neural Network Library for PyTorch https://github.com/pyg-team/pytorch_geometric
+
 7 Open Source Libraries for Deep Learning Graphs  https://www.kdnuggets.com/2021/07/7-open-source-libraries-deep-learning-graphs.html
 
 GeometricFlux.jl,PyTorch GNN, Jraph,Spektral,Graph Nets,Deep Graph Library , PyTorch Geometric
