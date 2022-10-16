@@ -1632,6 +1632,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
    
    A.Supervised learning (have label data)
    
+     Transformers for Tabular Data: TabTransformer https://github.com/lucidrains/tab-transformer-pytorch 
+   
      1.Regression (output feature in continous data form)
      
        linear regression,Multiple Linear Regression,polynomial regression,Exponential Regression,Bayesian Regression,Robust Regression,Huber regressor,support vector regression,Decision Tree Regression,Random Forest Regression,TensorFlow Decision Forests,RANSAC Regression,
@@ -2529,7 +2531,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         https://github.com/balavenkatesh3322/audio-pretrained-model
         
-     SpeechRecognition
+     SpeechRecognition  ASR2K: Speech Recognition https://github.com/xinjli/asr2k
      
      audiomentations  Python library for audio data augmentation  https://github.com/iver56/audiomentations
      
@@ -3345,7 +3347,7 @@ TF Micro and SensiML https://blog.tensorflow.org/2021/05/building-tinyml-applica
 
 six different types of methods:
 1) Pruning, Weight sharing
-Structured vs. Unstructured Pruning
+Structured Pruning,Unstructured Pruning,Pruning Local,Global Pruning
 2) Quantization       ,TensorFlow Quantum, Int8 quantization
    Post-Training Quantization
    — Reduce Float16
