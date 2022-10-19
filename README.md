@@ -1141,7 +1141,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      14.Rare label encoding
      
-     15.Leave-one-out(Loo) encoding
+     15.Leave-one-out(Loo) encoding,Generalized Linearn Mixed Model
     
      16.hash encoding,MinHashEncoder,SimilarityEncoder,DatetimeEncoder,SuperVectorizer,FeatureHasher,DictVectorizer,HashingVectorizer
      
@@ -1437,6 +1437,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination,Feature Shuffling,Feature performance,Target mean performance,Permutation importance,Population stability index,Target encoding)
     
     ITMO_FS is a feature selection library https://github.com/ctlab/ITMO_FS
+    
+    Sparse Features - Removing features,LASSO regularization,features dense(pca,Feature hashing),Using models that are robust to sparse features
     
     5.Feature creation
     
@@ -2507,7 +2509,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         text to speech  https://towardsdatascience.com/text-to-speech-one-small-step-by-mankind-to-create-lifelike-robots-54e19f843b21
         
-        Acoustic model,Speaker diarisation,apis,apiai,assemblyai,google-cloud-speech,pocketsphinx,SpeechRecognition,watson-developer-cloud,wit
+        Acoustic model,Speaker diarisation,apis,apiai,assemblyai,google-cloud-speech,pocketsphinx,SpeechRecognition,watson-developer-cloud,wit,Coqui TTS,Mozilla TTS, OpenTTS,ESPNet,PaddleSpeech
         
         Microsoft IceCAPS is an Open Source Framework for Conversational Modeling https://pub.towardsai.net/microsoft-icecaps-is-an-open-source-framework-for-conversational-modeling-4f78492ca685
         
@@ -3206,7 +3208,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,Gradio,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,torchserve
+    streamlit,Gradio,mia,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,torchserve
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
