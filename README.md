@@ -2116,6 +2116,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      Data augmentation feature space : noise,interpolation   Data Space Character Level : Noise Induction,Rule-based Transformations  Word Level : Noise Induction,Synonym Replacement,Embedding Replacement,Replacement by Language Models  Phrase and Sentence Level : Interpolation,Structure-based Transformation  Document Level:Round-trip Translation,Generative Methods
      
+     flipping, rotation, scaling ratio, noise injection, changing contrast, translation, cropping, color jittering,AutoAugment,Fast AutoAugment,Population Based Augmentation,RandAugment
+     
      More advanced techniques-Gaussian Noise,Random Blocks,Central Region
      
      albumentations https://github.com/albumentations-team/albumentations https://towardsdatascience.com/getting-started-with-albumentation-winning-deep-learning-image-augmentation-technique-in-pytorch-47aaba0ee3f8
