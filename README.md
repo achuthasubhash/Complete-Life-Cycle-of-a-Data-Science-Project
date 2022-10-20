@@ -2398,6 +2398,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       Universal Embeddings, Contextual Embeddings (Transformers),BERT Embeddings,Sentence Transformers,Sentence Vectors,Sentence Embedding
       
+      Transformer based embedding
+      
     3 b Tokenizer nlp(texs_to_sequences )
         
      4.Document embedding-Doc2vec
@@ -2918,7 +2920,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization,Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,Bayesian Optimization,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT),Multi-Fidelity Optimization,DEAP,SMAC
+    c.Bayesian Optimization,Bayesian Optimization with Gaussian Processes (BO-GP),Bayesian Optimization with Tree-structured Parzen Estimator (BO-TPE),Particle swarm optimization (PSO),Genetic algorithm (GA)Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,Bayesian Optimization,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT),Multi-Fidelity Optimization,DEAP,SMAC
     
     Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
     
@@ -4826,7 +4828,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 autopandas,Auto-Sklearn,Auto-Pytorch,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR,PyCaret,Auto-sklearn,SMAC
 
-Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless,Amazon Lex, BigML,AutoML JADBio,Akkio MLJAR, Tazi.ai,UBER’s Ludwig,ANAI
+Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless,Amazon Lex, BigML,AutoML JADBio,Akkio MLJAR, Tazi.ai,UBER’s Ludwig,ANAI,Google Vizier,Tune,HpBandSter,Hyperopt,Facebook’s HiPlot
 
 Automated Tensorflow  https://github.com/rafiqhasan/auto-tensorflow
 
@@ -5377,7 +5379,7 @@ DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9 https://www.marktechpost.com/2022/10/05/top-artificial-intelligence-ai-based-text-to-image-generators/
 
-text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo
+text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,Google UniTune (fine-tuned Imagen)
 
 3D Models from Text :  DreamFusion 
 
