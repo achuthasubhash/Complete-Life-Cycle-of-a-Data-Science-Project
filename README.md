@@ -1841,7 +1841,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
       
       4.Twin Delayed DDPG,DQN,Temporal difference
       
-      5.A3C  (Actor Critic) ,A2C, Soft Actor Critic (SAC)
+      5.A3C  (Actor Critic) ,A2C, Soft Actor Critic (SAC),Adversarial Motion Priors (AMP),Cross-Entropy Method (CEM),Deep Deterministic Policy Gradient (DDPG),Double Deep Q-Network (DDQN),Deep Q-Network (DQN),Proximal Policy Optimization (PPO),Q-learning (Q-learning),Soft Actor-Critic (SAC),State Action Reward State Action (SARSA),Twin-Delayed DDPG (TD3),Trust Region Policy Optimization (TRPO)
       
       6.Advantage weighted actor critic (AWAC). 
       
@@ -3212,7 +3212,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,Gradio,mia,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,torchserve
+    streamlit,Gradio,mia,opyrator,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,torchserve
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
