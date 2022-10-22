@@ -1661,7 +1661,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
         Logistic Regression,K-Nearest Neighbors,Support Vector Machine,Kernel SVM,Naive Bayes,Decision Tree Classification,linear-tree,TensorFlow Decision Forests,
         
         Random Forest Classification,TensorFlow Decision Forests, Regularized Greedy Forests,xgboost,DART booster,autoxgb,LightGBM,adaboost,Gradient Boost,XBNet,catboost,gaussian NB,LGBMClassifier,LinearDiscriminantAnalysis, Extreme Gradient Boosting Machine, Explainable Boosting Machine,fairgbm
-,Chefboost,GPBoost,NGBoost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet,ExtraTreesClassifier
+,Chefboost,GPBoost,NGBoost,passive aggressive classifier algorithm,cart,c4.5,c5.0,tabnet,ExtraTreesClassifier,TabPFN
         
         https://mlwhiz.com/blog/2019/11/12/dtsplits/?utm_campaign=the-simple-math-behind-3-decision-tree-splitting-criterions&utm_medium=social_link&utm_source=missinglettr-linkedin
         
@@ -2467,6 +2467,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         https://www.kdnuggets.com/2021/02/hugging-face-transformer-basics.html#.YE7gRy9s-LA.linkedin
         
         mBART-50 https://www.youtube.com/watch?v=fxZtz0LPJLE&feature=youtu.be
+        
+        Few-shot classification with SetFit and a custom dataset  https://rubrix.readthedocs.io/en/docs-setfit_tutorial/tutorials/few-shot-classification-with-setfit.html
       
      10.BERT,Packed BERT,BART,DynaBERT,SBERT,ConvBert,Quantized MobileBERT,ALBERT,ELECTRA,ARBERT,MARBERTElectra,Transformer-XL,Longformer,Reformer,DistilBERT,ELMo,ROBERTA,XLNet,XLM-RoBERTa,DeBERTa,T5,fastT5, CodeT5,mT5,ByT5,simpleT5,byt5,OnnxT5,FastT5,Linformer,DISTILBERT,GPT,GPT2,GPT3,gpt-neo,gpt-neox,GPT-J,aitextgen,PRADO,PET,BORT,MuRIL,Multitask Unified Model,aitextgen,AI21's 'Jurassic' language model,Turing NLG,Wu Dao 2.0,PanGu-Alpha,Gopher,Megatron model
 
@@ -2787,6 +2789,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       https://pytorch-forecasting.readthedocs.io/en/latest/  https://pytorch-forecasting.readthedocs.io/en/latest/tutorials/ar.html
       
+      Complex Exponential Smoothing (CES) which can handle both stationary and non-stationary processes and model a wide spectum of level and trend time-series.  https://github.com/Nixtla/statsforecast/tree/main/experiments/ces
+      
       sktime-https://github.com/alan-turing-institute/sktime  https://analyticsindiamag.com/sktime-library/
       
       autocast https://github.com/andyzoujm/autocast
@@ -2883,7 +2887,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    101 Machine Learning Algorithms for Data Science with Cheat Sheets https://blog-datasciencedojo-com.cdn.ampproject.org/c/s/blog.datasciencedojo.com/machine-learning-algorithms/amp/
 
-  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,GELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Modifying ReLU,Shifted ReLU,Softmax,Swish,Softplus,Mish,Smooth reLU
+  TYPES OF ACTIVATION FUNCTIONS: LINEAR ACTIVATION,RELU,LEAKY RELU,GELU,SIGMOID ACTIVATION,TANH ACTIVATION,elu,PReLU,Modifying ReLU,Shifted ReLU,Softmax,Swish,Softplus,Mish,Smooth reLU,GELU
   
   Optimizer- Gradient Descent(Batch Gradient Descent,Stochastic Gradient Descent,Mini batch Gradient Descent),sgd with   momentum,Adagrad,RMSProp,AMSGrad,Adam,AdaBelief,MADGRAD,Nero,
   
