@@ -2400,7 +2400,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       Universal Embeddings, Contextual Embeddings (Transformers),BERT Embeddings,Sentence Transformers,Sentence Vectors,Sentence Embedding
       
-      Transformer based embedding
+      Transformer based embedding 
       
     3 b Tokenizer nlp(texs_to_sequences )
         
