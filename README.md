@@ -1811,7 +1811,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      VOTING ENSEMBLE
      
-     Simple : Max Voting, Averaging, Weighted Averaging
+     Simple : Max Voting, Averaging, Weighted Averaging,Simple Average
      
      mlens ML-Ensemble – high performance ensemble learning https://github.com/flennerhag/mlens
      
@@ -3074,7 +3074,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold,StratifiedShuffleSplit,Nested K-folds,Random split
 KFold,Walk forward,Group Time Series,Purged Group KFold,Combinatorial Purged Group KFold
      
-     4.Repeated K-folds,RepeatedStratifiedKFold
+     4.Repeated K-folds,RepeatedStratifiedKFold,Repeated random subsampling CV
      
      5.Holdout cross-validation
      
