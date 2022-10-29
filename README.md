@@ -2615,6 +2615,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       Removing trend  Differencing,Least square trends removal
       
+      Time Series Decomposition  log,box-cox  transformation,moving average
+      
       Removing seasonality Seasonal differencing,Seasonal means,Method of moving averages
       
       generally used  to impute data in Time Series
@@ -4118,7 +4120,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery
    
    https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools?utm_source=twitter&utm_medium=tweet&utm_campaign=blog-explainability-auditability-ml-definitions-techniques-tools
    
-   Shapash,ELI5,InterpretML,OmniXAIEli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Casual shap values,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates,
+   Shapash,ELI5,InterpretML,Concept Relevance Propagation,OmniXAIEli5,Yellowbrick,Mlxtend,PDPBox,InterpretML,Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE) Plots, Accumulated Local Effects (ALE) Curves and Permutation Importance,LIME,SHAP,Casual shap values,Integrated Gradients,Anchors,Feature importance/attribution,SmoothGrad,DeepLIFT,GradientExplainer,decision tree surrogates,
 xplique,ANCHORS,Permutation Importance,Morris Sensitivity Analysis,Contrastive Explanation Method (CEM),Counterfactual Instances,Global Interpretation via Recursive,Partitioning (GIRP),Protodash,Scalable Bayesian Rule Lists,Tree Surrogates,Explainable Boosting Machine (EBM),DALEX,ALIBI,DiCE,Explainerdashboards,TCAV,PiML,Xplique,Explainer_dashboard,InterpretML,tcav,FeatureImportance,Layerwise Propagation,Surrogate,Explainer Partial Dependence,solas,ferret,Integrated Gradients,DeepLift,Explainable Boosting Machine,Saliency maps,TCAV,Distillation,Counterfactual,interpretML,pdpbox,PyALE,interpret, Fast interpretable,greedy-tree sums,interpretml,imodels,ferret,Counterfactual explanations ,Layerwise Relevance Propagation,Integrated Gradients (IG),Deep LIFT, Saliency,Feature Ablation,Occlusion,captum,Accumulated Local Effects,Anchors,Integrated Gradients,Counterfactuals,GradientShap,DeepLift,DeepLiftShap,IntegratedGradients,LayerConductance,NeuronConductance,NoiseTunnel,
 
    OmniXAI: A Library for eXplainable AI  https://github.com/salesforce/OmniXAI
