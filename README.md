@@ -12,7 +12,7 @@ https://www.theinsaneapp.com/2021/03/how-to-build-machine-learning-project.html
 
 ***1.Data collection***
 
-Data consists of 3 kinds
+Data consists of 3 kinds 
 
     a.Structure data (tabular data,etc...)
     
