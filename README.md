@@ -2018,6 +2018,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
        
        fewshot https://github.com/open-mmlab/mmfewshot
        
+       Zero-Shot Object Detection , annotate dataset https://github.com/microsoft/GLIP
+       
        imageai.Detection ObjectDetection       Segmentation models https://github.com/qubvel/segmentation_models
        
        Image-Segmentation-Using-Pixellib
@@ -2410,7 +2412,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
      5.sentence embedding
     
-       sense2vec,SENT2VEC,Universal sentence encoder
+       sense2vec,SENT2VEC,Universal sentence encoder,Sentence Transformers
        
      Top2Vec 
      
