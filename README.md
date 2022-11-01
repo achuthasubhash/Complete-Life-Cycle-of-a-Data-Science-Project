@@ -4116,7 +4116,9 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery
    
    3 Python Packages for Machine Learning Validation  Evidently , Deepchecks , TensorFlow-Data-Validation
    
-   106.Interpret The ML Model    https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608
+   106.Explainability : Model-Specific explainability(Explainability method is strictly relevant to specific model) ,Model-Agnostic explainability ( Explanation to any type model),Model-Centric explainability(most Explanation methods are Model-Centric, as these methods are used to explain how the features and target values are being adjusted),Data-Centric explainability(these methods are used to understand the nature of the data)
+   
+   Interpret The ML Model    https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608
 
    https://christophm.github.io/interpretable-ml-book/  https://www.kaggle.com/getting-started/209632  https://ex.pegg.io/
    
