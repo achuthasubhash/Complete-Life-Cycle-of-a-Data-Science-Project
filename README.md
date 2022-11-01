@@ -5387,15 +5387,17 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0
+DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,Parti,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9 https://www.marktechpost.com/2022/10/05/top-artificial-intelligence-ai-based-text-to-image-generators/
 
-text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,Google UniTune (fine-tuned Imagen)
+text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen)
 
-3D Models from Text :  DreamFusion 
+3D Models from Text :  DreamFusion,CLIP-Mesh
 
-Audiogen , diffsound,text to motion
+Text-to-Audio : Audiogen,diffsound
+
+Text-to-Motion : MotionCLIP,Language2Pose
 
 Mubert Text to Music https://github.com/MubertAI/Mubert-Text-to-Music
 
