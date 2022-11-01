@@ -1233,7 +1233,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
    
    i.Outilers   removing outilers depond on problem we are solving  https://github.com/jainyk/package-outlier
    
-      2 type of outilers available: Global outiler, Local outiler,Contextual (conditional) outliers,Collective outliers
+      2 type of outilers available: Global outiler(single value/data point that deviates from the distribution), Local outiler,Contextual (conditional) outliers,Collective outliers(Group of datapoint deviates from the distribution)
     
       eg: incase of fraud detection outilers are very important
       
@@ -1760,6 +1760,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          AutoRec: Rating Prediction with Autoencoders Matrix Factorization
          
          k.suprise baseline model
+         
+         Context-aware Recommender Systems,Mobile Recommender Systems,Group Recommender Systems,Multi-stakeholder Recommender Systems
          
          l.Tf-Rec https://github.com/Praful932/Tf-Rec
          
@@ -5383,7 +5385,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E, Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo
+DALL·E Mini,GPT-3, Dalle - 2, Imagen, and Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,OpenAI’s DALL-E 2,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9 https://www.marktechpost.com/2022/10/05/top-artificial-intelligence-ai-based-text-to-image-generators/
 
