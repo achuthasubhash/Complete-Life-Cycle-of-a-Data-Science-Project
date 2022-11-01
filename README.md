@@ -1143,7 +1143,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      15.Leave-one-out(Loo) encoding,Generalized Linearn Mixed Model
     
-     16.hash encoding,MinHashEncoder,SimilarityEncoder,DatetimeEncoder,SuperVectorizer,FeatureHasher,DictVectorizer,HashingVectorizer
+     16.hash encoding,MinHashEncoder,SimilarityEncoder,DatetimeEncoder,SuperVectorizer,FeatureHasher,DictVectorizer,HashingVectorizer,DecisionTreeEncoder
      
      17.dummy encoding,NaN Encoding
      
@@ -1219,7 +1219,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
            
            g.Quantile Transformation ,Arcsin Transformation
            
-           Root transformation,Cube root transformation,Cosine Transformation,SplineTransformer,FunctionTransformer 
+           Root transformation,Cube root transformation,Cosine Transformation,SplineTransformer,FunctionTransformer,ArcsinTransformer 
            
            Left skewness (use powers) Squares transformation,Cubes transformation,High powers
       
