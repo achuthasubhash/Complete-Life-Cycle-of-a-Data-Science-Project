@@ -3694,7 +3694,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
    9.EasyOCR,textract,pytesseract,tesserocr,Amazon textract,TabulaPy, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdf2image,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch,ocr donut,LOGOS ocr,
-ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery
+ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet 
  
     OCR toolbox from Davar-Lab https://github.com/hikopensource/davar-lab-ocr
    
@@ -5064,7 +5064,7 @@ change to proper dtypes,usecols of required only reduce size
 Better Data Storage : CSV,Parquet,Feather
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization, multiprocessing,airflow,celery,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck,Pandarallel,Datatable,Pyspark,Koalas
 https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 deal with Big Data  Optimize dataframes,Use only required columns,Chunking data,Sparse data formats,Better Data file formats(Parquet,Feather,HDF5),Pandas alternates(Modin,vaex,dask,spark),Intel(R) extension for sklearn,  Apply Vectorized,Numba,Rapids cuDF
@@ -5389,7 +5389,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,Parti,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0
+DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,Parti,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0,eDiffi
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9 https://www.marktechpost.com/2022/10/05/top-artificial-intelligence-ai-based-text-to-image-generators/
 
@@ -5397,7 +5397,7 @@ text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,Co
 
 3D Models from Text :  DreamFusion,CLIP-Mesh
 
-Text-to-Audio : Audiogen,diffsound
+Text-to-Audio : Audiogen,diffsound,GliaCloud,Synthesia,InVideo,Synths Video,VEED.IO,Lumen5,Pictory,Designs.ai,Wisecut
 
 Text-to-Motion : MotionCLIP,Language2Pose
 
