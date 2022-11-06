@@ -2875,7 +2875,9 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
    
    Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks" https://github.com/cbfinn/maml
    
-   I.Transfer learning(Inductive Transfer learning(similar domain,different task),Unsupervised Transfer Learning(different task,different domain but similar enough) ,Transductive Transfer Learning(similar task,different domain))
+   I.Transfer learning(Inductive Transfer learning(similar domain,different task),Unsupervised Transfer Learning(different task,different domain but similar enough) ,Transductive Transfer Learning(similar task,different domain)),Inductive transfer learning(labeled data is the same for the target and source domain but the tasks the model works on are different),Unsupervised transfer learning(unsupervised tasks for both source and target tasks),self taught learning
+   
+   
    
    Transfer Learning Using TensorFlow Keras https://analyticsindiamag.com/transfer-learning-using-tensorflow-keras/
    
