@@ -1217,7 +1217,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
            
            i.power transformations  https://towardsdatascience.com/when-and-how-to-use-power-transform-in-machine-learning-2c6ad75fb72e
            
-           g.Quantile Transformation ,Arcsin Transformation
+           g.Quantile Transformation ,Arcsin Transformation 
            
            Root transformation,Cube root transformation,Cosine Transformation,SplineTransformer,FunctionTransformer,ArcsinTransformer 
            
