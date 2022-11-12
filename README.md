@@ -4634,6 +4634,8 @@ determined to be unfair.
     
     6.saturncloud  https://saturncloud.io/
     
+    Intel Jupyter Lab,Amazon Sagemaker,Binder,DeepNote,Hex,DataBricks Notebook,Jetbrains Datalore,DataCamp Workspace,Notablejournal,Notable,Observable
+    
 ***So what next ?***
 
 participate online competition and do project and apply to intership ,job,solving real world problems, etc...
