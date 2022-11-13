@@ -1789,6 +1789,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          torchrec,Lenskit,RGRecSys,Surprise,Tensorflow Recommenders,NVIDIA-Merlin
          
+         Session-based RecSys could be done with:Recency-based Weighting (exp.decay),Probabilistic Graphical Models (FPMC, FOSSIL),Convolutional NN (Caser, NextItNet),Recurrent NN (GRU4Rec),Graph NN (SRGNN, GCSAN),Attention(STAMP, NARM, FDSA, SHAN),Transformer(BERT4Rec, Transformer4Rec),Knowledge Graph(KSR, GRU4RecKG, KGCN, KGAT, RippleNet)
+         
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
          
          https://towardsdatascience.com/modern-recommender-systems-a0c727609aa8
@@ -3368,6 +3370,7 @@ TF Micro and SensiML https://blog.tensorflow.org/2021/05/building-tinyml-applica
 six different types of methods:
 1) Pruning, Weight sharing
 Structured Pruning,Unstructured Pruning,Pruning Local,Global Pruning
+Pruning criteria( Weight magnitude criterion,Gradient magnitude pruning,Global or local pruning,
 2) Quantization       ,TensorFlow Quantum, Int8 quantization
    Post-Training Quantization
    — Reduce Float16
