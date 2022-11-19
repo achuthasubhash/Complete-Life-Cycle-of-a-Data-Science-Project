@@ -1039,11 +1039,13 @@ World’s Largest Data Platform https://worlddata.ai/
      
      4.use Stratified kfold to keep the ratio of classess constantly, train teat spilt startify attribute
      
-     Use K-fold Cross-Validation in the Right Way,Stratified Cross Validation
+     Use K-fold Cross-Validation in the Right Way,Stratified Cross Validation,repeated K-fold Cross-Validation,Stratified K-fold Cross-Validation
      
      Stratified Sampling,Stratified splits
      
      5.Weighted Neural Network
+     
+     cluster based sampling 
      
      6.MESA https://analyticsindiamag.com/guide-to-mesa-boost-ensemble-imbalanced-learning-with-meta-sampler/
      
@@ -1145,7 +1147,7 @@ World’s Largest Data Platform https://worlddata.ai/
     
      16.hash encoding,MinHashEncoder,SimilarityEncoder,DatetimeEncoder,SuperVectorizer,FeatureHasher,DictVectorizer,HashingVectorizer,DecisionTreeEncoder
      
-     17.dummy encoding,NaN Encoding
+     17.dummy encoding,NaN Encoding,bin counting scheme,effect coding scheme
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
@@ -1787,7 +1789,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          Downsize Recommendation Models By 112 Times https://analyticsindiamag.com/explained-facebooks-novel-method-to-downsize-recommendation-models-by-112-times/
          
-         torchrec,Lenskit,RGRecSys,Surprise,Tensorflow Recommenders,NVIDIA-Merlin
+         torchrec,Lenskit,RGRecSys,Surprise,Tensorflow Recommenders,NVIDIA-Merlin,Recmetrics,Surprise,DeepCTR,OpenRec,fastFM,LightFM
          
          Session-based RecSys could be done with:Recency-based Weighting (exp.decay),Probabilistic Graphical Models (FPMC, FOSSIL),Convolutional NN (Caser, NextItNet),Recurrent NN (GRU4Rec),Graph NN (SRGNN, GCSAN),Attention(STAMP, NARM, FDSA, SHAN),Transformer(BERT4Rec, Transformer4Rec),Knowledge Graph(KSR, GRU4RecKG, KGCN, KGAT, RippleNet)
          
