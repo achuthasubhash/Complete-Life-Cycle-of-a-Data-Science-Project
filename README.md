@@ -334,7 +334,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
     22) Automates Image Annotation for Deep Learning Models https://medium.com/towards-artificial-intelligence/improving-data-labeling-efficiency-with-auto-labeling-uncertainty-estimates-and-active-learning-5848272365be
     
-    Label Studio,Sloth,LabelBox,TagTog,Amazon SageMaker GroundTruth,Playment,Superannotate
+    Label Studio,Sloth,LabelBox,TagTog,Amazon SageMaker GroundTruth,Playment,Superannotate,Playment,Dataturk,LightTag,Superannotate,CVAT
     
     Automate data preparation https://www.superb-ai.com/
     
@@ -2942,7 +2942,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization,Bayesian Optimization with Gaussian Processes (BO-GP),Bayesian Optimization with Tree-structured Parzen Estimator (BO-TPE),Particle swarm optimization (PSO),Genetic algorithm (GA)Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,Bayesian Optimization,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT),Multi-Fidelity Optimization,DEAP,SMAC
+    c.Bayesian Optimization,Bayesian Optimization with Gaussian Processes (BO-GP),Bayesian Optimization with Tree-structured Parzen Estimator (BO-TPE),Particle swarm optimization (PSO),Genetic algorithm (GA)Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,Bayesian Optimization,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT),Multi-Fidelity Optimization,DEAP,SMAC,Ray Tune,Google’s Vizer, Microsoft’s NNI 
     
     Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
     
@@ -4319,9 +4319,9 @@ determined to be unfair.
    
    Detecting data drift and model drift:eurybia
    
-   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun,Comet,Sacred,TensorBoard,DagsHub
+   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun,Comet,Sacred,TensorBoard,DagsHub,,Guild AI,ClearML,Valohai,Pachyderm,Verta.ai,Kubeflow,SageMaker Studio
    
-   Data versioning:Dolt,DVC,gitlfs,pachyderm,lakefs,DVC,weight and biases,Neptune
+   Data versioning:Dolt,DVC,gitlfs,pachyderm,lakefs,DVC,weight and biases,Neptune,Comet
    
    Code versioning: Gitlab,git
    
