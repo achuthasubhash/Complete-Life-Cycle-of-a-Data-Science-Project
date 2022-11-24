@@ -4321,11 +4321,13 @@ determined to be unfair.
    
    Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun,Comet,Sacred,TensorBoard,DagsHub,,Guild AI,ClearML,Valohai,Pachyderm,Verta.ai,Kubeflow,SageMaker Studio
    
-   Data versioning:Dolt,DVC,gitlfs,pachyderm,lakefs,DVC,weight and biases,Neptune,Comet
+   Data versioning:Dolt,DVC,gitlfs,pachyderm, Git LFS,lakefs,DVC,weight and biases,Neptune,Comet,Delta Lake
    
    Code versioning: Gitlab,git
    
-   Pipeline orchestration:Apche airflow,Argo,workflows,Luigi,kubeflow,kedro,nextflow,dragster,Apache,bean,zenml,flute,prefect,ray,DVC,polyaxon,clearml,mlrun,pachyderm
+   Model Versioning :Neptune,ModelDB,DVC,MLFlow,Pachyderm,Polyaxon
+   
+   Pipeline orchestration:Kale,Apche airflow,Argo,workflows,Luigi,kubeflow,kedro,nextflow,dragster,Apache,bean,zenml,flute,prefect,ray,DVC,polyaxon,clearml,mlrun,pachyderm,Metaflow,Couler,Valohai,Dagster.io
    
    Runtime engine:Ray,nuclio,dask,horovod,Apache,spark
    
@@ -4335,11 +4337,13 @@ determined to be unfair.
    
    Model serving:Seldon,core,bentoml,tensorflow,serving,kserve,fastapi,torchserve,ray,mlflow,clearml,mlrun,pymlpipe,TorchServe,TensorFlow Serving,Kubeflow,Cortex,Seldon.ai,ForestFlow
      
-   Model monitoring:Evidently,grafana,alibi,detect,modeldb,clearml,mlrun,prometheus,pymlpipe,WhyLabs,NannyML,Aporia,eurybia,Arize,Fiddler,Amazon SageMaker Model Monitor,Prometheus,Qualdo
+   Model monitoring:Evidently,WhyLabs,grafana,alibi,detect,modeldb,clearml,mlrun,prometheus,pymlpipe,NannyML,Aporia,eurybia,Arize,Fiddler,Amazon SageMaker Model Monitor,Prometheus,Qualdo,Neptune,Grafana + Prometheus ,Qualdo,Seldon Core,Censius
    
    data validation:Pydantic,eurybia
    
    model testing: Deepchecks,Neptune,Mona ,Grafana + Prometheus
+   
+   Continuous Integration and Continuous Deployment (CI/CD) Tools for Machine Learning : CML ,GitHub Actions,GitLab for CI/CD,Jenkins,TeamCity,Circle CI,Travis CI,
    
    aim https://github.com/aimhubio/aim
   
