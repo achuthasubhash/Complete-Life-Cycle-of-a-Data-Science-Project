@@ -1245,7 +1245,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       
       Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),k-Nearest Neighbors Detector,Elliptic Envelope,Cluster-based,Local Outlier Factor,Histogram-based Outlier Detection
       
-      outiler treatment: mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning,Trimming,Treating outliers as missing values,Top/bottom/zero coding,winsorizing,robust scaler,log transformation,binning,regularisation
+      outiler treatment: mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning,Trimming,Treating outliers as missing values,Top/bottom/zero coding,winsorizing,robust scaler,log transformation,binning,regularisation,Discretization,arbitrary value
       
       Outlier capping with IQR Outlier capping with mean and std Outlier capping with quantiles Arbitrary capping
       
