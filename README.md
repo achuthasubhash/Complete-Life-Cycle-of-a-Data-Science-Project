@@ -4863,7 +4863,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 autopandas,Auto-Sklearn,Auto-Pytorch,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR,PyCaret,Auto-sklearn,SMAC
 
-Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless,Amazon Lex, BigML,AutoML JADBio,Akkio MLJAR, Tazi.ai,UBER’s Ludwig,ANAI,Google Vizier,Tune,HpBandSter,Hyperopt,Facebook’s HiPlot
+Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless,Amazon Lex, BigML,AutoML JADBio,Akkio MLJAR, Tazi.ai,UBER’s Ludwig,ANAI,Google Vizier,Tune,HpBandSter,Hyperopt,Facebook’s HiPlot,Bayesian Optimisation,SmartML,SigOpt,Talos,mlmachine,SHERPA Scikit-Optimize,Microsoft’s NNI,Google’s Vizer,GPyOpt,Hyperopt Metric Optimisation Engine (MOE),Optuna,Ray Tune,Keras Tuner
 
 Automated Tensorflow  https://github.com/rafiqhasan/auto-tensorflow
 
