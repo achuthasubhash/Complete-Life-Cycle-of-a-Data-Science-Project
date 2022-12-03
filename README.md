@@ -2912,6 +2912,21 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   https://analyticsindiamag.com/ultimate-guide-to-pytorch-optimizers/    https://analyticsindiamag.com/guide-to-tensorflow-keras-optimizers/
   
   Regularization- L1, L2,elasticnet, dropout, early stopping, and data augmentation,batch normalisation,Layer Normalization,Group Normalization,tree purning,DropBlock,DropConnect,Learning rate schedulingWeight Decay,Gradient clipping,Adaptive optimizer
+  
+  Addressing Overfitting - 13 Methods 
+  01. Dimensionality Reduction
+  02. Feature Selection
+  03. Early Stopping
+  04. K-Fold Cross-Validation
+  05. Creating Ensembles
+  06. Pre‐Pruning
+  07. Post‐Pruning
+  08. Noise Regularization
+  09. Dropout Regularization
+  10. L1 and L2 Regularization
+  11. Data (Image) Augmentation
+  12. Adding More Training Data
+  13. Reducing Network Width & Depth
 
   
   DropBlock: A New Regularization Technique https://pub.towardsai.net/dropblock-a-new-regularization-technique-e926bbc74adb
