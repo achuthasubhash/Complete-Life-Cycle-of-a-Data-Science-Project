@@ -4336,7 +4336,7 @@ determined to be unfair.
    
    Data verification:Scale Nucleus,great_expectation,Soda Data Observability
    
-    Metadata management:Neptune.ai,SiaSearch,Tensorflow's ML MetaData
+   Metadata management:Neptune.ai,SiaSearch,Tensorflow's ML MetaData
    
    Data management:Neptune,DVC,RoboFlow,Dataiku
    
@@ -4346,7 +4346,7 @@ determined to be unfair.
    
    Detecting data drift and model drift:eurybia
    
-   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun,Comet,Sacred,TensorBoard,DagsHub,,Guild AI,ClearML,Valohai,Pachyderm,Verta.ai,Kubeflow,SageMaker Studio
+   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun,Comet,Sacred,TensorBoard,DagsHub,,Guild AI,ClearML,Valohai,Pachyderm,Verta.ai,Kubeflow,SageMaker Studio,sacred
    
    Data versioning:Dolt,DVC,gitlfs,pachyderm, Git LFS,lakefs,DVC,weight and biases,Neptune,Comet,Delta Lake
    
@@ -4358,11 +4358,13 @@ determined to be unfair.
    
    Runtime engine:Ray,nuclio,dask,horovod,Apache,spark
    
+   Data orchestration prefect,kale,mlru,dagster,kedro,airflow
+   
    Artifact tracking:Kubeflow,mlflow,weight and biases,Neptune,polyaxon,clearml,mlrun,pachyderm
    
    Model registry:Modeldb,mlflow,determined,weight and biases,Neptune,clearml,mlrun, Vision AI,DINO,Amazon Rekognition
    
-   Model serving:Seldon,core,bentoml,tensorflow,serving,kserve,fastapi,torchserve,ray,mlflow,clearml,mlrun,pymlpipe,TorchServe,TensorFlow Serving,Kubeflow,Cortex,Seldon.ai,ForestFlow
+   Model serving:Seldon,core,bentoml,tensorflow serving,kserve,fastapi,torchserve,ray,mlflow,clearml,mlrun,pymlpipe,TorchServe,TensorFlow Serving,Kubeflow,Cortex,Seldon.ai,ForestFlow,bentoml
      
    Model monitoring:Evidently,WhyLabs,grafana,alibi,detect,modeldb,clearml,mlrun,prometheus,pymlpipe,NannyML,Aporia,eurybia,Arize,Fiddler,Amazon SageMaker Model Monitor,Prometheus,Qualdo,Neptune,Grafana + Prometheus ,Qualdo,Seldon Core,Censius
    
