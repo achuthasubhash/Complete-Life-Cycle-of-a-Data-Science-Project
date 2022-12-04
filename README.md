@@ -334,7 +334,9 @@ World’s Largest Data Platform https://worlddata.ai/
    
     22) Automates Image Annotation for Deep Learning Models https://medium.com/towards-artificial-intelligence/improving-data-labeling-efficiency-with-auto-labeling-uncertainty-estimates-and-active-learning-5848272365be
     
-    Label Studio,Sloth,LabelBox,TagTog,Amazon SageMaker GroundTruth,Playment,Superannotate,Playment,Dataturk,LightTag,Superannotate,CVAT
+    Label Studio,Sloth,LabelBox,TagTog,Amazon SageMaker GroundTruth,Playment,Superannotate,Playment,Dataturk,LightTag,Superannotate,CVAT,sloth,LabelImg,
+cvat
+
     
     Automate data preparation https://www.superb-ai.com/
     
@@ -3868,7 +3870,9 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, Azure Bot Service,chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson,Parrot  etc...
    
-   Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots 
+   Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots
+   
+   ChatGPT  openai chatboat
    
    no code chatbots https://juji.io/
     
@@ -4330,7 +4334,13 @@ determined to be unfair.
    
    15  MLOps.toys https://mlops.toys/    AIOps,Data version control DVC,MLFlow,Docker foundation,Kubernetes Foundation,Tensorflow Extend (TFX),Kubeflow,AWS AIOps,Azure AIOps,MLflow and TensorBoard ,Weights & Biases, Neptune AI, Comet,aim
    
-   Feature Stores : Amazon SageMaker Feature Store,Databricks,Hopsworks.ai,Vertex AI,FeatureForm,FeastTecton
+   Data verification:Scale Nucleus,great_expectation,Soda Data Observability
+   
+    Metadata management:Neptune.ai,SiaSearch,Tensorflow's ML MetaData
+   
+   Data management:Neptune,DVC,RoboFlow,Dataiku
+   
+   Feature Stores : Amazon SageMaker Feature Store,Databricks,Hopsworks.ai,Vertex AI,FeatureForm,FeastTecton,butterfree,ByteHub
    
    Data Quality:whylogs,eurybia
    
@@ -4340,7 +4350,7 @@ determined to be unfair.
    
    Data versioning:Dolt,DVC,gitlfs,pachyderm, Git LFS,lakefs,DVC,weight and biases,Neptune,Comet,Delta Lake
    
-   Code versioning: Gitlab,git
+   Code versioning: Gitlab,github
    
    Model Versioning :Neptune,ModelDB,DVC,MLFlow,Pachyderm,Polyaxon
    
@@ -4350,7 +4360,7 @@ determined to be unfair.
    
    Artifact tracking:Kubeflow,mlflow,weight and biases,Neptune,polyaxon,clearml,mlrun,pachyderm
    
-   Model registry:Modeldb,mlflow,determined,weight and biases,Neptune,clearml,mlrun
+   Model registry:Modeldb,mlflow,determined,weight and biases,Neptune,clearml,mlrun, Vision AI,DINO,Amazon Rekognition
    
    Model serving:Seldon,core,bentoml,tensorflow,serving,kserve,fastapi,torchserve,ray,mlflow,clearml,mlrun,pymlpipe,TorchServe,TensorFlow Serving,Kubeflow,Cortex,Seldon.ai,ForestFlow
      
