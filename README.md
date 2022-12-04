@@ -2639,7 +2639,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       1.ffill
       
-      2.bfill
+      2.bfill 
       
       3.do mean of previous or future x samples and impute
       
