@@ -605,6 +605,8 @@ cvat
     Models: GANs, CTGAN, WGAN, WGAN-GP, VAEs,GANs, TimeGAN, AR 
     
     GAN-based Deep Learning data synthesizer   CTGAN,CopulaGAN,Synthetic Data Vault,Probabilistic AutoRegressive model
+    
+    Extract the metadata using DataDescriber, Compare the input and synthetic data using ModelInspector
 
     Mockaroo  https://www.mockaroo.com/ 
     
