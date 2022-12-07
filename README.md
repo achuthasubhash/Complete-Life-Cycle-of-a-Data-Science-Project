@@ -4348,7 +4348,7 @@ determined to be unfair.
    
    Detecting data drift and model drift:eurybia
    
-   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun,Comet,Sacred,TensorBoard,DagsHub,,Guild AI,ClearML,Valohai,Pachyderm,Verta.ai,Kubeflow,SageMaker Studio,sacred
+   Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun,Comet,Sacred,TensorBoard,DagsHub,Guild AI,ClearML,Valohai,Pachyderm,Verta.ai,Kubeflow,SageMaker Studio,sacred
    
    Data versioning:Dolt,DVC,gitlfs,pachyderm, Git LFS,lakefs,DVC,weight and biases,Neptune,Comet,Delta Lake
    
