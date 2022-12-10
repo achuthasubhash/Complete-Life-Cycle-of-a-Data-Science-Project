@@ -1723,7 +1723,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
    
      k-Means Clustering by up to 10x Over Scikit-Learn  https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72
      
-     3.Association Rule Learning - support,lift,confidence,leverage,aprior,elcat,Fp-growth,Fp-tree construction, association_rules,Frequent Itemset Mining,Multi-Relation Association Rules,High-order pattern discovery,K-optimal pattern discovery,Approximate Frequent Itemset,Generalized Association Rules,Quantitative Association Rules,Interval Data Association Rules,Sequential pattern mining
+     3.Association Rule Learning - support,lift,confidence,leverage,aprior,elcat,Fp-growth,Fp-tree construction,FP-Max Algorithm,association_rules,Frequent Itemset Mining,Multi-Relation Association Rules,High-order pattern discovery,K-optimal pattern discovery,Approximate Frequent Itemset,Generalized Association Rules,Quantitative Association Rules,Interval Data Association Rules,Sequential pattern mining,Hypergeometric Networks
      
      interpretable association rule https://analyticsindiamag.com/a-guide-to-interpretable-association-rule-mining-using-pycaret/
    
@@ -3253,7 +3253,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,Gradio,mia,opyrator,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,Cortex,TensorFlow Serving,TorchServe,KFServing,Multi Model Server,Triton Inference Server,ForestFlow,Seldon Core,BudgetML,GraphPipe,Hydrosphere,MLEM,Opyrator,Apache PredictionIO,Cortex,Triton Inference Server,ForestFlow,DeepDetect,Seldon Core,Kubeflow
+    streamlit,Gradio,mia,opyrator,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,Cortex,TensorFlow Serving,TorchServe,KFServing,Multi Model Server,Triton Inference Server,ForestFlow,Seldon Core,BudgetML,GraphPipe,Hydrosphere,MLEM,Opyrator,Apache PredictionIO,Cortex,Triton Inference Server,ForestFlow,DeepDetect,Seldon Core,Kubeflow,datapane
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
@@ -5001,7 +5001,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,pandas_UI,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,mito,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,tabloo,sidetable,HvPlot
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,tabloo,sidetable,HvPlot,pandarallel
 
   Three R Libraries for Automated EDA dataMaid,DataExplorer,SmartEDA
 
