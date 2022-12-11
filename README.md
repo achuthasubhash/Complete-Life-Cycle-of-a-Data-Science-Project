@@ -3159,7 +3159,9 @@ Generally used metrics
     
     4.Incase of machine translation use bleu score
     
-    5.Clustering then use External: Adjusted Rand index, Jaccard Score, Purity Score    Internal:silhouette_score, Davies-Bouldin Index, Dunn Index
+    5.Clustering then use External: Adjusted Rand index, Jaccard Score, Purity Score,Rand Index,Mutual Information,V-measure,Fowlkes-Mallows Scores  
+    
+    Internal:silhouette_score, Davies-Bouldin Index, Dunn Index
     
     autoelbow,elbow,Davies-Bouldin Index,Calinski-Harabasz Index  
     
