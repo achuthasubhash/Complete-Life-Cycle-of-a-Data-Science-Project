@@ -104,6 +104,8 @@ https://medium.com/analytics-vidhya/master-web-scraping-completly-from-zero-to-h
       
       Instascrape   
       
+      Scrape LinkedIn Profiles with ProxyCurl API
+      
       Reddit Dataset  Using PSAW and PRAW in Python
       
       Scraping Reddit using Python Reddit API Wrapper  (PRAW)
@@ -5441,19 +5443,23 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,Parti,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0,eDiffi,pixray,starryai,promptoMANIA
+DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,Parti,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0,eDiffi,pixray,starryai,promptoMANIA,starry.ai,NightCafe,Artbreeder,wombo.ai
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9 https://www.marktechpost.com/2022/10/05/top-artificial-intelligence-ai-based-text-to-image-generators/
 
-text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen)
+text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io
 
 3D Models from Text :  DreamFusion,CLIP-Mesh
 
-Text-to-Audio : Audiogen,diffsound,GliaCloud,Synthesia,InVideo,Synths Video,VEED.IO,Lumen5,Pictory,Designs.ai,Wisecut
+Text-to-Audio : Audiogen,diffsound,GliaCloud,Synthesia,InVideo,Synths Video,VEED.IO,Lumen5,Pictory,Designs.ai,Wisecut,Replica,Speechify,Murf,Play.ht,Lovo.ai 
 
 Text-to-Motion : MotionCLIP,Language2Pose
 
 Mubert Text to Music https://github.com/MubertAI/Mubert-Text-to-Music
+
+Music generator AIVA,Amper AI,Jukebox,Soundraw,Evoke  
+ 
+Text generators Frase Io,Peppertype,Rytr,Jasper,Copy.ai,ChatGPT
 
 Beginner’s Guide to the CLIP Model https://www.kdnuggets.com/2021/03/beginners-guide-clip-model.html https://www.kdnuggets.com/2021/03/multilingual-clip--huggingface-pytorch-lightning.html
 
