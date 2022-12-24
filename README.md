@@ -1728,6 +1728,10 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      3.Association Rule Learning - support,lift,confidence,leverage,aprior,elcat,Fp-growth,Fp-tree construction,FP-Max Algorithm,association_rules,Frequent Itemset Mining,Multi-Relation Association Rules,High-order pattern discovery,K-optimal pattern discovery,Approximate Frequent Itemset,Generalized Association Rules,Quantitative Association Rules,Interval Data Association Rules,Sequential pattern mining,Hypergeometric Networks
      
      interpretable association rule https://analyticsindiamag.com/a-guide-to-interpretable-association-rule-mining-using-pycaret/
+     
+     4.Market Segmentation
+     
+     Demographic Segmentation,Geographic segmentation,Firmographic segmentation,Behavioural segmentation,
    
      4.Recommendation system - Surprise,TensorFlow Recommendation,Recmterics
      
@@ -5449,7 +5453,7 @@ https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/t
 
 text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io
 
-3D Models from Text :  DreamFusion,CLIP-Mesh
+3D Models from Text :  DreamFusion,CLIP-Mesh,Point-E,Magic3D,Text2Mesh,CLIP-Mesh
 
 Text-to-Audio : Audiogen,diffsound,GliaCloud,Synthesia,InVideo,Synths Video,VEED.IO,Lumen5,Pictory,Designs.ai,Wisecut,Replica,Speechify,Murf,Play.ht,Lovo.ai 
 
