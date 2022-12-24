@@ -1442,7 +1442,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
 
     2.Wrapper methods (recursive feature eliminiation,Recursive feature addition,SelectKbest,boruta,mRMR,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection,step forward selection,step backward selection and exhaustive search  etc...)
 
-    3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...),Feature Selection by Tree importance,Feature selection with decision trees,regression coefficients(logistic,linear coeffiicients),Recursive feature elimination based on importance)
+    3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...),Feature Selection by Tree importance,Feature selection with decision trees,regression coefficients(logistic,linear coeffiicients),Recursive feature elimination based on importance,Least absolute deviation)
     
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination,Feature Shuffling,Feature performance,Target mean performance,Permutation importance,Population stability index,Target encoding)
     
