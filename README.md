@@ -4160,7 +4160,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet
    
    104.Deep Learning Toolkit for Medical Image Analysis -https://github.com/DLTK/DLTK
    
-   3 Python Packages for Machine Learning Validation  Evidently , Deepchecks , TensorFlow-Data-Validation
+   3 Python Packages for Machine Learning Validation  Evidently,Deepchecks,TensorFlow-Data-Validation
    
    106.Explainability : Model-Specific explainability(Explainability method is strictly relevant to specific model) ,Model-Agnostic explainability ( Explanation to any type model),Model-Centric explainability(most Explanation methods are Model-Centric, as these methods are used to explain how the features and target values are being adjusted),Data-Centric explainability(these methods are used to understand the nature of the data)
    
