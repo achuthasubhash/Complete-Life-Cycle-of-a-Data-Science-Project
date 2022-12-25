@@ -2635,9 +2635,11 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       here handling missing data different 
       
-      Time Series Decomposition In Python  trend, seasonality, and noise https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2
+      Time Series Decomposition In Python  trend, seasonality,Cyclical and noise https://towardsdatascience.com/time-series-decomposition-in-python-8acac385a5b2
       
       Removing trend  Differencing,Least square trends removal
+      
+      Converting Non- stationary into stationary  Detrending,Differencing,Transformation
       
       Time Series Decomposition  log,box-cox  transformation,moving average
       
