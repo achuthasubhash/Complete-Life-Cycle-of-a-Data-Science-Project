@@ -1217,7 +1217,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
         
            d.Square Root Transformation
         
-           e.Exponential Transdormation
+           e.Exponential Transdormation 
         
            f.BoxCOx and Yeo-Johnson Transformation
         
