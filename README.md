@@ -2539,7 +2539,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         text to speech  https://towardsdatascience.com/text-to-speech-one-small-step-by-mankind-to-create-lifelike-robots-54e19f843b21
         
-        Acoustic model,Speaker diarisation,apis,apiai,assemblyai,google-cloud-speech,pocketsphinx,SpeechRecognition,watson-developer-cloud,wit,Coqui TTS,Mozilla TTS, OpenTTS,ESPNet,PaddleSpeech,Wav2Vec, Whisper, DeepSpeech
+        Acoustic model,Speaker diarisation,apis,apiai,assemblyai,google-cloud-speech,pocketsphinx,SpeechRecognition,watson-developer-cloud,wit,Coqui TTS,Mozilla TTS, OpenTTS,ESPNet,PaddleSpeech,Wav2Vec, Whisper, DeepSpeech,Eesen,TensorFlowASR,Vosk,CMUSphinx,Pocketsphinx,KoNLPy,Madmom,HTK,Pysptk
         
         Microsoft IceCAPS is an Open Source Framework for Conversational Modeling https://pub.towardsai.net/microsoft-icecaps-is-an-open-source-framework-for-conversational-modeling-4f78492ca685
         
