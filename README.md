@@ -3568,6 +3568,8 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    4 Tools for Reproducible Jupyter Notebooks https://towardsdatascience.com/4-tools-for-reproducible-jupyter-notebooks-d7423721bd04
    
    12 Jupyter Notebook Extensions That Will Make Your Life Easier https://towardsdatascience.com/12-jupyter-notebook-extensions-that-will-make-your-life-easier-e0aae0bd181
+   
+   Coding Tools Powered by AI : GitHub Co-Pilot,Tabnine,AI2SQL,Mutable,MarsXm,Ghostwriter,Stenography
 
 ***BEST ONLINE COURSES***
 
