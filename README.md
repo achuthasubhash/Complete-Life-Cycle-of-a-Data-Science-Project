@@ -775,6 +775,8 @@ cvat
    Validate Your pandas DataFrame with Pandera https://github.com/pandera-dev/pandera
    
    Statistical DataFrame Testing Toolkit https://pandera.readthedocs.io/en/stable/index.html
+   
+   Data storing format:Pickle,Parquet,Feather,Avro,ORC
 
    Data cleaning-Pyjanitor-https://analyticsindiamag.com/beginners-guide-to-pyjanitor-a-python-tool-for-data-cleaning/
    
