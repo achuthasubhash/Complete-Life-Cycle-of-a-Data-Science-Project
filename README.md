@@ -1114,10 +1114,12 @@ cvat
      g.Quantile 
      h.Custom Discretization
       
+      
      Data Binning
+     
      Binning based on distribution (quantile-cut),Binning based on values (cut)
-     Bucketing  , quantile bucketing 
-     Clipping
+     
+     Bucketing  , quantile bucketing ,Clipping
    
    e.Handle categorical data   Ordinal,Nominal,cyclic,binary categorical variables  
    
@@ -3129,13 +3131,13 @@ KFold,Walk forward,Group Time Series,Purged Group KFold,Combinatorial Purged Gro
      
      7.LeaveOneOut,Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
-     8.Time Series cross-validation,TimeSeriesSplit ,Rolling Time Series Cross Validation,Rolling Window Cross-Validation,Monte Carlo Cross-Validation 
+     8.Time Series cross-validation,TimeSeriesSplit ,Rolling Time Series Cross Validation,Rolling Window Cross-Validation,Monte Carlo Cross-Validation,Holdout Time Series Cross-Validation,Time Series Cross-Validation with a Gap,Sliding Time Series Cross-Validation
     
      9.ShuffleSplit Cross Validation,Group Shuffle Split,Simple Time Split Validation,Sliding Window Validation,Expanding Window Validation 
     
      10.Group KFold Cross Validation
      
-     11.Monte-Carlo Cross Validation,Blocked cross-validation
+     11.Monte-Carlo Cross Validation,Blocked cross-validation,Blocked K-Fold Cross-Validation,Modified K-Fold Cross-Validation
   
 Tensorboard,Neptune,TensorFlow Profiler to visualization of model performance
 
@@ -3741,6 +3743,10 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
     
    9.EasyOCR,textract,pytesseract,tesserocr,Amazon textract,TabulaPy, pyzbar, and pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdf2image,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch,ocr donut,LOGOS ocr,
 ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet 
+
+    Processing documents as Text: extract text with PyPDF2, extract tables with Camelot or TabulaPy, extract figures with PyMuPDF.
+    
+    Converting documents into Image (OCR): conversion with pdf2image, extract data with PyTesseract plus many other supporting libraries, or just LayoutParser.
  
     OCR toolbox from Davar-Lab https://github.com/hikopensource/davar-lab-ocr
    
