@@ -2420,7 +2420,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       Context-dependent and RNN based(elmo,cove)
       Context-dependent and transformer-based (BERT ,xlm,RoBERTa,ALBERT)
       
-      contextual embeddings: AllenNLP ELMo, OpenAI’s GPT, and Google’s BERT
+      contextual embeddings: AllenNLP ELMo, OpenAI’s GPT,GPT1,GPT2,GPT3, and Google’s BERT
       
       Fast_Sentence_Embeddings Compute Sentence Embeddings Fast  https://github.com/oborchers/Fast_Sentence_Embeddings
       
