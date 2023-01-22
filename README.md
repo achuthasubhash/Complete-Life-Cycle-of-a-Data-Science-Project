@@ -1113,7 +1113,8 @@ cvat
      f.Arbitrary Discretization
      g.Quantile 
      h.Custom Discretization
-      
+     
+     Discretisation plus categorical encoding,Discretisation plus encoding Discretisation with classification trees,Domain knowledge discretisation
       
      Data Binning
      
@@ -1129,7 +1130,7 @@ cvat
      
      3.Ordinal encoding,Nominal Encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding,Target-Mean-Encoding
      
-     4.Target encoding / Mean encoding,GapEncoder,MinHashEncoder
+     4.Target encoding / Mean encoding,GapEncoder,MinHashEncoder,Target guided ordinal encoding
      
      Target Encoding,Leave-One-Out Target Encoding,Leave One fold out Target Encoding
      
@@ -1193,7 +1194,7 @@ cvat
        
        7.Power Transformer Scaler
        
-       8.Scaling To Median And Quantiles
+       8.Scaling To Median And Quantiles,Scaling to minimum and maximum values
        
        9.unit vector scaler
        
