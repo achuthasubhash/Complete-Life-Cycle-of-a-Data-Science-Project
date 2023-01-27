@@ -602,7 +602,7 @@ cvat
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView,TRGD,YDATA Synthetic,SDV,Tonic.AI,Mostly.AI,Parallel Domain,Mindtech,Synthesis AI,Oneview,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic, kubric,Stable Diffusion,Parallel Domain,Mindtech,Synthesis AI,Oneview,MOSTLY AI,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic,MOSTLY AI, GenRocket, YData, Hazy, and MDClone ,Gretel, MOSTLY AI, Hazy, Statice ,NVIDIA Omniverse, OneView, CVEDIA, Datagen, Parallel Domain,Infinity AI,Parallel Domain,Rendered.AI,Scale.AI,SKY ENGINE AI,Synthesis AI,Paella,statice,DataSynthesizer,Pydbgen,TimeseriesGenerator
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView,TRGD,YDATA Synthetic,SDV,Tonic.AI,Mostly.AI,Parallel Domain,Mindtech,Synthesis AI,Oneview,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic, kubric,Stable Diffusion,Parallel Domain,Mindtech,Synthesis AI,Oneview,MOSTLY AI,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic,MOSTLY AI, GenRocket, YData, Hazy, and MDClone ,Gretel, MOSTLY AI, Hazy, Statice ,NVIDIA Omniverse, OneView, CVEDIA, Datagen, Parallel Domain,Infinity AI,Parallel Domain,Rendered.AI,Scale.AI,SKY ENGINE AI,Synthesis AI,Paella,statice,DataSynthesizer,Pydbgen,TimeseriesGenerator,Mimesis
     
     Models: GANs, CTGAN, WGAN, WGAN-GP, VAEs,GANs, TimeGAN, AR 
     
@@ -1016,7 +1016,7 @@ cvat
      
      Random majority under-sampling with replacement,Tomek Links Undersampling,Under-sampling with Cluster Centroids,Condensed Nearest Neighbour,One-Sided Selection,Neighboorhood Cleaning Rule,One-Sided Selection,
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,Borderline-SMOTE SVM,DBSMOTE,SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,ENNSMOTE,SVMSMOTE,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC  
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,Borderline-SMOTE SVM,FAIR SMOTE,DBSMOTE,SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,ENNSMOTE,SVMSMOTE,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC  
      
      Over-sampling followed by under-sampling : SMOTE + Tomek links,SMOTE + ENN 
      
@@ -1232,7 +1232,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
            
            i.power transformations  https://towardsdatascience.com/when-and-how-to-use-power-transform-in-machine-learning-2c6ad75fb72e
            
-           g.Quantile Transformation ,Arcsin Transformation 
+           g.Quantile Transformation ,Arcsin Transformation , Inverse of Log,Inverse of Exponential,Inverse of Square Root,Square of Log,Square root of Exponential
            
            Root transformation,Cube root transformation,Cosine Transformation,SplineTransformer,FunctionTransformer,ArcsinTransformer 
            
@@ -1443,7 +1443,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
 
     FeatureSelector https://github.com/WillKoehrsen/feature-selector       feature_engine https://github.com/solegalli/feature_engine
 
-    1.Filter methods (Removing Constant feature,Removing Quasi constant feature,Removing Duplication feature,Removing Correlated Features,feature importance,chisquare test,Ttest,ftest,vif,anova test,information gain,F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score,Dispersion ratio Mean Absolute Difference (MAD), constant features elimination, quasi-constant features elimination, duplicate feature elimination,univariate method, mutual information, correlation  etc...),Correlation Coefficient,Variance Threshold ,Mean Absolute Difference (MAD),Dispersion ratio
+    1.Filter methods (Removing Constant feature,Removing Quasi constant feature,Removing Duplication feature,Removing Correlated Features,feature importance,chisquare test,Ttest,ftest,vif,anova test,information gain,F-score,Mutual Information,hypothesis test,information gain,Univariate Selection Methods,SelectKBest,SelectPercentile,Variance threshold,Fisher’s Score,Dispersion ratio Mean Absolute Difference (MAD), constant features elimination, quasi-constant features elimination, duplicate feature elimination,univariate method, mutual information, correlation  etc...),Correlation Coefficient,Variance Threshold ,Mean Absolute Difference (MAD),Dispersion ratio,Variance inflation,factor Condition Index
 
     2.Wrapper methods (recursive feature eliminiation,Recursive feature addition,SelectKbest,boruta,mRMR,forward feature selection,backward feature elimination,Bi-directional selection,exhaustic feature selection,stepwise selection,step forward selection,step backward selection and exhaustive search  etc...)
 
@@ -5464,7 +5464,7 @@ DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scen
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9 https://www.marktechpost.com/2022/10/05/top-artificial-intelligence-ai-based-text-to-image-generators/
 
-text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io
+text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io,Kaiber,Genmo,LeiaPix
 
 3D Models from Text :  DreamFusion,CLIP-Mesh,Point-E,Magic3D,Text2Mesh,CLIP-Mesh
 
