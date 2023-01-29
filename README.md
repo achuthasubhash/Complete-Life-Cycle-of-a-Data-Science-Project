@@ -1016,7 +1016,7 @@ cvat
      
      Random majority under-sampling with replacement,Tomek Links Undersampling,Under-sampling with Cluster Centroids,Condensed Nearest Neighbour,One-Sided Selection,Neighboorhood Cleaning Rule,One-Sided Selection,
      
-     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,Borderline-SMOTE SVM,FAIR SMOTE,DBSMOTE,SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,ENNSMOTE,SVMSMOTE,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN, Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC  
+     2.Over Sampling  (RandomOverSampler (here new points create by same dot)) ,  SMOTETomek(new points create by nearest point so take long time),BorderLine Smote,Borderline-SMOTE SVM,FAIR SMOTE,DBSMOTE,SMOTE-ENN ,KMeans Smote,SVM Smote,SMOTe NC,ENNSMOTE,SVMSMOTE,MOTE-N ADASYN,ADASYN,Smote-NC,Random Over Sampling,RandomUnderSampler,SMOTEN,SMOTE-Tomek,SMOTE-ENN,SMOTE-CUT,Cluster-Based Over Sampling, Informed Over Sampling,MSMOTE,Oversampling Using Gaussian Mixture Models,SMOTE + Tomek Links, SMOTE + ENN,Crucio SMOTEENN,NearMiss,OSS & NCR — under sampling,Borderline SMOTE KNN,Borderline SMOTE SVM,Adaptive Synthetic Sampling (ADASYN),BalancedBaggingClassifier() ,  BalancedRandomForestClassifier  SMOTE-NC  
      
      Over-sampling followed by under-sampling : SMOTE + Tomek links,SMOTE + ENN 
      
