@@ -602,7 +602,7 @@ cvat
     
     Faker is a Python package that generates fake data-https://github.com/joke2k/faker
     
-    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView,TRGD,YDATA Synthetic,SDV,Tonic.AI,Mostly.AI,Parallel Domain,Mindtech,Synthesis AI,Oneview,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic, kubric,Stable Diffusion,Parallel Domain,Mindtech,Synthesis AI,Oneview,MOSTLY AI,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic,MOSTLY AI, GenRocket, YData, Hazy, and MDClone ,Gretel, MOSTLY AI, Hazy, Statice ,NVIDIA Omniverse, OneView, CVEDIA, Datagen, Parallel Domain,Infinity AI,Parallel Domain,Rendered.AI,Scale.AI,SKY ENGINE AI,Synthesis AI,Paella,statice,DataSynthesizer,Pydbgen,TimeseriesGenerator,Mimesis
+    ydata-synthetic,Gretel,gretel-synthetics,GenerateData,DataSynthesizer,SDV,gretel-synthetics,kubric,CTGAN,Synthea,synthia,nbsynthetic ,pydbgen,synthpop,faker,Tonic,ydata,Mostly AI,Mirry.ai,Hazy,Gretel,Diveplane,Datagen,Mimesis,faker,FauxFactory,Radar,PikaAccelario,Chooch,Datagen,Datomize,Deep Vision Data,Monitaur,MOSTLY AI,OpenSynthetics,Replica Analytics,Scale AI,SKY ENGINE AI,Synthesis AI,Plaitpy,TimeseriesGenerat,Accelario,Chooch,dgutils,AI.Reverie,Kinetic Vision,SynthDet,OpenSynthetics,Mockaroo,GenerateData,JSON Schema Faker,FakeStoreAPI,Mock Turtle,nbsynthetic,AiFi,AI.Reverie,Anyverse,Cvedia,DataGen,Diveplane,Gretel,Hazy,Mostly AI,OneView,TRGD,YDATA Synthetic,SDV,Tonic.AI,Mostly.AI,Parallel Domain,Mindtech,Synthesis AI,Oneview,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic, kubric,Stable Diffusion,Parallel Domain,Mindtech,Synthesis AI,Oneview,MOSTLY AI,Hazy,CVEDIA,SKY ENGINE AI,Edgecase.ai,Statice,ANYVERSE,Rendered.ai,Datomize,Facteus,Gretel,Synthesized,Syntheticus,Syntho,Tonic,MOSTLY AI, GenRocket, YData, Hazy, and MDClone ,Gretel, MOSTLY AI, Hazy, Statice ,NVIDIA Omniverse, OneView, CVEDIA, Datagen, Parallel Domain,Infinity AI,Parallel Domain,Rendered.AI,Scale.AI,SKY ENGINE AI,Synthesis AI,Paella,statice,DataSynthesizer,Pydbgen,TimeseriesGenerator,Mimesis,Synthesized,Syntheticus,Syntho,Tonic,Clearbox AI
     
     Models: GANs, CTGAN, WGAN, WGAN-GP, VAEs,GANs, TimeGAN, AR 
     
@@ -1098,7 +1098,9 @@ cvat
      
      18.train_test_split stratify attribute  , stratify split
      
-     19.https://github.com/pradeepdev-1995/databalancer
+     19.  https://github.com/pradeepdev-1995/databalancer
+     
+          Meta’s balance package https://github.com/facebookresearch/balance
   
    c.Remove noise data
    
