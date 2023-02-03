@@ -2408,7 +2408,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         a.using pretrained model 
           
-          i)word2vec( cbow,skipgram)
+          i)word2vec( cbow,skipgram) ,AvgWord2vec
           
           ii)glove        https://medium.com/spark-nlp/1-line-to-glove-word-embeddings-with-nlu-in-python-baed152fff4d
           
@@ -5144,7 +5144,7 @@ change to proper dtypes,usecols of required only reduce size
 Better Data Storage : CSV,Parquet,Feather
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization, multiprocessing,airflow,celery,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck,Pandarallel,Datatable,Pyspark,Koalas,Cylon
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck,Pandarallel,Datatable,Pyspark,Koalas,Cylon,Ibis
 https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 deal with Big Data  Optimize dataframes,Use only required columns,Chunking data,Sparse data formats,Better Data file formats(Parquet,Feather,HDF5),Pandas alternates(Modin,vaex,dask,spark),Intel(R) extension for sklearn,  Apply Vectorized,Numba,Rapids cuDF
@@ -5469,7 +5469,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,Parti,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,fast-stable-diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0,eDiffi,pixray,starryai,promptoMANIA,starry.ai,NightCafe,Artbreeder,wombo.ai,Muse
+DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,Parti,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,fast-stable-diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0,eDiffi,pixray,starryai,promptoMANIA,starry.ai,NightCafe,Artbreeder,wombo.ai,Muse,BlueWillow 
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9 https://www.marktechpost.com/2022/10/05/top-artificial-intelligence-ai-based-text-to-image-generators/
 
@@ -5483,9 +5483,9 @@ Text-to-Motion : MotionCLIP,Language2Pose
 
 Text-to-PowerPoint : ChatBCG
 
-Mubert Text to Music https://github.com/MubertAI/Mubert-Text-to-Music
+Mubert Text to Music https://github.com/MubertAI/Mubert-Text-to-Music ,MusicLM
 
-Music generator AIVA,Amper AI,Jukebox,Soundraw,Evoke  
+Music generator AIVA,Amper AI,Jukebox,Soundraw,Evoke, AudioML  
  
 Text generators Frase Io,Peppertype,Rytr,Jasper,Copy.ai,ChatGPT
 
