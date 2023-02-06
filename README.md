@@ -3511,7 +3511,7 @@ Differential Privacy https://aman.ai/primers/ai/differential-privacy/
 ***Quantization:Use Quantization to reduce size of model***  https://medium.com/qiskit/introducing-qiskit-machine-learning-5f06b6597526
 
 Post Training Quantization
-Aware Training Quantization
+Aware Training Quantization 
 
 TensorFlow Quantum  https://www.tensorflow.org/quantum
 
