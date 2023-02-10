@@ -3153,7 +3153,7 @@ Tensorboard,Neptune,TensorFlow Profiler to visualization of model performance
 
 Distributed Training with TensorFlow 
 
-***6.Testing model***
+***6.Testing model*** 
 
 Text Robustness Evaluation Platform  https://github.com/textflint/textflint
 
