@@ -3908,6 +3908,8 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet
    
    Bard  google chatboat and search engine
    
+   Ernie bot Baidu chatbot
+   
    no code chatbots https://juji.io/
     
    https://github.com/fendouai/Awesome-Chatbot  https://medium.com/nerd-for-tech/make-money-building-a-fast-powerful-chatbot-in-10-minutes-using-nltk-91038e15ab17
