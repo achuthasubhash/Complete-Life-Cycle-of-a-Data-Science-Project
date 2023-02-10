@@ -5477,7 +5477,7 @@ DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scen
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9 https://www.marktechpost.com/2022/10/05/top-artificial-intelligence-ai-based-text-to-image-generators/
 
-text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io,Kaiber,Genmo,LeiaPix
+text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io,Kaiber,Genmo,LeiaPix,Glia Cloud,Stable Diffusion Videos,Synthesia,InVideo,Lumen5,Designs.ai,Pictory,Wisecut,Veed.io,Fliki
 
 3D Models from Text :  DreamFusion,CLIP-Mesh,Point-E,Magic3D,Text2Mesh,CLIP-Mesh
 
