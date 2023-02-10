@@ -2870,6 +2870,10 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       book https://otexts.com/fpp2/
       
    deep_autoviml Build tensorflow keras model pipelines in a single line of code https://github.com/AutoViML/deep_autoviml
+   
+   G.𝐆𝐫𝐚𝐩𝐡 𝐍𝐞𝐮𝐫𝐚𝐥 𝐍𝐞𝐭𝐰𝐨𝐫𝐤𝐬
+   
+     Spatial-temporal graph neural networks,Structural Deep Network Embedding,Convolutional Graph Neural Network,GraphSAGE,Graph convolutional recurrent network,Diffusion convolutional recurrent neural network,Graph LSTM,Graph Autoencoders,Variational Graph Auto-Encoders,Graph Attention Networks 
       
    G.Semi supervised learning,Self-Supervised Learning,Multi-Instance Learning
    
