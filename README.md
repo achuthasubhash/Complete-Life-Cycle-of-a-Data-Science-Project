@@ -4378,7 +4378,7 @@ determined to be unfair.
    
    Metadata management:Neptune.ai,SiaSearch,Tensorflow's ML MetaData
    
-   Data management:Neptune,DVC,RoboFlow,Dataiku
+   Data management:Neptune,DVC,RoboFlow,Dataiku,Apache Airflow, Apache NiFi, Apache Kafka
    
    Feature Stores : Amazon SageMaker Feature Store,Databricks,Hopsworks.ai,Vertex AI,FeatureForm,FeastTecton,butterfree,ByteHub
    
@@ -4388,9 +4388,15 @@ determined to be unfair.
    
    Experiment tracking :Kedro,modeldb,mlflow,DVC,weight and biases,Neptune,clearly,tensorboard,determined,polyaxon,mlrun,Comet,Sacred,TensorBoard,DagsHub,Guild AI,ClearML,Valohai,Pachyderm,Verta.ai,Kubeflow,SageMaker Studio,sacred
    
+   Monitoring: Prometheus, Grafana, ELK Stack
+   
    Data versioning:Dolt,DVC,gitlfs,pachyderm, Git LFS,lakefs,DVC,weight and biases,Neptune,Comet,Delta Lake
    
-   Code versioning: Gitlab,github
+   Data Governance: Collibra, Alation, Informatica
+   
+   Data Quality: Trifacta, Talend, Informatica
+   
+   Code versioning: Gitlab,github,SVN
    
    Model Versioning :Neptune,ModelDB,DVC,MLFlow,Pachyderm,Polyaxon
    
@@ -4408,9 +4414,21 @@ determined to be unfair.
      
    Model monitoring:Evidently,WhyLabs,grafana,alibi,detect,modeldb,clearml,mlrun,prometheus,pymlpipe,NannyML,Aporia,eurybia,Arize,Fiddler,Amazon SageMaker Model Monitor,Prometheus,Qualdo,Neptune,Grafana + Prometheus ,Qualdo,Seldon Core,Censius
    
+   Model Performance Tracking: TensorBoard, MLflow, Comet.ml
+   
+   Continuous Integration: Jenkins, Travis CI, CircleCI
+   
+   Continuous Deployment: Jenkins, Travis CI, CircleCI
+   
+   Containerization: Docker, Kubernetes
+   
+   Configuration Management: Ansible, Puppet, Chef
+   
    data validation:Pydantic,eurybia
    
    model testing: Deepchecks,Neptune,Mona ,Grafana + Prometheus
+   
+   Model Security: Seldon, OpenVino, TensorFlow Privacy
    
    Continuous Integration and Continuous Deployment (CI/CD) Tools for Machine Learning : CML ,GitHub Actions,GitLab for CI/CD,Jenkins,TeamCity,Circle CI,Travis CI,
    
