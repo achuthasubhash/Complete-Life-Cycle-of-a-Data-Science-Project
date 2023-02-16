@@ -1132,9 +1132,9 @@ cvat
      
      3.Ordinal encoding,Nominal Encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding,Target-Mean-Encoding
      
-     4.Target encoding / Mean encoding,GapEncoder,MinHashEncoder,Target guided ordinal encoding
+     4.Target encoding / Mean encoding,GapEncoder,MinHashEncoder,Target guided ordinal encoding,Bayesian Target Encoding
      
-     Target Encoding,Leave-One-Out Target Encoding,Leave One fold out Target Encoding
+     Target Encoding,K-Fold Target Encoding,Leave-One-Out Target Encoding,Leave One fold out Target Encoding,Target Encoding with a Weighted Mean
      
      5.Probability Ratio Encoding
      
