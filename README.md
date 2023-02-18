@@ -1749,6 +1749,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
    
      4.Recommendation system - Surprise,TensorFlow Recommendation,Recmterics
      
+        competitive-recsys  https://github.com/chihming/competitive-recsys
+     
          a.collaborative Recommendation system (model based, memory based(item based,user based),hybrid)  user-item interaction matrix
          
          Classification-based collaborative filtering
@@ -3281,7 +3283,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,Gradio,mia,opyrator,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,Cortex,TensorFlow Serving,TorchServe,KFServing,Multi Model Server,Triton Inference Server,ForestFlow,Seldon Core,BudgetML,GraphPipe,Hydrosphere,MLEM,Opyrator,Apache PredictionIO,Cortex,Triton Inference Server,ForestFlow,DeepDetect,Seldon Core,Kubeflow,datapane,Pynecone.io,Anvil,h2oai nitro
+    streamlit,Gradio,mia,opyrator,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,Cortex,TensorFlow Serving,TorchServe,KFServing,Multi Model Server,Triton Inference Server,ForestFlow,Seldon Core,BudgetML,GraphPipe,Hydrosphere,MLEM,Opyrator,Apache PredictionIO,Cortex,Triton Inference Server,ForestFlow,DeepDetect,Seldon Core,Kubeflow,datapane,Pynecone.io,Anvil,h2oai nitro,rest-model-service
 
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
