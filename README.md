@@ -3281,7 +3281,8 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,Gradio,mia,opyrator,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,Cortex,TensorFlow Serving,TorchServe,KFServing,Multi Model Server,Triton Inference Server,ForestFlow,Seldon Core,BudgetML,GraphPipe,Hydrosphere,MLEM,Opyrator,Apache PredictionIO,Cortex,Triton Inference Server,ForestFlow,DeepDetect,Seldon Core,Kubeflow,datapane,Pynecone.io,Anvil
+    streamlit,Gradio,mia,opyrator,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,Cortex,TensorFlow Serving,TorchServe,KFServing,Multi Model Server,Triton Inference Server,ForestFlow,Seldon Core,BudgetML,GraphPipe,Hydrosphere,MLEM,Opyrator,Apache PredictionIO,Cortex,Triton Inference Server,ForestFlow,DeepDetect,Seldon Core,Kubeflow,datapane,Pynecone.io,Anvil,h2oai nitro
+
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
     
@@ -5170,7 +5171,7 @@ change to proper dtypes,usecols of required only reduce size
 Better Data Storage : CSV,Parquet,Feather,lance
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization, multiprocessing,airflow,celery,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
-pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck,Pandarallel,Datatable,Pyspark,Koalas,Cylon,Ibis,pandarallel,Blaze,Odo,multiprocessing,joblib
+pandarallel ,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck,Pandarallel,Datatable,Pyspark,Koalas,Cylon,Ibis,pandarallel,Blaze,Odo,multiprocessing,joblib,bottleneck
 https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 deal with Big Data  Optimize dataframes,Use only required columns,Chunking data,Sparse data formats,Better Data file formats(Parquet,Feather,HDF5),Pandas alternates(Modin,vaex,dask,spark),Intel(R) extension for sklearn,  Apply Vectorized,Numba,Rapids cuDF
