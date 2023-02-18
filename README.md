@@ -1693,7 +1693,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
    
    B.Unsupervised learning(no label(target) data)
    
-     1.Dimensionality reduction - PCA,ppa,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping,Multiple correspondence analysis (MCA),Multiple factor analysis (MFA),Factor analysis of mixed data (FAMD),vae,CompressionVAE 
+     1.Dimensionality reduction - PCA,ppa,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping,Multiple correspondence analysis (MCA),Multiple factor analysis (MFA),Factor analysis of mixed data (FAMD),vae,CompressionVAE,Gaussian Mixture Model,Bayesian Gaussian Mixture Model 
      non-linear data using Kernel PCA, Non-Negative Matrix Factorization(NMF), IsoMap, t-SNE, and UMAP 
      
      t-SNE Effectively https://distill.pub/2016/misread-tsne/
@@ -2691,7 +2691,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       1.AR,VR, VAR, MA, ARMA, ARIMA, auto arima(pmd arima) ,seasonal arima,SARIMAX models
       
-      2.Autoregressive
+      2.Autoregressive,Vector Autoregression,Vector Autoregression Moving-Average,Vector Autoregression Moving-Average with Exogenous Regressors
       
       3.Moving average,Exponential Moving average,Exponential Smoothing,Simple average, Holt’s linear trend method, Holt’s Winter seasonal method,DeepAR,N-BEATS
       
@@ -5060,7 +5060,7 @@ MLBox is a powerful Automated Machine Learning python library  https://github.co
    bamboolib or pandas-ui or pandas-summary or pandas_visual_analysis or Dtale(get code also) (python package for easy data exploration & transformation)  
 
    Automating EDA using Pandas Profiling, streamlit_pandas_profiling,Sweetviz and Autoviz,DataPrep,vaex,Datapane,Sweetviz,pandas_UI,PandasGUI,Datatable,Dora,Pywedge,D-Tale,lux,Dabl,Pretty pandas,data_describe,Sparkora,AWS Glue DataBrew,speedML,edaviz,Altair,voyager,Mito,Facets,KNIME,lux,datatable,Pandas-visual-analysis,ExploriPy,Holoviews,lux,Dataprep,atoti,QuickDA ,panel-highcharts,Know Your Data,Atoti ,ExploriPy,autoplotter,tensorflow data validation,skimpy,Skim,OpenRefine,Visualizer,autoclean,Autoplotter,dataTile,mito,Bamboolib,TensorFlow Data Validation,speedML,edaviz,pandas-summary,ExploriPy,
-ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,QuickDA,Datatile,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,tabloo,sidetable,HvPlot,summarytools,fasteda
+ipywidgets,ipympl,data_describe,lens,DStack,autoplotter,klib,Datasette,FACETS,TensorFlow Data Validation,Auto Data Exploration and Feature Recommendation Tool,great_expectations,DataProfiler,Datasette,streamlit-aggrid,Quick-EDA,QuickDA,Datatile,Deepnote,PiML,AutoPlotter,Klib,Pivottablejs,Qgrid,facets,Great Expectations,Explainerdashboard,BitRook,AutoPlotter,OmniXAI,tabloo,sidetable,HvPlot,summarytools,fasteda,Rath
 
   Three R Libraries for Automated EDA dataMaid,DataExplorer,SmartEDA
 
