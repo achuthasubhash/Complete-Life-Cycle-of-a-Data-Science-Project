@@ -2270,8 +2270,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      Diffusion Models Beat GANs on Image Synthesis https://paperswithcode.com/paper/diffusion-models-beat-gans-on-image-synthesis?from=n9
      
-     MUNIT: Multimodal Unsupervised Image-to-Image Translation (GAN)
-     
+     MUNIT: Multimodal Unsupervised Image-to-Image Translation (GAN) 
+      
      https://jonathan-hui.medium.com/gan-gan-series-2d279f906e7b
 
      generative adversarial transformers https://github.com/dorarad/gansformer
