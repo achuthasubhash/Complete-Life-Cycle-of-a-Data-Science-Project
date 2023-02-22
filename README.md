@@ -2979,7 +2979,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     https://github.com/balavenkatesh3322/hyperparameter_tuning
     
-    manual search
+    A.manual search
      
     a.GridSearchCV  (check every given parameter so take long time),TuneGridSearchCV
     
@@ -2991,7 +2991,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
     HalvingRandomSearchCV
   
-    c.Bayesian Optimization,Bayesian Optimization with Gaussian Processes (BO-GP),Bayesian Optimization with Tree-structured Parzen Estimator (BO-TPE),Particle swarm optimization (PSO),Genetic algorithm (GA)Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,Bayesian Optimization,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT),Multi-Fidelity Optimization,DEAP,SMAC,Ray Tune,Google’s Vizer, Microsoft’s NNI 
+    c.Optuna,Hyperopt,Scikit-optimize,Keras Tuner,Ray-tune,Bayesian Optimization,Bayesian Optimization with Gaussian Processes (BO-GP),Bayesian Optimization with Tree-structured Parzen Estimator (BO-TPE),Particle swarm optimization (PSO),Genetic algorithm (GA)Hyperopt,bayes search,Hyperband and BOHB,HyperOpt-Sklearn,Bayes Search,Scikit Optimize,TPE,Multivariate TPE,HyperBand,Bayesian Optimization,exhaustive search, heuristic search,multi-fidelity optimization,NNI,DEAP,OptFormer,hgboost,Hyperopt,Sklearn-genetic,GPyOpt,pyGPGO,Mango,mlmachine,Polyaxon,BayesianOptimization,Talos,SHERPA,Scikit-Optimize,GPyOpt,SMAC, Simulated annealing (SA),Genetic algorithms (GAs),Particle swarm optimization (PSO),Population-Based Training (PBT),Multi-Fidelity Optimization,DEAP,SMAC,Ray Tune,Google’s Vizer, Microsoft’s NNI 
     
     Bayesian Optimization: https://github.com/fmfn/BayesianOptimization
     
