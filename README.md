@@ -1453,6 +1453,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination,Feature Shuffling,Feature performance,Target mean performance,Permutation importance,Population stability index,Target encoding)
     
+    Single-Agent Reinforcement Learning Feature Selection (SARLFS) ,Multi-Agent Reinforcement Learning Feature Selection (MARLFS)
+    
     ITMO_FS is a feature selection library https://github.com/ctlab/ITMO_FS
     
     Sparse Features - Removing features,LASSO regularization,features dense(pca,Feature hashing),Using models that are robust to sparse features
