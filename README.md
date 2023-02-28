@@ -3546,6 +3546,20 @@ IBMs Qiskit,Google’s Cirq,Amazon’s AWS Braket,Microsoft’s Q# and Azure Qua
    
    2.better readability
    
+   Types of Data Drift
+   
+   Concept drift,Virtual drift,Covariate shift,Prior probability shift,Annotator drift,Data poisoning
+   
+   There are several measures you can take to mitigate the effects of data drift:
+
+   Regular retraining,Data preprocessing,Data augmentation,Monitoring,Online learning,Domain adaptation,Annotator and data quality control
+   
+   Techniques for Detecting Data Drift
+
+   There are several techniques currently available for detecting data drift in machine learning:
+
+   Data visualization tools,Drift detection methods,Data quality control techniques,Drift detection libraries,Auto-ML tools
+   
 ***BIG DATA: hadoop,apache spark***
 
 ***project structure***
