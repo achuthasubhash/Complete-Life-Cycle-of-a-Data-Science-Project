@@ -3913,7 +3913,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots,Proto AIC,HubSpot Chatbot Builder,Intercom,Zendesk,Freshworks,Botsify,Tidio,Infobip
    
-   ChatGPT  openai chatboat and search engine
+   ChatGPT  openai chatboat and search engine,meta ChatLLaMA 
    
    Bard  google chatboat and search engine
    
