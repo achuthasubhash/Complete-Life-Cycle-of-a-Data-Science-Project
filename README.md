@@ -1138,7 +1138,7 @@ cvat
      
      5.Probability Ratio Encoding
      
-     6.label encoding  or .cat.codes
+     6.label encoding  or .cat.codes ,Label Encoding with Rainbow Method
      
      7.probability ratio encoding
      
