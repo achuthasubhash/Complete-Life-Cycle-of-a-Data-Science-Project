@@ -1736,7 +1736,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      3.Association Rule Learning - support,lift,confidence,leverage,Conviction,aprior,elcat,Fp-growth,Fp-tree construction,FP-Max Algorithm,association_rules,Frequent Itemset Mining,Multi-Relation Association Rules,High-order pattern discovery,K-optimal pattern discovery,Approximate Frequent Itemset,Generalized Association Rules,Quantitative Association Rules,Interval Data Association Rules,Sequential pattern mining,Hypergeometric Networks
      
-     Sequential Patterns
+     Sequential Patterns 
      Generalized Sequential Patterns (GSP)
      Prefix-Projected Sequential Pattern Mining (PrefixSpan)
      Sequential Pattern Discovery using Equivalent Class (SPADE)  
