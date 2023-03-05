@@ -3219,11 +3219,17 @@ Generally used metrics
     
     tensorwatch  Debugging, monitoring and visualization for Python Machine Learning and Data Science https://github.com/microsoft/tensorwatch
     
-    Methods to Detect Drift A) Statistical Approaches Page-Hinkley method,Kolmogorov-Smirnov Test,Population Stability Index (PSI),Kullback-Leibler (KL) divergence,Jensen-Shannon divergence, Wasserstein Distance  B) Model-Based Approach C) Adaptive Sliding Window
+    Types of Data Drift : Concept drift,Virtual drift,Covariate shift,Prior probability shift,Annotator drift,Data poisoning
+    
+    mitigate the effects of data drift: Regular retraining,Data preprocessing,Data augmentation,Monitoring,Online learning,Domain adaptation,Annotator and data quality control
+    
+    Methods to Detect Drift A) Statistical Approaches Page-Hinkley method,Kolmogorov-Smirnov Test,Population Stability Index (PSI),Kullback-Leibler (KL) divergence,Jensen-Shannon divergence, Wasserstein Distance  B) Model-Based Approach C) Adaptive Sliding Window d)Data visualization tools e)Model performance monitoring f)Drift detection libraries
     
     Steps to take when there is an occurrence of drift Check Data Quality, Investigate,Retrain the model,Rebuild the model, Pause the model and Fallback
     
     Ways to handle Drift in Production a) Rapidly adapt to concept drift b) Be resistant to noise while distinguishing it from concept drift c) Notice and handle severe drift in model performance.
+    
+    article link https://medium.com/@dummahajan/combating-data-drift-the-fight-for-model-accuracy-2c619ee1e33a
 
 Docker and Kubernetes
 
