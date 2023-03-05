@@ -1294,7 +1294,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       
    j.Anomaly  anomaly-detection-resources https://github.com/yzhao062/anomaly-detection-resources
    
-     Types of Anomalies : Point anomalies,Contextual anomalies,Collective anomalies
+     Types of Anomalies : Point anomalies,Contextual anomalies,Collective anomalies,Group Anomalies,Spatial Anomalies,Temporal Anomalies
    
      clustering techniques to find it
      
