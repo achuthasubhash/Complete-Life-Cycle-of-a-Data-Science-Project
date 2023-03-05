@@ -1136,7 +1136,7 @@ cvat
      
      Target Encoding,K-Fold Target Encoding,Leave-One-Out Target Encoding,Leave One fold out Target Encoding,Target Encoding with a Weighted Mean
      
-     5.Probability Ratio Encoding
+     5.Probability Ratio Encoding,Rank Encoding,Polynomial Encoding,Backward Difference Encoding
      
      6.label encoding  or .cat.codes ,Label Encoding with Rainbow Method
      
@@ -1258,7 +1258,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       
       Automatic Outlier Detection:Isolation Forest,DBSCAN,Local Outlier Factor,Standard Deviation Approach,K Means Clustering,Minimum Covariance Determinant,Robust Random Cut Forest,DBScan Clustering,One-Class Classification,One-Class SVM,Autoencoder,Outlier Detection using In-degree Number,Histogram-based Outlier Detection,Robust Covariance,PyNomaly,angle-based outlier detection (ABOD),k-Nearest Neighbors Detector,Elliptic Envelope,Cluster-based,Local Outlier Factor,Histogram-based Outlier Detection
       
-      outiler treatment: mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning,Trimming,Treating outliers as missing values,Top/bottom/zero coding,winsorizing,robust scaler,log transformation,binning,regularisation,Discretization,arbitrary value
+      outiler treatment: Keep them,mean/median/random imputation,drop,discretization (binning),Winsorization,treat as seperate group,replace with resperctive percentiles,standardize and scale the data,transforation(log,scaling,sqrt,power),Replace the outlier values with a suitable value (Like 3rd deviation),Percentile Based Flooring and Capping,Binning,Trimming,Treating outliers as missing values,Top/bottom/zero coding,winsorizing,robust scaler,log transformation,binning,regularisation,Discretization,arbitrary value
       
       Outlier capping with IQR Outlier capping with mean and std Outlier capping with quantiles Arbitrary capping
       
@@ -5192,10 +5192,10 @@ NumPy API on TensorFlow https://www.tensorflow.org/guide/tf_numpy  https://www.y
 
 change to proper dtypes,usecols of required only reduce size 
 
-Better Data Storage : CSV,Parquet,Feather,lance,HDF5,Apache Arrow
+Better Data Storage : CSV,Parquet,fastparquet,Feather,lance,HDF5,Apache Arrow
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization, multiprocessing,airflow,celery,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
-pandarallel ,Parallel-Pandas,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck,Pandarallel,Datatable,Pyspark,Koalas,Cylon,Ibis,pandarallel,Blaze,Odo,multiprocessing,joblib,bottleneck,Mapply
+pandarallel ,Parallel-Pandas,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck,Pandarallel,Datatable,Pyspark,Koalas,Cylon,Ibis,pandarallel,Blaze,Odo,multiprocessing,joblib,bottleneck,Mapply,Bottleneck
 https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 deal with Big Data  Optimize dataframes,Use only required columns,Chunking data,Sparse data formats,Better Data file formats(Parquet,Feather,HDF5),Pandas alternates(Modin,vaex,dask,spark),Intel(R) extension for sklearn,  Apply Vectorized,Numba,Rapids cuDF
