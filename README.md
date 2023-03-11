@@ -2975,6 +2975,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
   
   DropBlock-Keras-Implementation https://github.com/iantimmis/DropBlock-Keras-Implementation   https://github.com/miguelvr/dropblock https://github.com/DHZS/tf-dropblock
   
+  standard dropout,early dropout,late dropout
+  
 ***Hyperparameter tuning***
 
     https://analyticsindiamag.com/top-8-approaches-for-tuning-hyperparameters-of-machine-learning-models/  https://analyticsindiamag.com/top-10-open-source-hyperparameter-optimisation-libraries-for-ml-models/
@@ -3047,7 +3049,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
 
     e.Optuna  https://analyticsindiamag.com/hands-on-python-guide-to-optuna-a-new-hyperparameter-optimization-tool/
   
-    f.Genetic Algorithms
+    f.Genetic Algorithms,Gradient-based optimization
     
     darwin-mendel Genetic Algorithm for Hyper-Parameter Tuning https://manishagrawal-datascience.medium.com/genetic-algorithm-for-hyper-parameter-tuning-1ca29b201c08
     
@@ -4971,7 +4973,7 @@ Pywedge A complete package for EDA, Data Preprocessing and Modelling https://tow
 
 3.awesome-AutoML https://github.com/windmaple/awesome-AutoML , automl-gs github.com/minimaxir/automl-gs
 
-autopandas,Auto-Sklearn,Auto-Pytorch,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR,PyCaret,Auto-sklearn,SMAC
+autopandas,Auto-Sklearn,Auto-Pytorch,Auto-ViML,AutoViz,AutoGluon,MLBox,FLAML,EvalML,scikit-optimize,Hyperopt-Sklearn,smac3,alphapy,nni,adanet,ludwig, TPOT,flaml, H2OAutoML ,automl ,LightAutoML,auto keras,MLJAR,PyCaret,Auto-sklearn,SMAC,WALTS
 
 Auto-PyTorch,Keras Tuner,DataRobot, DriverlessAI , MLBox, AutoGluon, autoweka, Amazon Lex,Darwin,AdaNet, Microsoft NNI,GradsFlow,Ludwig,autoai,Get Duet,Qlik AutoML,NeutonAutoML,Clarifai,CreateML,Lobe,ObviouslyAI,RunwayML,neuton automl,TransmogrifAI,Rapid Miner,Dataiku,DataRobot,H2O Driverless,Amazon Lex, BigML,AutoML JADBio,Akkio MLJAR, Tazi.ai,UBER’s Ludwig,ANAI,Google Vizier,Tune,HpBandSter,Hyperopt,Facebook’s HiPlot,Bayesian Optimisation,SmartML,SigOpt,Talos,mlmachine,SHERPA Scikit-Optimize,Microsoft’s NNI,Google’s Vizer,GPyOpt,Hyperopt Metric Optimisation Engine (MOE),Optuna,Ray Tune,Keras Tuner
 
