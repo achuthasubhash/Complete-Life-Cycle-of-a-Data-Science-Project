@@ -1763,7 +1763,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          similarity based(user-user similarity,item-item similarity)
          
-         matrix factorization,Popularity-based recommenders
+         matrix factorization(SVD and SVD++),Popularity-based recommenders
          
          c.utility based Recommendation system 
          
@@ -1801,7 +1801,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          m.Deep Learning Recommendation Models https://www.kdnuggets.com/2021/04/deep-learning-recommendation-models-dlrm-deep-dive.html
          
-         Restricted Boltzmann Machines 
+         Restricted Boltzmann Machines,Auto-Encoders
          
          TOROS Buffalo https://github.com/kakao/buffalo
          
@@ -3204,6 +3204,8 @@ Generally used metrics
     7.Distance Metrics - Euclidean Distance,Manhattan Distance,Minkowski Distance,Hamming Distance  https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa
     
     8.Recommender Systems  https://parthchokhra.medium.com/evaluating-recommender-systems-590a7b87afa5
+    
+    Accuracy Metrics (RMSE, MAE),Top-N Hit Rate
     
     RecList: The better way to evaluate recommender systems
     
