@@ -1196,7 +1196,7 @@ cvat
        
        7.Power Transformer Scaler
        
-       8.Scaling To Median And Quantiles,Scaling to minimum and maximum values
+       8.Scaling To Median And Quantiles,Scaling to minimum and maximum values,Scaling to the vector norm
        
        9.unit vector scaler
        
@@ -3937,11 +3937,13 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots,Proto AIC,HubSpot Chatbot Builder,Intercom,Zendesk,Freshworks,Botsify,Tidio,Infobip
    
-   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT
+   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4
    
-   Bard  google chatboat and search engine
+   Bard  google chatboat and search engine,PALM API
    
-   Ernie bot Baidu chatbot
+   meta LLaMA,Alpaca 7B
+   
+   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM
    
    no code chatbots https://juji.io/
     
