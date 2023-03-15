@@ -4184,7 +4184,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    88.Python Data Science Handbook https://jakevdp.github.io/PythonDataScienceHandbook/
    
    91.AudioFeaturizer when deal with audio data- https://pypi.org/project/AudioFeaturizer/
-   
+    
    liborsa library https://librosa.org/doc/latest/index.html
    
    MAGENTA-https://magenta.tensorflow.org/
