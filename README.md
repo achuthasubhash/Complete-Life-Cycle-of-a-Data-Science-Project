@@ -3939,7 +3939,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4
    
-   Bard  google chatboat and search engine,PALM API
+   Bard  google chatboat and search engine,PALM API,OpenChatKit: Open-Source ChatGPT Alternative
    
    meta LLaMA,Alpaca 7B
    
