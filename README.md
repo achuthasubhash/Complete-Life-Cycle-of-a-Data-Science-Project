@@ -3878,7 +3878,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    36.awesome Data Science-https://github.com/academic/awesome-datascience
    
    39.Super Duper NLP Repo-https://notebooks.quantumstat.com/  https://models.quantumstat.com/  https://miro.com/app/board/o9J_kqndLls=/ https://datasets.quantumstat.com/ 
-
+ 
    https://index.quantumstat.com/
    
    https://notebooks.quantumstat.com/?utm_campaign=NLP%20News&utm_medium=email&utm_source=Revue%20newsletter
