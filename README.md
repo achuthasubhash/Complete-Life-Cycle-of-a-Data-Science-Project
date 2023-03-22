@@ -3941,7 +3941,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    Bard  google chatboat and search engine,PALM API,OpenChatKit: Open-Source ChatGPT Alternative
    
-   meta LLaMA,Alpaca 7B
+   meta LLaMA,Alpaca 7B 
    
    Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM
    
