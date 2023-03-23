@@ -1300,7 +1300,7 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
      
      Timetk https://towardsdatascience.com/timetk-the-r-library-for-time-series-analysis-9822f7720318
      
-     Isolation Forest(for Big Data),Z score,dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD,Auto Encoders,K-means,Histogram-based
+     Isolation Forest(for Big Data),Z score,dbscan,Local Outlier Factor,One-Class Support Vector Machine,Autoencoders,knn,Time Series Analysis,Elliptic EnvelopeInterquartile Range,Median Absolute Deviation,K-Nearest Neighbours,Fast-MCD,Auto Encoders,K-means,Histogram-based,pca,K-means,Gaussian Mixture Model,Autoencoder,Hidden Markov Models (HMM)
      
      bootstrapping to remove the influence of the outlier data
      
