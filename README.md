@@ -3227,7 +3227,9 @@ Generally used metrics
     
     mitigate the effects of data drift: Regular retraining,Data preprocessing,Data augmentation,Monitoring,Online learning,Domain adaptation,Annotator and data quality control
     
-    Methods to Detect Drift A) Statistical Approaches Page-Hinkley method,Kolmogorov-Smirnov Test,Population Stability Index (PSI),Kullback-Leibler (KL) divergence,Jensen-Shannon divergence, Wasserstein Distance  B) Model-Based Approach C) Adaptive Sliding Window d)Data visualization tools e)Model performance monitoring f)Drift detection libraries
+    Methods to Detect Drift A) Statistical Approaches,Page-Hinkley method,Kolmogorov-Smirnov Test,Population Stability Index (PSI),Kullback-Leibler (KL) divergence,Jensen-Shannon divergence, Wasserstein Distance  B) Model-Based Approach C) Adaptive Sliding Window d)Data visualization tools e)Model performance monitoring f)Drift detection libraries
+    
+    𝐭𝐨𝐨𝐥𝐬 𝐭𝐨 𝐝𝐞𝐭𝐞𝐜𝐭 𝐦𝐨𝐝𝐞𝐥 𝐝𝐫𝐢𝐟𝐭𝐬 : 𝐰𝐡𝐲𝐥𝐨𝐠𝐬,𝐄𝐯𝐢𝐝𝐞𝐧𝐭𝐥𝐲,𝐀𝐥𝐢𝐛𝐢 𝐃𝐞𝐭𝐞𝐜𝐭
     
     Steps to take when there is an occurrence of drift Check Data Quality, Investigate,Retrain the model,Rebuild the model, Pause the model and Fallback
     
