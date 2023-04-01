@@ -1835,7 +1835,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
 
        vecstack https://github.com/vecxoz/vecstack
        
-       Cascading
+       Cascading Ensembles,Cohorted Ensembles
    
      2.Bagging models  (Bagging (with the replacement) , Pasting ( without replacement ))
    
@@ -3943,7 +3943,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    meta LLaMA,Alpaca 7B 
    
-   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM
+   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna
    
    no code chatbots https://juji.io/
     
