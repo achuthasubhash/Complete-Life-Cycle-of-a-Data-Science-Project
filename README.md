@@ -4477,7 +4477,7 @@ determined to be unfair.
    
    mlflow https://towardsdatascience.com/get-started-with-mlops-fd7062cab018
    
-   GuildAI  https://guild.ai/  https://github.com/guildai/guildai
+   GuildAI  https://guild.ai/  https://github.com/guildai/guildai 
    
    MLOPS https://www.analyticsinsight.net/top-mlops-based-tools-for-enabling-effective-machine-learning-lifecycle/ https://neptune.ai/blog/best-mlops-tools
    
