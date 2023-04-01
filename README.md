@@ -3630,7 +3630,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
     
     5.Udacity
     
-    6.https://www.skillbasics.com/
+    6.https://www.skillbasics.com/ 
 
 ***BEST YOUTUBE CHANNEL TO FOLLOW***
 
