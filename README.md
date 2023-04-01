@@ -1092,7 +1092,7 @@ cvat
      15.Combined Class Methods
      In this type of method, various methods are fused together to get a better result to handle imbalance data. For instance, like SMOTE can be fused with other methods like MSMOTE (Modified SMOTE), SMOTEENN (SMOTE with Edited Nearest Neighbours), SMOTE-TL, SMOTE-EL, etc. to eliminate noise in the imbalanced data sets
      
-     16.One-Class Algorithms,One-Class Support Vector Machines,Isolation Forests,Minimum Covariance Determinant,Local Outlier Factor
+     16.One-Class Algorithms,One-Class Support Vector Machines,Isolation Forests,Minimum Covariance Determinant,Local Outlier Factor,Mahalanobis Distance for One Class Classification
      
      17.BalancedBatchGenerator https://imbalanced-learn.org/stable/references/generated/imblearn.keras.BalancedBatchGenerator.html
      
