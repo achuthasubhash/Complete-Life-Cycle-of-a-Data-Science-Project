@@ -3941,13 +3941,13 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots,Proto AIC,HubSpot Chatbot Builder,Intercom,Zendesk,Freshworks,Botsify,Tidio,Infobip
    
-   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4
+   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4,AutoGPT,babyagi
    
    Bard  google chatboat and search engine,PALM API,OpenChatKit: Open-Source ChatGPT Alternative
    
    meta LLaMA,Alpaca 7B 
    
-   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna
+   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna,StackLLaMA
    
    no code chatbots https://juji.io/
     
