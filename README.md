@@ -950,6 +950,8 @@ cvat
      
      15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/   Interpolate  or  Interpolate within Groups
      
+   LINEARINTERPOLATION ,POLYNOMIALINTERPOLATION,INTERPOLATION THROUGH PADDING
+     
      Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation,Smoothing, interpolation,Bidirectional Recurrent Imputation for Time Series (
      
      16.Last Observation Carried Forward (LOCF)  ,  Next Observation Carried Backward , Rolling Statistics, Interpolation
@@ -3299,7 +3301,7 @@ simplest way to serve your ML models on Kubernetes  https://towardsdatascience.c
 
     Python web Frameworks for App Development- Flask,Streamlit,fastapi,fastDeploy,Django,Web2py,Pyramid,CherryPy,Voila,Kivy and Kivymd  
     
-    streamlit,Gradio,mia,opyrator,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,Cortex,TensorFlow Serving,TorchServe,KFServing,Multi Model Server,Triton Inference Server,ForestFlow,Seldon Core,BudgetML,GraphPipe,Hydrosphere,MLEM,Opyrator,Apache PredictionIO,Cortex,Triton Inference Server,ForestFlow,DeepDetect,Seldon Core,Kubeflow,datapane,Pynecone.io,Anvil,h2oai nitro,rest-model-service,Databutton,CherryPy,Anvil,modelbit,Pynecone,modelbit,wagtail
+    streamlit,Gradio,mia,opyrator,plotly jupyterdash,h2o wave,dash,gradio,PyWebIO,r shiny,sanic,panel,flask,django,PySimpleGUI,pywebio,autocalc,Mercury,Chitra ,Bokeh,Panel,jupyter Voila with ipywidgets,Panel,dash,Fast Dash,BentoML,Cortex,Seldon,UnionML,Taipy,fastDeploy,Mlflow,Seldon core,tensorflow serving,kserve,torchserve,ray,clearml,mlrun,pymlpipe,FastDeploy,Shiny,Voila,Cog,BentoML,MLflow,PyMLpipe,truss,playtorch,Streamsync,panel,Databutton,plotly,pyscript, Sanic,skops,Mage,sematic,Cog, BentoML,Truss,bentoctl,Banana,Pyramid,Docker,Kubernetes,SageMaker,TensorFlow Serving,Kubeflow,Cortex,Seldon.io,Cortex,TensorFlow Serving,TorchServe,KFServing,Multi Model Server,Triton Inference Server,ForestFlow,Seldon Core,BudgetML,GraphPipe,Hydrosphere,MLEM,Opyrator,Apache PredictionIO,Cortex,Triton Inference Server,ForestFlow,DeepDetect,Seldon Core,Kubeflow,datapane,Pynecone.io,Anvil,h2oai nitro,rest-model-service,Databutton,CherryPy,Anvil,modelbit,Pynecone,modelbit,wagtail,flet
 
     
     Django models https://www.deploymachinelearning.com/#create-django-models  https://www.deploymachinelearning.com/
