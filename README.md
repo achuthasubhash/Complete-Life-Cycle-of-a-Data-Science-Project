@@ -2569,6 +2569,8 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         assemblyai https://www.assemblyai.com/
         
+        bark  https://github.com/suno-ai/bark
+        
         SpeechBrain A PyTorch Powered Speech Toolkit https://speechbrain.github.io/  https://github.com/speechbrain/speechbrain
         
         Wav2vec-U learns to recognize #speech from unlabeled data https://venturebeat.com/2021/05/21/facebook-wav2vec-u-learns-to-recognize-speech-from-unlabeled-data/?utm_source=dlvr.it&utm_medium=linkedin
