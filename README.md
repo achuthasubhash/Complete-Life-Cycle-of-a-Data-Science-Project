@@ -3983,7 +3983,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    Monk_Gui-https://github.com/Tessellate-Imaging/Monk_Gui
    
-   FlashML https://www.flash-ml.com/
+   FlashML https://www.flash-ml.com/ 
    
    JADBio’s https://www.jadbio.com/
    
