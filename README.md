@@ -3945,11 +3945,11 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots,Proto AIC,HubSpot Chatbot Builder,Intercom,Zendesk,Freshworks,Botsify,Tidio,Infobip
    
-   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4,AutoGPT,babyagi,ChaosGPT,Agentgpt,MiniGPT-4,GPT4 All ,BabyAGI and Auto-GPT,Dolly
+   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4,AutoGPT,babyagi,ChaosGPT,Agentgpt,MiniGPT-4,GPT4 All ,BabyAGI and Auto-GPT,Dolly,Camel
    
    Bard  google chatboat and search engine,PALM API,OpenChatKit: Open-Source ChatGPT Alternative
    
-   meta LLaMA,Alpaca 7B,h2o-llmstudio,StableLM 
+   meta LLaMA,Alpaca 7B,h2o-llmstudio,StableLM,HuggingChat 
    
    Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna,StackLLaMA
    
