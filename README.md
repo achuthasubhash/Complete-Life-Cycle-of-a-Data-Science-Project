@@ -1849,7 +1849,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      VOTING ENSEMBLE
      
-     Simple : Max Voting, Averaging, Weighted Averaging,Simple Average
+     Simple : Max Voting, Averaging, Weighted Averaging,Simple Average,Rank Averaging,Bayesian Model,Majority Voting
      
      mlens ML-Ensemble – high performance ensemble learning https://github.com/flennerhag/mlens
      
