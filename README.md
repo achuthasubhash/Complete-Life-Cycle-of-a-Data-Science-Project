@@ -2518,7 +2518,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
 
         https://neptune.ai/blog/bert-and-the-transformer-architecture-reshaping-the-ai-landscape
         
-        gpt3 https://www.producthunt.com/posts/100-resources-on-gpt-3
+        gpt3 https://www.producthunt.com/posts/100-resources-on-gpt-3 
         
         Graph4NLP  https://dlg4nlp.github.io/index.html
 
