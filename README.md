@@ -1130,6 +1130,8 @@ cvat
    
      1.One Hot Encoding , dummy, and effect coding,Similarity Encoding,Binary Encoding
      
+     Rainbow Method for Label Encoding
+     
      2.Count Or Frequency Encoding 
      
      3.Ordinal encoding,Nominal Encoding,Monotonic ordinal encoding,Target Guided Ordinal Encoding,Target Guided Mean Encoding,Target-Mean-Encoding
