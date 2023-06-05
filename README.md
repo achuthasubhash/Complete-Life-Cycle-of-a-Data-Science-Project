@@ -5527,7 +5527,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 117.https://data-flair.training/blogs/data-science-tutorials-home
 
-119.Pystiche - Create Your Artistic Image Using Pystiche  https://analyticsindiamag.com/pystiche/    https://pystiche.readthedocs.io/en/latest/index.html
+119.Pystiche - Create Your Artistic Image Using Pystiche  https://analyticsindiamag.com/pystiche/    https://pystiche.readthedocs.io/en/latest/index.html 
 
 120.Low Light Image Enhancement using Python & Deep Learning  https://github.com/soumik12345/MIRNet/  https://www.youtube.com/watch?v=b5Uz_c0JLMs
 
