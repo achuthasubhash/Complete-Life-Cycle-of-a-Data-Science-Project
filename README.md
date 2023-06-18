@@ -3945,7 +3945,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    61.chatbot- from scratch,google dialogflow,rasa nlu,azure luis, Azure Bot Service,chatterbot,Amazon lex,Wit.ai,Luis.ai,IBM Watson,Parrot  etc...
    
-   Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots,Proto AIC,HubSpot Chatbot Builder,Intercom,Zendesk,Freshworks,Botsify,Tidio,Infobip
+   Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots,Proto AIC,HubSpot Chatbot Builder,Intercom,Zendesk,Freshworks,Botsify,Tidio,Infobip,OpenChat
    
    ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4,AutoGPT,babyagi,ChaosGPT,Agentgpt,MiniGPT-4,GPT4 All ,BabyAGI and Auto-GPT,Dolly,Camel
    
