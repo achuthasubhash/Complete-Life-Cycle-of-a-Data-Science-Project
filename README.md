@@ -1700,7 +1700,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
    B.Unsupervised learning(no label(target) data)
    
      1.Dimensionality reduction - PCA,ppa,SVD,LDA,som,tsne,openTSNE,plsr,pcr,autoencoders,kernelpca,Latent Semantic Analysis,Factor Analysis,Locality Preserving Projections,Isometric Mapping,Multiple correspondence analysis (MCA),Multiple factor analysis (MFA),Factor analysis of mixed data (FAMD),vae,CompressionVAE,Gaussian Mixture Model,Bayesian Gaussian Mixture Model 
-     non-linear data using Kernel PCA, Non-Negative Matrix Factorization(NMF), IsoMap, t-SNE, and UMAP 
+     non-linear data using Kernel PCA, Non-Negative Matrix Factorization(NMF), IsoMap, t-SNE, and UMAP,TDA(Topological Data Analysis)
      
      t-SNE Effectively https://distill.pub/2016/misread-tsne/
    
