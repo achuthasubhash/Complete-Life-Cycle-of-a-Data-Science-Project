@@ -3153,11 +3153,11 @@ KFold,Walk forward,Group Time Series,Purged Group KFold,Combinatorial Purged Gro
      
      5.Holdout cross-validation
      
-     6.Repeated cross-validation,Repeated K-folds,Blocked Cross-Validation Method, Nested Cross-Validation Method,Group Cross-Validation,GroupShuffleSplit
+     6.Repeated cross-validation,Repeated K-folds,Blocked Cross-Validation Method, Nested Cross-Validation Method,Group Cross-Validation,GroupShuffleSplit,Blocked Cross-Validation 
      
      7.LeaveOneOut,Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
-     8.Time Series cross-validation,TimeSeriesSplit ,Rolling Time Series Cross Validation,Rolling Window Cross-Validation,Monte Carlo Cross-Validation,Holdout Time Series Cross-Validation,Time Series Cross-Validation with a Gap,Sliding Time Series Cross-Validation
+     8.Time Series cross-validation,TimeSeriesSplit ,Rolling Cross-Validation,Rolling Time Series Cross Validation,Rolling Window Cross-Validation,Monte Carlo Cross-Validation,Holdout Time Series Cross-Validation,Time Series Cross-Validation with a Gap,Sliding Time Series Cross-Validation
     
      9.ShuffleSplit Cross Validation,Group Shuffle Split,Simple Time Split Validation,Sliding Window Validation,Expanding Window Validation 
     
