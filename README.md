@@ -1144,7 +1144,7 @@ cvat
      
      6.label encoding  or .cat.codes ,Label Encoding with Rainbow Method
      
-     7.probability ratio encoding
+     7.probability ratio encoding 
      
      8.woe(Weight_of_evidence)
      
