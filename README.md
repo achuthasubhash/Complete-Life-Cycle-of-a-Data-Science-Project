@@ -336,9 +336,7 @@ World’s Largest Data Platform https://worlddata.ai/
    
     22) Automates Image Annotation for Deep Learning Models https://medium.com/towards-artificial-intelligence/improving-data-labeling-efficiency-with-auto-labeling-uncertainty-estimates-and-active-learning-5848272365be
     
-    Label Studio,Sloth,LabelBox,TagTog,Amazon SageMaker GroundTruth,Playment,Superannotate,Playment,Dataturk,LightTag,Superannotate,CVAT,sloth,LabelImg,
-cvat
-
+    Label Studio,Sloth,LabelBox,TagTog,Amazon SageMaker GroundTruth,Playment,Superannotate,Playment,Dataturk,LightTag,Superannotate,CVAT,sloth,LabelImg,cvat
     
     Automate data preparation https://www.superb-ai.com/
     
@@ -950,7 +948,7 @@ cvat
      
      15.interpolation  https://www.analyticsvidhya.com/blog/2021/06/power-of-interpolation-in-python-to-fill-missing-values/   Interpolate  or  Interpolate within Groups
      
-   LINEARINTERPOLATION ,POLYNOMIALINTERPOLATION,INTERPOLATION THROUGH PADDING
+      LINEARINTERPOLATION ,POLYNOMIALINTERPOLATION,INTERPOLATION THROUGH PADDING
      
      Extrapolation and Interpolation ,Time-Based Interpolation,Spline Interpolation,Linear Interpolation,Smoothing, interpolation,Bidirectional Recurrent Imputation for Time Series (
      
