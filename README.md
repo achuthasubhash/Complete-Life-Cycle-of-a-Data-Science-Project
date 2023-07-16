@@ -1454,6 +1454,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     3.Embedded method (lasso regression,ridge regression,elastic net regression,tree based(Tree-based methods like Random Forest Importance etc...),Feature Selection by Tree importance,Feature selection with decision trees,regression coefficients(logistic,linear coeffiicients),Recursive feature elimination based on importance,Least absolute deviation)
     
     4.Hybrid Method(Recursive Feature Selection,Recursive Feature addition,Recursive feature elimination,Feature Shuffling,Feature performance,Target mean performance,Permutation importance,Population stability index,Target encoding)
+
+    unsupervised Feature selection:Principal Component Analysis,Independent Component Analysis,Non-Negative Matrix Factorization,t-distributed Stochastic Neighbor Embedding,Autoencoder
     
     Single-Agent Reinforcement Learning Feature Selection (SARLFS) ,Multi-Agent Reinforcement Learning Feature Selection (MARLFS)
     
@@ -2025,6 +2027,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
       
       cnn alternative CapsNet https://github.com/XifengGuo/CapsNet-Keras
 
+      EDA for image data data-gradients
    
      1.Classification of image 
      
@@ -3945,7 +3948,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots,Proto AIC,HubSpot Chatbot Builder,Intercom,Zendesk,Freshworks,Botsify,Tidio,Infobip,OpenChat
    
-   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4,AutoGPT,babyagi,ChaosGPT,Agentgpt,MiniGPT-4,GPT4 All ,BabyAGI and Auto-GPT,Dolly,Camel,claude2,bing,Code Interpreter
+   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4,AutoGPT,babyagi,ChaosGPT,Agentgpt,MiniGPT-4,GPT4 All ,BabyAGI and Auto-GPT,Dolly,Camel,claude2,bing,Code Interpreter,Anthropic's
    
    Bard  google chatboat and search engine,PALM API,OpenChatKit: Open-Source ChatGPT Alternative
    
