@@ -3142,7 +3142,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
     
      1.Loocv
      
-     2.Kfoldcv,Repeated K-Folds Method
+     2.Kfoldcv,Repeated K-Folds Method,Shuffle & Split cross-validation
      
      3.Stratfied cross validation,Stratified K-fold CV,Group K-fold,StratifiedGroupKFold,StratifiedShuffleSplit,Nested K-folds,Random split
 KFold,Walk forward,Group Time Series,Purged Group KFold,Combinatorial Purged Group KFold
@@ -3155,7 +3155,7 @@ KFold,Walk forward,Group Time Series,Purged Group KFold,Combinatorial Purged Gro
      
      7.LeaveOneOut,Leave P out ,Leave-one-out cross-validation,Leave-One-Group-Out Method,Leave-P-Group-Out Method
     
-     8.Time Series cross-validation,TimeSeriesSplit ,Rolling Cross-Validation,Rolling Time Series Cross Validation,Rolling Window Cross-Validation,Monte Carlo Cross-Validation,Holdout Time Series Cross-Validation,Time Series Cross-Validation with a Gap,Sliding Time Series Cross-Validation
+     8.Time Series cross-validation,Time Series Split cross-validation ,Rolling Cross-Validation,Rolling Time Series Cross Validation,Rolling Window Cross-Validation,Monte Carlo Cross-Validation,Holdout Time Series Cross-Validation,Time Series Cross-Validation with a Gap,Sliding Time Series Cross-Validation
     
      9.ShuffleSplit Cross Validation,Group Shuffle Split,Simple Time Split Validation,Sliding Window Validation,Expanding Window Validation 
     
@@ -3945,7 +3945,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    Chatterbot,Botkit,BotPress,Bottender,IBM Watson,Microsoft bot Framework,Pandorabots,RASA Stack,Pandorabots,BlenderBot3,DeepPavlov,OpenDialogTock,Wit.ai, Pandorabots,Proto AIC,HubSpot Chatbot Builder,Intercom,Zendesk,Freshworks,Botsify,Tidio,Infobip,OpenChat
    
-   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4,AutoGPT,babyagi,ChaosGPT,Agentgpt,MiniGPT-4,GPT4 All ,BabyAGI and Auto-GPT,Dolly,Camel
+   ChatGPT  openai chatboat and search engine,meta ChatLLaMA ,VisualChatGPT,ViperGPT,GPT-4,AutoGPT,babyagi,ChaosGPT,Agentgpt,MiniGPT-4,GPT4 All ,BabyAGI and Auto-GPT,Dolly,Camel,claude2,bing,Code Interpreter
    
    Bard  google chatboat and search engine,PALM API,OpenChatKit: Open-Source ChatGPT Alternative
    
