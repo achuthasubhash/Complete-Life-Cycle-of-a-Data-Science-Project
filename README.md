@@ -3953,7 +3953,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    meta LLaMA,LLaMA-v2,Alpaca 7B,h2o-llmstudio,StableLM,HuggingChat
    
-   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna,StackLLaMA,h2o-llmstudio,Claude 2,Perplexity Ai 
+   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna,StackLLaMA,h2o-llmstudio,Claude 2,Perplexity Ai,FreeWilly1,FreeWilly2 
    
    no code chatbots https://juji.io/
     
