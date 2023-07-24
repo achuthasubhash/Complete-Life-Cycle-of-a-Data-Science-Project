@@ -5543,7 +5543,7 @@ https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/t
 
 text to video,images,audio,3D: Adobe firefly,NVIDIA Picasso,Runway
 
-text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io,Kaiber,Genmo,LeiaPix,Glia Cloud,Stable Diffusion Videos,Synthesia,InVideo,Lumen5,Designs.ai,Pictory,Wisecut,Veed.io,Fliki,Shap-e,dalle,pointe
+text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io,Kaiber,Genmo,LeiaPix,Glia Cloud,Stable Diffusion Videos,Synthesia,InVideo,Lumen5,Designs.ai,Pictory,Wisecut,Veed.io,Fliki,Shap-e,dalle,pointe,AdaMPI
 
 3D Models from Text :  DreamFusion,CLIP-Mesh,Point-E,Magic3D,Text2Mesh,CLIP-Mesh
 
