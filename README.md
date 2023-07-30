@@ -2701,7 +2701,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
       models 
       
-      1.AR,VR, VAR, MA, ARMA, ARIMA, auto arima(pmd arima) ,seasonal arima,SARIMAX models
+      1.AR,VR, VAR, MA, ARMA, ARIMA, auto arima(pmd arima) ,seasonal arima(SARIMA),SARIMAX models
       
       2.Autoregressive,Vector Autoregression,Vector Autoregression Moving-Average,Vector Autoregression Moving-Average with Exogenous Regressors
       
