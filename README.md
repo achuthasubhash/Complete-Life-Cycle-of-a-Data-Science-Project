@@ -1277,7 +1277,11 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       Missing data: The outliers are treated as missing data.
       Discretization: The outliers are put into lower and upper bins. 
       Arbitrary capping: Domain knowledge of the variable is required to cap the min and max 
-      
+      Winsorization: Truncate or cap extreme values to reduce the impact of outliers 
+      Transformation: Apply logarithmic or square root transformations 
+      Modeling techniques: Use robust regression or tree-based models 
+      Outlier removal: Remove the values with careful consideration if they pose an extreme challenge 
+          
       ML model which are not sensitive to outliers Like:-KNN,Decision Tree,SVM,NaïveBayes,Ensemble 
       
       PyOD: A Python Toolkit For Outlier Detection https://analyticsindiamag.com/guide-to-pyod-a-python-toolkit-for-outlier-detection/ 
