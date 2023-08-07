@@ -2569,7 +2569,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
         
         text to speech  https://towardsdatascience.com/text-to-speech-one-small-step-by-mankind-to-create-lifelike-robots-54e19f843b21
         
-        Acoustic model,Speaker diarisation,apis,apiai,assemblyai,google-cloud-speech,pocketsphinx,SpeechRecognition,watson-developer-cloud,wit,Coqui TTS,Mozilla TTS, OpenTTS,ESPNet,PaddleSpeech,Wav2Vec, Whisper, DeepSpeech,Eesen,TensorFlowASR,Vosk,CMUSphinx,Pocketsphinx,KoNLPy,Madmom,HTK,Pysptk
+        Acoustic model,Speaker diarisation,apis,apiai,assemblyai,google-cloud-speech,pocketsphinx,SpeechRecognition,watson-developer-cloud,wit,Coqui TTS,Mozilla TTS, OpenTTS,ESPNet,PaddleSpeech,Wav2Vec, Whisper, DeepSpeech,Eesen,TensorFlowASR,Vosk,CMUSphinx,Pocketsphinx,KoNLPy,Madmom,HTK,Pysptk,Tortoise TTS,Bark,Musicgen,Riffusion
         
         Microsoft IceCAPS is an Open Source Framework for Conversational Modeling https://pub.towardsai.net/microsoft-icecaps-is-an-open-source-framework-for-conversational-modeling-4f78492ca685
         
@@ -3961,7 +3961,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    meta LLaMA,LLaMA-v2,Alpaca 7B,h2o-llmstudio,StableLM,HuggingChat
    
-   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna,StackLLaMA,h2o-llmstudio,Claude 2,Perplexity Ai,FreeWilly1,FreeWilly2,Falcon,Dolly,Guanaco,BloomZ,Alpaca,OpenChatKit,GPT4ALL,Vicuna,Flan-T5
+   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna,StackLLaMA,h2o-llmstudio,Claude 2,Perplexity Ai,FreeWilly1,FreeWilly2,Falcon,Dolly,Guanaco,BloomZ,Alpaca,OpenChatKit,GPT4ALL,Vicuna,Flan-T5,FalconLite ,StableBeluga2
    
    no code chatbots https://juji.io/
     
