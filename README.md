@@ -3961,7 +3961,7 @@ ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRo
    
    meta LLaMA,LLaMA-v2,Alpaca 7B,h2o-llmstudio,StableLM,HuggingChat
    
-   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna,StackLLaMA,h2o-llmstudio,Claude 2,Perplexity Ai,FreeWilly1,FreeWilly2,Falcon,Dolly,Guanaco,BloomZ,Alpaca,OpenChatKit,GPT4ALL,Vicuna,Flan-T5,FalconLite ,StableBeluga2
+   Ernie bot,Baidu chatbot,Claude,Alpaca,ChatGLM,Bloomberg-GPT,Vicuna,StackLLaMA,h2o-llmstudio,Claude 2,Perplexity Ai,FreeWilly1,FreeWilly2,Falcon,Dolly,Guanaco,BloomZ,Alpaca,OpenChatKit,GPT4ALL,Vicuna,Flan-T5,FalconLite ,StableBeluga2,Tongyi Qianwen
    
    no code chatbots https://juji.io/
     
@@ -5551,7 +5551,7 @@ https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/t
 
 text to video,images,audio,3D: Adobe firefly,NVIDIA Picasso,Runway
 
-text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io,Kaiber,Genmo,LeiaPix,Glia Cloud,Stable Diffusion Videos,Synthesia,InVideo,Lumen5,Designs.ai,Pictory,Wisecut,Veed.io,Fliki,Shap-e,dalle,pointe,AdaMPI
+text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io,Kaiber,Genmo,LeiaPix,Glia Cloud,Stable Diffusion Videos,Synthesia,InVideo,Lumen5,Designs.ai,Pictory,Wisecut,Veed.io,Fliki,Shap-e,dalle,pointe,AdaMPI,AudioGen
 
 3D Models from Text :  DreamFusion,CLIP-Mesh,Point-E,Magic3D,Text2Mesh,CLIP-Mesh
 
@@ -5561,9 +5561,9 @@ Text-to-Motion : MotionCLIP,Language2Pose
 
 Text-to-PowerPoint : ChatBCG
 
-Mubert Text to Music https://github.com/MubertAI/Mubert-Text-to-Music ,MusicLM
+Mubert Text to Music https://github.com/MubertAI/Mubert-Text-to-Music ,MusicLM,MusicGen
 
-Music generator AIVA,Amper AI,Jukebox,Soundraw,Evoke, AudioML  
+Music generator AIVA,Amper AI,Jukebox,Soundraw,Evoke, AudioML,EnCodec
  
 Text generators Frase Io,Peppertype,Rytr,Jasper,Copy.ai,ChatGPT
 
