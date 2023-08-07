@@ -2052,7 +2052,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
      
      3.Object detection and object segmentation 
      
-       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,SlimYOLOv3,yolo v4,PP-YOLO,scaled yolov4,YOLOR,YoloV5,YOLOS,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,
+       rcnn,fastrcnn,fastercnn,TensorFlow Object Detection,yolo v1,yolo v2,yolo v3,SlimYOLOv3,yolo v4,PP-YOLO,scaled yolov4,YOLOR,YoloV5,YOLOS,efficinetdet,fast yolo,yolo tiny,yolo lite,yolo tiny++,yolo act++,yolonas,yolov8
        
        maskrcnn,DeepLab-v3-plus,ssd,detectron,detectron2,D2Go,mobilenet,retinanet,R-fcn,Libra_R-CNN,detr facebook,mdetr,pspnet,segnet,U-net,UNet++,Efficient U-Nets, 𝗗𝗲𝗻𝘀𝗲-𝗚𝗮𝘁𝗲𝗱 𝗨-𝗡𝗲𝘁, nnU-Net,v-net,TransUNet, H-DenseUNet, MultiResUNet ,deeplab,globalconvolutionnetwork,fcn,EfficientDet,Vision Transformer,deit,VarifocalNet (VF-Net),DINO,BodyPix,vit,AugFPN,mlsd
        
@@ -2484,7 +2484,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
       
      8.attention 
      
-       self attention,Global Attention,Multi-Head Attention,Local Attention (monotonic,predictive)    https://github.com/uzaymacar/attention-mechanisms
+       self attention,Global Attention,Multi-Head Attention,Local Attention (monotonic,predictive),flash-attention,Fast and memory-efficient exact attention    https://github.com/uzaymacar/attention-mechanisms
        
        Seq2seq with Attention,Self-attentionm,Multi-head Attention
      
