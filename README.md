@@ -855,6 +855,8 @@ World’s Largest Data Platform https://worlddata.ai/
    2.Removal of constant and almost constant features: DropConstantFeatures
    
    Removal of Low Variance
+
+   removal of irrelevant data
    
    3.Removal of duplicated variables: DropDuplicateFeatures 
    
