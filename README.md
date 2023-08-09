@@ -1807,6 +1807,8 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          k.suprise baseline model
          
          Context-aware Recommender Systems,Mobile Recommender Systems,Group Recommender Systems,Multi-stakeholder Recommender Systems
+
+         l.Neural Collaborative Filtering  (NCF)
          
          l.Tf-Rec https://github.com/Praful932/Tf-Rec
          
@@ -3635,7 +3637,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    12 Jupyter Notebook Extensions That Will Make Your Life Easier https://towardsdatascience.com/12-jupyter-notebook-extensions-that-will-make-your-life-easier-e0aae0bd181
    
-   Coding Tools Powered by AI : GitHub Co-Pilot,Tabnine,AI2SQL,Mutable,MarsXm,Ghostwriter,Stenography,OpenAI Codex,CodeT5,Polycoder,GhostWriter Replit,Seek,AI2SQL,Cody by Sourcegraph,MutableAI
+   Coding Tools Powered by AI : GitHub Co-Pilot,Tabnine,AI2SQL,Mutable,MarsXm,Ghostwriter,Stenography,OpenAI Codex,CodeT5,Polycoder,GhostWriter Replit,Seek,AI2SQL,Cody by Sourcegraph,MutableAI,StableCode
 
 ***BEST ONLINE COURSES***
 
