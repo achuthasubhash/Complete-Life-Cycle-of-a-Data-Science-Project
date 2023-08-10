@@ -933,6 +933,10 @@ World’s Largest Data Platform https://worlddata.ai/
      7.Adding a variable to capture NAN(missing term),Imputation with the string ‘Missing’,Adding missing idicator
      
      8.Arbitrary Value Imputation
+
+     TREAT MISSING VALUES AS A SEPARATE CATEGORY
+
+     ue DOMAIN KNOWLEDGE
      
      9.hot deck Imputation,Cold deck imputation
      
