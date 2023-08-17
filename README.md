@@ -3641,7 +3641,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    
    12 Jupyter Notebook Extensions That Will Make Your Life Easier https://towardsdatascience.com/12-jupyter-notebook-extensions-that-will-make-your-life-easier-e0aae0bd181
    
-   Coding Tools Powered by AI : GitHub Co-Pilot,Tabnine,AI2SQL,Mutable,MarsXm,Ghostwriter,Stenography,OpenAI Codex,CodeT5,Polycoder,GhostWriter Replit,Seek,AI2SQL,Cody by Sourcegraph,MutableAI,StableCode
+   Coding Tools Powered by AI : GitHub Co-Pilot,Tabnine,AI2SQL,Mutable,MarsXm,Ghostwriter,Stenography,OpenAI Codex,CodeT5,Polycoder,GhostWriter Replit,Seek,AI2SQL,Cody by Sourcegraph,MutableAI,StableCode,DeciCoder,santacoder
 
 ***BEST ONLINE COURSES***
 
