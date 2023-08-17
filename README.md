@@ -1814,7 +1814,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
 
          l.Neural Collaborative Filtering  (NCF)
          
-         l.Tf-Rec https://github.com/Praful932/Tf-Rec
+         l.Tf-Rec TensorFlow Recommendation  https://github.com/Praful932/Tf-Rec
          
          Nvidia Merlin 
          
@@ -1840,7 +1840,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
          
          torchrec,Lenskit,RGRecSys,Surprise,Tensorflow Recommenders,NVIDIA-Merlin,Recmetrics,Surprise,DeepCTR,OpenRec,fastFM,LightFM
          
-         Session-based RecSys could be done with:Recency-based Weighting (exp.decay),Probabilistic Graphical Models (FPMC, FOSSIL),Convolutional NN (Caser, NextItNet),Recurrent NN (GRU4Rec),Graph NN (SRGNN, GCSAN),Attention(STAMP, NARM, FDSA, SHAN),Transformer(BERT4Rec, Transformer4Rec),Knowledge Graph(KSR, GRU4RecKG, KGCN, KGAT, RippleNet)
+         Session-based RecSys could be done with:Recency-based Weighting (exp.decay),Probabilistic Graphical Models (FPMC, FOSSIL),Convolutional NN (Caser, NextItNet),Recurrent NN (GRU4Rec),Graph NN (SRGNN, GCSAN),Attention(STAMP, NARM, FDSA, SHAN),Transformer(BERT4Rec, Transformer4Rec),Knowledge Graph(KSR, GRU4RecKG, KGCN, KGAT, RippleNet),Landscape, Rexy, Tensor Recommendation Engine, Light FM, Spotlight, Case Recommender
          
          https://analyticsindiamag.com/top-open-source-recommender-systems-in-python-for-your-ml-project/
          
@@ -5228,7 +5228,7 @@ change to proper dtypes,usecols of required only reduce size
 Better Data Storage : CSV,Parquet,fastparquet,Feather,lance,HDF5,Apache Arrow,Lance  
 
 pandas chunksize,Pandas vectorization,Numpy Vectorization, multiprocessing,airflow,celery,Modin ,Vaex,ray,Dask,PyPolars,Polars,spark,pyspark,Koalas,Cython , cuML,cuDF,cupy,mars,ray,Caching,rapids,joblib,snorkel,arrow,Pyarrow,Ponder,Apache Arrow,Datatable,Fastparquet,dampr,Data Table ,
-pandarallel ,Parallel-Pandas,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck,Pandarallel,Datatable,Pyspark,Koalas,Cylon,Ibis,pandarallel,Blaze,Odo,multiprocessing,joblib,bottleneck,Mapply,Bottleneck,DuckDB,DataFusion, Blaze,Dremio
+pandarallel ,Parallel-Pandas,numba,bolt, numexpr,ipython parallel,Nim,speedML,ConnectorX , apache arrow,jax,Pandas-on-Spark,Terality,swifter,partial_fit(),Numba,numexpr,mtalgDask,PyArrow, and PySpark,Fugue,NumPy vectorization,Pandas vectorization,datatable,RAPIDS,Swifter,taichi,scikit-learn-intelex,𝚏𝚞𝚐𝚞𝚎,bottleneck,Pandarallel,Datatable,Pyspark,Koalas,Cylon,Ibis,pandarallel,Blaze,Odo,multiprocessing,joblib,bottleneck,Mapply,Bottleneck,DuckDB,DataFusion, Blaze,Dremio,DuckDB,dbt,Ponder,Daft
 https://www.youtube.com/watch?v=eJyjB3cNIB0&feature=youtu.be
 
 deal with Big Data  Optimize dataframes,Use only required columns,Chunking data,Sparse data formats,Better Data file formats(Parquet,Feather,HDF5),Pandas alternates(Modin,vaex,dask,spark),Intel(R) extension for sklearn,  Apply Vectorized,Numba,Rapids cuDF
@@ -5553,7 +5553,7 @@ Extract Tables in PDFs to pandas DataFrames - tabula-py
 
 https://github.com/lucidrains/big-sleep        https://github.com/lucidrains/deep-daze  https://www.youtube.com/watch?v=lVR5kN7SjQ8&feature=youtu.be
 
-DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,Parti,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,fast-stable-diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0,eDiffi,pixray,starryai,promptoMANIA,starry.ai,NightCafe,Artbreeder,wombo.ai,Muse,BlueWillow,StyleGAN-T,GigaGAN,DeepFloyd IF, Bing Image Creator,Craiyon,InstantArt,Pixray,Blue Willow,Playground AI,Picsart,Perfusion AI
+DALL·E Mini,GPT-3,Dalle-2,Imagen,RE-IMAGEN,Parti,Midjourney,Craiyon,Make-A-Scene,Imagen,DALL-E,Imagen, NUWA-Infinity,Make a Scene,Cogview 2,VQGAN,VQGAN-Clip,Latent-Diffusion,Parti,MidJourney,Ultraleap’s Midjourney, Hugging Face’s Craiyon, Meta’s Make-A-Scene and Google’s Imagen,CogVideo,Big Sleep,Disco,Stable Diffusion,fast-stable-diffusion,DreamStudio,CodeFormer,DreamBooth,Tiktok’s Greenscreen,textual_inversion,GauGAN2,Stable-Craiyon,Disco Diffusion,DreamBooth,AI Greenscreen,Wonder,Nightcafe,Midjourney, craiyon,loab,Starry AI,Dream By,Wombo,Nightcafe,Pixray,Deep Dream,Stable Diffusion,DreamFusion,Make-A-Video,Imagen Video,Midjourney,CogVideo,ERNIE-ViLG 2.0,eDiffi,pixray,starryai,promptoMANIA,starry.ai,NightCafe,Artbreeder,wombo.ai,Muse,BlueWillow,StyleGAN-T,GigaGAN,DeepFloyd IF, Bing Image Creator,Craiyon,InstantArt,Pixray,Blue Willow,Playground AI,Picsart,Perfusion AI,XGen-Image
 
 https://pharmapsychotic.com/tools.html  https://airtable.com/shrDxAxCCxAZVtMnt/tbl3FzgFjvvuYZMm9 https://www.marktechpost.com/2022/10/05/top-artificial-intelligence-ai-based-text-to-image-generators/
 
@@ -5561,7 +5561,7 @@ text to video,images,audio,3D: Adobe firefly,NVIDIA Picasso,Runway
 
 text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,CogVideo,GODIVA,NÜWA,Google UniTune (fine-tuned Imagen),Synthesia,Lumen5,Flixclip,Elai,Veed.io,Kaiber,Genmo,LeiaPix,Glia Cloud,Stable Diffusion Videos,Synthesia,InVideo,Lumen5,Designs.ai,Pictory,Wisecut,Veed.io,Fliki,Shap-e,dalle,pointe,AdaMPI,AudioGen
 
-3D Models from Text :  DreamFusion,CLIP-Mesh,Point-E,Magic3D,Text2Mesh,CLIP-Mesh
+3D Models from Text :  DreamFusion,CLIP-Mesh,Point-E,Magic3D,Text2Mesh,CLIP-Mesh,Neuralangelo
 
 Text-to-Audio : Audiogen,diffsound,GliaCloud,Synthesia,InVideo,Synths Video,VEED.IO,Lumen5,Pictory,Designs.ai,Wisecut,Replica,Speechify,Murf,Play.ht,Lovo.ai,VALL-E,VALL-E X,MusicLM, SingSong, Moûsai 2, AudioLDM, and EPIC-SOUND,Audio-LDM
 
