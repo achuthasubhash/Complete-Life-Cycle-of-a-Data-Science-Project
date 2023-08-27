@@ -1446,9 +1446,9 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
     
     Central Limit Theorem,Bayes Theorem,Confidence Interval,Hypothesis Testing,z test, t test,f test,Confidence Interval,1 tail test, 2 tail test,chisquare test,anova test,A/B testing
     
-    Categorical vs Categorical   Chi-square test,Information gain
+    Categorical vs Categorical   Chi-square test,Information gain,Cramer’s V
  
-    Categorical vs Numerical  Student T-test,ANOVA,Logistic regression,Discretize Y (left column)
+    Categorical vs Numerical  Student T-test,ANOVA,Logistic regression,Discretize Y (left column),Point-biserial correlation
  
     Numerical  vs  Categorical  Student T-test,ANOVA,Logistic regression,Discretize X (row above)
     
