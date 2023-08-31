@@ -5565,6 +5565,8 @@ text to video : CogVideo,Make-A-Video,Phenaki,Imagen Video,DreamFusion,Phenak,Co
 
 Text-to-Audio : Audiogen,diffsound,GliaCloud,Synthesia,InVideo,Synths Video,VEED.IO,Lumen5,Pictory,Designs.ai,Wisecut,Replica,Speechify,Murf,Play.ht,Lovo.ai,VALL-E,VALL-E X,MusicLM, SingSong, Moûsai 2, AudioLDM, and EPIC-SOUND,Audio-LDM
 
+Top 12 AI Music Generators :MusicLM – Google’s Text to Music Generator,Soundraw.io,Amper Music,AIVA,Humtap,Amadeus Code,Computoser,Google’s Magenta ,Chrome’s Song Maker,Generative.FM,MuseNet
+
 Text-to-Motion : MotionCLIP,Language2Pose
 
 Text-to-PowerPoint : ChatBCG
