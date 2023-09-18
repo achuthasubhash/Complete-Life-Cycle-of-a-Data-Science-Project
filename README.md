@@ -3464,7 +3464,12 @@ six different types of methods:
 1) Pruning, Weight sharing
 Structured Pruning,Unstructured Pruning,Pruning Local,Global Pruning
 Pruning criteria( Weight magnitude criterion,Gradient magnitude pruning,Global or local pruning,
-2) Quantization       ,TensorFlow Quantum, Int8 quantization
+Model Pruning: Remove irrelevant edges and nodes from a network. Three popular types of pruning:
+Zero pruning
+Activation pruning 
+Redundancy pruning
+
+3) Quantization       ,TensorFlow Quantum, Int8 quantization
    Post-Training Quantization
    — Reduce Float16
    — Hybrid Quantization
@@ -3477,15 +3482,15 @@ Pruning criteria( Weight magnitude criterion,Gradient magnitude pruning,Global o
    3. Post-Training Pruning
    4. Post-Training Clustering
    
-3) Knowledge distillation
-4) Parameter sharing
-5) Tensor decomposition
-6) Linear Transformer,Winograd Transformation
-7) Selective attention
-8) Low-rank factorisation
-9) 3LC https://research.google/pubs/pub47962/
-10) brevitas https://github.com/Xilinx/brevitas/
-11) aimet https://github.com/quic/aimet
+4) Knowledge distillation
+5) Parameter sharing
+6) Tensor decomposition
+7) Linear Transformer,Winograd Transformation
+8) Selective attention
+9) Low-rank factorisation
+10) 3LC https://research.google/pubs/pub47962/
+11) brevitas https://github.com/Xilinx/brevitas/
+12) aimet https://github.com/quic/aimet
 
 Structured pruning,Unstructured/semi-structured pruning,Quantization,Distillation,Post Training,Training-Aware,Sparse Transfer
 
