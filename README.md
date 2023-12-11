@@ -1751,7 +1751,7 @@ Gantt Chart,bubble charts,area plot,heat map,index plot,violin plot,time series 
    
      k-Means Clustering by up to 10x Over Scikit-Learn  https://towardsdatascience.com/how-to-speed-up-your-k-means-clustering-by-up-to-10x-over-scikit-learn-5aec980ebb72
      
-     3.Association Rule Learning - support,lift,confidence,leverage,Conviction,aprior,elcat,Fp-growth,Fp-tree construction,FP-Max Algorithm,association_rules,Frequent Itemset Mining,Multi-Relation Association Rules,High-order pattern discovery,K-optimal pattern discovery,Approximate Frequent Itemset,Generalized Association Rules,Quantitative Association Rules,Interval Data Association Rules,Sequential pattern mining,Hypergeometric Networks
+     3.Association Rule Learning - support,lift,confidence,leverage,Conviction,aprior,elcat,Fp-growth,Fp-tree construction,FP-Max Algorithm,association_rules,Frequent Itemset Mining,Multi-Relation Association Rules,High-order pattern discovery,K-optimal pattern discovery,Approximate Frequent Itemset,Generalized Association Rules,Quantitative Association Rules,Interval Data Association Rules,Sequential pattern mining,Hypergeometric Networks,Constraint Based Mining,Multi-level Association Rules,Fuzzy Association Rules
      
      Sequential Patterns 
      Generalized Sequential Patterns (GSP)
