@@ -1286,7 +1286,9 @@ Basic Distributions - PDF, PMF, CDF, PPF,Unform, Gaussian, Bernoulli, Multinomia
       Winsorization: Truncate or cap extreme values to reduce the impact of outliers 
       Transformation: Apply logarithmic or square root transformations 
       Modeling techniques: Use robust regression or tree-based models 
-      Outlier removal: Remove the values with careful consideration if they pose an extreme challenge 
+      Outlier removal: Remove the values with careful consideration if they pose an extreme challenge
+      Separate Analysis : This involves performing separate analyses for the data with and without outliers
+      Flagging : Create an additional variable to indicate outliers, providing transparency about their presence in the dataset.
           
       ML model which are not sensitive to outliers Like:-KNN,Decision Tree,SVM,NaïveBayes,Ensemble 
       
