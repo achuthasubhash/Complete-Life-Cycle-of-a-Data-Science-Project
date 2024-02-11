@@ -2272,7 +2272,7 @@ Wild: a Weakly-supervised Approach,A Simple Yet Effective Baseline for 3d Human 
      
      3.LSTM (have memory cell,forget gate  etc..)
 
-     Depth Gated RNNs,Clockwork RNNs,RNN Initialized Using Identity Matrix(IRNN)
+     Depth Gated RNNs,Peephole connection,Coupled Input and Forget,Clockwork RNNs,RNN Initialized Using Identity Matrix(IRNN)
      
      𝗧𝗲𝗺𝗽𝗼𝗿𝗮𝗹 𝗖𝗼𝗻𝘃𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝗮𝗹 𝗡𝗲𝘁𝘄𝗼𝗿𝗸  better than LSTM/GRU https://github.com/ashishpatel26/tcn-keras-Examples
      
