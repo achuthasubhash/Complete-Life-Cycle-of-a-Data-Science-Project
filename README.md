@@ -1174,7 +1174,7 @@ World’s Largest Data Platform https://worlddata.ai/
      
      18.Helmert Encoding,Backward Difference Encoding,James-Stein Encoding,M-estimator Encoding,Thermometer Encoder,Bayesian Encoders,Effect Encoding
 
-     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Backward Difference Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding,BackwardDifferenceEncoder GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer,SumEncoder,Quantile Encoder,Summary Encoder ,Base N Coding
+     Helmert Encoding,Base N Encoding,Hash Encoding,Effect or Sum or Deviation Encoding,Backward Difference Encoding,M-Estimator Encoding,James- Stein Encoding,Thermometer Encoding,CatBoost Encoding,Backward Difference Encoding,Binary Encoding,NaN encoding Polynomial encoding,Expansion encoding,Probability Ratio,Binary encoding,cat boost encoder,glm encoder,m-estimte,sum coding, polynomial  Encoding,PRatioEncoder,DecisionTreeEncoder,Similarity Encoding,BackwardDifferenceEncoder GapEncoder,MinHashEncoder,TargetEncoder,Polynomial Encoding,James-Stein Encoding,MultiLabelBinarizer,SumEncoder,Quantile Encoder,Summary Encoder ,Base N Coding,Leaf Encoding,GLMM Encoding,James-Stein Encoding,Thermometer Encoding,Quantile Encoding,Summary Encoding,Collapsing Categories
      
      Transform your categorical columns with imperio SmoothingTransformer
      
@@ -3817,7 +3817,7 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
    8.NLP-progress-https://github.com/sebastianruder/NLP-progress
     
    9.EasyOCR,textract,pytesseract,tesserocr,Amazon textract,TabulaPy, pyzbar,pyocr,OCR With Detectron2,PymuPDF,Camelot,keras ocr,Keras CRNN,PDFTableExtract(by PyPDF2),tesseract-ocr,PyMuPDF,pyocr,Apache Tika,pdfPlumber,PDFMiner,PyPDF2,pdfMiner3,pdf2image,pdfquery,TextOCR,keras-CTPN,pytorch-CTPN,ocr.pytorch,layout-parser,tabula,Spark OCR,mmocr,Amazon Rekognition ,Amazon Textract,Azure OCR, Google OCR,PaddleOCR,TrOCR,MMOCR,awesome OCR,Paddle OCR,OCRmyPDF,calamari, attention ocr,Mozart,pdftabextract,Doc2Text,OpenCV’s EAST,deepdoctection,EAST text detector,slate3k,textract,CRAFT-pytorch,ocr donut,LOGOS ocr,
-ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRopus,Kraken,OCRmypdf,MMOCR,PPOCR,Keras-OCR,MultiOcr,TrOCR,docTR
+ocrpy,docquery,Parsr,DocuQuery,LayoutLM,docTR,docquery,CascadeTabNet,OpenCV,OCRopus,Kraken,OCRmypdf,MMOCR,PPOCR,Keras-OCR,MultiOcr,TrOCR,docTR,surya OCR,Bhashini,OCRopus,Kraken
 
 
     Processing documents as Text: extract text with PyPDF2, extract tables with Camelot or TabulaPy, extract figures with PyMuPDF.
