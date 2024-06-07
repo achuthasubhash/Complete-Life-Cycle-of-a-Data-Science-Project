@@ -3692,21 +3692,23 @@ Structure Your Data Science Projects https://towardsdatascience.com/structure-yo
     
     https://www.datasciencecentral.com/profiles/blog/list  https://developer.nvidia.com/blog/?ncid=em-prom-48627
 
-    1.Towards data science-https://towardsdatascience.com/
+    1. Towards data science-https://towardsdatascience.com/
 
-    2.Analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar       https://analyticsindiamag.com/  https://www.analyticsinsight.net/
+    2. Analyticsvidhya-https://www.analyticsvidhya.com/blog/?utm_source=feed&utm_medium=navbar       https://analyticsindiamag.com/  https://www.analyticsinsight.net/
 
-    3.Medium-https://medium.com/
+    3. Medium-https://medium.com/
     
-    4.Machinelearningmastery-https://machinelearningmastery.com/blog/
+    4. Machinelearningmastery-https://machinelearningmastery.com/blog/
     
-    5.ML+  -https://www.machinelearningplus.com/
+    5. ML+  -https://www.machinelearningplus.com/
     
-    6.analyticsinsight https://www.analyticsinsight.net/category/latest-news/    https://www.analyticsinsight.net/
+    6. analyticsinsight https://www.analyticsinsight.net/category/latest-news/    https://www.analyticsinsight.net/
     
-    7.KDnuggets https://www.kdnuggets.com/  https://www.kdnuggets.com/news/index.html   
+    7. KDnuggets https://www.kdnuggets.com/  https://www.kdnuggets.com/news/index.html   
     
-    8.Artificial Intelligence Database https://www.wired.com/category/artificial-intelligence/?verso=true
+    8. Artificial Intelligence Database https://www.wired.com/category/artificial-intelligence/?verso=true
+
+    9. Scaler Blogs-https://www.scaler.com/blog/category/data-science-business-analytics/
     
     https://machinelearningknowledge.ai/   
     
